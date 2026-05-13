@@ -1,5 +1,3 @@
-# {{title}}
-
 ## Summary
 One-sentence overview.
 ## Appearance

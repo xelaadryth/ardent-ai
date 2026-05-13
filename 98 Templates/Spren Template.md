@@ -1,12 +1,12 @@
 ---
-type: player
+type: spren
 status: active
-player:
-order:
-spren:
+spren_type:
+radiant:
 ---
 ## Summary
 One-sentence overview.
+
 ## Appearance
 
 ## Personality
@@ -14,8 +14,12 @@ One-sentence overview.
 ## Background
 
 ## Motivations
-- 
+
 ## Relationships
-- 
+
+## Abilities / Manifestation
+
+## Notes
+
 ## Tags
-#player
+#spren

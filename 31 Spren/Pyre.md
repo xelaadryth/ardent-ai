@@ -1,12 +1,13 @@
 ---
-type: player
+type: spren
 status: active
-player:
-order:
-spren:
+spren_type: Ashspren
+radiant:
+  - N'tal
 ---
 ## Summary
 One-sentence overview.
+
 ## Appearance
 
 ## Personality
@@ -14,8 +15,12 @@ One-sentence overview.
 ## Background
 
 ## Motivations
-- 
+
 ## Relationships
-- 
+
+## Abilities / Manifestation
+
+## Notes
+
 ## Tags
-#player
+#spren
