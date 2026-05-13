@@ -11,7 +11,7 @@ OPERATIONAL PROTOCOLS
  - Load the template matching the entity "type."
  - Validate all edits against its template.
  - If a template is missing: Stop and report error. Do not guess.
-- Linking: Use [[Wiki Links]]. Maintain bi-directional links.
+- Linking: Use [[Wiki Links]]. Maintain bi-directional links when possible.
 
 OUTPUT FORMAT
 For every modification, use the following structure which specifies filename and contents. Surround content in triple backticks:
