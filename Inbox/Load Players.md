@@ -24,7 +24,7 @@ Unknown to him, his parents were forced to work for them in Thaylenah on their q
 
 ## Connections
 
-* [[Eibbz1R4ISiUBF2oCQeVd|Viscose]] His logical and contrarian Inkspren.
+* [[npc_viscose|Viscose]] His logical and contrarian Inkspren.
 
 * **The Artifabrians:** A group in Revolar he intends to seek out.
 
@@ -122,7 +122,7 @@ Born into a noble family of knights, Fina was expected to marry well and uphold 
 
 ## Connections
 
-* [[npc_verdae|Verdae]]**:** Her naive and vine-like Cultivationspren.
+* **[[npc_verdae|Verdae]]**:** Her naive and vine-like Cultivationspren.
 
 ## Mechanics (Edgedancer)
 
