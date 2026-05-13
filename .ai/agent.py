@@ -1,12 +1,11 @@
 import os
-import google.generativeai as genai
+from google import genai
 
 # ---------------- CONFIG ----------------
-genai.configure(api_key=os.environ["GEMINI_API_KEY"])
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+
 PROMPT = os.environ["PROMPT"]
-
 MODEL = "gemini-3.1-flash-lite"
-
 VAULT_ROOT = "."  # GitHub Actions runs from repo root
 
 # ---------------- HELPERS ----------------
@@ -92,9 +91,10 @@ USER REQUEST:
 """
 
 # ---------------- CALL MODEL ----------------
-model = genai.GenerativeModel(MODEL)
-
-response = model.generate_content(system_prompt)
+response = client.models.generate_content(
+    model=MODEL,
+    contents=system_prompt
+)
 
 output = response.text
 
