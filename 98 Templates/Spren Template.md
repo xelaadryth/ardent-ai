@@ -5,7 +5,6 @@ spren_type:
 radiant:
 ---
 ## Summary
-One-sentence overview.
 
 ## Appearance
 

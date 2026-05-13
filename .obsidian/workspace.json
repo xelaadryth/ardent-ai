@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "98 Templates/Spren Template.md",
+                "file": "31 Spren/Pyre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spren Template"
+              "title": "Pyre"
+            }
+          },
+          {
+            "id": "962ad5bbb68d399a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "91 Dashboards/Players.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Players"
             }
           },
           {
@@ -31,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,18 +219,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "117ac054fc8e0135",
+  "active": "962ad5bbb68d399a",
   "lastOpenFiles": [
+    "02 Players/N'tal.md",
+    "91 Dashboards/Players.md",
     "31 Spren/Pyre.md",
+    "91 Dashboards",
+    "98 Templates/NPC Template.md",
     "98 Templates/Spren Template.md",
     "98 Templates/Session Template.md",
     "98 Templates/Player Template.md",
-    "98 Templates/NPC Template.md",
     "98 Templates/Location Template.md",
-    "02 Players/N'tal.md",
     "31 Spren",
     "README.md",
-    "Untitled.md",
     "2026-05-13.md",
     "Welcome.md",
     "98 Templates",
@@ -225,7 +241,6 @@
     "21 Items",
     "06 Lore",
     "11 Hooks",
-    "04 Factions",
-    "05 Locations"
+    "04 Factions"
   ]
 }
