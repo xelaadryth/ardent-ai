@@ -5,6 +5,18 @@ on:
     paths:
       - "Inbox/**/*.md"
 
+  workflow_dispatch:
+    inputs:
+      request_file:
+        description: "Specific Inbox markdown file to process (optional)"
+        required: false
+        type: string
+
+      prompt:
+        description: "Additional instructions to append to the Inbox request (optional)"
+        required: false
+        type: string
+
 permissions:
   contents: write
   pull-requests: write
@@ -34,20 +46,39 @@ jobs:
         run: pip install google-genai
 
       - name: Load Inbox prompt
+        env:
+          EXTRA_PROMPT: ${{ github.event.inputs.prompt }}
+          REQUEST_INPUT: ${{ github.event.inputs.request_file }}
         run: |
-          FILE=$(find Inbox -name "*.md" | sort | head -n 1)
+          # Select request file
+          if [ -n "$REQUEST_INPUT" ]; then
+            FILE="$REQUEST_INPUT"
+          else
+            FILE=$(find Inbox -name "*.md" | sort | head -n 1)
+          fi
 
-          if [ -z "$FILE" ]; then
-            echo "No Inbox files found."
+          if [ -z "$FILE" ] || [ ! -f "$FILE" ]; then
+            echo "No valid Inbox file found."
             exit 1
           fi
 
           echo "Using request file: $FILE"
-          echo "REQUEST_FILE=$FILE" >> $GITHUB_ENV
+          echo "REQUEST_FILE=$FILE" >> "$GITHUB_ENV"
 
+          # Build combined prompt
           {
             echo "PROMPT<<EOF"
             cat "$FILE"
+
+            if [ -n "$EXTRA_PROMPT" ]; then
+              echo
+              echo "---"
+              echo
+              echo "## Additional Instructions"
+              echo
+              echo "$EXTRA_PROMPT"
+            fi
+
             echo "EOF"
           } >> "$GITHUB_ENV"
 
