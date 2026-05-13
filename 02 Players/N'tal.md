@@ -11,11 +11,9 @@ A Nurian worldhopper passing as an Alethi merchant. N'tal grew up in a forestry/
 
 ## Motivations
 - Find the Undertaker: A Ghostblood leader in Revolar who knows the truth of his family's murder.
-    
 - **Identify the Mystery Man:** Find out who the dead Ghostblood found with his family was.
-    
 - **Vengeance against Guddy:** Find the traitor who defected to the Bloodmarks.
 ## Relationships
-- 
+- [[Pyre]]
 ## Tags
 #player
