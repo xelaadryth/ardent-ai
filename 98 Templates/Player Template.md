@@ -1,4 +1,5 @@
 ---
+name: 
 type: player
 status: active
 player:

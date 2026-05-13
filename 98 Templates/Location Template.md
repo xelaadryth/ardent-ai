@@ -1,4 +1,5 @@
 ---
+name: 
 type: location
 status: active
 parent:

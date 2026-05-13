@@ -1,4 +1,5 @@
 ---
+name: 
 type: npc
 status: active
 locations: []

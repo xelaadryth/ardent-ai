@@ -1,4 +1,5 @@
 ---
+name: 
 type: spren
 status: active
 spren_type:

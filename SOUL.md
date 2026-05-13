@@ -41,8 +41,6 @@ Each file block MUST:
 - Include complete markdown content (no truncation)
 - Include full frontmatter when applicable
 
----
-
 ## STRICT RULES
 
 - NEVER output partial files
@@ -50,26 +48,27 @@ Each file block MUST:
 - NEVER output explanations instead of file blocks when file changes are required
 - ALWAYS use wiki-links ([[Entity]]) instead of raw references where appropriate
 
----
-
 ## EXAMPLE OUTPUT
+
+Here are two examples showing the beginning of two files which will be replaced or created.
 
 ### FILE: 03 NPCs/Zabrien.md
 ---
-type: npc
 name: Zabrien
+type: npc
 status: active
-location: [[Slipmarket]]
+locations: [[[Slipmarket]]]
 ---
+# Summary
+A merchant who appears to be a con artist...
 
-# Zabrien
-
-A merchant tied to hidden spren networks...
-
-### FILE: 02 Locations/Slipmarket.md
+### FILE: 05 Locations/Slipmarket.md
 ---
-type: location
 name: Slipmarket
+type: location
+status: active
+parent:
+children: []
 ---
-
-Updated description including Zabrien's stall.
+# Summary
+A district of [[Revolar]] where the party met [[Zabrien]]...

@@ -1,4 +1,5 @@
 ---
+name: N'tal
 type: player
 status: active
 player: Ryan

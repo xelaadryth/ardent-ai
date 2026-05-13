@@ -1,4 +1,5 @@
 ---
+name: Pyre
 type: spren
 status: active
 spren_type: Ashspren
