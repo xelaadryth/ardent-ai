@@ -99,6 +99,4 @@ response = client.models.generate_content(
 output = response.text
 
 # ---------------- WRITE OUTPUT ----------------
-write_file("03 NPCs/AI-Generated-NPC.md", output)
-
-print("Agent run complete. Output written to vault.")
+print(output)
