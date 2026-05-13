@@ -1,5 +1,11 @@
+---
+type: npc
+status: active
+location:
+---
+
 ## Summary
-One-sentence overview.
+
 ## Appearance
 
 ## Personality

@@ -1,3 +1,9 @@
+---
+type: location
+status: active
+parent:
+children: []
+---
 ## Overview
 
 ## Related Locations
