@@ -3,8 +3,7 @@ type: player
 status: active
 player: Ryan
 order: Dustbringer
-spren:
-  - "[[Pyre]]"
+spren: "[[Pyre]]"
 ---
 ## Summary
 A short Nurian merchant passing as Alethi. Wields knives and is a budding Dustbringer.
