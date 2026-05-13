@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "83aca2e60880453e",
+    "type": "split",
+    "children": [
+      {
+        "id": "74281310d4460628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f9e4ffb8dcd3889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98 Templates/Session Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session Template"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ddc428893f0620ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2ecddd60aa562f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "641d265744d56f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "9185514f558b5351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9041f86eef0e14bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba9333ac1376ea4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9ea9ca15d906dcf4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "813ddf0bea39e162",
+    "type": "split",
+    "children": [
+      {
+        "id": "88ff5d0e4e3e872a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "456405054a6f1959",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "98 Templates/Session Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session Template"
+            }
+          },
+          {
+            "id": "808540777ec72a59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "98 Templates/Session Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session Template"
+            }
+          },
+          {
+            "id": "8e481739127e8a35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0506852ea50cec20",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e17be0c6e0bd4549",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "98 Templates/Session Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session Template"
+            }
+          },
+          {
+            "id": "c8ce4e29ab159e4f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3f9e4ffb8dcd3889",
+  "lastOpenFiles": [
+    "98 Templates/NPC Template.md",
+    "98 Templates/Location Template.md",
+    "2026-05-13.md",
+    "98 Templates/Untitled.md",
+    "98 Templates/Session Template.md",
+    "Welcome.md",
+    "98 Templates",
+    "12 Scenes",
+    "02 Players",
+    "99 Archive",
+    "21 Items",
+    "06 Lore",
+    "11 Hooks",
+    "04 Factions",
+    "05 Locations",
+    "03 NPCs"
+  ]
+}
