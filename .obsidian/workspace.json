@@ -219,8 +219,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "962ad5bbb68d399a",
+  "active": "9041f86eef0e14bf",
   "lastOpenFiles": [
+    "New folder",
+    "Untitled",
     "02 Players/N'tal.md",
     "91 Dashboards/Players.md",
     "31 Spren/Pyre.md",
@@ -240,7 +242,6 @@
     "99 Archive",
     "21 Items",
     "06 Lore",
-    "11 Hooks",
-    "04 Factions"
+    "11 Hooks"
   ]
 }
