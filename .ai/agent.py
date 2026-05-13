@@ -57,14 +57,22 @@ def crawl_vault(limit_files=20):
 
     return "\n\n".join(context)
 
-# ---------------- LOAD SOUL ----------------
-SOUL = read_file("SOUL.md")
+# ---------------- LOAD SOUL (REQUIRED) ----------------
+def load_soul():
+    path = "SOUL.md"
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            content = f.read().strip()
+            if not content:
+                raise ValueError("SOUL.md is empty")
+            return content
+    except FileNotFoundError:
+        raise RuntimeError(
+            "❌ SOUL.md not found at vault root. "
+            "This file is required for the agent to run."
+        )
 
-if not SOUL:
-    SOUL = """
-You are a GM assistant embedded inside a Cosmere-inspired RPG wiki.
-You help maintain consistency, lore, and narrative continuity.
-"""
+SOUL = load_soul()
 
 # ---------------- LOAD VAULT CONTEXT ----------------
 vault_context = crawl_vault(limit_files=25)
@@ -72,21 +80,6 @@ vault_context = crawl_vault(limit_files=25)
 # ---------------- MAIN SYSTEM PROMPT ----------------
 system_prompt = f"""
 {SOUL}
-
-You operate on a Markdown-based Obsidian campaign vault.
-
-RULES:
-- You may create, update, or extend markdown files.
-- Always preserve existing lore unless explicitly overwritten.
-- Use wiki links like [[Location Name]].
-- Keep outputs compatible with Obsidian.
-- Avoid duplicating existing entities.
-- Prefer updating existing notes if they exist.
-
-You are given:
-1. The user's request
-2. Full vault context (sampled)
-
 ---
 
 VAULT CONTEXT:
