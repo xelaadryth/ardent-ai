@@ -1,0 +1,31 @@
+name: GM Agent
+
+on:
+  workflow_dispatch:
+    inputs:
+      prompt:
+        description: "GM instruction"
+        required: true
+        type: string
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install google-generativeai
+
+      - name: Run GM Agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PROMPT: ${{ github.event.inputs.prompt }}
+        run: python .ai/agent.py
