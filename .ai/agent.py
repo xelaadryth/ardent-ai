@@ -5,7 +5,7 @@ import google.generativeai as genai
 genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 PROMPT = os.environ["PROMPT"]
 
-MODEL = "gemini-1.5-flash"
+MODEL = "gemini-3.1-flash-lite"
 
 VAULT_ROOT = "."  # GitHub Actions runs from repo root
 
@@ -32,15 +32,21 @@ def crawl_vault(limit_files=20):
     md_files = []
 
     for root, dirs, files in os.walk(VAULT_ROOT):
-        # skip heavy/system folders
+        # Skip heavy/system folders
         if ".git" in root or ".obsidian" in root:
             continue
 
         for file in files:
+            # 1. Skip hidden files (start with .) 
+            # 2. Skip the specific README file
+            if file.startswith('.') or file.lower() == 'readme.md':
+                continue
+                
             if file.endswith(".md"):
                 md_files.append(os.path.join(root, file))
 
     # limit for token safety
+    # TODO: RAG system for indexing and storing contents, needs folder metadata too
     md_files = md_files[:limit_files]
 
     context = []
