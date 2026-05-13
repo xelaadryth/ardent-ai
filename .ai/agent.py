@@ -89,17 +89,6 @@ VAULT CONTEXT:
 
 USER REQUEST:
 {PROMPT}
-
----
-
-OUTPUT FORMAT:
-Return ONLY ONE markdown file.
-
-If you create a new NPC:
-- Put it in valid Obsidian markdown format
-- Include frontmatter:
-  type: npc
-  status: active
 """
 
 # ---------------- CALL MODEL ----------------
