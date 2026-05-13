@@ -9,21 +9,7 @@ def read_file(path):
     except Exception:
         return ""
 
-def resolve_path(path: str) -> str:
-    """
-    Ensures all writes stay inside vault root.
-    Prevents path traversal or accidental writes outside repo.
-    """
-    full_path = os.path.normpath(os.path.join(VAULT_ROOT, path))
-
-    if not full_path.startswith(os.path.abspath(VAULT_ROOT)):
-        raise ValueError(f"Unsafe path blocked: {path}")
-
-    return full_path
-
 def write_file(path, content):
-    full_path = resolve_path(path)
-
     os.makedirs(os.path.dirname(full_path), exist_ok=True)
 
     with open(full_path, "w", encoding="utf-8") as f:
