@@ -5,17 +5,17 @@ player:
 order:
 spren:
 ---
-## Summary
-One-sentence overview.
-## Appearance
+# Summary
 
-## Personality
+# Appearance
 
-## Background
+# Personality
 
-## Motivations
+# Background
+
+# Motivations
 - 
-## Relationships
+# Relationships
 - 
-## Tags
+# Tags
 #player

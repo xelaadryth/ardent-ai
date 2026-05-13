@@ -4,21 +4,17 @@ status: active
 spren_type:
 radiant:
 ---
-## Summary
+# Summary
 
-## Appearance
+# Appearance
 
-## Personality
+# Personality
 
-## Background
+# Background
 
-## Motivations
-
-## Relationships
-
-## Abilities / Manifestation
-
-## Notes
-
-## Tags
+# Motivations
+- 
+# Relationships
+- 
+# Tags
 #spren

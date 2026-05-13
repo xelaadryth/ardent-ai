@@ -1,24 +1,21 @@
 ---
 type: npc
 status: active
-location:
+locations: []
 ---
+# Summary
 
-## Summary
+# Appearance
 
-## Appearance
+# Personality
 
-## Personality
+# Background
 
-## Background
-
-## Motivations
+# Motivations
 - 
-## Hooks
+# Hooks
 - 
-## Relationships
+# Relationships
 - 
-## Locations
-- 
-## Tags
+# Tags
 #npc

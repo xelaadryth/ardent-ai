@@ -4,13 +4,11 @@ status: active
 parent:
 children: []
 ---
-## Overview
+# Summary
 
-## Related Locations
+# Notable NPCs
 
-## Notable NPCs
-
-## Hooks
-
-## Tags
+# Hooks
+- 
+# Tags
 #location
