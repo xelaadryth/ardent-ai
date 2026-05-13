@@ -46,7 +46,7 @@ jobs:
       - name: Commit changes
         run: |
           git add .
-          git commit -m "AI GM update: ${{ github.event.inputs.prompt }}" || echo "No changes to commit"
+          git commit -m "Ardent AI GM update" || echo "No changes to commit"
 
       - name: Push branch
         run: |
