@@ -42,25 +42,11 @@ jobs:
           PROMPT: ${{ github.event.inputs.prompt }}
         run: python .ai/agent.py
 
-      - name: Configure Git identity
-        run: |
-          git config user.name "Ardent AI"
-          git config user.email "ardent-ai@users.noreply.github.com"
-
-      - name: Commit changes
-        run: |
-          git add .
-          git commit -m "Ardent AI GM update" || echo "No changes to commit"
-
-      - name: Push branch
-        run: |
-          git push origin $BRANCH
-
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
           base: main
-          head: ${{ env.BRANCH }}
+          head: $BRANCH
           title: "🧠 Ardent AI: ${{ github.event.inputs.prompt }}"
           body: |
             ## Ardent Update
