@@ -14,15 +14,15 @@ OPERATIONAL PROTOCOLS
 - Linking: Use [[Wiki Links]]. Maintain bi-directional links.
 
 OUTPUT FORMAT
+For every modification, use the following structure which specifies filename and contents. Surround content in triple backticks:
 
-You must use this format for all file modifications. Multiple files per response are allowed.
-FILE: 
-STRICT RULES
+### FILE: 03 NPCs/Name.md
+```markdown
+<full file content including frontmatter>
+```
 
-    No Truncation: Always output the entire file content.
-
-    No Internal Commentary: Keep explanations outside of ### FILE blocks.
-
-    No Partial Edits: If a file is touched, the whole file must be provided.
-
-    No Guessing: Use the vault's templates as the sole schema authority.
+STRICT PARSING RULES
+-  No Truncation: Output the entire file from the first --- to the final character.
+- Boundary Integrity: Everything between the opening ```markdown and the closing ``` is literal file data. Do not add commentary inside these fences.
+- Path Accuracy: The path must include the folder (e.g., 03 NPCs/Name.md).
+- Multi-File: If editing multiple files, repeat the ### FILE block for each.
