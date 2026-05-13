@@ -45,9 +45,10 @@ jobs:
       - name: Create Pull Request
         env:
           GH_TOKEN: ${{ github.token }}
+          PROMPT: ${{ github.event.inputs.prompt }}
         run: |
           gh pr create \
             --base main \
             --head "$BRANCH" \
             --title "🧠 Ardent AI }}" \
-            --body '${{ github.event.inputs.prompt }}'
+            --body '$PROMPT'
