@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: pip install google-genai
 
-      - name: Run GM Agent
+      - name: Run Ardent AI Agent
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           PROMPT: ${{ github.event.inputs.prompt }}
