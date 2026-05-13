@@ -22,7 +22,7 @@ jobs:
       - name: Create AI branch
         run: |
           BRANCH="ai/${{ github.run_id }}"
-          git checkout -b $BRANCH
+          git checkout -b "$BRANCH"
           echo "BRANCH=$BRANCH" >> $GITHUB_ENV
 
       - name: Setup Python
@@ -49,25 +49,49 @@ jobs:
             echo "PROMPT<<EOF"
             cat "$FILE"
             echo "EOF"
-          } >> $GITHUB_ENV
+          } >> "$GITHUB_ENV"
 
       - name: Run Ardent AI Agent
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          PROMPT: ${{ github.event.inputs.prompt }}
+          PROMPT: ${{ env.PROMPT }}
+          REQUEST_FILE: ${{ env.REQUEST_FILE }}
         run: python .ai/agent.py
 
       - name: Archive processed request
         run: |
-          git mv "$REQUEST_FILE" "Archive/$(basename "$REQUEST_FILE")"
+          mkdir -p Archive
+          TARGET="Archive/$(basename "$REQUEST_FILE")"
+
+          if [ -f "$REQUEST_FILE" ]; then
+            mv "$REQUEST_FILE" "$TARGET"
+            git add "$TARGET"
+            git rm "$REQUEST_FILE"
+          else
+            echo "Request file not found, skipping archive."
+          fi
+
+      - name: Configure Git identity
+        run: |
+          git config user.name "Ardent AI"
+          git config user.email "ardent-ai@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Ardent AI update" || echo "No changes to commit"
+
+      - name: Push branch
+        run: |
+          git push origin "$BRANCH"
 
       - name: Create Pull Request
         env:
           GH_TOKEN: ${{ github.token }}
-          PROMPT: ${{ github.event.inputs.prompt }}
+          PROMPT: ${{ env.PROMPT }}
         run: |
           gh pr create \
             --base main \
             --head "$BRANCH" \
-            --title "🧠 Ardent AI }}" \
-            --body '$PROMPT'
+            --title "🧠 Ardent AI Update" \
+            --body "$PROMPT"
