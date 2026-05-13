@@ -10,9 +10,9 @@ def read_file(path):
         return ""
 
 def write_file(path, content):
-    os.makedirs(os.path.dirname(full_path), exist_ok=True)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
 
-    with open(full_path, "w", encoding="utf-8") as f:
+    with open(path, "w", encoding="utf-8") as f:
         f.write(content)
 
 def crawl_vault(limit_files=25):
