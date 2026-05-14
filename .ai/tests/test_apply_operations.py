@@ -18,21 +18,21 @@ This character knows [[Revolar]] and [[Truthkeepers]].
 
 
 def test_apply_operations_creates_file_and_merges_links():
-    fake_index = {"files": {
-        "operations": [
-            {
-                "action": "create",
-                "path": "03 NPCs/Test NPC.md",
-                "content": SAMPLE_CONTENT
-            }
-        ]
-    }}
+    fake_index = {"files": {}}
+
+    operations = [
+        {
+            "action": "create",
+            "path": "03 NPCs/Test NPC.md",
+            "content": SAMPLE_CONTENT
+        }
+    ]
 
     with patch("vault.write_file") as mock_write, \
          patch("vault_index.load_vault_index", return_value=fake_index), \
          patch("vault_index.save_vault_index") as mock_save:
 
-        apply_operations(fake_index)
+        apply_operations(operations)
 
         # 1. file written
         mock_write.assert_called_once()
