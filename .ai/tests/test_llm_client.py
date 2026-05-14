@@ -7,8 +7,7 @@ class DummyResponse:
 
 
 class DummyModels:
-    def generate_content(self, model, contents):
-        assert model == "m"
+    def generate_content(self, contents):
         assert contents == "prompt"
         return DummyResponse("result")
 
@@ -21,6 +20,6 @@ class DummyClient:
 def test_generate_content_forwards_to_client(monkeypatch):
     monkeypatch.setattr(llm_client, "client", DummyClient())
 
-    result = llm_client.generate_content(model="m", prompt="prompt")
+    result = llm_client.generate_content(prompt="prompt")
 
     assert result == "result"

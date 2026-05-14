@@ -1,7 +1,8 @@
-import time
+from config import MODELS
 from google.api_core.exceptions import ResourceExhausted, ServiceUnavailable
 from google import genai
 import os
+import time
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 

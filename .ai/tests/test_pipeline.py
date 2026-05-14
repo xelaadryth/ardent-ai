@@ -13,7 +13,7 @@ def test_run_agent_calls_generate_and_archives(monkeypatch, tmp_path):
     monkeypatch.setattr(inbox, "INBOX_DIR", inbox_dir)
     monkeypatch.setattr(inbox, "ARCHIVE_DIR", archive_dir)
 
-    monkeypatch.setattr(pipeline, "generate_content", lambda model, prompt: "output-text")
+    monkeypatch.setattr(pipeline, "generate_content", lambda prompt: "output-text")
     calls = []
     monkeypatch.setattr(pipeline, "apply_response", lambda output: calls.append(output))
     
