@@ -47,117 +47,24 @@ jobs:
       - name: Install dependencies
         run: pip install google-genai
 
-      - name: Load Inbox prompt
-        env:
-          EXTRA_PROMPT: ${{ github.event.inputs.prompt }}
-          REQUEST_INPUT: ${{ github.event.inputs.request_file }}
-        run: |
-          # Use manually specified file if provided.
-          if [ -n "$REQUEST_INPUT" ]; then
-            FILE="$REQUEST_INPUT"
-          else
-            # Find the first real Markdown request file in Inbox.
-            FILE=$(find Inbox \
-              -type f \
-              -name "*.md" \
-              ! -name ".*" \
-              | sort \
-              | head -n 1)
-          fi
-
-          if [ -z "$FILE" ] || [ ! -f "$FILE" ]; then
-            echo "No valid Inbox markdown file found."
-            exit 1
-          fi
-
-          echo "Using request file: $FILE"
-          echo "REQUEST_FILE=$FILE" >> "$GITHUB_ENV"
-
-          # Use a unique delimiter so request content can safely contain "EOF"
-          DELIM="ARDENT_PROMPT_$(date +%s)_$$"
-
-          {
-            echo "PROMPT<<$DELIM"
-            cat "$FILE"
-
-            if [ -n "$EXTRA_PROMPT" ]; then
-              echo
-              echo "---"
-              echo
-              echo "## Additional Instructions"
-              echo
-              echo "$EXTRA_PROMPT"
-            fi
-
-            echo "$DELIM"
-          } >> "$GITHUB_ENV"
-
-      - name: Run Ardent AI Agent
+      - name: Run Ardent AI
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          PROMPT: ${{ env.PROMPT }}
-          REQUEST_FILE: ${{ env.REQUEST_FILE }}
-        run: python .ai/agent.py
-
-      - name: Archive processed request
-        run: |
-          # Ensure Inbox and Archive always exist
-          mkdir -p Inbox
-          mkdir -p Archive
-
-          BASENAME="$(basename "$REQUEST_FILE")"
-
-          # Find the next 4-digit archive number
-          LAST_NUM=$(find Archive -maxdepth 1 -type f -name '[0-9][0-9][0-9][0-9]-*.md' \
-            | sed -E 's|.*/([0-9]{4})-.*|\1|' \
-            | sort -n \
-            | tail -n 1)
-
-          if [ -z "$LAST_NUM" ]; then
-            NEXT_NUM=0
-          else
-            NEXT_NUM=$((10#$LAST_NUM + 1))
-          fi
-
-          PREFIX=$(printf "%04d" "$NEXT_NUM")
-          TARGET="Archive/${PREFIX}-${BASENAME}"
-
-          if [ -f "$REQUEST_FILE" ]; then
-            # Move the processed request into the archive
-            mv "$REQUEST_FILE" "$TARGET"
-            echo "Archived to $TARGET"
-          else
-            echo "Request file not found, skipping archive."
-          fi
-
-          # Ensure Inbox remains in Git even when empty
-          touch Inbox/.gitkeep
-
-          # Stage all archive and Inbox changes
-          git add Archive Inbox/.gitkeep
-
-          # Remove the original file from Git's index if it still exists there
-          git rm --cached "$REQUEST_FILE" 2>/dev/null || true
-
-      - name: Configure Git identity
-        run: |
-          git config user.name "Ardent AI"
-          git config user.email "ardent-ai@users.noreply.github.com"
-
-      - name: Commit changes
-        run: |
-          git add .
-          git commit -m "Ardent AI update" || echo "No changes to commit"
-
-      - name: Push branch
-        run: |
-          git push origin "$BRANCH"
+          GH_TOKEN: ${{ github.token }}
+          REQUEST_INPUT: ${{ github.event.inputs.request_file }}
+          EXTRA_PROMPT: ${{ github.event.inputs.prompt }}
+        run: python .ai/run_pipeline.py
 
       - name: Create Pull Request
         env:
           GH_TOKEN: ${{ github.token }}
           PROMPT: ${{ env.PROMPT }}
         run: |
+          git config user.name "Ardent AI"
+          git config user.email "ardent-ai@users.noreply.github.com"
+          git add .
+          git commit -m "Ardent AI update" || echo "No changes to commit"
+          git push origin "$BRANCH"
           gh pr create \
             --base main \
             --head "$BRANCH" \
