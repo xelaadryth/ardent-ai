@@ -31,7 +31,7 @@ def run_agent(request_input=None, extra_prompt=""):
     output = generate_content(prompt=system_prompt)
     print(output)
 
-    apply_response(output)
+    apply_response(output, load_vault_index())
     archive_file(request_file)
 
     return output

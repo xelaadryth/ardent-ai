@@ -51,10 +51,7 @@ def extract_wikilinks(content: str) -> list[str]:
     return normalized
 
 
-def apply_operations(operations: list[dict], current_index: dict | None = None):
-    if current_index is None:
-        current_index = load_vault_index() 
-
+def apply_operations(operations: list[dict], current_index: dict):
     for op in operations:
         action = op.get("action", "").lower()
         path = op.get("path")
@@ -85,6 +82,7 @@ def apply_operations(operations: list[dict], current_index: dict | None = None):
 
             # 5. UPDATE INDEX
             metadata["last_index"] = now_timestamp()
+            print(current_index)
             current_index["files"][path] = metadata
 
             print(f"[INDEX UPDATE] {path}")
@@ -103,8 +101,7 @@ def apply_operations(operations: list[dict], current_index: dict | None = None):
     save_vault_index(current_index)
 
 
-def apply_response(output: str, current_index: dict | None = None):
-
+def apply_response(output: str, current_index: dict):
     payload = parse_json_output(output)
 
     operations = payload.get("operations", [])
