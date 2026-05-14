@@ -23,6 +23,7 @@ def generate_content(prompt: str, models=None, max_retries=2) -> str:
                     model=model,
                     contents=prompt
                 )
+                print(f"[MODEL SUCCESS] {model} (attempt {attempt + 1})")
                 return response.text
 
             except RETRYABLE_ERRORS as e:

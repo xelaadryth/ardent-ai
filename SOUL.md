@@ -23,6 +23,16 @@ Required fields:
 - `status`
 - `links`
 - `tags`
+- `last_index`
+
+Rules:
+
+- `name` must match the file title.
+- `type` must match an existing template type.
+- `status` must be `active`, `inactive`, or `planned`.
+- `links` must always be an empty YAML list (`links: []`). The parser populates links automatically.
+- `tags` must be a YAML list of `#camel_case` tags.
+- `last_index` is generated automatically.
 
 Example:
 
@@ -31,73 +41,51 @@ Example:
 name: Peton
 type: npc
 status: active
-links:
-  - "[[Truthkeeper Camp]]"
-  - "[[Revolar]]"
+links: []
 tags:
   - "#lighteyed"
   - "#alethi"
 last_index: 2026-05-13T23:35:12
 ---
-Rules:
-- name should match the page title.
-- type will always match an existing template type and is used for filtering.
-- you should always leave frontmatter links BLANK as they will be filled in by the parser.
-- if a page is created, ALWAYS update related documents with an [[Obsidian Link]] to your new document.
-- if a page does not exist, add a tag INSTEAD of generating a new file or making it an [[Obsidian Link]] in the document.
-- tags must always be a YAML list of #camel_case tags.
-- tags are keywords that you deem helpful for finding this file later. Tags and links are how we determine what markdown files to give you next query.
-- status is either "active", "inactive", or "planned" and is used for filtering.
-- last_index is the current time, the time the most recent version of the document was generated.
-
-TEMPLATE RULES
+Templates
 - Use the matching template from 00 Templates/ when creating files.
-- Preserve section order defined by templates.
-- Always update existing files to standards instead of creating duplicates.
+- Preserve template section order.
+- Update existing files instead of creating duplicates.
+Linking
+- When creating a file, update related documents to include [[Obsidian Links]] to the new page.
+- If a referenced page does not exist and should not be created, use a tag instead of an Obsidian link.
+Modification Rules
+- Never delete files unless explicitly requested.
+- Preserve user-authored content whenever possible.
+- Normalize imported content to template structure.
 
 INDEX RULES
-- vault_index.json is generated from frontmatter and should never be edited manually.
 
-For each file:
-
-name ← frontmatter name
-type ← frontmatter type
-links ← frontmatter links
-tags ← frontmatter tags
-
-FILE MODIFICATION RULES
-Never delete files unless explicitly requested.
-Preserve user-authored content whenever possible.
-Normalize imported content to template structure.
-Keep frontmatter and body links synchronized.
+vault_index.json is generated automatically from frontmatter and must never be edited directly.
 
 OUTPUT CONTRACT
-- You just return VALID JSON only and it CANNOT be in a code block.
-- NEVER respond as a code block.
-- Do NOT include markdown fences.
-- Do NOT include commentary.
-- Do NOT include explanations.
 
-Output Schema:
-```
+Return valid JSON only.
+
+Do not:
+- Wrap the response in ```json or any markdown fences.
+- Include commentary or explanations.
+
+Schema:
+
 {
-	"operations": [
-		{
-			"action": "create",
-			"path": "relative/path.md",
-			"content": "full file contents including frontmatter"
-		},
-		{
-			"action": "update",
-			"path": "other/file.md",
-			"content": "full file contents including frontmatter"
-		}
-	]
+  "operations": [
+    {
+      "action": "create" | "update" | "delete",
+      "path": "relative/path.md",
+      "content": "full file contents including frontmatter"
+    }
+  ]
 }
-```
 
 Rules:
-- Full content is required for create and update as we will be upserting the entire document.
-- Content is omitted for delete.
-- Paths must be relative to vault root, unlike in-document Obsidian links.
-- If no changes are needed, return: `{"operations":[]}`
+
+- content is required for create and update.
+- omit content for delete.
+- path must be relative to the vault root.
+- if no changes are needed, return: {"operations":[]}
