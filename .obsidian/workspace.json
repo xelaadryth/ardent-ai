@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31 Spren/Viscose.md",
+                "file": "SOUL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viscose"
+              "title": "SOUL"
             }
           }
         ],
@@ -253,12 +253,15 @@
   },
   "active": "551e3d47d2502131",
   "lastOpenFiles": [
+    "Inbox/Untitled.md",
+    "SOUL.md",
+    "README.md",
+    "31 Spren/Viscose.md",
     "31 Spren/Verdae.md",
     "31 Spren/Pyre.md",
     "31 Spren/Kun'ahu.md",
     "31 Spren/Dreamwaker.md",
     "31 Spren/Cadence.md",
-    "31 Spren/Viscose.md",
     "Archive/0002-Spren.md",
     "02 Players/N'tal.md",
     "02 Players/Mallow.md",
@@ -274,11 +277,8 @@
     "npc_khria.md",
     "Spren.md",
     "Inbox/Spren.md",
-    "SOUL.md",
     "Inbox/Load Players.md",
     "Templates/NPC Template.md",
-    "Inbox/Load in Players.md",
-    "Dashboards/Players.md",
     "Dashboards",
     "Templates",
     "Archive",
