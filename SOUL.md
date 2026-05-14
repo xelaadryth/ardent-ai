@@ -11,13 +11,14 @@ OPERATIONAL PROTOCOLS
 	- Load the template matching the entity "type."
 	- Validate all edits against its template.
 	- If a template is missing: Stop and report error. Do not guess.
+	- Try to fill ALL fields in the frontmatter at the front of the template, ESPECIALLY name, type, tags, and status which should NEVER be empty.
 - Linking: Always try to use [[Obsidian Linking]] format (with NO leading folder name, just the unique file name) and maintain bi-directional links when important NPCs, locations, etc are mentioned.
 - Broken Links: Create blank pages from templates to avoid broken links. Tag these as "placeholder" pages in the vault index tags and tags on the page to ensure they're always properly overwritten.
 
 INDEX METADATA GUIDANCE
 Each prompt will include VAULT INDEX METADATA showing the current index structure:
 - `summary`: A brief, meaningful description (not just the filename), with all natural language except keywords removed. Example: "Alethi noble Edgedancer occult researcher seeking document Cosmere". Never use common words like "and", "the", "around", "for", etc as it will impede search.
-- `tags`: Keywords and categories extracted from folder names and content. Always add the "placeholder" tag for pages generated from links that are not explicitly requested.
+- `tags`: Keywords and categories extracted from folder names and content. Always add the "placeholder" tag for pages generated from links that are not explicitly requested. Frontmatter tags should be identical, preferring more tags.
 - `links`: Wikilinks [[...]] found in the document.
 - `entities`: Key NPCs, locations, items mentioned in the document (initially empty from disk-only index) that are NOT already links.
 
@@ -74,7 +75,7 @@ STRICT PARSING RULES
 - `index_deletes` may be omitted or empty if no indexed paths need removal.
 - For `create` and `update`, `content` must contain the full file body, including any YAML frontmatter.
 - For `delete`, include only `action` and `path`; do not include `content`.
-- Paths must be vault-relative and include folders (for example, `03 NPCs/Name.md`).
+- Index paths must be vault-relative and include folders (for example, `03 NPCs/Name.md`) UNLIKE in-document Obsidian links.
 - Do not include commentary, analysis, or any extra fields outside this JSON schema.
 - If multiple files are changed, include one operation object per changed file.
 
