@@ -215,29 +215,29 @@
       ]
     },
     "03 NPCs/Adjudicator Peton.md": {
-      "summary": "Disciplined enforcer managing Truthkeeper recruits.",
+      "summary": "Rigid Truthkeeper Adjudicator managing recruits.",
       "tags": [
         "npc"
       ],
       "links": [
-        "03 NPCs/High Witness Yeshan.md",
-        "04 Sessions/000 Arrival.md",
-        "04 Sessions/001 First Blood.md"
+        "01 Factions/Truthkeepers.md"
       ],
       "entities": [
-        "Peton",
-        "Yeshan"
+        "Peton"
       ]
     },
     "03 NPCs/Chip.md": {
-      "summary": "Ghostblood spy masquerading as a Witness.",
+      "summary": "Ghostblood spy and noble infiltrator.",
       "tags": [
-        "npc",
-        "placeholder"
+        "npc"
       ],
-      "links": [],
+      "links": [
+        "01 Factions/Ghostbloods.md",
+        "03 NPCs/Renna Palir.md"
+      ],
       "entities": [
-        "Ghostbloods"
+        "Chip",
+        "Archisal Paladar"
       ]
     },
     "03 NPCs/High Enforcer Aylen.md": {
@@ -452,6 +452,86 @@
       "links": [],
       "entities": [
         "Truthkeepers"
+      ]
+    },
+    "01 Factions/Ghostbloods.md": {
+      "summary": "Shadowy faction infiltrating Truthkeepers and acquiring artifacts.",
+      "tags": [
+        "faction"
+      ],
+      "links": [
+        "01 Factions/Truthkeepers.md",
+        "03 NPCs/Chip.md"
+      ],
+      "entities": [
+        "Ghostbloods",
+        "Bloodmarks"
+      ]
+    },
+    "01 Factions/Knights of Dusk.md": {
+      "summary": "Rebel group in Revolar seeking to refound the Knights Radiant.",
+      "tags": [
+        "faction"
+      ],
+      "links": [
+        "03 NPCs/Khria.md"
+      ],
+      "entities": [
+        "Knights of Dusk",
+        "Highlord Paladar"
+      ]
+    },
+    "01 Factions/Silent Oath.md": {
+      "summary": "Skybreaker shadow organization executing high-priority targets.",
+      "tags": [
+        "faction"
+      ],
+      "links": [
+        "03 NPCs/High Enforcer Aylen.md"
+      ],
+      "entities": [
+        "Silent Oath",
+        "Nale"
+      ]
+    },
+    "01 Factions/Truthkeepers.md": {
+      "summary": "Militant organization hunting Possessed and securing Vamah supply lines.",
+      "tags": [
+        "faction"
+      ],
+      "links": [
+        "03 NPCs/High Witness Yeshan.md",
+        "01 Factions/Knights of Dusk.md"
+      ],
+      "entities": [
+        "Truthkeepers",
+        "Vamah Princedom"
+      ]
+    },
+    "03 NPCs/Karani.md": {
+      "summary": "Nervous worldhopper spying for the Ghostbloods.",
+      "tags": [
+        "npc"
+      ],
+      "links": [
+        "03 NPCs/Chip.md",
+        "01 Factions/Ghostbloods.md"
+      ],
+      "entities": [
+        "Karani"
+      ]
+    },
+    "03 NPCs/Loid.md": {
+      "summary": "Mysterious worldhopping mentor known as Wit.",
+      "tags": [
+        "npc"
+      ],
+      "links": [
+        "03 NPCs/High Witness Yeshan.md"
+      ],
+      "entities": [
+        "Loid",
+        "Wit"
       ]
     }
   }
