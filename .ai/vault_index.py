@@ -113,18 +113,6 @@ def get_filepath_from_name_and_type(name: str, entry_type: str) -> str:
         return f"{name}.md"
 
 
-def extract_wikilinks(content: str) -> list[str]:
-    wikilinks = re.findall(r"\[\[([^\]]+)\]\]", content)
-    normalized = []
-    seen = set()
-    for link in wikilinks:
-        lower = link.lower().strip()
-        if lower and lower not in seen:
-            normalized.append(link.strip())
-            seen.add(lower)
-    return normalized
-
-
 def parse_frontmatter(content: str) -> dict:
     """Parse YAML frontmatter from markdown content."""
     frontmatter_match = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
