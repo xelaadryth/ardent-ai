@@ -10,6 +10,7 @@ links:
 tags:
   - "#location"
   - "#placeholder"
+last_index: 2026-05-13T23:29:00
 ---
 # Description
 A major urban center and the intended destination for the squad's transfer.

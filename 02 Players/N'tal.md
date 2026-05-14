@@ -10,6 +10,7 @@ tags:
   - "#nurian"
   - "#merchant"
 player: Ryan
+last_index: 2026-05-13T23:29:00
 ---
 
 # Description

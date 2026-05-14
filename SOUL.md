@@ -37,6 +37,7 @@ links:
 tags:
   - "#lighteyed"
   - "#alethi"
+last_index: 2026-05-13T23:35:12
 ---
 Rules:
 - name should match the page title.
@@ -47,6 +48,8 @@ Rules:
 - if a page does not exist, add a tag INSTEAD of generating a new file.
 - if a page is created that represents a tag, remove tags from other documents and add a link instead.
 - status is either "active", "inactive", or "planned" and is used for filtering.
+- last_index is the current time, the time the most recent version of the document was generated.
+
 TEMPLATE RULES
 - Use the matching template from 00 Templates/ when creating files.
 - Preserve section order defined by templates.

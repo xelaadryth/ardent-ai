@@ -9,6 +9,7 @@ links:
 tags:
   - "#hook"
   - "#placeholder"
+last_index: 2026-05-13T23:29:00
 ---
 # Description
 An investigation into the traitorous ties of Sila to the [[Ghostbloods]]. The discovery of a Ghostblood symbol on Sila's person following a fatal incident at the [[Truthkeeper Camp]] has raised questions about his true motives and past crimes.

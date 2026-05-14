@@ -4,7 +4,8 @@ type: hook
 status: active
 links: []
 tags:
-  - "#faction"
+  - "#hook"
+last_index: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 ---
 # Description
 

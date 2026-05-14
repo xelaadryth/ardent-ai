@@ -1,5 +1,6 @@
 import pipeline
 import inbox
+from prompt_builder import build_system_prompt
 
 
 def test_run_agent_calls_generate_and_archives(monkeypatch, tmp_path):
@@ -15,6 +16,14 @@ def test_run_agent_calls_generate_and_archives(monkeypatch, tmp_path):
     monkeypatch.setattr(pipeline, "generate_content", lambda model, prompt: "output-text")
     calls = []
     monkeypatch.setattr(pipeline, "apply_response", lambda output: calls.append(output))
+    
+    # Mock load_soul to return dummy content
+    import prompt_builder
+    monkeypatch.setattr(prompt_builder, "load_soul", lambda: "SOUL.md contents: test soul")
+    
+    # Mock load_vault_index to return empty index
+    import vault_index
+    monkeypatch.setattr(vault_index, "load_vault_index", lambda: {})
 
     output = pipeline.run_agent(request_input="request.md", extra_prompt="extra")
 

@@ -201,12 +201,6 @@ def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
         if any(term in link_lower or link_lower in term for term in terms) or any(term in query_lower for term in link_lower.split()):
             score += 5
 
-    # Score body wikilinks
-    for link in entry.get("body_links", []):
-        link_lower = str(link).lower()
-        if any(term in link_lower or link_lower in term for term in terms) or any(term in query_lower for term in link_lower.split()):
-            score += 3
-
     # Score type matches
     if any(term in type_lower for term in terms):
         score += 4
@@ -236,16 +230,85 @@ def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
 
 
 def retrieve_vault_context(query: str, limit: int = 10) -> str:
-    if not query or not query.strip():
-        return load_core_context()
+    """Retrieve relevant vault context based on query."""
+    index = load_vault_index()
+    
+    # Simple keyword matching for now
+    query_lower = query.lower()
+    matches = []
+    
+    for name, metadata in index.items():
+        if not isinstance(metadata, dict):
+            continue
+            
+        # Check if query keywords appear in name, links, or tags
+        searchable_text = f"{name} {metadata.get('links', [])} {metadata.get('tags', [])}".lower()
+        
+        if any(keyword in searchable_text for keyword in query_lower.split()):
+            matches.append((name, metadata))
+            if len(matches) >= limit:
+                break
+    
+    if not matches:
+        # Fallback to SOUL.md when no matches
+        try:
+            soul_content = load_markdown("SOUL.md")
+            return f"--- SOUL.md ---\n{soul_content}"
+        except:
+            return "No relevant vault context found"
+    
+    # Format as context string
+    context_parts = []
+    for name, metadata in matches:
+        filepath = get_filepath_from_name(name, metadata.get('type', ''))
+        context_parts.append(f"--- {filepath} ---\n{load_markdown(filepath)}")
+    
+    return "\n\n".join(context_parts)
 
-    terms = query_terms(query)
-    try:
-        index = load_vault_index()
-    except FileNotFoundError:
-        return load_core_context()
 
-    scored = []
+def get_oldest_indexed_files(limit: int = 10) -> list[str]:
+    """Get the oldest indexed files by last_index timestamp."""
+    index = load_vault_index()
+    entries = []
+
+    for name, metadata in index.items():
+        if not isinstance(metadata, dict):
+            continue
+        last_index = metadata.get('last_index', '')
+        if last_index:
+            try:
+                timestamp = datetime.fromisoformat(last_index.replace('Z', '+00:00')).timestamp()
+                entries.append((name, timestamp))
+            except ValueError:
+                # Invalid timestamp, treat as very old
+                entries.append((name, 0.0))
+
+    entries.sort(key=lambda item: item[1])
+    return [name for name, _ in entries[:limit]]
+
+
+def get_unindexed_files() -> list[str]:
+    """Get files that have no entities (unindexed)."""
+    index = load_vault_index()
+    unindexed = []
+
+    for name, metadata in index.items():
+        if not isinstance(metadata, dict):
+            continue
+        entities = metadata.get('entities', [])
+        if len(entities) == 0:
+            unindexed.append(name)
+
+    return unindexed
+
+
+def get_filepath_from_name(name: str, file_type: str) -> str:
+    """Reconstruct filepath from name and type."""
+    folder = get_folder_from_type(file_type)
+    if folder:
+        return f"{folder}/{name}.md"
+    else:
+        return f"{name}.md"
 
     for name, entry in index.items():
         if not isinstance(entry, dict):

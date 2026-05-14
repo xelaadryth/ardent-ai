@@ -1,23 +1,31 @@
 ---
 name: Knights of Dusk
 type: faction
-tags: [faction]
 status: active
+links:
+  - "[[Revolar]]"
+  - "[[Truthkeepers]]"
+tags:
+  - "#faction"
+last_index: 2026-05-13T23:29:00
 ---
-# Overview
-Rebel organization in Revolar led by emerging Knights Radiant.
+# Description
+A clandestine rebel organization based in the urban shadows of [[Revolar]], led by emerging Knights Radiant. They represent the growing resistance against the established order of the princedoms.
+
+# Background
+The Knights of Dusk operate through military-inspired cells designed to evade detection by the [[Truthkeepers]]. Utilizing a combination of guerrilla tactics, urban sabotage, and newly rediscovered Radiant powers, they have garnered significant support from the impoverished citizens of Revolar.
 
 # Goals
-- **Agenda:** Reclaim Vamah Princedom, install General Spade, and refound the Knights Radiant.
-- **Current Posture:** Preparing for a major offensive to seize key city infrastructure.
+- **Reclaim Vamah Princedom:** Overthrow the current leadership to reclaim the territory.
+- **Leadership Transition:** Successfully install General Spade as the new authority.
+- **Refound the Knights Radiant:** Establish a modern foundation for the ancient order.
+- **Infrastructure Seizure:** Execute a major offensive to take control of key city assets.
 
-# Structure
-- Military-inspired cells to avoid detection.
+# Hooks
+- **Urban Sabotage:** The squad may be caught in or tasked with investigating a disruption of city services orchestrated by the Knights.
+- **The General's Shadow:** Rumors of General Spade’s whereabouts and the Knights' next move.
 
-# Methods & Influence
-Guerrilla tactics, urban sabotage, and Radiant powers.
-
-# Allies & Rivals
-- Highlord Paladar: Primary enemy.
-- Truthkeepers: Opponents.
-- The Poor of Revolar: Supporters.
+# Connections
+- **Highlord Paladar**: Their primary political and military enemy.
+- **[[Truthkeepers]]**: Direct ideological and physical opponents who hunt their members.
+- **The Poor of Revolar**: Their main source of intelligence, shelter, and logistical support.

@@ -5,6 +5,7 @@ status: active
 links: []
 tags:
   - "#scene"
+last_index: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 ---
 # Description
 

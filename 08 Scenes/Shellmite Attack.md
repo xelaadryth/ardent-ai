@@ -8,6 +8,7 @@ links:
 tags:
   - "#scene"
   - "#placeholder"
+last_index: 2026-05-13T23:29:00
 ---
 # Description
 A high-intensity combat encounter occurring during caravan transport. The squad must defend against a swarm of aggressive Shellmites, culminating in a confrontation with a massive alpha specimen.

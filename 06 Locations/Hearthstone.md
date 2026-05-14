@@ -6,6 +6,7 @@ links: []
 tags:
   - "#location"
   - "#placeholder"
+last_index: 2026-05-13T23:29:00
 ---
 # Description
 A rural settlement currently serving as the site for an official miracle investigation.

@@ -9,6 +9,7 @@ tags:
   - "#spren"
   - "#mistspren"
   - "#ancient"
+last_index: 2026-05-13T23:29:00
 ---
 # Description
 An ancient Mistspren of immense age who serves as a grounding anchor for [[Iiko]]’s manic intellect. He carries the weight of prophecies from a bygone era and acts as a conduit for the "Ten Keys."

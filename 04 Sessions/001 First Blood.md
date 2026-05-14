@@ -13,6 +13,7 @@ tags:
   - "#Truthkeepers"
   - "#Hearthstone"
   - "#ShellmiteAttack"
+last_index: 2026-05-13T23:29:00
 number: 1
 ---
 # Description

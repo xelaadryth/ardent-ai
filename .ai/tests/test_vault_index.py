@@ -121,6 +121,56 @@ def test_get_folder_from_type_returns_folder_prefix():
     assert vault_index.get_folder_from_type("core") == ""
 
 
+def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypatch):
+    # Create test index with different timestamps
+    old_timestamp = "2023-01-01T00:00:00Z"
+    new_timestamp = "2024-01-01T00:00:00Z"
+    
+    vault_index_data = {
+        "files": {
+            "OldFile": {
+                "name": "OldFile",
+                "type": "npc",
+                "last_index": old_timestamp
+            },
+            "NewFile": {
+                "name": "NewFile", 
+                "type": "player",
+                "last_index": new_timestamp
+            }
+        }
+    }
+
+    (tmp_path / "vault_index.json").write_text(json.dumps(vault_index_data), encoding="utf-8")
+    monkeypatch.setattr(vault_index, "VAULT_ROOT", tmp_path)
+
+    oldest = vault_index.get_oldest_indexed_files(1)
+    assert oldest == ["OldFile"]
+
+
+def test_get_unindexed_files_returns_files_with_no_entities(tmp_path, monkeypatch):
+    vault_index_data = {
+        "files": {
+            "IndexedFile": {
+                "name": "IndexedFile",
+                "type": "npc",
+                "entities": ["entity1"]
+            },
+            "UnindexedFile": {
+                "name": "UnindexedFile",
+                "type": "player", 
+                "entities": []
+            }
+        }
+    }
+
+    (tmp_path / "vault_index.json").write_text(json.dumps(vault_index_data), encoding="utf-8")
+    monkeypatch.setattr(vault_index, "VAULT_ROOT", tmp_path)
+
+    unindexed = vault_index.get_unindexed_files()
+    assert unindexed == ["UnindexedFile"]
+
+
 def test_build_index_entry_includes_last_index_timestamp():
     from pathlib import Path
 

@@ -11,6 +11,7 @@ tags:
   - "#darkeyed"
   - "#makabaki"
   - "#herald"
+last_index: 2026-05-13T23:29:00
 ---
 # Description
 The High Enforcer of the Silent Oath and the ultimate authority on eliminating the threat of the [[Possessed]]. In reality, he is the Herald Nale, a figure of fractured sanity driven by an absolute, inflexible adherence to the law to prevent another Desolation.

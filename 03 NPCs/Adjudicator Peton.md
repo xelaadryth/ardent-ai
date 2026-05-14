@@ -10,7 +10,7 @@ tags:
   - "#alethi"
   - "#adjudicator"
   - "#traditionalist"
-last_index:
+last_index: 2026-05-13T23:29:00
 ---
 # Description
 A high-ranking official within the Truthkeepers who balances a rigid sense of duty with the messy reality of leading "outsider" units.
@@ -33,4 +33,4 @@ Originally an Enforcer, Peton’s dedication to the law saw him promoted to the 
 
 # Connections
 - **[[Truthkeepers]]**: The organization that serves as the primary source of his world-view and authority.
-- **The Party**: The group currently under his jurisdiction; they report dire
+- **The Party**: The group currently under his jurisdiction; they report directly to him.

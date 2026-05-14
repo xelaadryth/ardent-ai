@@ -8,6 +8,7 @@ tags:
   - "#spren"
   - "#inkspren"
   - "#logical"
+last_index: 2026-05-13T23:29:00
 ---
 # Description
 A logical and contrarian Inkspren bonded to [[Kuma]]. They serve as a stoic counterbalance to their partner's creative impulses, viewing the world through a lens of absolute precision and fundamental truth.
