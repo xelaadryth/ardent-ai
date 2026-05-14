@@ -181,7 +181,7 @@ def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypa
     monkeypatch.setattr(vault_index, "VAULT_ROOT", tmp_path)
 
     oldest = vault_index.get_oldest_indexed_files(1)
-    assert oldest == ["OldFile"]
+    assert oldest == ["03 NPCs/OldFile.md"]
 
 
 def test_build_index_entry_includes_last_index_timestamp():
