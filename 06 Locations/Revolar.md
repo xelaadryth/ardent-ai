@@ -7,7 +7,7 @@ parent:
 children: []
 ---
 # Summary
-Destination for the squad; hub of Ghostblood activity.
+Destination for the squad.
 
 # Notable NPCs
 # Hooks

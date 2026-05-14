@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/NPCs.md",
+                "file": "SOUL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPCs"
+              "title": "SOUL"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:placeholder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,41 +253,41 @@
   },
   "active": "551e3d47d2502131",
   "lastOpenFiles": [
+    "00 Templates/Session Template.md",
+    "00 Templates/Player Template.md",
+    "06 Locations/Revolar.md",
+    "06 Locations/Hearthstone.md",
+    "05 Factions/Knights of Dusk.md",
+    "05 Factions/Ghostbloods.md",
+    "10 Lore/Possessed.md",
     "00 Templates/Faction Template.md",
-    "Inbox/NPCs.md",
+    "05 Factions/Truthkeepers.md",
+    "05 Factions/Truthkeepers.md",
     "07 Hooks/Sila's Allegiance.md",
+    "Inbox/NPCs.md",
+    "Archive/0008-NPCs.md",
+    "03 NPCs/Loid.md",
+    "03 NPCs/Karani.md",
+    "05 Factions/Silent Oath.md",
+    "01 Factions",
     "31 Spren/Dreamwaker.md",
     "Archive/0007-Templates and Links.md",
-    "10 Lore/Possessed.md",
     "10 Lore",
     "07 Hooks",
-    "05 Factions/Truthkeepers.md",
     "08 Scenes/Shellmite Attack.md",
     "08 Scenes",
     "03 NPCs/Jola.md",
     "03 NPCs/Hoid.md",
-    "03 Locations/Revolar.md",
-    "03 Locations/Hearthstone.md",
     "03 Locations",
     "00 Templates/Scene Template.md",
     "00 Templates/Lore Template.md",
     "00 Templates/Hook Template.md",
     "Inbox/Templates and Links.md",
     "04 Sessions/000 Arrival.md",
-    "06 Locations/Truthkeeper Camp.md",
-    "00 Templates/Location Template.md",
-    "00 Templates/Spren Template.md",
-    "00 Templates/Session Template.md",
-    "00 Templates/Player Template.md",
-    "00 Templates/NPC Template.md",
-    "SOUL.md",
     "06 Locations",
     "05 Factions",
-    "03 NPCs/Senny.md",
-    "03 NPCs/Renna Palir.md",
     "01 Lore",
     "Dashboards",
-    "Templates",
-    "Archive"
+    "Templates"
   ]
 }

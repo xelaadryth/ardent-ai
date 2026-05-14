@@ -220,7 +220,7 @@
         "npc"
       ],
       "links": [
-        "01 Factions/Truthkeepers.md"
+        "05 Factions/Truthkeepers.md"
       ],
       "entities": [
         "Peton"
@@ -232,7 +232,7 @@
         "npc"
       ],
       "links": [
-        "01 Factions/Ghostbloods.md",
+        "05 Factions/Ghostbloods.md",
         "03 NPCs/Renna Palir.md"
       ],
       "entities": [
@@ -292,7 +292,7 @@
       "links": [
         "03 NPCs/High Witness Yeshan.md",
         "03 NPCs/Adjudicator Peton.md",
-        "01 Lore/Hoid.md",
+        "10 Lore/Hoid.md",
         "03 NPCs/Senny.md",
         "03 NPCs/Chip.md",
         "03 NPCs/Renna Palir.md",
@@ -320,8 +320,8 @@
         "03 NPCs/Adjudicator Peton.md",
         "03 NPCs/High Enforcer Aylen.md",
         "02 Players/N'tal.md",
-        "03 Locations/Revolar.md",
-        "03 Locations/Hearthstone.md"
+        "06 Locations/Revolar.md",
+        "06 Locations/Hearthstone.md"
       ],
       "entities": [
         "Peton",
@@ -373,7 +373,7 @@
       "links": [],
       "entities": []
     },
-    "03 Locations/Hearthstone.md": {
+    "06 Locations/Hearthstone.md": {
       "summary": "Hearthstone",
       "tags": [
         "locations"
@@ -381,7 +381,7 @@
       "links": [],
       "entities": []
     },
-    "03 Locations/Revolar.md": {
+    "06 Locations/Revolar.md": {
       "summary": "Revolar",
       "tags": [
         "locations"
@@ -454,13 +454,13 @@
         "Truthkeepers"
       ]
     },
-    "01 Factions/Ghostbloods.md": {
+    "05 Factions/Ghostbloods.md": {
       "summary": "Shadowy faction infiltrating Truthkeepers and acquiring artifacts.",
       "tags": [
         "faction"
       ],
       "links": [
-        "01 Factions/Truthkeepers.md",
+        "05 Factions/Truthkeepers.md",
         "03 NPCs/Chip.md"
       ],
       "entities": [
@@ -468,7 +468,7 @@
         "Bloodmarks"
       ]
     },
-    "01 Factions/Knights of Dusk.md": {
+    "05 Factions/Knights of Dusk.md": {
       "summary": "Rebel group in Revolar seeking to refound the Knights Radiant.",
       "tags": [
         "faction"
@@ -481,31 +481,17 @@
         "Highlord Paladar"
       ]
     },
-    "01 Factions/Silent Oath.md": {
+    "05 Factions/Silent Oath.md": {
       "summary": "Skybreaker shadow organization executing high-priority targets.",
       "tags": [
         "faction"
       ],
       "links": [
-        "03 NPCs/High Enforcer Aylen.md"
+        "High Enforcer Aylen"
       ],
       "entities": [
         "Silent Oath",
         "Nale"
-      ]
-    },
-    "01 Factions/Truthkeepers.md": {
-      "summary": "Militant organization hunting Possessed and securing Vamah supply lines.",
-      "tags": [
-        "faction"
-      ],
-      "links": [
-        "03 NPCs/High Witness Yeshan.md",
-        "01 Factions/Knights of Dusk.md"
-      ],
-      "entities": [
-        "Truthkeepers",
-        "Vamah Princedom"
       ]
     },
     "03 NPCs/Karani.md": {
@@ -514,8 +500,8 @@
         "npc"
       ],
       "links": [
-        "03 NPCs/Chip.md",
-        "01 Factions/Ghostbloods.md"
+        "Chip",
+        "Ghostbloods"
       ],
       "entities": [
         "Karani"
