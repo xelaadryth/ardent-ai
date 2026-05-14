@@ -260,15 +260,25 @@
       ]
     },
     "03 NPCs/High Enforcer Aylen.md": {
-      "summary": "Mysterious high-ranking officer associated with the Silent Oath.",
+      "summary": "Herald Nale disguised as High Enforcer overseeing Silent Oath purging of fledgling Radiants.",
       "tags": [
-        "npc",
-        "placeholder"
+        "npc"
       ],
-      "links": [],
+      "links": [
+        "05 Factions/Silent Oath.md",
+        "03 NPCs/High Witness Yeshan.md"
+      ],
       "entities": [
-        "Silent Oath"
-      ]
+        "Aylen",
+        "Nale",
+        "Ishar",
+        "Yeshan",
+        "Morrow",
+        "Silent Oath",
+        "Voidbringers",
+        "Skybreakers"
+      ],
+      "last_index": "2026-05-14T04:30:20Z"
     },
     "03 NPCs/High Witness Yeshan.md": {
       "summary": "Prophetic leader of the Truthkeepers.",
