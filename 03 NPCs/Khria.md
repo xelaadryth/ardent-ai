@@ -18,9 +18,9 @@ Khria wants to see the people of Vamah freed from oppression, but her deepest mo
 
 # Connections
 - [[General Spade]]: Her commander and savior.
-- [[02 Players/Mallow.md|Mallow]]: Her sister from the Purelake.
-- [[05 Factions/Truthkeepers.md|Truthkeepers]]: Her former captors.
-- [[02 Players/Iiko.md|Iiko]]: A fellow Truthwatcher; seeing Khria may trigger a resonance in their shared spren types.
+- [[Mallow]]: Her sister from the Purelake.
+- [[Truthkeepers]]: Her former captors.
+- [[Iiko]]: A fellow Truthwatcher; seeing Khria may trigger a resonance in their shared spren types.
 
 # Tags
 #npc
