@@ -45,8 +45,8 @@ Rules:
 - you should always leave links BLANK as they will be filled in by the parser.
 - tags must always be a YAML list of #camel_case tags.
 - tags are keywords that you deem helpful for finding this file later. Tags and links are how we determine what markdown files to give you next query.
-- if a page does not exist, add a tag INSTEAD of generating a new file.
-- if a page is created that represents a tag, remove tags from other documents and add a link instead.
+- if a page is created that represents a tag, replace tags with a hard [[Obsidian Link]] instead.
+- if a page does not exist, add a tag INSTEAD of generating a new file or making it an [[Obsidian Link]] in the document.
 - status is either "active", "inactive", or "planned" and is used for filtering.
 - last_index is the current time, the time the most recent version of the document was generated.
 
