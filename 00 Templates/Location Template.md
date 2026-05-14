@@ -3,14 +3,13 @@ name:
 type: location
 status: active
 links: []
-tags: []
+tags:
+  - "#location"
 ---
 # Description
 
 # Background
 
-# Goals
-- 
 # Hooks
 - 
 # Connections

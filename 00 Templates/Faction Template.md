@@ -3,7 +3,8 @@ name:
 type: faction
 status: active
 links: []
-tags: []
+tags:
+  - "#faction"
 ---
 # Description
 

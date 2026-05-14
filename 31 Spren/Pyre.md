@@ -1,33 +1,33 @@
 ---
 name: Pyre
 type: spren
+status: active
 links:
   - "[[N'tal]]"
 tags:
   - "#spren"
   - "#ashspren"
   - "#radiant"
-status: active
 ---
-# Summary
-N'tal's radical and spiteful Ashspren.
+# Description
+A radical and spiteful Ashspren bonded to [[N'tal]]. Unlike typical spren, she is driven by a deep-seated ideological hatred for the ancient Radiants and views herself as a necessary sacrifice to prevent the return of the Radiant bonds.
 
 # Appearance
-Pyre appears as a series of shifting, faintly glowing electrical scorches that seem to burn a slow, blackened trail across whatever surface she inhabits. Her voice is sharp and crackles with static.
+Pyre manifests as a series of shifting, glowing electrical scorches that leave a blackened trail across surfaces. Her presence is accompanied by a voice that is sharp and crackles with static.
 
 # Personality
-Dramatic, spiteful, and intensely ideological. Unlike many spren who are eager for the return of the Radiants, Pyre views the ancient Radiants as traitors. She is "young" in spirit and holds a radical view: she believes she is a sacrifice, bonding a human only to prevent other spren from doing so and to "surgically" remove the "Possessed" (Radiants) to protect her kind.
+Dramatic and intensely ideological, Pyre is "young" in spirit and holds a spiteful view of the past. She is a radical who advocates for ruthless solutions, often pushing for the "surgical" elimination of those she deems a threat to her kind.
 
 # Background
-An Ashspren from the Cognitive Realm, Pyre was drawn to N'tal's intense restraint and his proximity to the Ghostbloods. She encourages him to be ruthless, often advocating for the death of prisoners she deems "dangerous."
+Drawn to [[N'tal]]'s proximity to the [[Ghostbloods]] and his intense personal restraint, Pyre entered the bond to act as a preventative measure. She views the resurgence of the Radiants as a "contagion" and seeks to use her partnership with N'tal to identify and destroy "The Possessed" before their influence can spread.
 
-# Motivations
-- Oppose the Radiants: She wants to prevent the "contagion" of the Radiant bonds from spreading.
-- Odium's Side: She is more likely to sympathize with those who oppose the modern status quo of Roshar, potentially even the side of Odium if it means the end of the "traitorous" bonds.
+# Goals
+- **Oppose the Radiants:** Actively work to prevent the spread of Radiant bonds, which she views as a betrayal by her kind.
+- **Support the Opposition:** Sympathize with any force—potentially including the side of Odium—that aims to dismantle the modern status quo of Roshar and the "traitorous" bonds.
 
-# Relationships
-- [[N'tal]]: Her bonded partner, whom she views as a tool for her "surgical" goals.
-- The Possessed: She views them as targets to be eliminated.
+# Hooks
+- 
 
-# Tags
-#spren
+# Connections
+- **[[N'tal]]**: Her bonded partner, whom she regards more as a tool for her ideological goals than a companion.
+- **The Possessed**: Her primary targets; she views them as dangerous anomalies that must be eliminated to protect the Cognitive Realm.

@@ -1,32 +1,33 @@
 ---
 name: Kun'ahu
 type: spren
+status: active
 links:
   - "[[Galeth-son-Thald]]"
+  - "[[Dreamwaker]]"
 tags:
   - "#spren"
   - "#peakspren"
   - "#reliable"
-status: active
 ---
-# Summary
-Galeth's jovial and reliable Peakspren.
+# Description
+A jovial and reliable Peakspren bonded to [[Galeth-son-Thald]]. He serves as an emotional anchor and a steadfast cheerleader, embodying the unshakable nature of the Stonewards.
 
 # Appearance
-Kun'ahu appears in the physical realm as a small, living rock statue. His form is rugged and earthy, yet he moves with a surprising, athletic grace that contradicts his stony exterior.
+In the physical realm, Kun'ahu manifests as a small, living rock statue. Despite his rugged, stony exterior, he moves with a surprising athletic grace and fluidity.
 
 # Personality
-True to the nature of Peakspren, Kun'ahu is incredibly jovial, optimistic, and excitable. He is a natural cheerleader, always eager to help and pushing for athletic or physical solutions to problems. He serves as the emotional "anchor" to Galeth's more stubborn or serious nature.
+True to his kind, Kun'ahu is incredibly optimistic, excitable, and naturally jovial. He consistently pushes for physical or athletic solutions to problems and acts as a counterbalance to Galeth’s more stubborn or serious temperament.
 
 # Background
-Kun'ahu is a Peakspren from the Cognitive Realm who sought out Galeth-son-Thald due to the Shin warrior's inherent dependability and sense of teamwork. He recognizes the burden Galeth carries from his military past and aims to help him find strength in "standing where he is needed."
+A Peakspren from the Cognitive Realm, Kun'ahu was drawn to Galeth due to the Shin warrior's innate dependability. He understands the heavy burden of Galeth’s military history and seeks to help him find a new purpose in "standing where he is needed," guiding him toward the path of a Stoneward.
 
-# Motivations
-- Restore the Stonewards: He is driven by a desire to help others and believes that through Galeth, he can show the world what true, unshakable reliability looks like.
+# Goals
+- **Restore the Stonewards:** Driven by a fundamental desire to help others and demonstrate the power of true, unshakable reliability to the world through his bond.
 
-# Relationships
-- [[Galeth-son-Thald]]: His bonded Radiant.
-- [[Dreamwaker]]: A fellow spren in the party. Kun'ahu is likely the more "grounded" and optimistic foil to Dreamwaker's cryptic nature.
+# Hooks
+- 
 
-# Tags
-#spren
+# Connections
+- **[[Galeth-son-Thald]]**: His bonded Radiant and the warrior he supports.
+- **[[Dreamwaker]]**: A fellow spren within the party; Kun'ahu provides a grounded, optimistic foil to Dreamwaker's more cryptic and ancient personality.

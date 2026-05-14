@@ -3,7 +3,8 @@ name:
 type: player
 status: active
 links: []
-tags: []
+tags:
+  - "#player"
 player:
 ---
 # Description

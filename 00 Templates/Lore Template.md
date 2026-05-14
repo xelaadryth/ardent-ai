@@ -3,7 +3,8 @@ name:
 type: lore
 status: active
 links: []
-tags: []
+tags:
+  - "#location"
 ---
 # Description
 

@@ -1,32 +1,32 @@
 ---
 name: Viscose
 type: spren
+status: active
 links:
   - "[[Kuma]]"
 tags:
   - "#spren"
   - "#inkspren"
   - "#logical"
-status: active
 ---
-# Summary
-Kuma's logical and contrarian Inkspren.
+# Description
+A logical and contrarian Inkspren bonded to [[Kuma]]. They serve as a stoic counterbalance to their partner's creative impulses, viewing the world through a lens of absolute precision and fundamental truth.
 
 # Appearance
-Viscose appears as a deep black, oily statue. They are incredibly still and non-emotive, moving only when absolutely necessary. Their voice is flat and robotic, delivered in a deadpan drone.
+Viscose manifests as an oily, deep-black statue. They are characterized by an unsettling stillness, moving only when strictly necessary. Their voice is a flat, robotic drone, devoid of emotional inflection.
 
 # Personality
-Viscose is the embodiment of logic and precision. They frequently use the phrases "is" and "is not" to define the world around them. They value caution and the honoring of promises above all else, and they harbor a deep distrust for anyone who acts on instinct or emotion. They view their role as a necessary "balance" to Kuma’s constant, sometimes impulsive, drive to create.
+The embodiment of logic, Viscose defines the world through binary certainties—frequently utilizing the phrases "is" and "is not." They prioritize caution and the honoring of promises, harboring a profound distrust for instinctual or emotional decision-making. They see themselves as the necessary analytical weight to [[Kuma]]’s drive to build and create.
 
 # Background
-An Inkspren from the Cognitive Realm, Viscose was drawn to Kuma’s dedication to the "truth" of materials and the logic of crafting. They believe that true improvement comes from understanding what a thing is at its most fundamental level.
+An Inkspren from the Cognitive Realm, Viscose was attracted to [[Kuma]]’s dedication to the "truth" inherent in materials and the structured logic of craftsmanship. They hold the conviction that true refinement is only possible once a thing is understood at its most fundamental level.
 
-# Motivations
-- Logical Refinement: To guide Kuma toward the most efficient and logical path of self-improvement.
-- Honor the Bond: To ensure Kuma adheres to the strict logical codes of the Elsecallers.
+# Goals
+- **Logical Refinement:** Guiding [[Kuma]] toward the most efficient and logically sound path of self-improvement and creation.
+- **Honor the Bond:** Ensuring that [[Kuma]] strictly adheres to the logical codes and oaths associated with the Elsecallers.
 
-# Relationships
-- [[Kuma]]: Their bonded Radiant.
+# Hooks
+- 
 
-# Tags
-#spren
+# Connections
+- **[[Kuma]]**: Their bonded Radiant, whom they provide with constant analytical feedback and logical grounding.

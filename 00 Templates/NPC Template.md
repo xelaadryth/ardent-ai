@@ -3,7 +3,8 @@ name:
 type: npc
 status: active
 links: []
-tags: []
+tags:
+  - "#npc"
 ---
 # Description
 

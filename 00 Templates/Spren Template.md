@@ -3,7 +3,8 @@ name:
 type: spren
 status: active
 links: []
-tags: []
+tags:
+  - "#spren"
 ---
 # Description
 

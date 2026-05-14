@@ -1,14 +1,20 @@
 ---
 name: Hearthstone
 type: location
-tags: [location, placeholder]
 status: active
-parent: 
-children: []
+links: []
+tags:
+  - "#location"
+  - "#placeholder"
 ---
-# Summary
-Location of the miracle investigation.
+# Description
+A rural settlement currently serving as the site for an official miracle investigation.
 
-# Notable NPCs
+# Background
+Hearthstone is a small town that has recently come under the scrutiny of the [[Truthkeepers]]. The investigation centers on identifying the nature of local anomalies to determine if they constitute a legal or security threat.
+
 # Hooks
+- 
+
+# Connections
 -

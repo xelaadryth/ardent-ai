@@ -3,7 +3,8 @@ name:
 type: session
 status: active
 links: []
-tags: []
+tags:
+  - "#session"
 number:
 ---
 # Description

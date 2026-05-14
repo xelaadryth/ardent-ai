@@ -3,7 +3,8 @@ name:
 type: scene
 status: active
 links: []
-tags: []
+tags:
+  - "#scene"
 ---
 # Description
 

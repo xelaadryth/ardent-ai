@@ -1,32 +1,33 @@
 ---
 name: Verdae
 type: spren
+status: active
 links:
   - "[[Fina]]"
 tags:
   - "#spren"
   - "#cultivationspren"
   - "#naive"
-status: active
 ---
-# Summary
-Fina's naive and vine-like Cultivationspren.
+# Description
+An intensely naive and gentle Cultivationspren bonded to [[Fina]]. She serves as a soft, moral anchor, consistently nudging her partner away from cold pragmatism and toward the foundational ideals of the Radiants.
 
 # Appearance
-Verdae appears as a shimmering network of vines speckled with quartz. As she moves, the vines curl and shift to form a face-like structure. She has the texture of cloth, though she wears no clothing, and her eyes, teeth, and hands are made of translucent crystal.
+Verdae manifests as a shimmering network of vines speckled with quartz. These vines shift and curl to form a face-like structure. While she has the physical texture of cloth, her eyes, teeth, and hands are composed of translucent crystal.
 
 # Personality
-Soft, quiet, and intensely naive. Verdae is somewhat curious and blindly trusts Fina's rationality. She is a "younger" spren who is still learning the complexities of human morality, often acting as a gentle anchor to Fina's more ruthless pragmatism.
+Quiet and soft-spoken, Verdae is characterized by a deep curiosity and a blind trust in [[Fina]]'s rationality. Being a "younger" spren, she is still navigating the complexities of human morality and often struggles to reconcile her partner's ruthless tendencies with the value of life.
 
 # Background
-A Cultivationspren from the Cognitive Realm, Verdae was ordered by the "Ring" to bond with Fina for unknown reasons.
+A Cultivationspren hailing from the Cognitive Realm, Verdae did not choose her bond in the traditional sense; she was ordered by the "Ring" to bond with [[Fina]] for reasons that remain undisclosed to her partner.
 
-# Motivations
-- Remember the Forgotten: She constantly prompts Fina to notice the weak and the injured.
-- Life Before Death: Verdae is trying to steer Fina away from her ruthless tendencies toward the ideals of "Life Before Death" and "Journey Before Destination."
+# Goals
+- **Remember the Forgotten:** Frequently prompts [[Fina]] to acknowledge and care for the weak, the injured, and the overlooked.
+- **Moral Alignment:** Actively steers her Radiant toward the ideals of "Life Before Death" and "Journey Before Destination," seeking to soften her pragmatic edges.
 
-# Relationships
-- [[Fina]]: Her bonded Radiant.
+# Hooks
+- 
 
-# Tags
-#spren
+# Connections
+- **[[Fina]]**: Her bonded Radiant and primary focus in the Physical Realm.
+- **The Ring**: The governing body of Cultivationspren that mandated her bond.

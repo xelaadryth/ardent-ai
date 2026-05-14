@@ -3,7 +3,8 @@ name:
 type: hook
 status: active
 links: []
-tags: []
+tags:
+  - "#faction"
 ---
 # Description
 
