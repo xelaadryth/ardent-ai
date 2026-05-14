@@ -71,17 +71,15 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           PROMPT: ${{ env.PROMPT }}
         run: |
-          cat output.txt
-          if grep -q '^COMMIT_MESSAGE=' output.txt; then
-            echo "COMMIT_MESSAGE=$(grep '^COMMIT_MESSAGE=' output.txt | sed 's/^COMMIT_MESSAGE=//')" >> $GITHUB_ENV
-          else
-            echo "COMMIT_MESSAGE=Ardent AI update" >> $GITHUB_ENV
+          REQUEST_FILENAME=$(grep '^REQUEST_FILENAME=' output.txt | head -n 1 | cut -d'=' -f2- | tr -d '\r')
+          echo "REQUEST_FILENAME=$REQUEST_FILENAME" >> $GITHUB_ENV
+
+          COMMIT_MESSAGE=$(grep '^COMMIT_MESSAGE=' output.txt | head -n 1 | cut -d'=' -f2- | tr -d '\r')
+          if [ -z "$COMMIT_MESSAGE" ]; then
+            COMMIT_MESSAGE="Ardent AI update"
           fi
-          if grep -q '^REQUEST_FILENAME=' output.txt; then
-            echo "REQUEST_FILENAME=$(grep '^REQUEST_FILENAME=' output.txt | sed 's/^REQUEST_FILENAME=//')" >> $GITHUB_ENV
-          else
-            echo "REQUEST_FILENAME=" >> $GITHUB_ENV
-          fi
+          echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
+
           git config user.name "Ardent AI"
           git config user.email "ardent-ai@users.noreply.github.com"
           git add .
