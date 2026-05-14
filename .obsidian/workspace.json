@@ -97,10 +97,14 @@
             "id": "ab0d9b63e01e760c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Sila.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sila"
             }
           }
         ],
@@ -279,6 +283,12 @@
   },
   "active": "ab0d9b63e01e760c",
   "lastOpenFiles": [
+    "Inbox/Senny.md",
+    "Inbox/Sila.md",
+    "Archive/0015-Whitespine.md",
+    "06 Locations/Stringken.md",
+    "06 Locations/Hobbleken.md",
+    "04 Sessions/002 Whitespine.md",
     "03 NPCs/Karani.md",
     "Inbox/Tahs.md",
     "Tahs.md",
@@ -301,12 +311,6 @@
     "Archive/0011-Khria.md",
     "03 NPCs/Khria.md",
     "03 NPCs/Bit.md",
-    "02 Players/N'tal.md",
-    "02 Players/Mallow.md",
-    "02 Players/Kuma.md",
-    "02 Players/Iiko.md",
-    "02 Players/Galeth-son-Thald.md",
-    "02 Players/Fina.md",
     "01 Factions",
     "10 Lore",
     "07 Hooks",
