@@ -16,7 +16,7 @@ tags:
   - "#witness"
   - "#senny"
   - "#quartermaster_jola"
-last_index: 2026-05-13T23:29:00
+last_index: 2024-05-13T12:00:00Z
 number: 0
 ---
 # Description
@@ -32,7 +32,7 @@ Recruits arrive at the [[Truthkeeper Camp]], are introduced to [[High Witness Ye
 
 # Hooks
 - **The Moving Woods:** Investigate the erratic and unnatural movement of the trees surrounding the camp.
-- **Camp Politics:** Navigate the friction between witnesses such as Senny, [[Chip]], and [[Renna Palir]].
+- **Camp Politics:** Navigate the friction between witnesses such as [[Senny]], [[Chip]], and [[Renna Palir]].
 - **Supply Lines:** Earn favor with Quartermaster Jola or [[Adjudicator Peton]] to secure better equipment or standing.
 
 # Connections
@@ -41,3 +41,4 @@ Recruits arrive at the [[Truthkeeper Camp]], are introduced to [[High Witness Ye
 - **[[Adjudicator Peton]]**: The party's immediate superior and taskmaster.
 - **[[Truthkeepers]]**: The organization the recruits are now serving.
 - **[[Chip]]** & **[[Renna Palir]]**: Notable camp members and potential allies/rivals.
+- **[[Senny]]**: A fellow recruit and devout Truthkeeper.
