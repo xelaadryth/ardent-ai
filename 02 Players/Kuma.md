@@ -4,7 +4,7 @@ type: player
 status: active
 player: Dan
 order: Elsecaller
-spren: [[Viscose]]
+spren: Viscose
 ---
 # Summary
 A Nurian "maker" with an obsessive drive to repair, seeking the truth of his parents' disappearance in the fabrial industry.

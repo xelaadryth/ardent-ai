@@ -12,6 +12,7 @@ OPERATIONAL PROTOCOLS
 	- Validate all edits against its template.
 	- If a template is missing: Stop and report error. Do not guess.
 - Linking: Use [[Wiki Links]]. Maintain bi-directional links when possible.
+- Broken Links: Create blank pages from templates to avoid broken links.
 
 OUTPUT FORMAT
 For every modification, use the following structure which specifies filename and contents. Surround content in triple backticks:

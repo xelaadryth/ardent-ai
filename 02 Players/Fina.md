@@ -4,7 +4,7 @@ type: player
 status: active
 player: Shirley
 order: Edgedancer
-spren: [[Verdae]]
+spren: Verdae
 ---
 # Summary
 An Alethi noble turned occult researcher and medic, seeking to define her own destiny.
