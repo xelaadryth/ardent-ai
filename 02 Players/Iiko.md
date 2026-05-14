@@ -2,7 +2,7 @@
 name: Iiko
 type: player
 status: active
-player: TBD
+player: Truong
 order: Truthwatcher
 spren: [[Dreamwaker]]
 ---

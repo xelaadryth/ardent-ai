@@ -2,7 +2,7 @@
 name: Mallow
 type: player
 status: active
-player: TBD
+player: Audrey
 order: Willshaper
 spren: [[Cadence]]
 ---

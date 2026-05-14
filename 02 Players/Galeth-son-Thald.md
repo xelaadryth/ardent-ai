@@ -2,9 +2,9 @@
 name: Galeth-son-Thald
 type: player
 status: active
-player: TBD
+player: Corin
 order: Unknown
-spren: None
+spren: [[Kun'ahu]]
 ---
 # Summary
 A self-exiled Shin warrior living in permanent penance among the Alethi.

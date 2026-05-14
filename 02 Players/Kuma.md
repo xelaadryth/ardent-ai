@@ -2,7 +2,7 @@
 name: Kuma
 type: player
 status: active
-player: TBD
+player: Dan
 order: Elsecaller
 spren: [[Viscose]]
 ---

@@ -2,7 +2,7 @@
 name: Fina
 type: player
 status: active
-player: TBD
+player: Shirley
 order: Edgedancer
 spren: [[Verdae]]
 ---
