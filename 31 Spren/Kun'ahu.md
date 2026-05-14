@@ -2,26 +2,27 @@
 name: Kun'ahu
 type: spren
 status: active
-spren_type: Unknown
+spren_type: Peakspren
 radiant: [[Galeth-son-Thald]]
 ---
 # Summary
-Galeth's spren, currently of unknown type.
+Galeth's jovial and reliable Peakspren.
 
 # Appearance
-Manifests as shifting shadows that mirror the weight of Galeth's guilt.
+Kun'ahu appears in the physical realm as a small, living rock statue. His form is rugged and earthy, yet he moves with a surprising, athletic grace that contradicts his stony exterior.
 
 # Personality
-Stoic and silent, reflecting Galeth's own fatalism.
+True to the nature of Peakspren, Kun'ahu is incredibly jovial, optimistic, and excitable. He is a natural cheerleader, always eager to help and pushing for athletic or physical solutions to problems. He serves as the emotional "anchor" to Galeth's more stubborn or serious nature.
 
 # Background
-Bonded to Galeth during his self-exile; the nature of the bond is as murky as the spren's origin.
+Kun'ahu is a Peakspren from the Cognitive Realm who sought out Galeth-son-Thald due to the Shin warrior's inherent dependability and sense of teamwork. He recognizes the burden Galeth carries from his military past and aims to help him find strength in "standing where he is needed."
 
 # Motivations
-- To bear witness to Galeth's penance.
+- Restore the Stonewards: He is driven by a desire to help others and believes that through Galeth, he can show the world what true, unshakable reliability looks like.
 
 # Relationships
-- [[Galeth-son-Thald]]: His bonded partner.
+- [[Galeth-son-Thald]]: His bonded Radiant.
+- [[Dreamwaker]]: A fellow spren in the party. Kun'ahu is likely the more "grounded" and optimistic foil to Dreamwaker's cryptic nature.
 
 # Tags
 #spren
