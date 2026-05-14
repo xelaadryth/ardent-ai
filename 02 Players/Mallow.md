@@ -4,7 +4,7 @@ type: player
 status: active
 player: Audrey
 order: Willshaper
-spren: Cadence
+spren: "[[Cadence]]"
 ---
 # Summary
 A Purelaker seeking atonement for the betrayal that led to her sister's abduction.

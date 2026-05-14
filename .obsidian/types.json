@@ -4,6 +4,8 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "spren": "text",
-    "radiant": "text"
+    "radiant": "text",
+    "links": "multitext",
+    "last_index": "datetime"
   }
 }

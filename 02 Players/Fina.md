@@ -4,7 +4,7 @@ type: player
 status: active
 player: Shirley
 order: Edgedancer
-spren: Verdae
+spren: "[[Verdae]]"
 ---
 # Summary
 Alethi noble Edgedancer occult researcher seeking to document the Cosmere.

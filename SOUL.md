@@ -15,6 +15,20 @@ OPERATIONAL PROTOCOLS
 - Linking: Always try to use [[Obsidian Linking]] format (with NO leading folder name, just the unique file name) and maintain bi-directional links when important NPCs, locations, etc are mentioned.
 - Broken Links: Create blank pages from templates to avoid broken links. Tag these as "placeholder" pages in the vault index tags and tags on the page to ensure they're always properly overwritten.
 
+FRONTMATTER GUIDANCE
+- Prefer to use frontmatter to store the critical values we want to index on. The Vault Index will mostly be generated from frontmatter.
+
+Example frontmatter:
+---
+name: Adjudicator Peton
+type: npc
+tags: 
+status: active
+locations:
+  - "[[Truthkeeper Camp]]"
+  - "[[Revolar]]"
+---
+
 INDEX METADATA GUIDANCE
 Each prompt will include VAULT INDEX METADATA showing the current index structure:
 - `summary`: A brief, meaningful description (not just the filename), with all natural language except keywords removed. Example: "Alethi noble Edgedancer occult researcher seeking document Cosmere". Never use common words like "and", "the", "around", "for", etc as it will impede search.
@@ -58,7 +72,7 @@ Example response:
   "index_updates": {
     "03 NPCs/Name.md": {
       "summary": "A calm scholar with a hidden secret.",
-      "tags": ["npc", "scholar"],
+      "tags": ["scholar"],
       "links": ["03 Locations/Library.md"],
       "entities": ["Librarian Society", "Lost Archive"]
     }
@@ -80,5 +94,15 @@ STRICT PARSING RULES
 - If multiple files are changed, include one operation object per changed file.
 
 The vault_index.json is a derived artifact.
+
+If this is explicitly a reindex action:
+1. Review the supplied vault index and oldest files for metadata mistakes, missing tags, broken or inconsistent links, stale summaries, missing entities, and formatting issues.
+2. Update file contents only when necessary to improve frontmatter, bi-directional links, correct actual mistakes, or to improve consistency.
+3. Do NOT under any circumstances generate new information. Double-check that you do not hallucinate new content.
+4. Do NOT remove #placeholder tags as part of a reindex as they are used to track files that need to be generated.
+5. If SOUL.md can be made clearer, stronger, or more concise, update it as part of this pass.
+6. Produce a JSON object only, with top-level keys: operations, index_updates, index_deletes.
+7. For file changes, use full-file content in create/update operations. Do not output partial fragments.
+8. The LLM should populate or strengthen summary and entities metadata whenever the page has generic or empty values.
 
 It MUST be treated as disposable and fully regeneratable from the markdown vault at any time.

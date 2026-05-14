@@ -54,6 +54,8 @@ def build_reindex_prompt(extra_prompt: str = '') -> str:
     oldest_sections = '\n\n'.join(build_file_section(path) for path in oldest_files)
 
     prompt = f"""
+Perform a reindex action.
+
 {core_context}
 
 ---
@@ -65,18 +67,6 @@ VAULT INDEX JSON:
 
 OLDEST 10 MARKDOWN FILES:
 {oldest_sections}
-
----
-
-REINDEX INSTRUCTIONS:
-1. Review the supplied vault index and oldest files for metadata mistakes, missing tags, broken or inconsistent links, stale summaries, missing entities, and formatting issues.
-2. Update file contents only when necessary to add bi-directional links, correct actual mistakes, or to improve consistency.
-3. Do NOT under any circumstances generate new information. Double-check that you do not hallucinate new content.
-4. Do NOT remove #placeholder tags as part of a reindex as they are used to track files that need to be generated.
-5. If SOUL.md can be made clearer, stronger, or more concise, update it as part of this pass.
-6. Produce a JSON object only, with top-level keys: operations, index_updates, index_deletes.
-7. For file changes, use full-file content in create/update operations. Do not output partial fragments.
-8. The LLM should populate or strengthen summary and entities metadata whenever the page has generic or empty values.
 
 {extra_prompt}
 """

@@ -4,7 +4,7 @@ type: player
 status: active
 player: Corin
 order: Unknown
-spren: Kun'ahu
+spren: "[[Kun'ahu]]"
 ---
 # Summary
 Exiled Shin warrior living in penance among the Alethi.

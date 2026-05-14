@@ -4,7 +4,7 @@ type: player
 status: active
 player: Truong
 order: Truthwatcher
-spren: Dreamwaker
+spren: "[[Dreamwaker]]"
 ---
 # Summary
 Manic Nurian Truthwatcher and Envoy seeking fundamental truths and the Ardentia.

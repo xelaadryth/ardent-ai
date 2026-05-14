@@ -1,9 +1,11 @@
 ---
 name: Adjudicator Peton
 type: npc
-tags: [npc]
+tags:
 status: active
-locations: [Truthkeeper Camp]
+locations:
+  - "[[Truthkeeper Camp]]"
+  - "[[Revolar]]"
 ---
 # Appearance
 Tall, sharp-faced, bright blue eyes, cropped hair/beard. Wears a sidesword and shield.
