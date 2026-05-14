@@ -169,13 +169,13 @@ def build_index_from_disk() -> dict:
         content = load_markdown(str(relative_path))
         entry = build_index_entry(content)
         if entry.get("name"):
-            # Use name as key instead of filepath
-            index[entry["name"]] = entry
+            filepath = relative_path.as_posix()
+            index[filepath] = entry
     return index
 
 
 def normalize_index_keys(files: dict) -> tuple[dict, bool]:
-    """Ensure all index keys are page names, not filepaths."""
+    """Ensure all index keys are full relative filepaths."""
     normalized = {}
     changed = False
 
@@ -184,22 +184,28 @@ def normalize_index_keys(files: dict) -> tuple[dict, bool]:
             normalized[key] = entry
             continue
 
-        name = str(entry.get("name", "")).strip()
-        if not name and isinstance(key, str):
+        normalized_key = key
+        if isinstance(key, str):
             path = Path(key)
             if path.suffix.lower() == ".md":
-                name = path.stem
-                entry["name"] = name
-                changed = True
-
-        if name and key != name:
-            changed = True
-            if name in normalized:
-                normalized[name] = merge_index_entries(normalized[name], entry)
+                normalized_key = path.as_posix()
+                if normalized_key != key:
+                    changed = True
+                if not entry.get("name"):
+                    entry["name"] = path.stem
+                    changed = True
             else:
-                normalized[name] = entry
+                name = str(entry.get("name", "")).strip()
+                entry_type = str(entry.get("type", ""))
+                if name:
+                    normalized_key = get_filepath_from_name(name, entry_type)
+                    if normalized_key != key:
+                        changed = True
+
+        if normalized_key in normalized:
+            normalized[normalized_key] = merge_index_entries(normalized[normalized_key], entry)
         else:
-            normalized[key] = entry
+            normalized[normalized_key] = entry
 
     return normalized, changed
 
@@ -228,9 +234,9 @@ def augment_index_with_disk(files: dict) -> tuple[dict, bool]:
     changed = normalized
 
     disk_index = build_index_from_disk()
-    for name, entry in disk_index.items():
-        if name not in updated or updated[name] != entry:
-            updated[name] = entry
+    for filepath, entry in disk_index.items():
+        if filepath not in updated or updated[filepath] != entry:
+            updated[filepath] = entry
             changed = True
 
     return updated, changed
@@ -329,12 +335,14 @@ def retrieve_vault_context(query: str, limit: int = 10) -> str:
         except:
             return "No relevant vault context found"
 
-    selected = [name for name, _ in sorted(scored, key=lambda item: item[1], reverse=True)[:limit]]
+    selected_items = sorted(scored, key=lambda item: item[1], reverse=True)[:limit]
+    selected = [filepath for filepath, _ in selected_items]
+
+    print("Selected vault context files:", ", ".join(f"{filepath}({score})" for filepath, score in selected_items))
 
     context_parts = []
-    for name in selected:
-        entry = index[name]
-        filepath = get_filepath_from_name(name, entry.get('type', ''))
+    for filepath in selected:
+        entry = index[filepath]
         context_parts.append(f"--- {filepath} ---\n{load_markdown(filepath)}")
 
     return "\n\n".join(context_parts)

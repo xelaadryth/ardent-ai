@@ -8,14 +8,14 @@ import vault_index
 def test_retrieve_vault_context_scores_files_and_loads_content(tmp_path, monkeypatch):
     vault_index_data = {
         "files": {
-            "Aaron": {
+            "03 NPCs/Aaron.md": {
                 "name": "Aaron",
                 "type": "npc",
                 "status": "active",
                 "tags": ["#noble", "#warrior", "#human"],
                 "links": ["[[Town]]"]
             },
-            "Town": {
+            "06 Locations/Town.md": {
                 "name": "Town",
                 "type": "location",
                 "status": "active",
@@ -121,7 +121,7 @@ def test_get_folder_from_type_returns_folder_prefix():
     assert vault_index.get_folder_from_type("core") == ""
 
 
-def test_build_index_from_disk_uses_name_key(tmp_path, monkeypatch):
+def test_build_index_from_disk_uses_filepath_key(tmp_path, monkeypatch):
     (tmp_path / "03 NPCs").mkdir(parents=True)
     (tmp_path / "03 NPCs" / "Karani.md").write_text("---\nname: Karani\ntype: npc\nlinks: []\ntags: []\n---\nKarani content", encoding="utf-8")
 
@@ -130,14 +130,14 @@ def test_build_index_from_disk_uses_name_key(tmp_path, monkeypatch):
 
     disk_index = vault_index.build_index_from_disk()
 
-    assert "Karani" in disk_index
-    assert "03 NPCs/Karani.md" not in disk_index
+    assert "03 NPCs/Karani.md" in disk_index
+    assert "Karani" not in disk_index
 
 
 def test_load_vault_index_normalizes_full_path_keys(tmp_path, monkeypatch):
     vault_index_data = {
         "files": {
-            "03 NPCs/Karani.md": {
+            "Karani": {
                 "name": "Karani",
                 "type": "npc",
                 "status": "active",
@@ -152,9 +152,9 @@ def test_load_vault_index_normalizes_full_path_keys(tmp_path, monkeypatch):
 
     normalized_index = vault_index.load_vault_index()
 
-    assert "Karani" in normalized_index
-    assert "03 NPCs/Karani.md" not in normalized_index
-    assert normalized_index["Karani"]["type"] == "npc"
+    assert "03 NPCs/Karani.md" in normalized_index
+    assert "Karani" not in normalized_index
+    assert normalized_index["03 NPCs/Karani.md"]["type"] == "npc"
 
 
 def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypatch):
@@ -164,12 +164,12 @@ def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypa
     
     vault_index_data = {
         "files": {
-            "OldFile": {
+            "03 NPCs/OldFile.md": {
                 "name": "OldFile",
                 "type": "npc",
                 "last_index": old_timestamp
             },
-            "NewFile": {
+            "02 Players/NewFile.md": {
                 "name": "NewFile", 
                 "type": "player",
                 "last_index": new_timestamp
