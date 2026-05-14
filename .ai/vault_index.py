@@ -280,35 +280,48 @@ def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
 def retrieve_vault_context(query: str, limit: int = 10) -> str:
     """Retrieve relevant vault context based on query."""
     index = load_vault_index()
-    
-    terms = query_terms(query)
-    scored = []
 
-    for name, metadata in index.items():
+    terms = query_terms(query)
+    scored: list[tuple[str, int]] = []
+
+    for filepath, metadata in index.get("files", index).items():
         if not isinstance(metadata, dict):
             continue
 
-        score = score_entry(name, metadata, terms, query)
+        score = score_entry(filepath, metadata, terms, query)
         if score > 0:
-            scored.append((name, score))
+            scored.append((filepath, score))
 
     if not scored:
         # Fallback to SOUL.md when no matches
         try:
             soul_content = load_markdown("SOUL.md")
             return f"--- SOUL.md ---\n{soul_content}"
-        except:
+        except Exception:
             return "No relevant vault context found"
 
-    selected_items = sorted(scored, key=lambda item: item[1], reverse=True)[:limit]
-    selected = [filepath for filepath, _ in selected_items]
+    # Sort by score descending and take top N
+    selected_items = sorted(
+        scored,
+        key=lambda item: item[1],
+        reverse=True
+    )[:limit]
 
-    print("Selected vault context files:", ", ".join(f"{filepath}({score})" for filepath, score in selected_items))
+    # Print selected files with scores
+    print(
+        "Selected vault context files:\n" +
+        "\n".join(
+            f"  {filepath}: {score}"
+            for filepath, score in selected_items
+        )
+    )
 
+    # Load file contents
     context_parts = []
-    for filepath in selected:
-        entry = index[filepath]
-        context_parts.append(f"--- {filepath} ---\n{load_markdown(filepath)}")
+    for filepath, _score in selected_items:
+        context_parts.append(
+            f"--- {filepath} ---\n{load_markdown(filepath)}"
+        )
 
     return "\n\n".join(context_parts)
 
