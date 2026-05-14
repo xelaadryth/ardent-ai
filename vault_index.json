@@ -36,46 +36,102 @@
       "links": []
     },
     "02 Players/Fina.md": {
-      "summary": "Fina",
+      "summary": "Alethi noble Edgedancer and occult researcher seeking to document the Cosmere.",
       "tags": [
-        "players"
+        "player",
+        "Edgedancer"
       ],
-      "links": []
+      "links": [
+        "02 Players/Verdae.md"
+      ],
+      "entities": [
+        "Verdae"
+      ]
     },
     "02 Players/Galeth-son-Thald.md": {
-      "summary": "Galeth son Thald",
+      "summary": "Exiled Shin warrior living in penance among the Alethi.",
       "tags": [
-        "players"
+        "player"
       ],
-      "links": []
+      "links": [
+        "02 Players/Kun'ahu.md"
+      ],
+      "entities": [
+        "Kun'ahu",
+        "Shinovar",
+        "Alethi",
+        "Truthkeepers"
+      ]
     },
     "02 Players/Iiko.md": {
-      "summary": "Iiko",
+      "summary": "Manic Nurian Truthwatcher and Envoy seeking fundamental truths and the Ardentia.",
       "tags": [
-        "players"
+        "player",
+        "Truthwatcher"
       ],
-      "links": []
+      "links": [
+        "02 Players/Dreamwaker.md",
+        "02 Players/N'tal.md",
+        "02 Players/Kuma.md",
+        "02 Players/Fina.md",
+        "02 Players/Mallow.md"
+      ],
+      "entities": [
+        "Dreamwaker",
+        "Mythos",
+        "Ardentia"
+      ]
     },
     "02 Players/Kuma.md": {
-      "summary": "Kuma",
+      "summary": "Nurian Elsecaller and maker obsessed with repairing and uncovering his parents' fate.",
       "tags": [
-        "players"
+        "player",
+        "Elsecaller"
       ],
-      "links": []
+      "links": [
+        "02 Players/Viscose.md"
+      ],
+      "entities": [
+        "Viscose",
+        "Revolar",
+        "Artifabrians"
+      ]
     },
     "02 Players/Mallow.md": {
-      "summary": "Mallow",
+      "summary": "Purelaker Willshaper seeking atonement for the betrayal of her sister.",
       "tags": [
-        "players"
+        "player",
+        "Willshaper"
       ],
-      "links": []
+      "links": [
+        "02 Players/Khria.md",
+        "02 Players/Cadence.md"
+      ],
+      "entities": [
+        "Khria",
+        "Cadence",
+        "Pom",
+        "Purelake",
+        "Truthkeepers"
+      ]
     },
     "02 Players/N'tal.md": {
-      "summary": "N'tal",
+      "summary": "Nurian Dustbringer merchant seeking vengeance for his family's murder.",
       "tags": [
-        "players"
+        "player",
+        "Dustbringer"
       ],
-      "links": []
+      "links": [
+        "02 Players/Pyre.md"
+      ],
+      "entities": [
+        "Pyre",
+        "Revolar",
+        "Ghostbloods",
+        "Undertaker",
+        "Guddy",
+        "Bloodmarks"
+      ]
     },
     "31 Spren/Cadence.md": {
       "summary": "Cadence",
