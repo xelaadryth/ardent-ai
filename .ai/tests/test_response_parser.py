@@ -1,4 +1,4 @@
-import parser
+import response_parser
 
 
 def test_extract_files_returns_path_and_content():
@@ -8,7 +8,7 @@ Hello world
 ```
 """
 
-    files = parser.extract_files(output)
+    files = response_parser.extract_files(output)
 
     assert files == [("path/to/file.md", "Hello world")]
 
@@ -24,8 +24,8 @@ Hello
     def fake_write_file(path, content):
         written.append((path, content))
 
-    monkeypatch.setattr(parser, "write_file", fake_write_file)
+    monkeypatch.setattr(response_parser, "write_file", fake_write_file)
 
-    parser.apply_files(output)
+    response_parser.apply_files(output)
 
     assert written == [("foo.txt", "Hello")]

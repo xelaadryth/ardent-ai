@@ -1,4 +1,4 @@
-from vault import crawl_vault, read_file
+from vault_context import crawl_vault, read_file
 
 def load_soul():
     path = "SOUL.md"

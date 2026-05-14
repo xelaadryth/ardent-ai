@@ -1,10 +1,4 @@
-import os
 from pathlib import Path
-
-from config import MODEL
-from llm import generate_content
-from parser import apply_files
-from prompts import build_system_prompt
 
 INBOX_DIR = Path("Inbox")
 ARCHIVE_DIR = Path("Archive")
@@ -49,28 +43,3 @@ def archive_file(file_path):
     file_path.rename(target)
 
     return target
-
-
-def run_agent(request_input=None, extra_prompt=""):
-    request_file = find_inbox_file(request_input)
-    prompt = load_prompt(request_file, extra_prompt)
-    system_prompt = build_system_prompt(prompt)
-
-    output = generate_content(model=MODEL, prompt=system_prompt)
-    print(output)
-
-    apply_files(output)
-    archive_file(request_file)
-
-    return output
-
-
-def main():
-    request_input = os.environ.get("REQUEST_INPUT")
-    extra_prompt = os.environ.get("EXTRA_PROMPT", "")
-
-    return run_agent(request_input=request_input, extra_prompt=extra_prompt)
-
-
-if __name__ == "__main__":
-    main()

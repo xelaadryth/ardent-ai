@@ -63,7 +63,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REQUEST_INPUT: ${{ github.event.inputs.request_file }}
           EXTRA_PROMPT: ${{ github.event.inputs.prompt }}
-        run: python .ai/agent.py
+        run: python .ai/main.py
 
       - name: Create Pull Request
         if: github.event_name != 'pull_request'

@@ -1,5 +1,5 @@
 import re
-from vault import write_file
+from vault_context import write_file
 
 def extract_files(output: str):
     """

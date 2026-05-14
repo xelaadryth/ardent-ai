@@ -1,4 +1,4 @@
-import llm
+import llm_client
 
 
 class DummyResponse:
@@ -19,8 +19,8 @@ class DummyClient:
 
 
 def test_generate_content_forwards_to_client(monkeypatch):
-    monkeypatch.setattr(llm, "client", DummyClient())
+    monkeypatch.setattr(llm_client, "client", DummyClient())
 
-    result = llm.generate_content(model="m", prompt="prompt")
+    result = llm_client.generate_content(model="m", prompt="prompt")
 
     assert result == "result"
