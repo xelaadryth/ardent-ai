@@ -1,14 +1,19 @@
 ---
 name: Hearthstone
 type: location
-tags: [location, placeholder]
+tags:
+- locations
 status: active
-parent: 
+parent: Alethkar
 children: []
 ---
 # Summary
-Location of the miracle investigation.
+A remote village in Alethkar serving as the site of a strange, supernatural miracle that caught the attention of the Truthkeepers.
 
 # Notable NPCs
+- Sila
+- The Undertaker
+
 # Hooks
--
+- Investigate the source of the alleged miracle.
+- Uncover Ghostblood activities in the region.

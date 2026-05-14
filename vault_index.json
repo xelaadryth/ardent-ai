@@ -334,12 +334,17 @@
       ]
     },
     "06 Locations/Truthkeeper Camp.md": {
-      "summary": "Truthkeeper Camp",
+      "summary": "Primary training base for Truthkeepers organization.",
       "tags": [
         "locations"
       ],
       "links": [],
-      "entities": []
+      "entities": [
+        "Truthkeepers",
+        "High Witness Yeshan",
+        "Adjudicator Peton"
+      ],
+      "last_index": "2026-05-14T04:11:51Z"
     },
     "00 Templates/Faction Template.md": {
       "summary": "Faction Template",
@@ -374,20 +379,33 @@
       "entities": []
     },
     "06 Locations/Hearthstone.md": {
-      "summary": "Hearthstone",
+      "summary": "Remote Alethkar village site of supernatural miracle attracting Truthkeepers.",
       "tags": [
         "locations"
       ],
       "links": [],
-      "entities": []
+      "entities": [
+        "Alethkar",
+        "Sila",
+        "Undertaker",
+        "Truthkeepers"
+      ],
+      "last_index": "2026-05-14T04:11:51Z"
     },
     "06 Locations/Revolar.md": {
-      "summary": "Revolar",
+      "summary": "Industrial Alethi city hub for Artifabrians Knights of Dusk rebellion.",
       "tags": [
         "locations"
       ],
       "links": [],
-      "entities": []
+      "entities": [
+        "Alethkar",
+        "Artifabrians",
+        "Knights of Dusk",
+        "Highlord Paladar",
+        "Khria"
+      ],
+      "last_index": "2026-05-14T04:11:51Z"
     },
     "03 NPCs/Hoid.md": {
       "summary": "Hoid",
@@ -406,12 +424,15 @@
       "entities": []
     },
     "08 Scenes/Shellmite Attack.md": {
-      "summary": "Shellmite Attack",
+      "summary": "Combat encounter featuring aggressive shellmites on Shattered Plains.",
       "tags": [
         "scenes"
       ],
       "links": [],
-      "entities": []
+      "entities": [
+        "Shattered Plains"
+      ],
+      "last_index": "2026-05-14T04:11:51Z"
     },
     "05 Factions/Truthkeepers.md": {
       "summary": "Prophetic order preserving Roshar preventing Possessed rise.",

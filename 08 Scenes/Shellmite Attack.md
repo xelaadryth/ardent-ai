@@ -1,8 +1,15 @@
 ---
 name: Shellmite Attack
 type: scene
-tags: [scene, placeholder]
-status: completed
+tags:
+- scenes
+status: active
 ---
 # Summary
-Combat encounter against Shellmites during caravan transport.
+A combat encounter involving territorial shellmites during a traversal of the Shattered Plains.
+
+# Details
+- Players must defend the caravan while managing the harsh environment.
+
+# Hooks
+- Discovery of strange residue on the shells suggesting external influence.

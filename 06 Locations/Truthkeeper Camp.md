@@ -2,14 +2,18 @@
 name: Truthkeeper Camp
 type: location
 tags:
-  - placeholder
+- locations
 status: active
-parent:
+parent: Roshar
 children: []
 ---
 # Summary
+The central command and training grounds for the Truthkeepers near the Alethi border.
 
 # Notable NPCs
+- High Witness Yeshan
+- Adjudicator Peton
 
 # Hooks
-- 
+- Seek initiation into the order.
+- Intercept intelligence from Ghostblood spies.

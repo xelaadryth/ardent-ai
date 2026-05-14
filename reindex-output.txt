@@ -1,0 +1,59 @@
+{
+  "operations": [
+    {
+      "action": "update",
+      "path": "06 Locations/Hearthstone.md",
+      "content": "---\nname: Hearthstone\ntype: location\ntags:\n- locations\nstatus: active\nparent: Alethkar\nchildren: []\n---\n# Summary\nA remote village in Alethkar serving as the site of a strange, supernatural miracle that caught the attention of the Truthkeepers.\n\n# Notable NPCs\n- Sila\n- The Undertaker\n\n# Hooks\n- Investigate the source of the alleged miracle.\n- Uncover Ghostblood activities in the region."
+    },
+    {
+      "action": "update",
+      "path": "06 Locations/Revolar.md",
+      "content": "---\nname: Revolar\ntype: location\ntags:\n- locations\nstatus: active\nparent: Alethkar\nchildren: []\n---\n# Summary\nA major city known for its Artifabrian industry and political tension between various factions including the Knights of Dusk.\n\n# Notable NPCs\n- Highlord Paladar\n- Khria\n\n# Hooks\n- Locate lost Artifabrian research.\n- Navigate the rebellion within the city walls."
+    },
+    {
+      "action": "update",
+      "path": "06 Locations/Truthkeeper Camp.md",
+      "content": "---\nname: Truthkeeper Camp\ntype: location\ntags:\n- locations\nstatus: active\nparent: Roshar\nchildren: []\n---\n# Summary\nThe central command and training grounds for the Truthkeepers near the Alethi border.\n\n# Notable NPCs\n- High Witness Yeshan\n- Adjudicator Peton\n\n# Hooks\n- Seek initiation into the order.\n- Intercept intelligence from Ghostblood spies."
+    },
+    {
+      "action": "update",
+      "path": "08 Scenes/Shellmite Attack.md",
+      "content": "---\nname: Shellmite Attack\ntype: scene\ntags:\n- scenes\nstatus: active\n---\n# Summary\nA combat encounter involving territorial shellmites during a traversal of the Shattered Plains.\n\n# Details\n- Players must defend the caravan while managing the harsh environment.\n\n# Hooks\n- Discovery of strange residue on the shells suggesting external influence."
+    }
+  ],
+  "index_updates": {
+    "06 Locations/Hearthstone.md": {
+      "summary": "Remote Alethkar village site of supernatural miracle attracting Truthkeepers.",
+      "tags": ["locations"],
+      "links": [],
+      "entities": ["Alethkar", "Sila", "Undertaker", "Truthkeepers"]
+    },
+    "06 Locations/Revolar.md": {
+      "summary": "Industrial Alethi city hub for Artifabrians Knights of Dusk rebellion.",
+      "tags": ["locations"],
+      "links": [],
+      "entities": ["Alethkar", "Artifabrians", "Knights of Dusk", "Highlord Paladar", "Khria"]
+    },
+    "06 Locations/Truthkeeper Camp.md": {
+      "summary": "Primary training base for Truthkeepers organization.",
+      "tags": ["locations"],
+      "links": [],
+      "entities": ["Truthkeepers", "High Witness Yeshan", "Adjudicator Peton"]
+    },
+    "08 Scenes/Shellmite Attack.md": {
+      "summary": "Combat encounter featuring aggressive shellmites on Shattered Plains.",
+      "tags": ["scenes"],
+      "links": [],
+      "entities": ["Shattered Plains"]
+    }
+  }
+}
+[WRITE] 06 Locations/Hearthstone.md
+[WRITE] 06 Locations/Revolar.md
+[WRITE] 06 Locations/Truthkeeper Camp.md
+[WRITE] 08 Scenes/Shellmite Attack.md
+[INDEX UPDATE] 06 Locations/Hearthstone.md
+[INDEX UPDATE] 06 Locations/Revolar.md
+[INDEX UPDATE] 06 Locations/Truthkeeper Camp.md
+[INDEX UPDATE] 08 Scenes/Shellmite Attack.md
+COMMIT_MESSAGE=Ardent AI Reindex
