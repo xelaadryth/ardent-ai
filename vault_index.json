@@ -182,6 +182,23 @@
       "status": "active",
       "last_index": "2026-05-14T07:08:34Z"
     },
+    "Highlady Marise Sathir": {
+      "name": "Highlady Marise Sathir",
+      "type": "npc",
+      "links": [
+        "[[Citylord Nilar Yenev]]",
+        "[[Dalen]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#highlady",
+        "#house_sathir"
+      ],
+      "status": "active",
+      "last_index": "2026-05-14T07:08:34Z"
+    },
     "Khria": {
       "name": "Khria",
       "type": "npc",

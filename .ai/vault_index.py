@@ -131,7 +131,7 @@ def parse_frontmatter(content: str) -> dict:
         return {}
 
 
-def build_index_entry(path: Path, content: str = "") -> dict:
+def build_index_entry(content: str = "") -> dict:
     frontmatter = parse_frontmatter(content)
     
     # Extract required fields from frontmatter
@@ -161,7 +161,7 @@ def build_index_from_disk() -> dict:
     index = {}
     for relative_path in crawl_numbered_markdown_files():
         content = load_markdown(str(relative_path))
-        entry = build_index_entry(relative_path, content)
+        entry = build_index_entry(content)
         if entry.get("name"):
             # Use name as key instead of filepath
             index[entry["name"]] = entry

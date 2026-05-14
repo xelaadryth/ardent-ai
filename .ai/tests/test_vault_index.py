@@ -89,7 +89,7 @@ tags:
 ---
 [[Town]] is near [[Abbey]]. [[Town]] is also important. [[town]] is a duplicate."""
 
-    entry = vault_index.build_index_entry(path, content)
+    entry = vault_index.build_index_entry(content)
 
     assert "name" in entry
     assert "type" in entry
@@ -107,7 +107,7 @@ def test_build_index_entry_handles_missing_frontmatter():
     path = Path("03 NPCs/Aaron.md")
     content = "Some content without frontmatter"
 
-    entry = vault_index.build_index_entry(path, content)
+    entry = vault_index.build_index_entry(content)
 
     assert entry["name"] == ""
     assert entry["type"] == ""
@@ -154,7 +154,7 @@ def test_build_index_entry_includes_last_index_timestamp():
     path = Path("03 NPCs/Aaron.md")
     content = ""
 
-    entry = vault_index.build_index_entry(path, content)
+    entry = vault_index.build_index_entry(content)
 
     assert "last_index" in entry
     assert isinstance(entry["last_index"], str)
@@ -164,7 +164,7 @@ def test_build_index_entry_includes_last_index_timestamp():
     path = Path("03 NPCs/Aaron.md")
     content = ""
 
-    entry = vault_index.build_index_entry(path, content)
+    entry = vault_index.build_index_entry(content)
 
     assert "last_index" in entry
     assert isinstance(entry["last_index"], str)
@@ -184,7 +184,7 @@ links: ["Town"]
 ---
 Some content here."""
 
-    entry = vault_index.build_index_entry(path, content)
+    entry = vault_index.build_index_entry(content)
 
     assert entry["status"] == "active"
     assert entry["name"] == "Aaron"
