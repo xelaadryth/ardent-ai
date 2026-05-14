@@ -7,7 +7,7 @@ order: Edgedancer
 spren: Verdae
 ---
 # Summary
-An Alethi noble turned occult researcher and medic, seeking to define her own destiny.
+Alethi noble Edgedancer occult researcher seeking to document the Cosmere.
 
 # Appearance
 Light brown eyes and light brown hair. Stands 5'7" with the poise of an Alethi noble; hands often stained with ink and chemicals.

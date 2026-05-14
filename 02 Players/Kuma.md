@@ -7,7 +7,7 @@ order: Elsecaller
 spren: Viscose
 ---
 # Summary
-A Nurian "maker" with an obsessive drive to repair, seeking the truth of his parents' disappearance in the fabrial industry.
+Nurian Elsecaller and maker obsessed with repairing and uncovering his parents' fate.
 
 # Appearance
 Kuma stands 5'6" and possesses a mix of Shin and Alethi features, allowing him to pass as either depending on his dress. He has dark blue eyes (darkeyed) and thick black hair.
