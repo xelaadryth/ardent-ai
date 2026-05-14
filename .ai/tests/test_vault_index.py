@@ -117,7 +117,7 @@ def test_build_index_from_disk_uses_filepath_key(tmp_path, monkeypatch):
 def test_load_vault_index_normalizes_full_path_keys(tmp_path, monkeypatch):
     vault_index_data = {
         "files": {
-            "Karani": {
+            "03 NPCs/Karani.md": {
                 "name": "Karani",
                 "type": "npc",
                 "status": "active",
