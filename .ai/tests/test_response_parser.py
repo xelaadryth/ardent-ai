@@ -17,12 +17,8 @@ More text'''
 def test_apply_response_writes_files_and_updates_index(monkeypatch):
     output_payload = {
         "operations": [
-            {"action": "create", "path": "foo.md", "content": "Hello"}
-        ],
-        "index_updates": {
-            "foo.md": {"summary": "Foo file", "tags": ["example"]}
-        },
-        "index_deletes": ["old.md"]
+            {"action": "create", "path": "foo.md", "content": "---\nsummary: Foo file\ntags:\n  - example\n---\nHello"}
+        ]
     }
     output = json.dumps(output_payload)
 
