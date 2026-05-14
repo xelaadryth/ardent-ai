@@ -45,17 +45,20 @@
       "links": []
     },
     "02 Players/Fina.md": {
-      "summary": "Alethi noble Edgedancer and occult researcher seeking to document the Cosmere.",
+      "summary": "Alethi noble Edgedancer occult researcher seeking to document the Cosmere.",
       "tags": [
         "player",
         "Edgedancer"
       ],
       "links": [
-        "02 Players/Verdae.md"
+        "02 Players/Verdae.md",
+        "31 Spren/Verdae.md"
       ],
       "entities": [
-        "Verdae"
-      ]
+        "Alethi",
+        "Cosmere"
+      ],
+      "last_index": "2026-05-14T04:22:25Z"
     },
     "02 Players/Galeth-son-Thald.md": {
       "summary": "Exiled Shin warrior living in penance among the Alethi.",
@@ -63,14 +66,16 @@
         "player"
       ],
       "links": [
-        "02 Players/Kun'ahu.md"
+        "02 Players/Kun'ahu.md",
+        "31 Spren/Kun'ahu.md",
+        "05 Factions/Truthkeepers.md"
       ],
       "entities": [
-        "Kun'ahu",
         "Shinovar",
         "Alethi",
         "Truthkeepers"
-      ]
+      ],
+      "last_index": "2026-05-14T04:22:25Z"
     },
     "02 Players/Iiko.md": {
       "summary": "Manic Nurian Truthwatcher and Envoy seeking fundamental truths and the Ardentia.",
@@ -79,17 +84,19 @@
         "Truthwatcher"
       ],
       "links": [
-        "02 Players/Dreamwaker.md",
+        "31 Spren/Dreamwaker.md",
         "02 Players/N'tal.md",
         "02 Players/Kuma.md",
         "02 Players/Fina.md",
         "02 Players/Mallow.md"
       ],
       "entities": [
-        "Dreamwaker",
+        "Nurian",
         "Mythos",
-        "Ardentia"
-      ]
+        "Ardentia",
+        "Possessed"
+      ],
+      "last_index": "2026-05-14T04:22:25Z"
     },
     "02 Players/Kuma.md": {
       "summary": "Nurian Elsecaller and maker obsessed with repairing and uncovering his parents' fate.",
@@ -98,13 +105,16 @@
         "Elsecaller"
       ],
       "links": [
-        "02 Players/Viscose.md"
+        "31 Spren/Viscose.md",
+        "06 Locations/Revolar.md"
       ],
       "entities": [
+        "Nurian",
         "Viscose",
         "Revolar",
         "Artifabrians"
-      ]
+      ],
+      "last_index": "2026-05-14T04:22:25Z"
     },
     "02 Players/Mallow.md": {
       "summary": "Purelaker Willshaper seeking atonement for the betrayal of her sister.",

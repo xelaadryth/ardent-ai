@@ -7,7 +7,7 @@ order: Truthwatcher
 spren: Dreamwaker
 ---
 # Summary
-A manic, eccentric Nurian Envoy and Truthwatcher seeking fundamental truths.
+Manic Nurian Truthwatcher and Envoy seeking fundamental truths and the Ardentia.
 
 # Appearance
 Heterochromatic eyes (brown/yellow), 5'6", Alethi build. Rarely stands still.

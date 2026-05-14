@@ -7,7 +7,7 @@ order: Unknown
 spren: Kun'ahu
 ---
 # Summary
-A self-exiled Shin warrior living in permanent penance among the Alethi.
+Exiled Shin warrior living in penance among the Alethi.
 
 # Appearance
 Traditional Shin, though his posture lacks the expected lightness of his people.
@@ -23,7 +23,7 @@ Once a leader in Shinovar, he fled after a soldier under his command killed an i
 - Survival as Punishment: Living in constant danger as a form of self-imposed exile.
 
 # Relationships
-- The Truthkeepers: Views them as a tool to point his blade at threats.
+- [[Truthkeepers]]: Views them as a tool to point his blade at threats.
 - The Alethi: Views them with dark kinship as fellow "monsters."
 
 # Tags

@@ -44,8 +44,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           EXTRA_PROMPT: ${{ github.event.inputs.prompt }}
         run: |
-          python .ai/reindex.py | tee reindex-output.txt
-          COMMIT_MESSAGE=$(grep '^COMMIT_MESSAGE=' reindex-output.txt | head -n 1 | cut -d'=' -f2- | tr -d '\r')
+          python .ai/reindex.py | tee output.txt
+          COMMIT_MESSAGE=$(grep '^COMMIT_MESSAGE=' output.txt | head -n 1 | cut -d'=' -f2- | tr -d '\r')
           if [ -z "$COMMIT_MESSAGE" ]; then
             COMMIT_MESSAGE='Ardent AI Reindex'
           fi
