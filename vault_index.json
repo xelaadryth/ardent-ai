@@ -548,6 +548,63 @@
         "Loid",
         "Wit"
       ]
+    },
+    "03 NPCs/Bit.md": {
+      "summary": "Mistreated slave stables Nilar Yenev.",
+      "tags": [
+        "npc",
+        "placeholder"
+      ],
+      "links": [],
+      "entities": [
+        "Bit"
+      ],
+      "last_index": "2026-05-14T04:31:59Z"
+    },
+    "03 NPCs/Citylord Nilar Yenev.md": {
+      "summary": "Veden politician Stringken ruler political predator sabotage rival House Sathir.",
+      "tags": [
+        "npc"
+      ],
+      "links": [
+        "03 NPCs/Highlord Paladar.md",
+        "03 NPCs/Highlady Marise Sathir.md",
+        "03 NPCs/Bit.md"
+      ],
+      "entities": [
+        "Nilar Yenev",
+        "Highlord Paladar",
+        "Highlady Marise Sathir",
+        "Bit",
+        "Vamah",
+        "Stringken",
+        "Highlord Sathir"
+      ],
+      "last_index": "2026-05-14T04:31:59Z"
+    },
+    "03 NPCs/Highlady Marise Sathir.md": {
+      "summary": "Political rival victim Nilar Yenev.",
+      "tags": [
+        "npc",
+        "placeholder"
+      ],
+      "links": [],
+      "entities": [
+        "Highlady Marise Sathir"
+      ],
+      "last_index": "2026-05-14T04:31:59Z"
+    },
+    "03 NPCs/Highlord Paladar.md": {
+      "summary": "Patron Highlord maneuvering Nilar Yenev into power.",
+      "tags": [
+        "npc",
+        "placeholder"
+      ],
+      "links": [],
+      "entities": [
+        "Highlord Paladar"
+      ],
+      "last_index": "2026-05-14T04:31:59Z"
     }
   }
 }
