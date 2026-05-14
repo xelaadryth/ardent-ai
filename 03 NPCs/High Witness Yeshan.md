@@ -1,28 +1,23 @@
 ---
 name: High Witness Yeshan
 type: npc
+tags: [npc]
 status: active
 locations: [Truthkeeper Camp]
 ---
-# Summary
-Leader of the Truthkeeper camp, gifted with prophetic visions and the ability to awaken potential among recruits. Key figure in [[04 Sessions/000 Arrival]].
-
 # Appearance
-Commanding presence, uses his voice to silence rooms.
+Regal, commanding authority. Piercing eyes.
 
 # Personality
-Stern, visionary, believes he is delaying fate itself.
+Visionary, patient, brooked no dissent. Treats subordinates as tools.
 
 # Background
-Leader of the current Truthkeeper chapter. Believes Roshar is doomed to the same fate as [[01 Lore/Yolen]] unless intervention occurs.
+Herald Ishar. Fractured sanity. Experimenting with Connection to "fix" the world.
 
-# Motivations
-- Delay the end of Roshar.
-- Train recruits to serve the Truthkeeper cause.
+# Goals & Motivations
+- **Agenda:** Use Worldhoppers to create a force to hunt "Possessed" based on a premonition of Odium's victory.
+- **Current Status:** Easily distracted; has abandoned the Truthkeepers to lead wars in Tukkar as Tezim.
 
-# Relationships
-- [[03 NPCs/Adjudicator Peton]]: Subordinate.
-- [[04 Sessions/000 Arrival]]: Initial recruiter.
-
-# Tags
-#npc #placeholder
+# Connections
+- [[Truthkeepers]]: Military force.
+- The Party: Gifted them language and Connection.

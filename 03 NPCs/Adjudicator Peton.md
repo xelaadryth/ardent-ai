@@ -5,24 +5,22 @@ tags: [npc]
 status: active
 locations: [Truthkeeper Camp]
 ---
-# Summary
-Tall, sharp-faced Enforcer responsible for managing new recruits and enforcing Truthkeeper discipline.
-
 # Appearance
-Tall, late 30s, sharp features, dark hair, blue eyes. Wears an axe and shield.
+Tall, sharp-faced, bright blue eyes, cropped hair/beard. Wears a sidesword and shield.
 
 # Personality
-Strict, political, hates traitors, embarrassed by women, believes in traditional social structures.
+Rigid traditionalist; stickler for order, structure, and norms. Trying to adapt to diverse Truthkeeper ranks.
 
 # Background
-Former nobleman who lost his fortune to his wife. A "kiss-ass" who prioritizes making his unit look good to superiors.
+Promoted from Enforcer to Adjudicator. Assigns himself to difficult "outsider" units.
 
-# Motivations
-- Maintain order and discipline.
-- Advance his own standing by making his recruits a success.
+# Goals & Motivations
+- **Maintaining Order:** Ensure society functions by established rules.
+- **Leadership:** Guide his flock toward the Truthkeeper cause.
 
-# Hooks
-- Earn favor with him to improve standing.
+# Connections
+- [[Truthkeepers]]: Source of his world-view.
+- The Party: Reports directly to him.
 
-# Relationships
-- [[High Witness Yeshan]]: Superior.
+# Secrets
+Respects a democratic vote if it adheres to the rules.

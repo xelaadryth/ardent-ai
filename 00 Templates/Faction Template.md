@@ -1,11 +1,17 @@
 ---
 name:
 type: faction
-tags:
+tags: [faction]
 status: active
 ---
-# Summary
+# Overview
 
-# Motivations
+# Goals
+- Agenda: 
+- Current Posture: 
 
-# Relationships
+# Structure
+
+# Methods & Influence
+
+# Allies & Rivals
