@@ -28,9 +28,9 @@ def test_apply_operations_creates_file_and_merges_links():
         }
     ]
 
-    with patch("your_module.write_file") as mock_write, \
-         patch("your_module.load_vault_index", return_value=fake_index), \
-         patch("your_module.save_vault_index") as mock_save:
+    with patch("vault.write_file") as mock_write, \
+         patch("vault_index.load_vault_index", return_value=fake_index), \
+         patch("vault_index.save_vault_index") as mock_save:
 
         apply_operations(operations)
 
