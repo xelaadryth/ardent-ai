@@ -1,6 +1,7 @@
 import json
 import os
 import re
+from datetime import datetime, timezone
 from vault import write_file
 from vault_index import load_vault_index, save_vault_index
 
@@ -35,6 +36,10 @@ def apply_file_operations(operations: list[dict]):
             raise ValueError(f"Unsupported operation action: {action}")
 
 
+def now_timestamp() -> str:
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
+
+
 def apply_index_changes(index_updates: dict, index_deletes: list[str]):
     try:
         current_index = {"files": load_vault_index()}
@@ -45,6 +50,9 @@ def apply_index_changes(index_updates: dict, index_deletes: list[str]):
         if not isinstance(index_updates, dict):
             raise ValueError("index_updates must be an object mapping paths to metadata.")
         for path, metadata in index_updates.items():
+            if not isinstance(metadata, dict):
+                raise ValueError("Each index metadata entry must be an object.")
+            metadata["last_index"] = now_timestamp()
             current_index["files"][path] = metadata
             print(f"[INDEX UPDATE] {path}")
 

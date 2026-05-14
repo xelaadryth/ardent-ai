@@ -1,0 +1,73 @@
+name: Reindex
+
+on:
+  workflow_dispatch:
+    inputs:
+      prompt:
+        description: "Additional instructions for the reindex request (optional)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  reindex:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Create Reindex branch
+        run: |
+          BRANCH="reindex/${{ github.run_id }}"
+          git checkout -b "$BRANCH"
+          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install google-genai pytest
+
+      - name: Run unit tests
+        run: python -m pytest .ai/tests -q
+
+      - name: Run reindex
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          EXTRA_PROMPT: ${{ github.event.inputs.prompt }}
+        run: |
+          python .ai/reindex.py | tee reindex-output.txt
+          COMMIT_MESSAGE=$(grep '^COMMIT_MESSAGE=' reindex-output.txt | head -n 1 | cut -d'=' -f2- | tr -d '\r')
+          if [ -z "$COMMIT_MESSAGE" ]; then
+            COMMIT_MESSAGE='Ardent AI Reindex'
+          fi
+          echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
+
+      - name: Create Pull Request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROMPT: ${{ github.event.inputs.prompt }}
+          COMMIT_MESSAGE: ${{ env.COMMIT_MESSAGE }}
+        run: |
+          git config user.name "Ardent AI"
+          git config user.email "ardent-ai@users.noreply.github.com"
+          git add .
+          if git diff --cached --quiet; then
+            echo "NO_CHANGES=true" >> $GITHUB_ENV
+            exit 0
+          fi
+          git commit -m "$COMMIT_MESSAGE" || echo "No changes to commit"
+          git push origin "$BRANCH"
+          gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "🧠 $COMMIT_MESSAGE" \
+            --body "$PROMPT"

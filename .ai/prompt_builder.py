@@ -14,7 +14,7 @@ def load_soul():
         raise RuntimeError("SOUL.md not found or invalid")
 
 
-def build_system_prompt(prompt: str, vault_limit=25) -> str:
+def build_system_prompt(prompt: str, vault_limit=10) -> str:
     soul = load_soul()
     vault_context = retrieve_vault_context(prompt, limit=vault_limit)
 

@@ -45,12 +45,12 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
     response_parser.apply_response(output)
 
     assert written == [("foo.md", "Hello")]
-    assert index_saved == [{
-        "files": {
-            "existing.md": {"summary": "Existing"},
-            "foo.md": {"summary": "Foo file", "tags": ["example"]}
-        }
-    }]
+    assert len(index_saved) == 1
+    assert "files" in index_saved[0]
+    assert "foo.md" in index_saved[0]["files"]
+    assert index_saved[0]["files"]["foo.md"]["summary"] == "Foo file"
+    assert index_saved[0]["files"]["foo.md"]["tags"] == ["example"]
+    assert "last_index" in index_saved[0]["files"]["foo.md"]
 
 
 def test_apply_response_raises_for_invalid_operations():

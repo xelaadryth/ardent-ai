@@ -90,3 +90,16 @@ def test_build_index_entry_deduplicates_tags():
     entry = vault_index.build_index_entry(path, content)
 
     assert len(entry["tags"]) == len(set(entry["tags"]))
+
+
+def test_build_index_entry_includes_last_index_timestamp():
+    from pathlib import Path
+
+    path = Path("03 NPCs/Aaron.md")
+    content = ""
+
+    entry = vault_index.build_index_entry(path, content)
+
+    assert "last_index" in entry
+    assert isinstance(entry["last_index"], str)
+    assert entry["last_index"].endswith("Z")

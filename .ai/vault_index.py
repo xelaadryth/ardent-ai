@@ -1,5 +1,6 @@
 import json
 import re
+from datetime import datetime, timezone
 from pathlib import Path
 
 from vault import load_core_context, load_markdown, VAULT_ROOT
@@ -7,6 +8,10 @@ from vault import load_core_context, load_markdown, VAULT_ROOT
 
 def get_index_file() -> Path:
     return VAULT_ROOT / "vault_index.json"
+
+
+def current_timestamp() -> str:
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
 
 
 def load_vault_index() -> dict:
@@ -100,7 +105,8 @@ def build_index_entry(path: Path, content: str = "") -> dict:
         "summary": summary,
         "tags": tags,
         "links": links,
-        "entities": []
+        "entities": [],
+        "last_index": current_timestamp()
     }
 
 
@@ -164,7 +170,7 @@ def score_entry(path: str, entry: dict, terms: list[str], query: str) -> int:
     return score
 
 
-def retrieve_vault_context(query: str, limit: int = 15) -> str:
+def retrieve_vault_context(query: str, limit: int = 10) -> str:
     if not query or not query.strip():
         return load_core_context()
 
