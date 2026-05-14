@@ -18,10 +18,6 @@ def current_timestamp() -> str:
 def load_vault_index() -> dict:
     index_file = get_index_file()
     if not index_file.exists():
-        disk_files = build_index_from_disk()
-        if disk_files:
-            save_vault_index({"files": disk_files})
-            return disk_files
         raise FileNotFoundError("vault_index.json is required for retrieval but was not found.")
 
     with index_file.open("r", encoding="utf-8") as f:

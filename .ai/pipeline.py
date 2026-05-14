@@ -3,7 +3,7 @@ from pathlib import Path
 
 import inbox
 from llm_client import generate_content
-from response_parser import apply_response
+from response_parser import apply_response, load_vault_index
 from prompt_builder import build_system_prompt
 
 INBOX_DIR = inbox.INBOX_DIR

@@ -36,10 +36,9 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
         index_saved.append(index_data)
 
     monkeypatch.setattr(response_parser, "write_file", fake_write_file)
-    monkeypatch.setattr(response_parser, "load_vault_index", fake_load_vault_index)
     monkeypatch.setattr(response_parser, "save_vault_index", fake_save_vault_index)
 
-    response_parser.apply_response(output)
+    response_parser.apply_response(output, fake_load_vault_index())
 
     assert written == [("foo.md", "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello")]
     assert len(index_saved) == 1
