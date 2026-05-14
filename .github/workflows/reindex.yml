@@ -62,5 +62,4 @@ jobs:
           gh pr create \
             --base main \
             --head "$BRANCH" \
-            --title "🧠 $COMMIT_MESSAGE" \
-          echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
+            --title "🧠 $COMMIT_MESSAGE"
