@@ -12,7 +12,7 @@ tags:
   - "#stringken"
   - "#citylord"
   - "#bit"
-last_index: 2026-05-13T23:29:00
+last_index: 2026-05-13T23:35:12
 ---
 # Description
 A political predator and "bad" lighteyes who specializes in removing risk and furthering Vamah causes at any cost. He is polished, reasonable-sounding, and utterly ruthless.
@@ -32,7 +32,7 @@ The son of a Veden family that moved east, Nilar was politically maneuvered into
 - **Assassination:** Kill the party and seize their gemhearts.
 
 # Hooks
-- 
+-
 
 # Connections
 - **[[Highlord Paladar]]**: His patron and the one who maneuvered him into power.
