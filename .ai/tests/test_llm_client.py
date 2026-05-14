@@ -7,7 +7,8 @@ class DummyResponse:
 
 
 class DummyModels:
-    def generate_content(self, contents):
+    def generate_content(self, model, contents):
+        assert model == "m"
         assert contents == "prompt"
         return DummyResponse("result")
 
