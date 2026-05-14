@@ -5,7 +5,7 @@ status: active
 locations: [Truthkeeper Camp]
 ---
 # Summary
-Tall, sharp-faced Enforcer responsible for managing new recruits and enforcing Truthkeeper discipline.
+Tall, sharp-faced Enforcer responsible for managing new recruits and enforcing Truthkeeper discipline. Appears in [[04 Sessions/000 Arrival]] and [[04 Sessions/001 First Blood]].
 
 # Appearance
 Tall, late 30s, sharp features, dark hair, blue eyes. Wears an axe and shield.
@@ -21,7 +21,9 @@ Former nobleman who lost his fortune to his wife. A "kiss-ass" who prioritizes m
 - Advance his own standing by making his recruits a success.
 
 # Relationships
-- [[High Witness Yeshan]]: Superior.
+- [[03 NPCs/High Witness Yeshan]]: Superior.
+- [[04 Sessions/000 Arrival]]: Deployment commander.
+- [[04 Sessions/001 First Blood]]: Mission handler.
 
 # Tags
 #npc

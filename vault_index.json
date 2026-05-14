@@ -217,13 +217,17 @@
     "03 NPCs/Adjudicator Peton.md": {
       "summary": "Disciplined enforcer managing Truthkeeper recruits.",
       "tags": [
-        "npc",
-        "placeholder"
+        "npc"
       ],
       "links": [
-        "03 NPCs/High Witness Yeshan.md"
+        "03 NPCs/High Witness Yeshan.md",
+        "04 Sessions/000 Arrival.md",
+        "04 Sessions/001 First Blood.md"
       ],
-      "entities": []
+      "entities": [
+        "Peton",
+        "Yeshan"
+      ]
     },
     "03 NPCs/Chip.md": {
       "summary": "Ghostblood spy masquerading as a Witness.",
@@ -250,11 +254,14 @@
     "03 NPCs/High Witness Yeshan.md": {
       "summary": "Prophetic leader of the Truthkeepers.",
       "tags": [
-        "npc",
-        "placeholder"
+        "npc"
       ],
-      "links": [],
+      "links": [
+        "03 NPCs/Adjudicator Peton.md",
+        "04 Sessions/000 Arrival.md"
+      ],
       "entities": [
+        "Yeshan",
         "Yolen"
       ]
     },
@@ -277,30 +284,54 @@
       "entities": []
     },
     "04 Sessions/000 Arrival.md": {
-      "summary": "Truthkeeper recruits face internal betrayals and depart for Hearthstone.",
+      "summary": "Recruits join Truthkeepers under High Witness Yeshan supervision.",
       "tags": [
         "session",
-        "Truthkeepers",
-        "Hearthstone"
+        "Truthkeepers"
       ],
       "links": [
         "03 NPCs/High Witness Yeshan.md",
-        "03 NPCs/Adjudicator Peton.md"
+        "03 NPCs/Adjudicator Peton.md",
+        "01 Lore/Hoid.md",
+        "03 NPCs/Senny.md",
+        "03 NPCs/Chip.md",
+        "03 NPCs/Renna Palir.md",
+        "03 NPCs/Jola.md"
       ],
-      "entities": []
+      "entities": [
+        "Hoid",
+        "Yeshan",
+        "Peton",
+        "Senny",
+        "Chip",
+        "Renna Palir",
+        "Jola"
+      ]
     },
     "04 Sessions/001 First Blood.md": {
-      "summary": "Truthkeeper recruits face internal betrayals and depart for Hearthstone.",
+      "summary": "Squad investigates Hearthstone miracle while evading Ghostblood conspiracies.",
       "tags": [
         "session",
         "Truthkeepers",
         "Hearthstone"
       ],
       "links": [
-        "03 NPCs/High Witness Yeshan.md",
-        "03 NPCs/Adjudicator Peton.md"
+        "04 Sessions/000 Arrival.md",
+        "03 NPCs/Adjudicator Peton.md",
+        "03 NPCs/High Enforcer Aylen.md",
+        "02 Players/N'tal.md",
+        "03 Locations/Revolar.md",
+        "03 Locations/Hearthstone.md"
       ],
-      "entities": []
+      "entities": [
+        "Peton",
+        "Aylen",
+        "Sila",
+        "N'tal",
+        "Revolar",
+        "Hearthstone",
+        "Undertaker"
+      ]
     }
   }
 }
