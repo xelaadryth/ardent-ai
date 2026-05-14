@@ -202,7 +202,9 @@
     "03 NPCs/Karani.md": {
       "name": "Karani",
       "type": "npc",
+      "status": "active",
       "links": [
+        "[[Sila]]",
         "[[Chip]]",
         "[[Tahs]]",
         "[[Ghostbloods]]"
@@ -214,8 +216,7 @@
         "#worldhopper",
         "#ghostbloods"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-14T10:46:26Z"
     },
     "03 NPCs/Khria.md": {
       "name": "Khria",
@@ -606,6 +607,26 @@
         "#truthkeeper"
       ],
       "last_index": "2026-05-14T10:45:25Z"
+    },
+    "03 NPCs/Sila.md": {
+      "name": "Sila",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Chip]]",
+        "[[Karani]]",
+        "[[Revolar]]",
+        "[[Adjudicator Peton]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#ghostbloods",
+        "#mercenary"
+      ],
+      "last_index": "2026-05-14T10:46:26Z"
     }
   }
 }
