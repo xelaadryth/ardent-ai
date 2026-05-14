@@ -2,11 +2,12 @@
 name: Hearthstone
 type: location
 status: active
-links: []
+links:
+  - "[[001 First Blood]]"
+  - "[[002 Whitespine]]"
 tags:
   - "#location"
-  - "#placeholder"
-last_index: 2026-05-13T23:29:00
+last_index: 2026-05-13T23:35:12
 ---
 # Description
 A rural settlement currently serving as the site for an official miracle investigation.
@@ -18,4 +19,5 @@ Hearthstone is a small town that has recently come under the scrutiny of the [[T
 - 
 
 # Connections
--
+- [[001 First Blood]]
+- [[002 Whitespine]]
