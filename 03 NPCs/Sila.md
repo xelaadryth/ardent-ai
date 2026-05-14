@@ -2,7 +2,12 @@
 name: Sila
 type: npc
 status: active
-links: []
+links:
+  - "[[Chip]]"
+  - "[[Karani]]"
+  - "[[Revolar]]"
+  - "[[Adjudicator Peton]]"
+  - "[[Truthkeepers]]"
 tags:
   - "#npc"
   - "#darkeyed"
