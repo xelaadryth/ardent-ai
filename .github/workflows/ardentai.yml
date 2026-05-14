@@ -57,9 +57,6 @@ jobs:
             FILE="$REQUEST_INPUT"
           else
             # Find the first real Markdown request file in Inbox.
-            # Excludes:
-            # - hidden files such as .gitkeep
-            # - anything inside Inbox/Processed or Archive subfolders
             FILE=$(find Inbox \
               -type f \
               -name "*.md" \
@@ -76,11 +73,11 @@ jobs:
           echo "Using request file: $FILE"
           echo "REQUEST_FILE=$FILE" >> "$GITHUB_ENV"
 
-          # Build the combined prompt from:
-          # 1. Inbox file contents
-          # 2. Optional manual prompt from workflow_dispatch
+          # Use a unique delimiter so request content can safely contain "EOF"
+          DELIM="ARDENT_PROMPT_$(date +%s)_$$"
+
           {
-            echo "PROMPT<<EOF"
+            echo "PROMPT<<$DELIM"
             cat "$FILE"
 
             if [ -n "$EXTRA_PROMPT" ]; then
@@ -92,7 +89,7 @@ jobs:
               echo "$EXTRA_PROMPT"
             fi
 
-            echo "EOF"
+            echo "$DELIM"
           } >> "$GITHUB_ENV"
 
       - name: Run Ardent AI Agent
