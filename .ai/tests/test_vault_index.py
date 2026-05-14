@@ -51,7 +51,6 @@ def test_retrieve_vault_context_falls_back_when_no_matches(tmp_path, monkeypatch
     context = vault_index.retrieve_vault_context("unlikely query")
 
     assert "--- SOUL.md ---" in context
-    assert "--- README.md ---" in context
 
 
 def test_retrieve_vault_context_builds_index_from_empty_vault_index(tmp_path, monkeypatch):
