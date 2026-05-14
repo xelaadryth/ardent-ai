@@ -9,20 +9,21 @@ radiant: [[Mallow]]
 Mallow's moody and empathetic Lightspren (reacher).
 
 # Appearance
-Small, glowing, and shifting, often flickering like a distant torch in the night.
+Cadence appears as a ball of warm, silky light with a comet-like tail. Her brightness and temperature fluctuate based on her mood, and she communicates primarily through rhythmic pulses of light.
 
 # Personality
-Sensitive to the emotions of others, particularly Mallow's guilt. Moody and prone to intense bouts of empathy.
+Cadence is a study in contradictions: she is deeply kind, empathetic, and patient, yet she can be moody, childlike, and "tsundere." She is fiercely dedicated to the cause of freedom and harbors a deep hatred for slavery in any form.
 
 # Background
-Bonded to Mallow during her search for her sister; understands the weight of a broken bond better than most.
+A Lightspren (Reacher) from the Cognitive Realm, Cadence was drawn to Mallow's internal struggle between her superstitious fear and her growing desire for freedom. She recognizes the "cracks" in Mallow's soul caused by the betrayal of her sister and hopes to help her mend them through the Willshaper path.
 
 # Motivations
-- To help Mallow find atonement.
-- To protect the innocent from those who abuse the power of the Radiants.
+- Seek Freedom: Cadence pushes Mallow to break free from her past superstitions and the restrictive laws of the Truthkeepers.
+- Oppose Slavery: She is particularly motivated by the plight of the parshmen and the slaves the party has encountered.
 
 # Relationships
-- [[Mallow]]: Her bonded partner.
+- [[Mallow]]: Her bonded Radiant.
+- The Forgotten: Like Mallow, Cadence has a soft spot for orphans and the oppressed.
 
 # Tags
 #spren

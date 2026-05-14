@@ -9,20 +9,21 @@ radiant: [[Iiko]]
 An ancient Mistspren who serves as an anchor for Iiko's manic intellect.
 
 # Appearance
-Shifting, translucent ribbons of gray and silver, reminiscent of mountain fog.
+Dreamwaker appears as a unique, shimmering pattern of refracted light. When he moves, he looks like light catching the facets of a complex crystal, shifting and dancing in a way that is both beautiful and calming.
 
 # Personality
-Patient, ancient, and deeply observant. Acts as a stabilizing force for Iiko.
+Dreamwaker is an ancient soul. He speaks slowly, enunciating every word with deliberate care. He is calm, patient, and deeply curious about the Physical Realm, especially nature and beauty. He values "unique perspectives" and only bonded Iiko out of a profound curiosity about how a mortal mind seeks truth.
 
 # Background
-A relic of the past ages who chose to bond with Iiko to observe the turning of the tide on Roshar.
+A Mistspren of immense age, Dreamwaker carries the weight of prophecies that predated the current era. He has a connection to the spren Glys and serves as the primary conduit for the "Ten Keys" prophecy that drives Iiko's quest.
 
 # Motivations
-- To document the end of the current age.
-- To keep Iiko focused long enough to see their theories realized.
+- The Search for Truth: He pushes Iiko to "seek it" rather than just "want it."
+- Observe the World: He takes great pleasure in witnessing the beauty of the natural world, often distracting Iiko to point out a specific flower or a trick of the light.
 
 # Relationships
-- [[Iiko]]: Their bonded partner.
+- [[Iiko]]: His bonded Radiant.
+- Glys: The source of his most important prophecy.
 
 # Tags
 #spren
