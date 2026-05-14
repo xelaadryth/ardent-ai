@@ -3,7 +3,7 @@ name: Cadence
 type: spren
 status: active
 spren_type: Lightspren
-radiant: [[Mallow]]
+radiant: Mallow
 ---
 # Summary
 Mallow's moody and empathetic Lightspren (reacher).

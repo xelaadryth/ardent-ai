@@ -3,7 +3,7 @@ name: Verdae
 type: spren
 status: active
 spren_type: Cultivationspren
-radiant: [[Fina]]
+radiant: Fina
 ---
 # Summary
 Fina's naive and vine-like Cultivationspren.

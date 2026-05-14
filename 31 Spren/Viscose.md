@@ -3,7 +3,7 @@ name: Viscose
 type: spren
 status: active
 spren_type: Inkspren
-radiant: [[Kuma]]
+radiant: Kuma
 ---
 # Summary
 Kuma's logical and contrarian Inkspren.

@@ -3,7 +3,7 @@ name: Kun'ahu
 type: spren
 status: active
 spren_type: Peakspren
-radiant: [[Galeth-son-Thald]]
+radiant: Galeth-son-Thald
 ---
 # Summary
 Galeth's jovial and reliable Peakspren.

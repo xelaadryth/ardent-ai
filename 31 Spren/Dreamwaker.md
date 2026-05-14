@@ -3,7 +3,7 @@ name: Dreamwaker
 type: spren
 status: active
 spren_type: Mistspren
-radiant: [[Iiko]]
+radiant: Iiko
 ---
 # Summary
 An ancient Mistspren who serves as an anchor for Iiko's manic intellect.
