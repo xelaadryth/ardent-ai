@@ -27,9 +27,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: "pip"
+          cache-dependency-path: .ai/requirements.txt
 
       - name: Install dependencies
-        run: pip install google-genai pyyaml pytest
+        run: pip install -r .ai/requirements.txt
 
       - name: Run unit tests
         run: python -m pytest .ai/tests -q
