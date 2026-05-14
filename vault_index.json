@@ -588,6 +588,21 @@
         "#location"
       ],
       "last_index": "2026-05-14T08:17:14Z"
+    },
+    "NPCs/Senny.md": {
+      "name": "Senny",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[High Witness Yeshan]]"
+      ],
+      "tags": [
+        "#lighteyed",
+        "#alethi",
+        "#truthkeepers"
+      ],
+      "last_index": "2026-05-14T10:40:20Z"
     }
   }
 }
