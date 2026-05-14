@@ -82,7 +82,6 @@ def apply_operations(operations: list[dict], current_index: dict):
 
             # 5. UPDATE INDEX
             metadata["last_index"] = now_timestamp()
-            print(current_index)
             current_index["files"][path] = metadata
 
             print(f"[INDEX UPDATE] {path}")

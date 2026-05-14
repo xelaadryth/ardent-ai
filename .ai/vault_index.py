@@ -26,26 +26,7 @@ def load_vault_index() -> dict:
     if not isinstance(data, dict) or "files" not in data or not isinstance(data["files"], dict):
         raise ValueError("vault_index.json must contain a top-level 'files' object.")
 
-    files = data["files"]
-    normalized_files, normalized = normalize_index_keys(files)
-    if normalized:
-        files = normalized_files
-        data["files"] = files
-        save_vault_index(data)
-
-    if not files:
-        disk_files = build_index_from_disk()
-        if disk_files:
-            data["files"] = disk_files
-            save_vault_index(data)
-            return disk_files
-        return files
-
-    augmented_files, changed = augment_index_with_disk(files)
-    if changed:
-        data["files"] = augmented_files
-        save_vault_index(data)
-    return augmented_files
+    return data["files"]
 
 
 def save_vault_index(data: dict):
