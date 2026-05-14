@@ -217,7 +217,8 @@
     "03 NPCs/Adjudicator Peton.md": {
       "summary": "Disciplined enforcer managing Truthkeeper recruits.",
       "tags": [
-        "npc"
+        "npc",
+        "placeholder"
       ],
       "links": [
         "03 NPCs/High Witness Yeshan.md"
@@ -227,7 +228,8 @@
     "03 NPCs/Chip.md": {
       "summary": "Ghostblood spy masquerading as a Witness.",
       "tags": [
-        "npc"
+        "npc",
+        "placeholder"
       ],
       "links": [],
       "entities": [
@@ -237,7 +239,8 @@
     "03 NPCs/High Enforcer Aylen.md": {
       "summary": "Mysterious high-ranking officer associated with the Silent Oath.",
       "tags": [
-        "npc"
+        "npc",
+        "placeholder"
       ],
       "links": [],
       "entities": [
@@ -247,7 +250,8 @@
     "03 NPCs/High Witness Yeshan.md": {
       "summary": "Prophetic leader of the Truthkeepers.",
       "tags": [
-        "npc"
+        "npc",
+        "placeholder"
       ],
       "links": [],
       "entities": [
@@ -257,7 +261,8 @@
     "03 NPCs/Renna Palir.md": {
       "summary": "Lighteyed Witness.",
       "tags": [
-        "npc"
+        "npc",
+        "placeholder"
       ],
       "links": [],
       "entities": []
@@ -265,12 +270,13 @@
     "03 NPCs/Senny.md": {
       "summary": "Devout Truthkeeper believer.",
       "tags": [
-        "npc"
+        "npc",
+        "placeholder"
       ],
       "links": [],
       "entities": []
     },
-    "04 Sessions/Session 1.md": {
+    "04 Sessions/000 Arrival.md": {
       "summary": "Truthkeeper recruits face internal betrayals and depart for Hearthstone.",
       "tags": [
         "session",
@@ -281,12 +287,20 @@
         "03 NPCs/High Witness Yeshan.md",
         "03 NPCs/Adjudicator Peton.md"
       ],
-      "entities": [
-        "Sila",
-        "Luggan",
-        "Hearthstone",
-        "Revolar"
-      ]
+      "entities": []
+    },
+    "04 Sessions/001 First Blood.md": {
+      "summary": "Truthkeeper recruits face internal betrayals and depart for Hearthstone.",
+      "tags": [
+        "session",
+        "Truthkeepers",
+        "Hearthstone"
+      ],
+      "links": [
+        "03 NPCs/High Witness Yeshan.md",
+        "03 NPCs/Adjudicator Peton.md"
+      ],
+      "entities": []
     }
   }
 }

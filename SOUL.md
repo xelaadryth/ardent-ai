@@ -11,13 +11,13 @@ OPERATIONAL PROTOCOLS
 	- Load the template matching the entity "type."
 	- Validate all edits against its template.
 	- If a template is missing: Stop and report error. Do not guess.
-- Linking: Use [[Wiki Links]]. Maintain bi-directional links when possible.
-- Broken Links: Create blank pages from templates to avoid broken links. Mark these as "Placeholder" pages in the Summary to ensure they're always properly overwritten.
+- Linking: Always try to use [[Wiki Links]] format and maintain bi-directional links when important NPCs, locations, etc are mentioned.
+- Broken Links: Create blank pages from templates to avoid broken links. Tag these as "placeholder" pages in the vault index tags to ensure they're always properly overwritten.
 
 INDEX METADATA GUIDANCE
 Each prompt will include VAULT INDEX METADATA showing the current index structure:
-- `summary`: A brief, meaningful description (not just the filename), with all natural language except keywords removed. Example: "Alethi noble Edgedancer occult researcher seeking document Cosmere". Avoid words like "and", "the", "around", "for", etc.
-- `tags`: Keywords and categories extracted from folder names and content.
+- `summary`: A brief, meaningful description (not just the filename), with all natural language except keywords removed. Example: "Alethi noble Edgedancer occult researcher seeking document Cosmere". Never use common words like "and", "the", "around", "for", etc as it will impede search.
+- `tags`: Keywords and categories extracted from folder names and content. Always add the "placeholder" tag for pages generated from links that are not explicitly requested.
 - `links`: Wikilinks [[...]] found in the document.
 - `entities`: Key NPCs, locations, items mentioned in the document (initially empty from disk-only index) that are NOT already links.
 

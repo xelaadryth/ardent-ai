@@ -1,5 +1,5 @@
 ---
-name: Session 1
+name: 001 First Blood
 type: session
 number: 1
 ---

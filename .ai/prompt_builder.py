@@ -5,7 +5,7 @@ from vault_index import retrieve_vault_context
 def load_soul():
     path = "SOUL.md"
     try:
-        content = read_file(path)
+        content = "SOUL.md contents: " + read_file(path)
         if not content:
             raise ValueError("SOUL.md is empty")
         return content
