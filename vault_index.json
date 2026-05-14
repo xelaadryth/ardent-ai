@@ -1,6 +1,6 @@
 {
   "files": {
-    "Fina": {
+    "02 Players/Fina.md": {
       "name": "Fina",
       "type": "player",
       "links": [
@@ -14,9 +14,9 @@
         "#lighteyed"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Galeth-son-Thald": {
+    "02 Players/Galeth-son-Thald.md": {
       "name": "Galeth-son-Thald",
       "type": "player",
       "links": [
@@ -32,9 +32,9 @@
         "#darkeyed"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Iiko": {
+    "02 Players/Iiko.md": {
       "name": "Iiko",
       "type": "player",
       "links": [
@@ -49,9 +49,9 @@
         "#envoy"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Kuma": {
+    "02 Players/Kuma.md": {
       "name": "Kuma",
       "type": "player",
       "links": [
@@ -64,9 +64,9 @@
         "#maker"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Mallow": {
+    "02 Players/Mallow.md": {
       "name": "Mallow",
       "type": "player",
       "links": [
@@ -80,9 +80,9 @@
         "#enforcer"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "N'tal": {
+    "02 Players/N'tal.md": {
       "name": "N'tal",
       "type": "player",
       "links": [
@@ -95,9 +95,9 @@
         "#merchant"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Adjudicator Peton": {
+    "03 NPCs/Adjudicator Peton.md": {
       "name": "Adjudicator Peton",
       "type": "npc",
       "links": [
@@ -111,9 +111,9 @@
         "#traditionalist"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Chip": {
+    "03 NPCs/Chip.md": {
       "name": "Chip",
       "type": "npc",
       "links": [
@@ -130,9 +130,9 @@
         "#noble"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Citylord Nilar Yenev": {
+    "03 NPCs/Citylord Nilar Yenev.md": {
       "name": "Citylord Nilar Yenev",
       "type": "npc",
       "links": [
@@ -148,9 +148,9 @@
         "#bit"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "High Enforcer Aylen": {
+    "03 NPCs/High Enforcer Aylen.md": {
       "name": "High Enforcer Aylen",
       "type": "npc",
       "links": [
@@ -165,9 +165,9 @@
         "#herald"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "High Witness Yeshan": {
+    "03 NPCs/High Witness Yeshan.md": {
       "name": "High Witness Yeshan",
       "type": "npc",
       "links": [
@@ -180,9 +180,9 @@
         "#herald"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Highlady Marise Sathir": {
+    "03 NPCs/Highlady Marise Sathir.md": {
       "name": "Highlady Marise Sathir",
       "type": "npc",
       "links": [
@@ -197,9 +197,27 @@
         "#house_sathir"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Khria": {
+    "03 NPCs/Karani.md": {
+      "name": "Karani",
+      "type": "npc",
+      "links": [
+        "[[Chip]]",
+        "[[Tahs]]",
+        "[[Ghostbloods]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#worldhopper",
+        "#ghostbloods"
+      ],
+      "status": "active",
+      "last_index": "2026-05-14T08:10:07Z"
+    },
+    "03 NPCs/Khria.md": {
       "name": "Khria",
       "type": "npc",
       "links": [
@@ -215,9 +233,9 @@
         "#rebel"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Renna Palir": {
+    "03 NPCs/Renna Palir.md": {
       "name": "Renna Palir",
       "type": "npc",
       "links": [
@@ -233,9 +251,26 @@
         "#alethi"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "000 Arrival": {
+    "03 NPCs/Tahs.md": {
+      "name": "Tahs",
+      "type": "npc",
+      "links": [
+        "[[Renna Palir]]",
+        "[[Karani]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#initiate"
+      ],
+      "status": "active",
+      "last_index": "2026-05-14T08:10:07Z"
+    },
+    "04 Sessions/000 Arrival.md": {
       "name": "000 Arrival",
       "type": "session",
       "links": [
@@ -255,9 +290,9 @@
         "#quartermaster_jola"
       ],
       "status": "inactive",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "001 First Blood": {
+    "04 Sessions/001 First Blood.md": {
       "name": "001 First Blood",
       "type": "session",
       "links": [
@@ -274,9 +309,9 @@
         "#ShellmiteAttack"
       ],
       "status": "inactive",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Ghostbloods": {
+    "05 Factions/Ghostbloods.md": {
       "name": "Ghostbloods",
       "type": "faction",
       "links": [
@@ -289,9 +324,9 @@
         "#espionage"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Knights of Dusk": {
+    "05 Factions/Knights of Dusk.md": {
       "name": "Knights of Dusk",
       "type": "faction",
       "links": [
@@ -302,9 +337,9 @@
         "#faction"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Silent Oath": {
+    "05 Factions/Silent Oath.md": {
       "name": "Silent Oath",
       "type": "faction",
       "links": [
@@ -315,9 +350,9 @@
         "#faction"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Truthkeepers": {
+    "05 Factions/Truthkeepers.md": {
       "name": "Truthkeepers",
       "type": "faction",
       "links": [
@@ -330,9 +365,9 @@
         "#faction"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Hearthstone": {
+    "06 Locations/Hearthstone.md": {
       "name": "Hearthstone",
       "type": "location",
       "links": [],
@@ -341,9 +376,9 @@
         "#placeholder"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Revolar": {
+    "06 Locations/Revolar.md": {
       "name": "Revolar",
       "type": "location",
       "links": [
@@ -357,9 +392,9 @@
         "#placeholder"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Truthkeeper Camp": {
+    "06 Locations/Truthkeeper Camp.md": {
       "name": "Truthkeeper Camp",
       "type": "location",
       "links": [
@@ -373,9 +408,9 @@
         "#placeholder"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Sila's Allegiance": {
+    "07 Hooks/Sila's Allegiance.md": {
       "name": "Sila's Allegiance",
       "type": "hook",
       "links": [
@@ -388,9 +423,9 @@
         "#placeholder"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Shellmite Attack": {
+    "08 Scenes/Shellmite Attack.md": {
       "name": "Shellmite Attack",
       "type": "scene",
       "links": [
@@ -402,9 +437,9 @@
         "#placeholder"
       ],
       "status": "inactive",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Possessed": {
+    "10 Lore/Possessed.md": {
       "name": "Possessed",
       "type": "lore",
       "links": [
@@ -417,9 +452,9 @@
         "#placeholder"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Cadence": {
+    "31 Spren/Cadence.md": {
       "name": "Cadence",
       "type": "spren",
       "links": [
@@ -431,9 +466,9 @@
         "#reacher"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Dreamwaker": {
+    "31 Spren/Dreamwaker.md": {
       "name": "Dreamwaker",
       "type": "spren",
       "links": [
@@ -446,9 +481,9 @@
         "#ancient"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Kun'ahu": {
+    "31 Spren/Kun'ahu.md": {
       "name": "Kun'ahu",
       "type": "spren",
       "links": [
@@ -461,9 +496,9 @@
         "#reliable"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Pyre": {
+    "31 Spren/Pyre.md": {
       "name": "Pyre",
       "type": "spren",
       "links": [
@@ -475,9 +510,9 @@
         "#radiant"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Verdae": {
+    "31 Spren/Verdae.md": {
       "name": "Verdae",
       "type": "spren",
       "links": [
@@ -489,9 +524,9 @@
         "#naive"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
+      "last_index": "2026-05-14T08:10:07Z"
     },
-    "Viscose": {
+    "31 Spren/Viscose.md": {
       "name": "Viscose",
       "type": "spren",
       "links": [
@@ -503,42 +538,7 @@
         "#logical"
       ],
       "status": "active",
-      "last_index": "2026-05-14T07:08:34Z"
-    },
-    "Karani": {
-      "name": "Karani",
-      "type": "npc",
-      "links": [
-        "[[Chip]]",
-        "[[Tahs]]",
-        "[[Ghostbloods]]"
-      ],
-      "tags": [
-        "#npc",
-        "#darkeyed",
-        "#alethi",
-        "#worldhopper",
-        "#ghostbloods"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T07:38:50Z"
-    },
-    "Tahs": {
-      "name": "Tahs",
-      "type": "npc",
-      "links": [
-        "[[Renna Palir]]",
-        "[[Karani]]",
-        "[[Truthkeepers]]"
-      ],
-      "tags": [
-        "#npc",
-        "#lighteyed",
-        "#alethi",
-        "#initiate"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T07:41:23Z"
+      "last_index": "2026-05-14T08:10:07Z"
     }
   }
 }
