@@ -4,16 +4,20 @@ type: session
 number: 0
 ---
 # Summary
-Recruits arrive at the Truthkeeper camp, face disciplinary decisions regarding the traitor Sila, and are deployed to Hearthstone to investigate rumored possession and miracles.
+Recruits arrive at the [[03 NPCs/Truthkeeper Camp]], are introduced to [[03 NPCs/High Witness Yeshan]], and begin their integration under [[03 NPCs/Adjudicator Peton]].
 
 # Details
-The party wakes in a Truthkeeper camp on the plains of baked clay. They are introduced to the leadership and integrated into the unit under. After the murder of a companion by Sila (a Ghostblood operative), the party must decide his fate. Enforcer Peton assigns them to travel to Hearthstone to investigate claims of a miracle and potential possession, tasking them with proving their worth to gain travel to Revolar.
+- **The Journey:** Recruits arrive groggy from transport, remembering distorted dreams of ships on marble waves and endless plains of baked clay.
+- **Arrival:** The wagon reaches the Truthkeeper camp, situated against a cliff. The group notices peculiar, unnatural trees that move independently of the wind.
+- **The Candle Story:** [[01 Lore/Hoid]] shares a parable about a candle that believes itself the sun, illustrating the dangers of pride and the beauty of reflected light.
+- **Initiation:** Recruits are ushered into a hall by [[03 NPCs/Adjudicator Peton]] to meet [[03 NPCs/High Witness Yeshan]].
+- **The Calling:** Yeshan touches each recruit, granting them the ability to understand the local language. He states his intent: to prevent Roshar from meeting the same fate as [[01 Lore/Yolen]].
+- **Assignment:** Peton outlines the duties of the recruits, stressing order, hierarchy, and the investigation of the 'Possessed'.
 
 # Hooks
-- Investigate the "miracle" in Hearthstone: Is it divine or a symptom of the Possessed?
-- Uncover the Ghostblood conspiracy: Follow the trail from the note found on Sila.
-- Resolve the Revolar mission competition: Prove the squad's capability to Peton.
-- Encounter: Defend the caravan from a swarm of Shellmites.
+- Investigate the unnatural, erratic movement of the trees surrounding the camp.
+- Navigate the politics between the various Truthkeeper recruits, including [[03 NPCs/Senny]], [[03 NPCs/Chip]], and the rival [[03 NPCs/Renna Palir]].
+- Earn favor with [[03 NPCs/Adjudicator Peton]] or Quartermaster [[03 NPCs/Jola]] to improve standing.
 
 # Tags
 #session #Truthkeepers #Hearthstone
