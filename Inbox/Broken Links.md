@@ -1,0 +1,1 @@
+Can you fix the broken links in the Players folder? Bonded spren should go into folder "31 Spren" alongside Pyre, I'll add other spren definitions in later.
