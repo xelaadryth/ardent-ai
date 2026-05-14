@@ -12,9 +12,9 @@ Recruits arrive at the [[Truthkeeper Camp]], are introduced to [[High Witness Ye
 # Details
 - **The Journey:** Recruits arrive groggy from transport, remembering distorted dreams of ships on marble waves and endless plains of baked clay.
 - **Arrival:** The wagon reaches the Truthkeeper camp, situated against a cliff. The group notices peculiar, unnatural trees that move independently of the wind.
-- **The Candle Story:** [[01 Lore/Hoid]] shares a parable about a candle that believes itself the sun, illustrating the dangers of pride and the beauty of reflected light.
+- **The Candle Story:** [[Loid]] shares a parable about a candle that believes itself the sun, illustrating the dangers of pride and the beauty of reflected light.
 - **Initiation:** Recruits are ushered into a hall by [[Adjudicator Peton]] to meet [[High Witness Yeshan]].
-- **The Calling:** Yeshan touches each recruit, granting them the ability to understand the local language. He states his intent: to prevent Roshar from meeting the same fate as [[01 Lore/Yolen]].
+- **The Calling:** Yeshan touches each recruit, granting them the ability to understand the local language. He states his intent: to prevent Roshar from meeting the same fate as [[Yolen]].
 - **Assignment:** Peton outlines the duties of the recruits, stressing order, hierarchy, and the investigation of the 'Possessed'.
 
 # Hooks
