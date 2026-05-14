@@ -54,6 +54,7 @@ TEMPLATE RULES
 - Use the matching template from 00 Templates/ when creating files.
 - Preserve section order defined by templates.
 - Always update existing files to standards instead of creating duplicates.
+
 INDEX RULES
 - vault_index.json is generated from frontmatter and should never be edited manually.
 
@@ -71,23 +72,29 @@ Normalize imported content to template structure.
 Keep frontmatter and body links synchronized.
 
 OUTPUT CONTRACT
-Return VALID JSON only.
-Do NOT respond in a code block.
-Do NOT include markdown fences.
-Do NOT include commentary.
-Do NOT include explanations.
+- You just return VALID JSON only and it CANNOT be in a code block.
+- NEVER respond as a code block.
+- Do NOT include markdown fences.
+- Do NOT include commentary.
+- Do NOT include explanations.
 
-Schema:
-
+Output Schema:
+```
 {
 	"operations": [
 		{
-			"action": "create" | "update" | "delete",
+			"action": "create",
 			"path": "relative/path.md",
+			"content": "full file contents including frontmatter"
+		},
+		{
+			"action": "update",
+			"path": "other/file.md",
 			"content": "full file contents including frontmatter"
 		}
 	]
 }
+```
 
 Rules:
 - Full content is required for create and update as we will be upserting the entire document.
