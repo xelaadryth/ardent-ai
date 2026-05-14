@@ -64,27 +64,17 @@
             }
           },
           {
-            "id": "2f38cf3f9cbdb7fe",
+            "id": "551e3d47d2502131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spren.md",
+                "file": "31 Spren/Cadence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spren"
-            }
-          },
-          {
-            "id": "551e3d47d2502131",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Cadence"
             }
           }
         ],
@@ -261,10 +251,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f38cf3f9cbdb7fe",
+  "active": "551e3d47d2502131",
   "lastOpenFiles": [
     "02 Players/N'tal.md",
+    "02 Players/Mallow.md",
+    "02 Players/Kuma.md",
+    "02 Players/Iiko.md",
+    "02 Players/Galeth-son-Thald.md",
+    "02 Players/Fina.md",
+    "00 Templates/Spren Template.md",
+    "00 Templates/Session Template.md",
+    "00 Templates/Player Template.md",
+    "00 Templates/NPC Template.md",
+    "00 Templates/Location Template.md",
+    "31 Spren/Cadence.md",
+    "31 Spren/Pyre.md",
+    "31 Spren/Kun'ahu.md",
+    "31 Spren/Dreamwaker.md",
+    "npc_khria.md",
     "Spren.md",
+    "Inbox/Spren.md",
     "SOUL.md",
     "Inbox/Load Players.md",
     "Templates/NPC Template.md",
@@ -274,24 +280,13 @@
     "Templates/Spren Template.md",
     "Templates/Session Template.md",
     "Templates/Player Template.md",
-    "Templates/Location Template.md",
     "Templates",
     "Archive",
     "Inbox",
-    "91 Dashboards/Players.md",
     "SOUL",
     "New folder",
-    "31 Spren/Pyre.md",
     "91 Dashboards",
-    "98 Templates/NPC Template.md",
-    "98 Templates/Spren Template.md",
-    "98 Templates/Session Template.md",
-    "98 Templates/Player Template.md",
-    "98 Templates/Location Template.md",
     "31 Spren",
-    "README.md",
-    "2026-05-13.md",
-    "Welcome.md",
     "98 Templates",
     "12 Scenes"
   ]
