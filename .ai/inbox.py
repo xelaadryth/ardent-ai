@@ -14,7 +14,7 @@ def find_inbox_file(request_input=None):
     )
 
     if not files:
-        raise RuntimeError("No Inbox files found")
+        return None
 
     return files[0]
 
