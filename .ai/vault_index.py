@@ -31,6 +31,12 @@ def load_vault_index() -> dict:
         raise ValueError("vault_index.json must contain a top-level 'files' object.")
 
     files = data["files"]
+    normalized_files, normalized = normalize_index_keys(files)
+    if normalized:
+        files = normalized_files
+        data["files"] = files
+        save_vault_index(data)
+
     if not files:
         disk_files = build_index_from_disk()
         if disk_files:
@@ -168,13 +174,62 @@ def build_index_from_disk() -> dict:
     return index
 
 
-def augment_index_with_disk(files: dict) -> tuple[dict, bool]:
-    disk_index = build_index_from_disk()
-    updated = dict(files)
+def normalize_index_keys(files: dict) -> tuple[dict, bool]:
+    """Ensure all index keys are page names, not filepaths."""
+    normalized = {}
     changed = False
 
+    for key, entry in files.items():
+        if not isinstance(entry, dict):
+            normalized[key] = entry
+            continue
+
+        name = str(entry.get("name", "")).strip()
+        if not name and isinstance(key, str):
+            path = Path(key)
+            if path.suffix.lower() == ".md":
+                name = path.stem
+                entry["name"] = name
+                changed = True
+
+        if name and key != name:
+            changed = True
+            if name in normalized:
+                normalized[name] = merge_index_entries(normalized[name], entry)
+            else:
+                normalized[name] = entry
+        else:
+            normalized[key] = entry
+
+    return normalized, changed
+
+
+def merge_index_entries(existing: dict, new_entry: dict) -> dict:
+    """Choose the most up-to-date index entry when duplicate names occur."""
+    if existing == new_entry:
+        return existing
+
+    existing_last = existing.get("last_index", "")
+    new_last = new_entry.get("last_index", "")
+    try:
+        if existing_last and new_last:
+            existing_dt = datetime.fromisoformat(existing_last.replace("Z", "+00:00"))
+            new_dt = datetime.fromisoformat(new_last.replace("Z", "+00:00"))
+            return new_entry if new_dt > existing_dt else existing
+    except ValueError:
+        pass
+
+    return new_entry if len(new_entry) > len(existing) else existing
+
+
+def augment_index_with_disk(files: dict) -> tuple[dict, bool]:
+    files, normalized = normalize_index_keys(files)
+    updated = dict(files)
+    changed = normalized
+
+    disk_index = build_index_from_disk()
     for name, entry in disk_index.items():
-        if name not in updated:
+        if name not in updated or updated[name] != entry:
             updated[name] = entry
             changed = True
 

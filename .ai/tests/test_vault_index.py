@@ -121,6 +121,42 @@ def test_get_folder_from_type_returns_folder_prefix():
     assert vault_index.get_folder_from_type("core") == ""
 
 
+def test_build_index_from_disk_uses_name_key(tmp_path, monkeypatch):
+    (tmp_path / "03 NPCs").mkdir(parents=True)
+    (tmp_path / "03 NPCs" / "Karani.md").write_text("---\nname: Karani\ntype: npc\nlinks: []\ntags: []\n---\nKarani content", encoding="utf-8")
+
+    monkeypatch.setattr(vault_index, "VAULT_ROOT", tmp_path)
+    monkeypatch.setattr(vault, "VAULT_ROOT", tmp_path)
+
+    disk_index = vault_index.build_index_from_disk()
+
+    assert "Karani" in disk_index
+    assert "03 NPCs/Karani.md" not in disk_index
+
+
+def test_load_vault_index_normalizes_full_path_keys(tmp_path, monkeypatch):
+    vault_index_data = {
+        "files": {
+            "03 NPCs/Karani.md": {
+                "name": "Karani",
+                "type": "npc",
+                "status": "active",
+                "tags": ["#darkeyed"],
+                "links": ["[[Chip]]"]
+            }
+        }
+    }
+
+    (tmp_path / "vault_index.json").write_text(json.dumps(vault_index_data), encoding="utf-8")
+    monkeypatch.setattr(vault_index, "VAULT_ROOT", tmp_path)
+
+    normalized_index = vault_index.load_vault_index()
+
+    assert "Karani" in normalized_index
+    assert "03 NPCs/Karani.md" not in normalized_index
+    assert normalized_index["Karani"]["type"] == "npc"
+
+
 def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypatch):
     # Create test index with different timestamps
     old_timestamp = "2023-01-01T00:00:00Z"
