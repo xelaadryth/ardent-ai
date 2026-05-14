@@ -2,7 +2,10 @@
 name: Karani
 type: npc
 status: active
-links: []
+links:
+  - "[[Chip]]"
+  - "[[Tahs]]"
+  - "[[Ghostbloods]]"
 tags:
   - "#npc"
   - "#darkeyed"
