@@ -71,6 +71,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           PROMPT: ${{ env.PROMPT }}
         run: |
+          cat output.txt
           if grep -q '^COMMIT_MESSAGE=' output.txt; then
             echo "COMMIT_MESSAGE=$(grep '^COMMIT_MESSAGE=' output.txt | sed 's/^COMMIT_MESSAGE=//')" >> $GITHUB_ENV
           else
