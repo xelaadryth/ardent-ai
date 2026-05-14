@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 NPCs/Adjudicator Peton.md",
+                "file": "Inbox/Tahs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjudicator Peton"
+              "title": "Tahs"
             }
           }
         ],
@@ -283,8 +283,12 @@
   },
   "active": "ab0d9b63e01e760c",
   "lastOpenFiles": [
-    "03 NPCs/Chip.md",
+    "03 NPCs/Karani.md",
+    "Inbox/Tahs.md",
+    "Tahs.md",
     "03 NPCs/Adjudicator Peton.md",
+    "Archive/0013-Karani.md",
+    "03 NPCs/Chip.md",
     "vault_index.json",
     "reindex-output.txt",
     "00 Templates/Spren Template.md",
@@ -307,10 +311,6 @@
     "02 Players/Iiko.md",
     "02 Players/Galeth-son-Thald.md",
     "02 Players/Fina.md",
-    "SOUL.md",
-    "Archive/0010-Citylord Nilar Yenev.md",
-    "Archive/0009-Aylen.md",
-    "03 NPCs/Highlord Paladar.md",
     "01 Factions",
     "10 Lore",
     "07 Hooks",
