@@ -2,7 +2,6 @@ import os
 from pathlib import Path
 
 import inbox
-from config import MODEL
 from llm_client import generate_content
 from response_parser import apply_response
 from prompt_builder import build_system_prompt
@@ -29,7 +28,7 @@ def run_agent(request_input=None, extra_prompt=""):
     prompt = load_prompt(request_file, extra_prompt)
     system_prompt = build_system_prompt(prompt)
 
-    output = generate_content(model=MODEL, prompt=system_prompt)
+    output = generate_content(prompt=system_prompt)
     print(output)
 
     apply_response(output)
