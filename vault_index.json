@@ -540,6 +540,40 @@
         "#ghostbloods"
       ],
       "last_index": "2026-05-14T07:38:50Z"
+    },
+    "Tahs": {
+      "name": "Tahs",
+      "type": "npc",
+      "links": [
+        "[[Renna Palir]]",
+        "[[Karani]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#initiate"
+      ],
+      "status": "active",
+      "last_index": "2026-05-14T07:41:23Z"
+    },
+    "03 NPCs/Tahs.md": {
+      "name": "Tahs",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Renna Palir]]",
+        "[[Karani]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#initiate"
+      ],
+      "last_index": "2026-05-14T07:41:23Z"
     }
   }
 }
