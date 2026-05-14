@@ -1,5 +1,12 @@
-# Obsidian
-## Setup
+# Ardent AI
+
+## TODO
+- Fix links not properly parsing on the frontmatter on the document itself (correct on the indedx)
+- Clean up the god-awful code and tests
+
+## Obsidian
+
+### Setup
 - Install Community Plugins
 	- Templater
 		- Disable core plugin "Templates"
