@@ -7,6 +7,12 @@ on:
     paths:
       - "Inbox/**/*.md"
 
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "Inbox/**/*.md"
+
   workflow_dispatch:
     inputs:
       request_file:
@@ -45,17 +51,22 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install google-genai
+        run: pip install google-genai pytest
+
+      - name: Run unit tests
+        run: python -m pytest .ai/tests -q
 
       - name: Run Ardent AI
+        if: github.event_name != 'pull_request'
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GH_TOKEN: ${{ github.token }}
           REQUEST_INPUT: ${{ github.event.inputs.request_file }}
           EXTRA_PROMPT: ${{ github.event.inputs.prompt }}
-        run: python .ai/run_pipeline.py
+        run: python .ai/agent.py
 
       - name: Create Pull Request
+        if: github.event_name != 'pull_request'
         env:
           GH_TOKEN: ${{ github.token }}
           PROMPT: ${{ env.PROMPT }}
