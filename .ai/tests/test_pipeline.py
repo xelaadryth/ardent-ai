@@ -15,7 +15,7 @@ def test_run_agent_calls_generate_and_archives(monkeypatch, tmp_path):
 
     monkeypatch.setattr(pipeline, "generate_content", lambda prompt: "output-text")
     calls = []
-    monkeypatch.setattr(pipeline, "apply_response", lambda output: calls.append(output))
+    monkeypatch.setattr(pipeline, "apply_response", lambda output, current_index: calls.append((output)))
     
     # Mock load_soul to return dummy content
     import prompt_builder
