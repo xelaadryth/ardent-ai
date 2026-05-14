@@ -405,10 +405,10 @@
       "links": [],
       "entities": []
     },
-    "05 Encounters/Shellmite Attack.md": {
+    "08 Scenes/Shellmite Attack.md": {
       "summary": "Shellmite Attack",
       "tags": [
-        "encounters"
+        "scenes"
       ],
       "links": [],
       "entities": []
@@ -428,7 +428,7 @@
         "Possessed"
       ]
     },
-    "06 Hooks/Sila's Allegiance.md": {
+    "07 Hooks/Sila's Allegiance.md": {
       "summary": "Investigation traitorous ties Sila Ghostbloods.",
       "tags": [
         "hook",

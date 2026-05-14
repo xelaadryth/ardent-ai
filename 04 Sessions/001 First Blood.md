@@ -4,7 +4,7 @@ type: session
 number: 1
 ---
 # Summary
-Following the death of a companion, the squad faces disciplinary decisions, receives their first field mission to Hearthstone, and survives a [[05 Encounters/Shellmite Attack]].
+Following the death of a companion, the squad faces disciplinary decisions, receives their first field mission to Hearthstone, and survives a [[Shellmite Attack]].
 
 # Details
 - **The Verdict:** Following a fatal incident involving Sila, [[03 NPCs/Adjudicator Peton]] tasks the squad with deciding the traitor's fate. A Ghostblood symbol is discovered on Sila, linking him to the murder of [[02 Players/N'tal]]'s family.

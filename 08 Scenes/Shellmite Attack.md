@@ -1,8 +1,8 @@
 ---
 name: Shellmite Attack
-type: encounter
-tags: [encounter, placeholder]
-status: active
+type: scene
+tags: [scene, placeholder]
+status: completed
 ---
 # Summary
 Combat encounter against Shellmites during caravan transport.
