@@ -1,12 +1,12 @@
 ---
-name: Senny
+name: Jola
 type: npc
 tags: [npc, placeholder]
 status: active
 locations: []
 ---
 # Summary
-Truthkeeper recruit.
+Truthkeeper Quartermaster.
 
 # Appearance
 # Personality

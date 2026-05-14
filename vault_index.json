@@ -332,6 +332,127 @@
         "Hearthstone",
         "Undertaker"
       ]
+    },
+    "06 Locations/Truthkeeper Camp.md": {
+      "summary": "Truthkeeper Camp",
+      "tags": [
+        "locations"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "00 Templates/Faction Template.md": {
+      "summary": "Faction Template",
+      "tags": [
+        "templates"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "00 Templates/Hook Template.md": {
+      "summary": "Hook Template",
+      "tags": [
+        "templates"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "00 Templates/Lore Template.md": {
+      "summary": "Lore Template",
+      "tags": [
+        "templates"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "00 Templates/Scene Template.md": {
+      "summary": "Scene Template",
+      "tags": [
+        "templates"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "03 Locations/Hearthstone.md": {
+      "summary": "Hearthstone",
+      "tags": [
+        "locations"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "03 Locations/Revolar.md": {
+      "summary": "Revolar",
+      "tags": [
+        "locations"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "03 NPCs/Hoid.md": {
+      "summary": "Hoid",
+      "tags": [
+        "npcs"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "03 NPCs/Jola.md": {
+      "summary": "Jola",
+      "tags": [
+        "npcs"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "05 Encounters/Shellmite Attack.md": {
+      "summary": "Shellmite Attack",
+      "tags": [
+        "encounters"
+      ],
+      "links": [],
+      "entities": []
+    },
+    "05 Factions/Truthkeepers.md": {
+      "summary": "Prophetic order preserving Roshar preventing Possessed rise.",
+      "tags": [
+        "faction",
+        "placeholder"
+      ],
+      "links": [
+        "03 NPCs/High Witness Yeshan.md"
+      ],
+      "entities": [
+        "Roshar",
+        "Yolen",
+        "Possessed"
+      ]
+    },
+    "06 Hooks/Sila's Allegiance.md": {
+      "summary": "Investigation traitorous ties Sila Ghostbloods.",
+      "tags": [
+        "hook",
+        "placeholder"
+      ],
+      "links": [
+        "02 Players/N'tal.md",
+        "03 NPCs/Adjudicator Peton.md"
+      ],
+      "entities": [
+        "Sila",
+        "Ghostbloods"
+      ]
+    },
+    "10 Lore/Possessed.md": {
+      "summary": "Truthkeeper term aberrant surge users suspected external influence.",
+      "tags": [
+        "lore",
+        "placeholder"
+      ],
+      "links": [],
+      "entities": [
+        "Truthkeepers"
+      ]
     }
   }
 }
