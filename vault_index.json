@@ -134,46 +134,85 @@
       ]
     },
     "31 Spren/Cadence.md": {
-      "summary": "Cadence",
+      "summary": "Mallow's moody and empathetic Lightspren.",
       "tags": [
         "spren"
       ],
-      "links": []
+      "links": [
+        "31 Spren/Mallow.md"
+      ],
+      "entities": [
+        "Mallow",
+        "The Forgotten"
+      ]
     },
     "31 Spren/Dreamwaker.md": {
-      "summary": "Dreamwaker",
+      "summary": "Ancient Mistspren anchor for Iiko's intellect.",
       "tags": [
         "spren"
       ],
-      "links": []
+      "links": [
+        "31 Spren/Iiko.md"
+      ],
+      "entities": [
+        "Iiko",
+        "Glys",
+        "Ten Keys"
+      ]
     },
     "31 Spren/Kun'ahu.md": {
-      "summary": "Kun'ahu",
+      "summary": "Galeth's jovial and reliable Peakspren.",
       "tags": [
         "spren"
       ],
-      "links": []
+      "links": [
+        "31 Spren/Galeth-son-Thald.md",
+        "31 Spren/Dreamwaker.md"
+      ],
+      "entities": [
+        "Galeth-son-Thald",
+        "Stonewards"
+      ]
     },
     "31 Spren/Pyre.md": {
-      "summary": "Pyre",
+      "summary": "N'tal's radical and spiteful Ashspren.",
       "tags": [
         "spren"
       ],
-      "links": []
+      "links": [
+        "31 Spren/N'tal.md"
+      ],
+      "entities": [
+        "N'tal",
+        "Ghostbloods",
+        "Odium"
+      ]
     },
     "31 Spren/Verdae.md": {
-      "summary": "Verdae",
+      "summary": "Fina's naive and vine-like Cultivationspren.",
       "tags": [
         "spren"
       ],
-      "links": []
+      "links": [
+        "31 Spren/Fina.md"
+      ],
+      "entities": [
+        "Fina",
+        "The Ring"
+      ]
     },
     "31 Spren/Viscose.md": {
-      "summary": "Viscose",
+      "summary": "Kuma's logical and contrarian Inkspren.",
       "tags": [
         "spren"
       ],
-      "links": []
+      "links": [
+        "31 Spren/Kuma.md"
+      ],
+      "entities": [
+        "Kuma",
+        "Elsecallers"
+      ]
     }
   }
 }
