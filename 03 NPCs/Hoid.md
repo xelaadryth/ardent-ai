@@ -1,12 +1,12 @@
 ---
-name: Senny
+name: Hoid
 type: npc
 tags: [npc, placeholder]
 status: active
 locations: []
 ---
 # Summary
-Truthkeeper recruit.
+An enigmatic worldhopper sharing parables and wisdom.
 
 # Appearance
 # Personality

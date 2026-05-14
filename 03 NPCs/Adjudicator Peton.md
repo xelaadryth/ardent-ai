@@ -1,11 +1,12 @@
 ---
 name: Adjudicator Peton
 type: npc
+tags: [npc]
 status: active
 locations: [Truthkeeper Camp]
 ---
 # Summary
-Tall, sharp-faced Enforcer responsible for managing new recruits and enforcing Truthkeeper discipline. Appears in [[04 Sessions/000 Arrival]] and [[04 Sessions/001 First Blood]].
+Tall, sharp-faced Enforcer responsible for managing new recruits and enforcing Truthkeeper discipline.
 
 # Appearance
 Tall, late 30s, sharp features, dark hair, blue eyes. Wears an axe and shield.
@@ -20,10 +21,8 @@ Former nobleman who lost his fortune to his wife. A "kiss-ass" who prioritizes m
 - Maintain order and discipline.
 - Advance his own standing by making his recruits a success.
 
-# Relationships
-- [[03 NPCs/High Witness Yeshan]]: Superior.
-- [[04 Sessions/000 Arrival]]: Deployment commander.
-- [[04 Sessions/001 First Blood]]: Mission handler.
+# Hooks
+- Earn favor with him to improve standing.
 
-# Tags
-#npc #placeholder
+# Relationships
+- [[High Witness Yeshan]]: Superior.
