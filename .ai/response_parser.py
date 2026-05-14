@@ -21,10 +21,10 @@ def parse_frontmatter(content: str) -> dict:
 
 
 def parse_json_output(output: str) -> dict:
-    # If the json output is wrapped in a code block, extract it
+    # If the json output is wrapped in a code block, extract it and replace newlines with \n
     if output.startswith("```json") and output.endswith("```"):
-        output = output[len("```json"): -len("```")].strip()
-        
+        output = output[len("```json"): -len("```")].replace('\n', '\\n').strip()
+
     try:
         return json.loads(output)
     except json.JSONDecodeError:
