@@ -14,7 +14,7 @@ def test_run_agent_calls_generate_and_archives(monkeypatch, tmp_path):
 
     monkeypatch.setattr(pipeline, "generate_content", lambda model, prompt: "output-text")
     calls = []
-    monkeypatch.setattr(pipeline, "apply_files", lambda output: calls.append(output))
+    monkeypatch.setattr(pipeline, "apply_response", lambda output: calls.append(output))
 
     output = pipeline.run_agent(request_input="request.md", extra_prompt="extra")
 

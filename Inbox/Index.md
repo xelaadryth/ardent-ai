@@ -1,0 +1,1 @@
+Can you rebuild all indexes for all the players?

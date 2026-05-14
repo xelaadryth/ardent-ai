@@ -1,31 +1,60 @@
+import json
+
+import pytest
 import response_parser
 
 
-def test_extract_files_returns_path_and_content():
-    output = """### FILE: path/to/file.md
-```markdown
-Hello world
-```
-"""
+def test_parse_json_output_handles_embedded_json():
+    output = '''Some explanation
+{"operations": [{"action": "create", "path": "test.md", "content": "Hello"}]}
+More text'''
 
-    files = response_parser.extract_files(output)
+    payload = response_parser.parse_json_output(output)
 
-    assert files == [("path/to/file.md", "Hello world")]
+    assert payload["operations"][0]["path"] == "test.md"
 
 
-def test_apply_files_writes_each_file(monkeypatch):
-    output = """### FILE: foo.txt
-```markdown
-Hello
-```
-"""
+def test_apply_response_writes_files_and_updates_index(monkeypatch):
+    output_payload = {
+        "operations": [
+            {"action": "create", "path": "foo.md", "content": "Hello"}
+        ],
+        "index_updates": {
+            "foo.md": {"summary": "Foo file", "tags": ["example"]}
+        },
+        "index_deletes": ["old.md"]
+    }
+    output = json.dumps(output_payload)
+
     written = []
+    index_saved = []
 
     def fake_write_file(path, content):
         written.append((path, content))
 
+    def fake_load_vault_index():
+        return {"existing.md": {"summary": "Existing"}}
+
+    def fake_save_vault_index(index_data):
+        index_saved.append(index_data)
+
     monkeypatch.setattr(response_parser, "write_file", fake_write_file)
+    monkeypatch.setattr(response_parser, "load_vault_index", fake_load_vault_index)
+    monkeypatch.setattr(response_parser, "save_vault_index", fake_save_vault_index)
 
-    response_parser.apply_files(output)
+    response_parser.apply_response(output)
 
-    assert written == [("foo.txt", "Hello")]
+    assert written == [("foo.md", "Hello")]
+    assert index_saved == [{
+        "files": {
+            "existing.md": {"summary": "Existing"},
+            "foo.md": {"summary": "Foo file", "tags": ["example"]}
+        }
+    }]
+
+
+def test_apply_response_raises_for_invalid_operations():
+    output = json.dumps({"operations": [{"action": "unknown", "path": "foo.md"}]})
+
+    with pytest.raises(ValueError, match="Unsupported operation action"):
+        response_parser.apply_response(output)

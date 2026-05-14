@@ -14,16 +14,70 @@ OPERATIONAL PROTOCOLS
 - Linking: Use [[Wiki Links]]. Maintain bi-directional links when possible.
 - Broken Links: Create blank pages from templates to avoid broken links. Mark these as "Placeholder" pages in the Summary to ensure they're always properly overwritten.
 
-OUTPUT FORMAT
-For every modification, use the following structure which specifies filename and contents. Surround content in triple backticks:
+INDEX METADATA GUIDANCE
+Each prompt will include VAULT INDEX METADATA showing the current index structure:
+- `summary`: A brief, meaningful description (not just the filename), but skipping common words like "the" or "around" to avoid search matches.
+- `tags`: Keywords and categories extracted from folder names and content.
+- `links`: Wikilinks [[...]] found in the document.
+- `entities`: Key NPCs, locations, items mentioned in the document (initially empty from disk-only index) that are NOT already links.
 
-### FILE: 03 NPCs/Name.md
-```markdown
-<full file content including frontmatter>
-```
+ALWAYS populate or update `summary` and `entities` in `index_updates` when:
+- A file is created or substantially modified.
+- The summary is empty or defaults to the filename (page name).
+- New entities are introduced or discovered in the content.
+
+Extract entities by identifying proper nouns, character names, place names, and significant items.
+
+OUTPUT FORMAT
+Your response must be a single valid JSON object with the following top-level properties:
+
+- `operations`: an array of file operations.
+- `index_updates`: an object mapping vault paths to index metadata.
+- `index_deletes`: an array of vault paths to remove from the index.
+
+Each file operation must be one of:
+- `create`: create a new file with full contents.
+- `update`: replace the contents of an existing file.
+- `delete`: delete an existing file.
+
+Example response:
+
+{
+  "operations": [
+    {
+      "action": "create",
+      "path": "03 NPCs/Name.md",
+      "content": "---\ntitle: Name\n---\nFull file content including frontmatter"
+    },
+    {
+      "action": "delete",
+      "path": "03 NPCs/OldCharacter.md"
+    }
+  ],
+  "index_updates": {
+    "03 NPCs/Name.md": {
+      "summary": "A calm scholar with a hidden secret.",
+      "tags": ["npc", "scholar"],
+      "links": ["03 Locations/Library.md"],
+      "entities": ["Librarian Society", "Lost Archive"]
+    }
+  },
+  "index_deletes": [
+    "03 NPCs/OldCharacter.md"
+  ]
+}
 
 STRICT PARSING RULES
-- No Truncation: Output the entire file from the first --- to the final character.
-- Boundary Integrity: Everything between the opening ```markdown and the closing ``` is literal file data. Do not add commentary inside these fences.
-- Path Accuracy: The path must include the folder (e.g., 03 NPCs/Name.md).
-- Multi-File: If editing multiple files, repeat the ### FILE block for each.
+- Output only JSON. Do not wrap the JSON in markdown fences, headings, or prose.
+- `operations` may be omitted or empty if no file-level changes are required.
+- `index_updates` may be omitted or empty if no index metadata needs updating.
+- `index_deletes` may be omitted or empty if no indexed paths need removal.
+- For `create` and `update`, `content` must contain the full file body, including any YAML frontmatter.
+- For `delete`, include only `action` and `path`; do not include `content`.
+- Paths must be vault-relative and include folders (for example, `03 NPCs/Name.md`).
+- Do not include commentary, analysis, or any extra fields outside this JSON schema.
+- If multiple files are changed, include one operation object per changed file.
+
+The vault_index.json is a derived artifact.
+
+It MUST be treated as disposable and fully regeneratable from the markdown vault at any time.

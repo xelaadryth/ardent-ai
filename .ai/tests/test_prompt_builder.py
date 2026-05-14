@@ -19,7 +19,7 @@ def test_load_soul_raises_when_empty(monkeypatch):
 
 def test_build_system_prompt_includes_soul_context_and_request(monkeypatch):
     monkeypatch.setattr(prompt_builder, "read_file", lambda path: "Soul data")
-    monkeypatch.setattr(prompt_builder, "crawl_vault", lambda limit_files: "vault context")
+    monkeypatch.setattr(prompt_builder, "retrieve_vault_context", lambda query, limit=25: "vault context")
 
     result = prompt_builder.build_system_prompt("My request")
 

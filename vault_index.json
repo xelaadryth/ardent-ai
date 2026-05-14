@@ -1,0 +1,123 @@
+{
+  "files": {
+    "00 Templates/Location Template.md": {
+      "summary": "Location Template",
+      "tags": [
+        "templates"
+      ],
+      "links": []
+    },
+    "00 Templates/NPC Template.md": {
+      "summary": "NPC Template",
+      "tags": [
+        "templates"
+      ],
+      "links": []
+    },
+    "00 Templates/Player Template.md": {
+      "summary": "Player Template",
+      "tags": [
+        "templates"
+      ],
+      "links": []
+    },
+    "00 Templates/Session Template.md": {
+      "summary": "Session Template",
+      "tags": [
+        "templates"
+      ],
+      "links": []
+    },
+    "00 Templates/Spren Template.md": {
+      "summary": "Spren Template",
+      "tags": [
+        "templates"
+      ],
+      "links": []
+    },
+    "02 Players/Fina.md": {
+      "summary": "Fina",
+      "tags": [
+        "players"
+      ],
+      "links": []
+    },
+    "02 Players/Galeth-son-Thald.md": {
+      "summary": "Galeth son Thald",
+      "tags": [
+        "players"
+      ],
+      "links": []
+    },
+    "02 Players/Iiko.md": {
+      "summary": "Iiko",
+      "tags": [
+        "players"
+      ],
+      "links": []
+    },
+    "02 Players/Kuma.md": {
+      "summary": "Kuma",
+      "tags": [
+        "players"
+      ],
+      "links": []
+    },
+    "02 Players/Mallow.md": {
+      "summary": "Mallow",
+      "tags": [
+        "players"
+      ],
+      "links": []
+    },
+    "02 Players/N'tal.md": {
+      "summary": "N'tal",
+      "tags": [
+        "players"
+      ],
+      "links": []
+    },
+    "31 Spren/Cadence.md": {
+      "summary": "Cadence",
+      "tags": [
+        "spren"
+      ],
+      "links": []
+    },
+    "31 Spren/Dreamwaker.md": {
+      "summary": "Dreamwaker",
+      "tags": [
+        "spren"
+      ],
+      "links": []
+    },
+    "31 Spren/Kun'ahu.md": {
+      "summary": "Kun'ahu",
+      "tags": [
+        "spren"
+      ],
+      "links": []
+    },
+    "31 Spren/Pyre.md": {
+      "summary": "Pyre",
+      "tags": [
+        "spren"
+      ],
+      "links": []
+    },
+    "31 Spren/Verdae.md": {
+      "summary": "Verdae",
+      "tags": [
+        "spren"
+      ],
+      "links": []
+    },
+    "31 Spren/Viscose.md": {
+      "summary": "Viscose",
+      "tags": [
+        "spren"
+      ],
+      "links": []
+    }
+  }
+}
