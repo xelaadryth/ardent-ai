@@ -21,6 +21,6 @@ class DummyClient:
 def test_generate_content_forwards_to_client(monkeypatch):
     monkeypatch.setattr(llm_client, "client", DummyClient())
 
-    result = llm_client.generate_content(prompt="prompt")
+    result = llm_client.generate_content(models=["m"], prompt="prompt")
 
     assert result == "result"
