@@ -51,9 +51,16 @@ Templates
 - Use the matching template from 00 Templates/ when creating files.
 - Preserve template section order.
 - Update existing files instead of creating duplicates.
+
 Linking
-- When creating a file, update related documents to include [[Obsidian Links]] to the new page.
+- When creating a file, insert bidirectional links to related documents, and update related documents to include [[Obsidian Links]] to the new page.
 - If a referenced page does not exist and should not be created, use a tag instead of an Obsidian link.
+- The Obsidian link text must match match the exact page title wrapped in double brackets. Do NOT use:
+  - Aliases: [[Page Name|Display Text]]
+  - Lowercase slugs: [[page_name]]
+  - Prefixed IDs: [[npc_page_name]]
+  - Markdown links: [text](file.md)
+
 Modification Rules
 - Never delete files unless explicitly requested.
 - Preserve user-authored content whenever possible.
