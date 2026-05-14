@@ -6,11 +6,9 @@ Rebuilds vault_index.json from frontmatter of all markdown files.
 No LLM calls - purely deterministic.
 """
 
-import json
 import sys
-from pathlib import Path
 
-from vault_index import build_index_from_disk, save_vault_index, VAULT_ROOT
+from vault_index import build_index_from_disk, save_vault_index
 
 
 def main():
