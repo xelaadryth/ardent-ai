@@ -8,4 +8,4 @@ locations: [Truthkeeper Camp]
 High-tier lighteyed disguised as a darkeyes; a Ghostblood spy.
 
 # Tags
-#npc
+#npc #placeholder

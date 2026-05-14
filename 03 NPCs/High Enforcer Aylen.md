@@ -20,4 +20,4 @@ High Enforcer currently visiting the Truthkeeper chapter.
 - Secret agendas related to the Silent Oath.
 
 # Tags
-#npc
+#npc #placeholder

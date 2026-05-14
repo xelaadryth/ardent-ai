@@ -1,0 +1,7 @@
+- Templates were updated. Use them as the source of truth to fix frontmatter in any detected files.
+- Add the #placeholder tag to the frontmatter of every file that is not a Player, Spren, or Session as they have not been fully imported yet
+- Create templates for "Faction", "Lore", "Hook", and "Scene". Lore will be used for general context, Hook will be used on NPCs, Locations, Sessions, etc to indicate somewhere players can dig deeper. Scene will be used to set up specific situations that may or may not happen during a session during session planning
+- Add a file to the "05 Factions" folder for the "Truthkeepers"
+- Add a file to the "10 Lore" folder for the "Possessed"
+- Add a file to the "06 Hooks" folder called "Sila's Allegiance"
+- Fix any broken links by creating the corresponding files in the corresponding folders. Note that many links incorrectly have the folder name in them, but Obsidian just uses the bare page name. Loid should be categorized in the "03 NPCs" folder as an NPC, not as a piece of "lore"

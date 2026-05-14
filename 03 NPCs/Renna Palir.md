@@ -8,4 +8,4 @@ locations: [Truthkeeper Camp]
 Lighteyed female Witness.
 
 # Tags
-#npc
+#npc #placeholder

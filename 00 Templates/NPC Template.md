@@ -1,6 +1,7 @@
 ---
-name: 
+name:
 type: npc
+tags:
 status: active
 locations: []
 ---
@@ -18,5 +19,3 @@ locations: []
 - 
 # Relationships
 - 
-# Tags
-#npc

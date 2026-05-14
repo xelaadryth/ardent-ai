@@ -1,6 +1,7 @@
 ---
-name: 
+name:
 type: player
+tags:
 status: active
 player:
 order:
@@ -18,5 +19,3 @@ spren:
 - 
 # Relationships
 - 
-# Tags
-#player

@@ -25,4 +25,4 @@ Leader of the current Truthkeeper chapter. Believes Roshar is doomed to the same
 - [[04 Sessions/000 Arrival]]: Initial recruiter.
 
 # Tags
-#npc
+#npc #placeholder

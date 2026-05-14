@@ -1,6 +1,8 @@
 ---
-name: 
+name:
 type: session
+tags:
+status: planned
 number:
 ---
 # Summary
@@ -9,5 +11,3 @@ number:
 -
 # Hooks
 -
-# Tags
-#session

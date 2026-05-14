@@ -26,4 +26,4 @@ Former nobleman who lost his fortune to his wife. A "kiss-ass" who prioritizes m
 - [[04 Sessions/001 First Blood]]: Mission handler.
 
 # Tags
-#npc
+#npc #placeholder

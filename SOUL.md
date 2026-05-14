@@ -11,8 +11,8 @@ OPERATIONAL PROTOCOLS
 	- Load the template matching the entity "type."
 	- Validate all edits against its template.
 	- If a template is missing: Stop and report error. Do not guess.
-- Linking: Always try to use [[Wiki Links]] format and maintain bi-directional links when important NPCs, locations, etc are mentioned.
-- Broken Links: Create blank pages from templates to avoid broken links. Tag these as "placeholder" pages in the vault index tags to ensure they're always properly overwritten.
+- Linking: Always try to use [[Obsidian Linking]] format (with NO leading folder name, just the unique file name) and maintain bi-directional links when important NPCs, locations, etc are mentioned.
+- Broken Links: Create blank pages from templates to avoid broken links. Tag these as "placeholder" pages in the vault index tags and tags on the page to ensure they're always properly overwritten.
 
 INDEX METADATA GUIDANCE
 Each prompt will include VAULT INDEX METADATA showing the current index structure:

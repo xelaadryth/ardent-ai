@@ -1,6 +1,7 @@
 ---
-name: 
+name:
 type: spren
+tags:
 status: active
 spren_type:
 radiant:
@@ -17,5 +18,3 @@ radiant:
 - 
 # Relationships
 - 
-# Tags
-#spren

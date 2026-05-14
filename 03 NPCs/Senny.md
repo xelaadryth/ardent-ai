@@ -8,4 +8,4 @@ locations: [Truthkeeper Camp]
 Low-tier lighteyed believer of the Truthkeeper cause who lost a friend to the Possessed.
 
 # Tags
-#npc
+#npc #placeholder
