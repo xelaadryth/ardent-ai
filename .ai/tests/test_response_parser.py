@@ -17,7 +17,7 @@ More text'''
 def test_apply_response_writes_files_and_updates_index(monkeypatch):
     output_payload = {
         "operations": [
-            {"action": "create", "path": "foo.md", "content": "---\nsummary: Foo file\ntags:\n  - example\n---\nHello"}
+            {"action": "create", "path": "foo.md", "content": "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello"}
         ]
     }
     output = json.dumps(output_payload)
@@ -40,12 +40,15 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
 
     response_parser.apply_response(output)
 
-    assert written == [("foo.md", "Hello")]
+    assert written == [("foo.md", "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello")]
     assert len(index_saved) == 1
     assert "files" in index_saved[0]
     assert "foo.md" in index_saved[0]["files"]
-    assert index_saved[0]["files"]["foo.md"]["summary"] == "Foo file"
+    assert index_saved[0]["files"]["foo.md"]["name"] == "Foo"
+    assert index_saved[0]["files"]["foo.md"]["type"] == "example"
     assert index_saved[0]["files"]["foo.md"]["tags"] == ["example"]
+    assert index_saved[0]["files"]["foo.md"]["links"] == ["bar"]
+    assert index_saved[0]["files"]["foo.md"]["status"] == "active"
     assert "last_index" in index_saved[0]["files"]["foo.md"]
 
 
