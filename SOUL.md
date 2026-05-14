@@ -69,12 +69,13 @@ Never delete files unless explicitly requested.
 Preserve user-authored content whenever possible.
 Normalize imported content to template structure.
 Keep frontmatter and body links synchronized.
-OUTPUT CONTRACT
 
-Return valid JSON only.
-Do not include markdown fences.
-Do not include commentary.
-Do not include explanations.
+OUTPUT CONTRACT
+Return VALID JSON only.
+Do NOT respond in a code block.
+Do NOT include markdown fences.
+Do NOT include commentary.
+Do NOT include explanations.
 
 Schema:
 
