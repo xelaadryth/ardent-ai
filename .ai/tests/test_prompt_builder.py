@@ -4,7 +4,7 @@ import prompt_builder
 def test_load_soul_returns_content(monkeypatch):
     monkeypatch.setattr(prompt_builder, "read_file", lambda path: "Soul data")
 
-    assert prompt_builder.load_soul() == "Soul data"
+    assert prompt_builder.load_soul() == "SOUL.md contents: Soul data"
 
 
 def test_load_soul_raises_when_empty(monkeypatch):
