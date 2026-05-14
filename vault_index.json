@@ -605,6 +605,30 @@
         "Highlord Paladar"
       ],
       "last_index": "2026-05-14T04:31:59Z"
+    },
+    "03 NPCs/Khria.md": {
+      "summary": "Purelaker Truthwatcher lieutenant Knights Dusk rebel seeking liberation Vamah.",
+      "tags": [
+        "npc",
+        "Truthwatcher"
+      ],
+      "links": [
+        "06 Locations/Revolar.md",
+        "02 Players/Mallow.md",
+        "05 Factions/Truthkeepers.md",
+        "02 Players/Iiko.md"
+      ],
+      "entities": [
+        "Khria",
+        "Purelake",
+        "Revolar",
+        "General Spade",
+        "Mallow",
+        "Vamah",
+        "Knights of Dusk",
+        "Mistspren"
+      ],
+      "last_index": "2026-05-14T04:36:52Z"
     }
   }
 }
