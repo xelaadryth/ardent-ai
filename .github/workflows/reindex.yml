@@ -34,7 +34,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install pyyaml pytest
+        run: pip install google-genai pyyaml pytest
 
       - name: Run unit tests
         run: python -m pytest .ai/tests -q
