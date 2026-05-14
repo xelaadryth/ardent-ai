@@ -142,7 +142,11 @@ def score_entry(path: str, entry: dict, terms: list[str], query: str) -> int:
         if any(term in link_lower or link_lower in term for term in terms) or any(term in query_lower for term in link_lower.split()):
             score += 5
 
-    for entity in entry.get("entities", []):
+    entities = entry.get("entities", [])
+    if len(entities) == 0:
+        # Mark unindexed entries
+        score += 1
+    for entity in entities:
         entity_lower = str(entity).lower()
         if any(term in entity_lower or entity_lower in term for term in terms) or any(term in query_lower for term in entity_lower.split()):
             score += 5
@@ -187,6 +191,7 @@ def retrieve_vault_context(query: str, limit: int = 15) -> str:
     
     index_metadata = {}
     for path in selected:
+        print(f"[SELECTED] {path} with score {dict(index[path])}")
         if path in index:
             index_metadata[path] = index[path]
     

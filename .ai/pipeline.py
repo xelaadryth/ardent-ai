@@ -15,10 +15,9 @@ archive_file = inbox.archive_file
 
 def run_agent(request_input=None, extra_prompt=""):
     request_file = find_inbox_file(request_input)
-
     if request_file is None:
         print("No request file found in Inbox.")
-        return
+        exit(0)
 
     prompt = load_prompt(request_file, extra_prompt)
     system_prompt = build_system_prompt(prompt)
