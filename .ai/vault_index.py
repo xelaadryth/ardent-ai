@@ -191,7 +191,7 @@ def retrieve_vault_context(query: str, limit: int = 15) -> str:
     
     index_metadata = {}
     for path in selected:
-        print(f"[SELECTED] {path} with score {dict(index[path])}")
+        print(f"[SELECTED] '{path}' with score '{score}' {dict(index[path])}")
         if path in index:
             index_metadata[path] = index[path]
     

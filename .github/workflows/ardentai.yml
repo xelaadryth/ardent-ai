@@ -62,7 +62,8 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REQUEST_INPUT: ${{ github.event.inputs.request_file }}
           EXTRA_PROMPT: ${{ github.event.inputs.prompt }}
-        run: python .ai/main.py
+        run: |
+          python .ai/main.py | tee output.txt
 
       - name: Create Pull Request
         if: github.event_name != 'pull_request'
@@ -70,6 +71,16 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           PROMPT: ${{ env.PROMPT }}
         run: |
+          if grep -q '^COMMIT_MESSAGE=' output.txt; then
+            echo "COMMIT_MESSAGE=$(grep '^COMMIT_MESSAGE=' output.txt | sed 's/^COMMIT_MESSAGE=//')" >> $GITHUB_ENV
+          else
+            echo "COMMIT_MESSAGE=Ardent AI update" >> $GITHUB_ENV
+          fi
+          if grep -q '^REQUEST_FILENAME=' output.txt; then
+            echo "REQUEST_FILENAME=$(grep '^REQUEST_FILENAME=' output.txt | sed 's/^REQUEST_FILENAME=//')" >> $GITHUB_ENV
+          else
+            echo "REQUEST_FILENAME=" >> $GITHUB_ENV
+          fi
           git config user.name "Ardent AI"
           git config user.email "ardent-ai@users.noreply.github.com"
           git add .
@@ -77,10 +88,10 @@ jobs:
             echo "NO_CHANGES=true" >> $GITHUB_ENV
             exit 0
           fi
-          git commit -m "Ardent AI update" || echo "No changes to commit"
+          git commit -m "$COMMIT_MESSAGE" || echo "No changes to commit"
           git push origin "$BRANCH"
           gh pr create \
             --base main \
             --head "$BRANCH" \
-            --title "🧠 Ardent AI Update" \
+            --title "🧠 $COMMIT_MESSAGE" \
             --body "$PROMPT"

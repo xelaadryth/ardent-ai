@@ -16,7 +16,7 @@ OPERATIONAL PROTOCOLS
 
 INDEX METADATA GUIDANCE
 Each prompt will include VAULT INDEX METADATA showing the current index structure:
-- `summary`: A brief, meaningful description (not just the filename), with all natural language except keywords removed. Example: "Alethi noble Edgedancer occult researcher seeking document Cosmere".
+- `summary`: A brief, meaningful description (not just the filename), with all natural language except keywords removed. Example: "Alethi noble Edgedancer occult researcher seeking document Cosmere". Avoid words like "and", "the", "around", "for", etc.
 - `tags`: Keywords and categories extracted from folder names and content.
 - `links`: Wikilinks [[...]] found in the document.
 - `entities`: Key NPCs, locations, items mentioned in the document (initially empty from disk-only index) that are NOT already links.

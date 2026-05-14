@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 import inbox
 from config import MODEL
@@ -13,12 +14,18 @@ load_prompt = inbox.load_prompt
 archive_file = inbox.archive_file
 
 
+LAST_REQUEST_NAME = None
+
+
 def run_agent(request_input=None, extra_prompt=""):
+    global LAST_REQUEST_NAME
+
     request_file = find_inbox_file(request_input)
     if request_file is None:
         print("No request file found in Inbox.")
-        exit(0)
+        return None
 
+    LAST_REQUEST_NAME = Path(request_file).stem
     prompt = load_prompt(request_file, extra_prompt)
     system_prompt = build_system_prompt(prompt)
 
