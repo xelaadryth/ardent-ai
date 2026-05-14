@@ -139,6 +139,7 @@ def build_index_entry(path: Path, content: str = "") -> dict:
     entry_type = frontmatter.get("type", "")
     links = frontmatter.get("links", [])
     tags = frontmatter.get("tags", [])
+    status = frontmatter.get("status", "")
     
     # Ensure links and tags are lists
     if not isinstance(links, list):
@@ -151,7 +152,7 @@ def build_index_entry(path: Path, content: str = "") -> dict:
         "type": entry_type,
         "links": links,
         "tags": tags,
-        "entities": [],
+        "status": status,
         "last_index": current_timestamp()
     }
 
@@ -182,49 +183,70 @@ def augment_index_with_disk(files: dict) -> tuple[dict, bool]:
 
 def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
     score = 0
-    query_lower = query.lower()
+    query_lower = query.lower().strip()
     entry_name = str(entry.get("name", ""))
     name_lower = entry_name.lower()
     entry_type = str(entry.get("type", ""))
     type_lower = entry_type.lower()
     filename_lower = name.lower()
+    status = str(entry.get("status", "")).lower()
+
+    # Exact phrase and name matches should rank highest.
+    if name_lower and query_lower == name_lower:
+        score += 25
+    if name_lower and name_lower in query_lower:
+        score += 12
+    if query_lower and query_lower in name_lower:
+        score += 10
 
     # Score tags from frontmatter
     for tag in entry.get("tags", []):
-        tag_lower = str(tag).lower()
-        if any(term in tag_lower or tag_lower in term for term in terms):
-            score += 5
+        tag_lower = str(tag).lower().lstrip("#")
+        if query_lower == tag_lower:
+            score += 14
+        elif any(term == tag_lower for term in terms):
+            score += 10
+        elif any(term in tag_lower or tag_lower in term for term in terms):
+            score += 6
 
     # Score links from frontmatter
     for link in entry.get("links", []):
-        link_lower = str(link).lower()
-        if any(term in link_lower or link_lower in term for term in terms) or any(term in query_lower for term in link_lower.split()):
+        link_lower = str(link).lower().strip("[]# ")
+        if query_lower == link_lower:
+            score += 12
+        elif any(term == link_lower for term in terms):
+            score += 8
+        elif any(term in link_lower or link_lower in term for term in terms):
             score += 5
 
     # Score type matches
-    if any(term in type_lower for term in terms):
-        score += 4
+    if type_lower:
+        if query_lower == type_lower:
+            score += 10
+        elif any(term == type_lower for term in terms):
+            score += 7
+        elif any(term in type_lower or type_lower in term for term in terms):
+            score += 4
 
-    entities = entry.get("entities", [])
-    if len(entities) == 0:
-        # Mark unindexed entries
-        score += 1
-    for entity in entities:
-        entity_lower = str(entity).lower()
-        if any(term in entity_lower or entity_lower in term for term in terms) or any(term in query_lower for term in entity_lower.split()):
+    # Score status matches
+    if status:
+        if query_lower == status:
+            score += 8
+        elif any(term == status for term in terms):
             score += 5
+        elif any(term in status or status in term for term in terms):
+            score += 3
 
-    # Score name matches
-    matched_name_terms = set()
+    # Score name token overlap
     for term in terms:
-        if term in name_lower:
-            matched_name_terms.add(term)
-    score += 3 * len(matched_name_terms)
-
-    # Score filename matches
-    for term in terms:
-        if term in filename_lower:
+        if term and term in name_lower:
+            score += 4
+        if term and term in filename_lower:
             score += 2
+
+    # Small boost for multi-term coverage
+    matched_terms = sum(1 for term in terms if term and (term in name_lower or term in type_lower or term in status or any(term in str(tag).lower() for tag in entry.get("tags", [])) or any(term in str(link).lower() for link in entry.get("links", []))))
+    score += matched_terms
 
     return score
 
@@ -233,36 +255,33 @@ def retrieve_vault_context(query: str, limit: int = 10) -> str:
     """Retrieve relevant vault context based on query."""
     index = load_vault_index()
     
-    # Simple keyword matching for now
-    query_lower = query.lower()
-    matches = []
-    
+    terms = query_terms(query)
+    scored = []
+
     for name, metadata in index.items():
         if not isinstance(metadata, dict):
             continue
-            
-        # Check if query keywords appear in name, links, or tags
-        searchable_text = f"{name} {metadata.get('links', [])} {metadata.get('tags', [])}".lower()
-        
-        if any(keyword in searchable_text for keyword in query_lower.split()):
-            matches.append((name, metadata))
-            if len(matches) >= limit:
-                break
-    
-    if not matches:
+
+        score = score_entry(name, metadata, terms, query)
+        if score > 0:
+            scored.append((name, score))
+
+    if not scored:
         # Fallback to SOUL.md when no matches
         try:
             soul_content = load_markdown("SOUL.md")
             return f"--- SOUL.md ---\n{soul_content}"
         except:
             return "No relevant vault context found"
-    
-    # Format as context string
+
+    selected = [name for name, _ in sorted(scored, key=lambda item: item[1], reverse=True)[:limit]]
+
     context_parts = []
-    for name, metadata in matches:
-        filepath = get_filepath_from_name(name, metadata.get('type', ''))
+    for name in selected:
+        entry = index[name]
+        filepath = get_filepath_from_name(name, entry.get('type', ''))
         context_parts.append(f"--- {filepath} ---\n{load_markdown(filepath)}")
-    
+
     return "\n\n".join(context_parts)
 
 
@@ -309,35 +328,3 @@ def get_filepath_from_name(name: str, file_type: str) -> str:
         return f"{folder}/{name}.md"
     else:
         return f"{name}.md"
-
-    for name, entry in index.items():
-        if not isinstance(entry, dict):
-            continue
-
-        score = score_entry(name, entry, terms, query)
-        if score > 0:
-            scored.append((name, score))
-
-    if not scored:
-        return load_core_context()
-
-    selected = [name for name, _ in sorted(scored, key=lambda item: item[1], reverse=True)[:limit]]
-    
-    index_metadata = {}
-    for name in selected:
-        if name in index:
-            index_metadata[name] = index[name]
-    
-    context_parts = []
-    context_parts.append("--- VAULT INDEX METADATA ---")
-    context_parts.append(json.dumps(index_metadata, indent=2))
-    context_parts.append("")
-    
-    for name in selected:
-        entry = index[name]
-        filepath = get_filepath_from_name_and_type(name, entry.get("type", ""))
-        content = load_markdown(filepath)
-        if content:
-            context_parts.append(f"--- {filepath} ---\n{content}")
-
-    return "\n\n".join(context_parts)

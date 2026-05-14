@@ -148,29 +148,6 @@ def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypa
     assert oldest == ["OldFile"]
 
 
-def test_get_unindexed_files_returns_files_with_no_entities(tmp_path, monkeypatch):
-    vault_index_data = {
-        "files": {
-            "IndexedFile": {
-                "name": "IndexedFile",
-                "type": "npc",
-                "entities": ["entity1"]
-            },
-            "UnindexedFile": {
-                "name": "UnindexedFile",
-                "type": "player", 
-                "entities": []
-            }
-        }
-    }
-
-    (tmp_path / "vault_index.json").write_text(json.dumps(vault_index_data), encoding="utf-8")
-    monkeypatch.setattr(vault_index, "VAULT_ROOT", tmp_path)
-
-    unindexed = vault_index.get_unindexed_files()
-    assert unindexed == ["UnindexedFile"]
-
-
 def test_build_index_entry_includes_last_index_timestamp():
     from pathlib import Path
 
@@ -182,3 +159,35 @@ def test_build_index_entry_includes_last_index_timestamp():
     assert "last_index" in entry
     assert isinstance(entry["last_index"], str)
     assert entry["last_index"].endswith("Z")
+    from pathlib import Path
+
+    path = Path("03 NPCs/Aaron.md")
+    content = ""
+
+    entry = vault_index.build_index_entry(path, content)
+
+    assert "last_index" in entry
+    assert isinstance(entry["last_index"], str)
+    assert entry["last_index"].endswith("Z")
+
+
+def test_build_index_entry_includes_status_from_frontmatter():
+    from pathlib import Path
+
+    path = Path("03 NPCs/Aaron.md")
+    content = """---
+name: Aaron
+type: npc
+status: active
+tags: ["warrior"]
+links: ["Town"]
+---
+Some content here."""
+
+    entry = vault_index.build_index_entry(path, content)
+
+    assert entry["status"] == "active"
+    assert entry["name"] == "Aaron"
+    assert entry["type"] == "npc"
+    assert entry["tags"] == ["warrior"]
+    assert entry["links"] == ["Town"]
