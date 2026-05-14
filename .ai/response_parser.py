@@ -46,8 +46,8 @@ def extract_wikilinks(content: str) -> list[str]:
     return normalized
 
 
-def apply_operations(operations: list[dict]):
-    current_index = load_vault_index()
+def apply_operations(current_index: dict):
+    operations = current_index.get("operations", [])
 
     for op in operations:
         action = op.get("action", "").lower()
