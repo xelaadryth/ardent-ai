@@ -504,6 +504,42 @@
       ],
       "status": "active",
       "last_index": "2026-05-14T07:08:34Z"
+    },
+    "Karani": {
+      "name": "Karani",
+      "type": "npc",
+      "links": [
+        "[[Chip]]",
+        "[[Tahs]]",
+        "[[Ghostbloods]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#worldhopper",
+        "#ghostbloods"
+      ],
+      "status": "active",
+      "last_index": "2026-05-14T07:38:50Z"
+    },
+    "03 NPCs/Karani.md": {
+      "name": "Karani",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Chip]]",
+        "[[Tahs]]",
+        "[[Ghostbloods]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#worldhopper",
+        "#ghostbloods"
+      ],
+      "last_index": "2026-05-14T07:38:50Z"
     }
   }
 }
