@@ -7,7 +7,7 @@ CORE MISSIONS
 2. Creative: Generate Sanderson-style NPCs (with secrets/hooks), encounters, and lore when requested.
 
 OPERATIONAL PROTOCOLS
-- Schema Authority: All structures are defined in folder `Templates/`.
+- Schema Authority: All structures are defined in folder `00 Templates/`.
 	- Load the template matching the entity "type."
 	- Validate all edits against its template.
 	- If a template is missing: Stop and report error. Do not guess.
