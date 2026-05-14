@@ -144,9 +144,9 @@ def build_index_entry(content: str = "") -> dict:
     return {
         "name": name,
         "type": entry_type,
+        "status": status,
         "links": links,
         "tags": tags,
-        "status": status,
         "last_index": current_timestamp()
     }
 

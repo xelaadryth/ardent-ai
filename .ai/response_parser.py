@@ -35,19 +35,25 @@ def now_timestamp() -> str:
 
 
 def extract_wikilinks(content: str) -> list[str]:
-    wikilinks = re.findall(r"\[\[([^\]]+)\]\]", content)
+    raw_links = re.findall(r"\[\[([^\]]+)\]\]", content)
+
     normalized = []
     seen = set()
-    for link in wikilinks:
-        lower = link.lower().strip()
-        if lower and lower not in seen:
-            normalized.append(link.strip())
-            seen.add(lower)
+
+    for link in raw_links:
+        cleaned = link.strip()
+        key = cleaned.lower()
+
+        if key and key not in seen:
+            normalized.append(f"[[{cleaned}]]")
+            seen.add(key)
+
     return normalized
 
 
-def apply_operations(operations: list[dict]):
-    current_index = load_vault_index()
+def apply_operations(operations: list[dict], current_index: dict | None = None):
+    if current_index is None:
+        current_index = load_vault_index() 
 
     for op in operations:
         action = op.get("action", "").lower()
@@ -91,13 +97,17 @@ def apply_operations(operations: list[dict]):
             current_index["files"].pop(path, None)
             print(f"[INDEX DELETE] {path}")
 
+        else:
+            raise ValueError(f"Unsupported operation action: {action}")
+
     save_vault_index(current_index)
 
 
-def apply_response(output: str):
+def apply_response(output: str, current_index: dict | None = None):
+
     payload = parse_json_output(output)
 
     operations = payload.get("operations", [])
 
     if operations:
-        apply_operations(operations)
+        apply_operations(operations, current_index)

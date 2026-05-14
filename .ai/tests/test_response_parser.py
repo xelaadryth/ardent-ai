@@ -2,6 +2,7 @@ import json
 
 import pytest
 import response_parser
+from response_parser import extract_wikilinks
 
 
 def test_parse_json_output_handles_embedded_json():
@@ -29,7 +30,7 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
         written.append((path, content))
 
     def fake_load_vault_index():
-        return {"existing.md": {"summary": "Existing"}}
+        return {"files": {"existing.md": {"summary": "Existing"}}}
 
     def fake_save_vault_index(index_data):
         index_saved.append(index_data)
@@ -56,4 +57,56 @@ def test_apply_response_raises_for_invalid_operations():
     output = json.dumps({"operations": [{"action": "unknown", "path": "foo.md"}]})
 
     with pytest.raises(ValueError, match="Unsupported operation action"):
-        response_parser.apply_response(output)
+        response_parser.apply_response(output, current_index={"files": {}})
+
+
+def test_extract_wikilinks_basic():
+    content = "This links to [[Revolar]] and [[Truthkeepers]]."
+
+    result = extract_wikilinks(content)
+
+    assert "[[Revolar]]" in result
+    assert "[[Truthkeepers]]" in result
+    assert len(result) == 2
+
+
+def test_extract_wikilinks_deduplicates_case_insensitive():
+    content = """
+    [[Revolar]]
+    [[revolar]]
+    [[REVOLAR]]
+    """
+
+    result = extract_wikilinks(content)
+
+    assert result == ["[[Revolar]]"]
+    assert len(result) == 1
+
+
+def test_extract_wikilinks_preserves_spacing():
+    content = "See [[ Truthkeepers ]] for details."
+
+    result = extract_wikilinks(content)
+
+    assert result == ["[[Truthkeepers]]"]
+
+
+def test_extract_wikilinks_ignores_non_wikilinks():
+    content = "This is not a link: Revolar or [Revolar] or ((Revolar))"
+
+    result = extract_wikilinks(content)
+
+    assert result == []
+
+
+def test_extract_wikilinks_mixed_content():
+    content = """
+    Story references:
+    - [[Revolar]]
+    - [[Truthkeepers]]
+    - [[Revolar]] again
+    """
+
+    result = extract_wikilinks(content)
+
+    assert result == ["[[Revolar]]", "[[Truthkeepers]]"]

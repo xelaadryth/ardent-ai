@@ -28,11 +28,10 @@ def test_apply_operations_creates_file_and_merges_links():
         }
     ]
 
-    with patch("vault.write_file") as mock_write, \
-         patch("vault_index.load_vault_index", return_value=fake_index), \
-         patch("vault_index.save_vault_index") as mock_save:
+    with patch("response_parser.write_file") as mock_write, \
+         patch("response_parser.save_vault_index") as mock_save:
 
-        apply_operations(operations)
+        apply_operations(operations, fake_index)
 
         # 1. file written
         mock_write.assert_called_once()
@@ -70,10 +69,9 @@ def test_apply_operations_deletes_file():
 
     with patch("os.path.exists", return_value=True), \
          patch("os.remove") as mock_remove, \
-         patch("vault_index.load_vault_index", return_value=fake_index), \
-         patch("vault_index.save_vault_index") as mock_save:
+         patch("response_parser.save_vault_index") as mock_save:
 
-        apply_operations(operations)
+        apply_operations(operations, fake_index)
 
         mock_remove.assert_called_once_with("03 NPCs/Test NPC.md")
 
