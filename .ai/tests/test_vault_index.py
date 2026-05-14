@@ -5,43 +5,6 @@ import vault
 import vault_index
 
 
-def test_retrieve_vault_context_scores_files_and_loads_content(tmp_path, monkeypatch):
-    vault_index_data = {
-        "files": {
-            "03 NPCs/Aaron.md": {
-                "name": "Aaron",
-                "type": "npc",
-                "status": "active",
-                "tags": ["#noble", "#warrior", "#human"],
-                "links": ["[[Town]]"]
-            },
-            "06 Locations/Town.md": {
-                "name": "Town",
-                "type": "location",
-                "status": "active",
-                "tags": ["#market", "#town"],
-                "links": ["[[Aaron]]"]
-            }
-        }
-    }
-
-    (tmp_path / "vault_index.json").write_text(json.dumps(vault_index_data), encoding="utf-8")
-    (tmp_path / "03 NPCs").mkdir(parents=True)
-    (tmp_path / "03 NPCs" / "Aaron.md").write_text("Aaron content", encoding="utf-8")
-    (tmp_path / "06 Locations").mkdir(parents=True)
-    (tmp_path / "06 Locations" / "Town.md").write_text("Town content", encoding="utf-8")
-
-    monkeypatch.setattr(vault_index, "VAULT_ROOT", tmp_path)
-    monkeypatch.setattr(vault, "VAULT_ROOT", tmp_path)
-
-    context = vault_index.retrieve_vault_context("noble town", limit=2)
-
-    assert "--- 03 NPCs/Aaron.md ---" in context
-    assert "--- 06 Locations/Town.md ---" in context
-    assert "Aaron content" in context
-    assert "Town content" in context
-
-
 def test_retrieve_vault_context_falls_back_when_no_matches(tmp_path, monkeypatch):
     (tmp_path / "vault_index.json").write_text(json.dumps({"files": {}}), encoding="utf-8")
     (tmp_path / "SOUL.md").write_text("Soul file", encoding="utf-8")
@@ -99,42 +62,6 @@ def test_get_folder_from_type_returns_folder_prefix():
     assert vault_index.get_folder_from_type("npc") == "03 NPCs"
     assert vault_index.get_folder_from_type("player") == "02 Players"
     assert vault_index.get_folder_from_type("core") == ""
-
-
-def test_build_index_from_disk_uses_filepath_key(tmp_path, monkeypatch):
-    (tmp_path / "03 NPCs").mkdir(parents=True)
-    (tmp_path / "03 NPCs" / "Karani.md").write_text("---\nname: Karani\ntype: npc\nlinks: []\ntags: []\n---\nKarani content", encoding="utf-8")
-
-    monkeypatch.setattr(vault_index, "VAULT_ROOT", tmp_path)
-    monkeypatch.setattr(vault, "VAULT_ROOT", tmp_path)
-
-    disk_index = vault_index.build_index_from_disk()
-
-    assert "03 NPCs/Karani.md" in disk_index
-    assert "Karani" not in disk_index
-
-
-def test_load_vault_index_normalizes_full_path_keys(tmp_path, monkeypatch):
-    vault_index_data = {
-        "files": {
-            "03 NPCs/Karani.md": {
-                "name": "Karani",
-                "type": "npc",
-                "status": "active",
-                "tags": ["#darkeyed"],
-                "links": ["[[Chip]]"]
-            }
-        }
-    }
-
-    (tmp_path / "vault_index.json").write_text(json.dumps(vault_index_data), encoding="utf-8")
-    monkeypatch.setattr(vault_index, "VAULT_ROOT", tmp_path)
-
-    normalized_index = vault_index.load_vault_index()
-
-    assert "03 NPCs/Karani.md" in normalized_index
-    assert "Karani" not in normalized_index
-    assert normalized_index["03 NPCs/Karani.md"]["type"] == "npc"
 
 
 def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypatch):

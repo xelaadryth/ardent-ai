@@ -26,7 +26,7 @@ def load_vault_index() -> dict:
     if not isinstance(data, dict) or "files" not in data or not isinstance(data["files"], dict):
         raise ValueError("vault_index.json must contain a top-level 'files' object.")
 
-    return data["files"]
+    return data
 
 
 def save_vault_index(data: dict):
@@ -318,7 +318,7 @@ def get_oldest_indexed_files(limit: int = 10) -> list[str]:
     index = load_vault_index()
     entries = []
 
-    for name, metadata in index.items():
+    for name, metadata in index["files"].items():
         if not isinstance(metadata, dict):
             continue
         last_index = metadata.get('last_index', '')
