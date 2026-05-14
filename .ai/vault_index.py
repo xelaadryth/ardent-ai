@@ -2,6 +2,7 @@ import json
 import re
 from datetime import datetime, timezone
 from pathlib import Path
+import yaml
 
 from vault import load_core_context, load_markdown, VAULT_ROOT
 
@@ -73,6 +74,39 @@ def crawl_numbered_markdown_files() -> list[Path]:
     return sorted(files)
 
 
+def get_folder_prefix_for_type(entry_type: str) -> str:
+    """Map entry type to folder prefix."""
+    type_to_prefix = {
+        "core": "",
+        "template": "00 Templates",
+        "player": "02 Players",
+        "npc": "03 NPCs",
+        "session": "04 Sessions",
+        "faction": "05 Factions",
+        "location": "06 Locations",
+        "hook": "07 Hooks",
+        "scene": "08 Scenes",
+        "item": "09 Items",
+        "lore": "10 Lore",
+        "spren": "31 Spren"
+    }
+    return type_to_prefix.get(entry_type, "")
+
+
+def get_folder_from_type(entry_type: str) -> str:
+    """Return the folder path for a vault entry type."""
+    return get_folder_prefix_for_type(entry_type)
+
+
+def get_filepath_from_name_and_type(name: str, entry_type: str) -> str:
+    """Reconstruct filepath from name and type."""
+    prefix = get_folder_from_type(entry_type)
+    if prefix:
+        return f"{prefix}/{name}.md"
+    else:
+        return f"{name}.md"
+
+
 def extract_wikilinks(content: str) -> list[str]:
     wikilinks = re.findall(r"\[\[([^\]]+)\]\]", content)
     normalized = []
@@ -85,26 +119,38 @@ def extract_wikilinks(content: str) -> list[str]:
     return normalized
 
 
+def parse_frontmatter(content: str) -> dict:
+    """Parse YAML frontmatter from markdown content."""
+    frontmatter_match = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
+    if not frontmatter_match:
+        return {}
+    
+    try:
+        return yaml.safe_load(frontmatter_match.group(1)) or {}
+    except yaml.YAMLError:
+        return {}
+
+
 def build_index_entry(path: Path, content: str = "") -> dict:
-    summary = re.sub(r"[_\-]+", " ", path.stem).strip()
-    tags = []
-    tag_set = set()
-    for part in path.parts[:-1]:
-        cleaned = re.sub(r"^\d+\s*", "", part).strip()
-        if cleaned:
-            for tag in re.split(r"[^\w]+", cleaned):
-                if tag:
-                    tag_lower = tag.lower()
-                    if tag_lower not in tag_set:
-                        tags.append(tag_lower)
-                        tag_set.add(tag_lower)
-
-    links = extract_wikilinks(content)
-
+    frontmatter = parse_frontmatter(content)
+    
+    # Extract required fields from frontmatter
+    name = frontmatter.get("name", "")
+    entry_type = frontmatter.get("type", "")
+    links = frontmatter.get("links", [])
+    tags = frontmatter.get("tags", [])
+    
+    # Ensure links and tags are lists
+    if not isinstance(links, list):
+        links = []
+    if not isinstance(tags, list):
+        tags = []
+    
     return {
-        "summary": summary,
-        "tags": tags,
+        "name": name,
+        "type": entry_type,
         "links": links,
+        "tags": tags,
         "entities": [],
         "last_index": current_timestamp()
     }
@@ -114,7 +160,10 @@ def build_index_from_disk() -> dict:
     index = {}
     for relative_path in crawl_numbered_markdown_files():
         content = load_markdown(str(relative_path))
-        index[relative_path.as_posix()] = build_index_entry(relative_path, content)
+        entry = build_index_entry(relative_path, content)
+        if entry.get("name"):
+            # Use name as key instead of filepath
+            index[entry["name"]] = entry
     return index
 
 
@@ -123,30 +172,44 @@ def augment_index_with_disk(files: dict) -> tuple[dict, bool]:
     updated = dict(files)
     changed = False
 
-    for path, entry in disk_index.items():
-        if path not in updated:
-            updated[path] = entry
+    for name, entry in disk_index.items():
+        if name not in updated:
+            updated[name] = entry
             changed = True
 
     return updated, changed
 
 
-def score_entry(path: str, entry: dict, terms: list[str], query: str) -> int:
+def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
     score = 0
     query_lower = query.lower()
-    summary = str(entry.get("summary", ""))
-    summary_lower = summary.lower()
-    filename_lower = Path(path).name.lower()
+    entry_name = str(entry.get("name", ""))
+    name_lower = entry_name.lower()
+    entry_type = str(entry.get("type", ""))
+    type_lower = entry_type.lower()
+    filename_lower = name.lower()
 
+    # Score tags from frontmatter
     for tag in entry.get("tags", []):
         tag_lower = str(tag).lower()
         if any(term in tag_lower or tag_lower in term for term in terms):
             score += 5
 
+    # Score links from frontmatter
     for link in entry.get("links", []):
         link_lower = str(link).lower()
         if any(term in link_lower or link_lower in term for term in terms) or any(term in query_lower for term in link_lower.split()):
             score += 5
+
+    # Score body wikilinks
+    for link in entry.get("body_links", []):
+        link_lower = str(link).lower()
+        if any(term in link_lower or link_lower in term for term in terms) or any(term in query_lower for term in link_lower.split()):
+            score += 3
+
+    # Score type matches
+    if any(term in type_lower for term in terms):
+        score += 4
 
     entities = entry.get("entities", [])
     if len(entities) == 0:
@@ -157,12 +220,14 @@ def score_entry(path: str, entry: dict, terms: list[str], query: str) -> int:
         if any(term in entity_lower or entity_lower in term for term in terms) or any(term in query_lower for term in entity_lower.split()):
             score += 5
 
-    matched_summary_terms = set()
+    # Score name matches
+    matched_name_terms = set()
     for term in terms:
-        if term in summary_lower:
-            matched_summary_terms.add(term)
-    score += 3 * len(matched_summary_terms)
+        if term in name_lower:
+            matched_name_terms.add(term)
+    score += 3 * len(matched_name_terms)
 
+    # Score filename matches
     for term in terms:
         if term in filename_lower:
             score += 2
@@ -182,33 +247,34 @@ def retrieve_vault_context(query: str, limit: int = 10) -> str:
 
     scored = []
 
-    for path, entry in index.items():
+    for name, entry in index.items():
         if not isinstance(entry, dict):
             continue
 
-        score = score_entry(path, entry, terms, query)
+        score = score_entry(name, entry, terms, query)
         if score > 0:
-            scored.append((path, score))
+            scored.append((name, score))
 
     if not scored:
         return load_core_context()
 
-    selected = [path for path, _ in sorted(scored, key=lambda item: item[1], reverse=True)[:limit]]
+    selected = [name for name, _ in sorted(scored, key=lambda item: item[1], reverse=True)[:limit]]
     
     index_metadata = {}
-    for path in selected:
-        print(f"[SELECTED] '{path}' with score '{score}' {dict(index[path])}")
-        if path in index:
-            index_metadata[path] = index[path]
+    for name in selected:
+        if name in index:
+            index_metadata[name] = index[name]
     
     context_parts = []
     context_parts.append("--- VAULT INDEX METADATA ---")
     context_parts.append(json.dumps(index_metadata, indent=2))
     context_parts.append("")
     
-    for path in selected:
-        content = load_markdown(path)
+    for name in selected:
+        entry = index[name]
+        filepath = get_filepath_from_name_and_type(name, entry.get("type", ""))
+        content = load_markdown(filepath)
         if content:
-            context_parts.append(f"--- {path} ---\n{content}")
+            context_parts.append(f"--- {filepath} ---\n{content}")
 
     return "\n\n".join(context_parts)

@@ -1,14 +1,17 @@
 ---
 name:
 type: location
-tags:
 status: active
-parent:
-children: []
+links: []
+tags: []
 ---
-# Summary
+# Description
 
-# Notable NPCs
+# Background
 
+# Goals
+- 
 # Hooks
+- 
+# Connections
 - 

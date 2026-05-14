@@ -1,9 +1,13 @@
 ---
 name: Kun'ahu
 type: spren
+links:
+  - "[[Galeth-son-Thald]]"
+tags:
+  - "#spren"
+  - "#peakspren"
+  - "#reliable"
 status: active
-spren_type: Peakspren
-radiant: Galeth-son-Thald
 ---
 # Summary
 Galeth's jovial and reliable Peakspren.

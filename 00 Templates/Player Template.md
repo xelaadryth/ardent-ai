@@ -1,13 +1,12 @@
 ---
 name:
 type: player
-tags:
 status: active
+links: []
+tags: []
 player:
-order:
-spren:
 ---
-# Summary
+# Description
 
 # Appearance
 
@@ -15,7 +14,9 @@ spren:
 
 # Background
 
-# Motivations
+# Goals
 - 
-# Relationships
+# Hooks
+- 
+# Connections
 - 

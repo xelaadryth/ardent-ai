@@ -1,9 +1,15 @@
 ---
 name:
 type: lore
-tags:
 status: active
+links: []
+tags: []
 ---
-# Summary
+# Description
 
-# Context
+# Background
+
+# Hooks
+- 
+# Connections
+- 

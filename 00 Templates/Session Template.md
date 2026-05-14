@@ -1,13 +1,16 @@
 ---
 name:
 type: session
-tags:
-status: planned
+status: active
+links: []
+tags: []
 number:
 ---
-# Summary
+# Description
 
-# Details
--
+# Scenes
+- 
 # Hooks
--
+- 
+# Connections
+- 

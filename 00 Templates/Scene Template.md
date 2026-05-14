@@ -1,11 +1,15 @@
 ---
 name:
 type: scene
-tags:
-status: planned
+status: active
+links: []
+tags: []
 ---
-# Summary
+# Description
 
-# Triggers
+# Background
 
-# Key Elements
+# Hooks
+- 
+# Connections
+- 

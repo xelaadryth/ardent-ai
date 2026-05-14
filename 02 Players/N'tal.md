@@ -2,26 +2,37 @@
 name: N'tal
 type: player
 status: active
+links:
+  - "[[Pyre]]"
+tags:
+  - "#player"
+  - "#dustbringer"
+  - "#nurian"
+  - "#merchant"
 player: Ryan
-order: Dustbringer
-spren: "[[Pyre]]"
 ---
-# Summary
-A short Nurian merchant passing as Alethi. Wields knives and is a budding Dustbringer.
+
+# Description
+A short Nurian merchant passing as Alethi, armed with knives and beginning the path of a Dustbringer.
+
 # Appearance
-Dark hazel eyes, short wavy dark brown hair. He is remarkably short for an Alethi at 4'10", which he compensates for with a sharp tongue and an air of intense restraint.
+Dark hazel eyes and short, wavy dark brown hair. At 4'10", N'tal is remarkably short for an Alethi, compensating with a sharp tongue and an air of intense restraint.
 
 # Personality
-Distrustful and cautious. He values patience and restraint above all else, primarily to control the destructive urges of his spren, Pyre. He is on a single-minded quest for the truth of his family's death.
+Distrustful and cautious. N'tal values patience and self-control above all else, largely to keep the destructive urges of [[Pyre]] in check. He is driven by a focused determination to uncover the truth behind his family's murder.
 
 # Background
-A Nurian worldhopper passing as an Alethi merchant. N'tal grew up in a forestry/merchant background, discovering a secret cave of gemstones that led to a lucrative trade with the Ghostbloods. His world was shattered when his family was murdered during a botched trade—a crime he only survived because he was carrying the key to a secret passage at the time.
+A Nurian worldhopper posing as an Alethi merchant, N'tal grew up in a family of foresters and traders. He discovered a hidden gemstone cave that enabled profitable dealings with the Ghostbloods. His life changed when his family was killed during a botched trade. He survived only because he was away, carrying the key to a secret passage.
 
-# Motivations
-- Find the Undertaker: A Ghostblood leader in Revolar who knows the truth of his family's murder.
-- **Identify the Mystery Man:** Find out who the dead Ghostblood found with his family was.
-- **Vengeance against Guddy:** Find the traitor who defected to the Bloodmarks.
-# Relationships
-- [[Pyre]]
-# Tags
-#player
+# Goals
+- Find the Undertaker in Revolar and learn the truth about his family's deaths.
+- Identify the mysterious man found dead alongside his family.
+- Hunt down Guddy, the traitor who defected to the Bloodmarks.
+
+# Hooks
+- The Undertaker may know more than N'tal is prepared to hear.
+- The mystery man could connect his family to a much larger conspiracy.
+- Pyre's destructive tendencies may push N'tal toward dangerous choices.
+
+# Connections
+- [[Pyre]] — His radical and spiteful Ashspren.

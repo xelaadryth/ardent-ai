@@ -1,11 +1,11 @@
 ---
 name:
 type: npc
-tags:
 status: active
-locations: []
+links: []
+tags: []
 ---
-# Summary
+# Description
 
 # Appearance
 
@@ -13,9 +13,9 @@ locations: []
 
 # Background
 
-# Motivations
+# Goals
 - 
 # Hooks
 - 
-# Relationships
+# Connections
 - 

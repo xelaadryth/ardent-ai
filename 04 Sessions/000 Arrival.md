@@ -1,26 +1,42 @@
 ---
 name: 000 Arrival
 type: session
-number: 0
+status: inactive
+links:
+  - "[[Truthkeeper Camp]]"
+  - "[[High Witness Yeshan]]"
+  - "[[Adjudicator Peton]]"
+  - "[[Truthkeepers]]"
+  - "[[Chip]]"
+  - "[[Renna Palir]]"
 tags:
-  - session
-  - Truthkeepers
+  - "#session"
+  - "#loid"
+  - "#yolen"
+  - "#witness"
+  - "#senny"
+  - "#quartermaster_jola"
+number: 0
 ---
-# Summary
-Recruits arrive at the [[Truthkeeper Camp]], are introduced to [[High Witness Yeshan]], and begin their integration under [[Adjudicator Peton]].
+# Description
+Recruits arrive at the [[Truthkeeper Camp]], are introduced to [[High Witness Yeshan]], and begin their integration under [[Adjudicator Peton]]. The session establishes the unsettling nature of the camp and the high-stakes mission of the [[Truthkeepers]].
 
-# Details
-- **The Journey:** Recruits arrive groggy from transport, remembering distorted dreams of ships on marble waves and endless plains of baked clay.
-- **Arrival:** The wagon reaches the Truthkeeper camp, situated against a cliff. The group notices peculiar, unnatural trees that move independently of the wind.
-- **The Candle Story:** [[Loid]] shares a parable about a candle that believes itself the sun, illustrating the dangers of pride and the beauty of reflected light.
-- **Initiation:** Recruits are ushered into a hall by [[Adjudicator Peton]] to meet [[High Witness Yeshan]].
-- **The Calling:** Yeshan touches each recruit, granting them the ability to understand the local language. He states his intent: to prevent Roshar from meeting the same fate as [[Yolen]].
-- **Assignment:** Peton outlines the duties of the recruits, stressing order, hierarchy, and the investigation of the 'Possessed'.
+# Scenes
+- **The Journey:** Recruits arrive groggy from transport, haunted by distorted memories of Yolen: ships on marble waves and endless plains of baked clay.
+- **Camp Arrival:** The wagon reaches the camp cliffside. Players witness the unnatural "creeping trees" that move independently of any breeze.
+- **The Candle Story:** Loid shares a parable regarding a candle that believes itself to be the sun, warning the recruits against pride.
+- **The Hall of Witness:** [[Adjudicator Peton]] ushers the group into the presence of [[High Witness Yeshan]].
+- **The Calling:** Yeshan uses Connection to grant the recruits the local language, revealing his goal to save Roshar from the fate of Yolen.
+- **The Briefing:** Peton outlines the hierarchy and the primary mission: identifying and investigating the "Possessed."
 
 # Hooks
-- Investigate the unnatural, erratic movement of the trees surrounding the camp.
-- Navigate the politics between the various Truthkeeper recruits, including [[Senny]], [[Chip]], and the rival [[Renna Palir]].
-- Earn favor with [[Adjudicator Peton]] or Quartermaster [[Jola]] to improve standing.
+- **The Moving Woods:** Investigate the erratic and unnatural movement of the trees surrounding the camp.
+- **Camp Politics:** Navigate the friction between witnesses such as Senny, [[Chip]], and [[Renna Palir]].
+- **Supply Lines:** Earn favor with Quartermaster Jola or [[Adjudicator Peton]] to secure better equipment or standing.
 
-# Tags
-#session
+# Connections
+- **[[Truthkeeper Camp]]**: The primary setting and base of operations.
+- **[[High Witness Yeshan]]**: The benefactor and source of the party's linguistic Connection.
+- **[[Adjudicator Peton]]**: The party's immediate superior and taskmaster.
+- **[[Truthkeepers]]**: The organization the recruits are now serving.
+- **[[Chip]]** & **[[Renna Palir]]**: Notable camp members and potential allies/rivals.

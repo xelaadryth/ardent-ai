@@ -1,12 +1,11 @@
 ---
 name:
 type: spren
-tags:
 status: active
-spren_type:
-radiant:
+links: []
+tags: []
 ---
-# Summary
+# Description
 
 # Appearance
 
@@ -14,7 +13,9 @@ radiant:
 
 # Background
 
-# Motivations
+# Goals
 - 
-# Relationships
+# Hooks
+- 
+# Connections
 - 

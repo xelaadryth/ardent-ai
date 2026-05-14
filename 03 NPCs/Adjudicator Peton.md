@@ -1,28 +1,35 @@
 ---
 name: Adjudicator Peton
 type: npc
-tags:
 status: active
-locations:
-  - "[[Truthkeeper Camp]]"
-  - "[[Revolar]]"
+links:
+  - [[Truthkeepers]]
+tags:
+  - #npc
+  - #lighteyed
+  - #alethi
+  - #adjudicator
+  - #traditionalist
 ---
+# Description
+A high-ranking official within the Truthkeepers who balances a rigid sense of duty with the messy reality of leading "outsider" units.
+
 # Appearance
-Tall, sharp-faced, bright blue eyes, cropped hair/beard. Wears a sidesword and shield.
+Tall and sharp-faced with bright blue eyes and a neatly cropped hair and beard. He is typically seen equipped for duty, wearing a sidesword and carrying a shield.
 
 # Personality
-Rigid traditionalist; stickler for order, structure, and norms. Trying to adapt to diverse Truthkeeper ranks.
+A rigid traditionalist and a stickler for order, structure, and established norms. While he is currently struggling to adapt to the diverse and often chaotic ranks of the Truthkeepers, he possesses a surprising hidden depth: he will wholeheartedly respect a democratic vote, provided it strictly adheres to the established rules.
 
 # Background
-Promoted from Enforcer to Adjudicator. Assigns himself to difficult "outsider" units.
+Originally an Enforcer, Peton’s dedication to the law saw him promoted to the rank of Adjudicator. He has a habit of intentionally assigning himself to the most difficult or "unconventional" units to ensure they remain aligned with the law.
 
-# Goals & Motivations
-- **Maintaining Order:** Ensure society functions by established rules.
-- **Leadership:** Guide his flock toward the Truthkeeper cause.
+# Goals
+- **Maintaining Order:** Ensure society functions by established rules and traditional structures.
+- **Leadership:** Guide his "flock" toward the Truthkeeper cause through discipline and example.
+
+# Hooks
+- 
 
 # Connections
-- [[Truthkeepers]]: Source of his world-view.
-- The Party: Reports directly to him.
-
-# Secrets
-Respects a democratic vote if it adheres to the rules.
+- **[[Truthkeepers]]**: The organization that serves as the primary source of his world-view and authority.
+- **The Party**: The group currently under his jurisdiction; they report directly to him.

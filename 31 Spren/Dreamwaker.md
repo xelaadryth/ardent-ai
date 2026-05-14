@@ -1,9 +1,13 @@
 ---
 name: Dreamwaker
 type: spren
+links:
+  - "[[Iiko]]"
+tags:
+  - "#spren"
+  - "#mistspren"
+  - "#ancient"
 status: active
-spren_type: Mistspren
-radiant: Iiko
 ---
 # Summary
 An ancient Mistspren who serves as an anchor for Iiko's manic intellect.

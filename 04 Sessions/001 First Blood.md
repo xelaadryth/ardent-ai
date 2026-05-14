@@ -1,21 +1,37 @@
 ---
 name: 001 First Blood
 type: session
+status: inactive
+links:
+  - "[[Adjudicator Peton]]"
+  - "[[N'tal]]"
+  - "[[Hearthstone]]"
+  - "[[Revolar]]"
+  - "[[High Enforcer Aylen]]"
+tags:
+  - "#session"
+  - "#Truthkeepers"
+  - "#Hearthstone"
+  - "#ShellmiteAttack"
 number: 1
 ---
-# Summary
-Following the death of a companion, the squad faces disciplinary decisions, receives their first field mission to Hearthstone, and survives a [[Shellmite Attack]].
+# Description
+Following a tragic death in their ranks, the squad must navigate a moral and disciplinary crisis before heading into the field. Their loyalty is tested during their first official mission to investigate rumors in [[Hearthstone]], culminating in a desperate survival scenario against local fauna.
 
-# Details
-- **The Verdict:** Following a fatal incident involving Sila, [[Adjudicator Peton]] tasks the squad with deciding the traitor's fate. A Ghostblood symbol is discovered on Sila, linking him to the murder of [[N'tal]]'s family.
-- **The Mission:** To earn passage to [[Revolar]], the squad must investigate a purported 'miracle' in [[Hearthstone]] to determine if it hides the influence of the 'Possessed'.
-- **Departure:** The squad leaves under the shadow of [[High Enforcer Aylen]]'s mysterious presence at the camp.
-- **Shellmite Attack:** While traveling, the caravan is ambushed by a swarm of Shellmites. The squad must defend non-combatants and protect the cargo as a massive Shellmite threatens the supplies.
+# Scenes
+- **The Verdict:** In the wake of Sila's fatal actions, [[Adjudicator Peton]] forces the squad to decide the traitor's fate. Investigation of Sila's body reveals a Ghostblood symbol, directly linking him to the murder of [[N'tal]]'s family.
+- **The Mission Brief:** To secure their requested transfer to [[Revolar]], the group is assigned to [[Hearthstone]] to debunk or confirm a reported "miracle" that may indicate the presence of the "Possessed."
+- **Departure:** The squad leaves the camp, noting the unsettling arrival and presence of [[High Enforcer Aylen]].
+- **Shellmite Attack:** The caravan is ambushed by a swarm of Shellmites. The squad must coordinate to protect non-combatants and salvage cargo while facing down a massive alpha Shellmite.
 
 # Hooks
-- **Hearthstone Miracle:** Is it divine, or a symptom of impending possession? 
-- **The Ghostblood Trail:** Decipher the note found on Sila regarding the 'Undertaker' and the meeting in Revolar.
-- **Revolar Aspirations:** Successfully outperform rival teams to secure the transfer.
+- **The Ghostblood Trail:** Decipher the cryptic note found on Sila mentioning an "Undertaker" and a meeting scheduled in [[Revolar]].
+- **Hearthstone Miracle:** Determine if the local rumors are truly divine or a dangerous symptom of possession.
+- **Competitive Edge:** Outperform rival Truthkeeper teams to ensure the promised transfer to the city is granted.
 
-# Tags
-#session #Truthkeepers #Hearthstone #ShellmiteAttack
+# Connections
+- **[[Adjudicator Peton]]**: Oversees the disciplinary action and assigns the mission.
+- **[[N'tal]]**: Provided with a personal lead regarding his family's tragedy through the Ghostblood connection.
+- **[[Hearthstone]]**: The destination for their investigation.
+- **[[High Enforcer Aylen]]**: A terrifying figure watching their departure.
+- **[[Revolar]]**: The ultimate goal for the squad's transfer.

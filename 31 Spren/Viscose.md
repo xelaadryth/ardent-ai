@@ -1,9 +1,13 @@
 ---
 name: Viscose
 type: spren
+links:
+  - "[[Kuma]]"
+tags:
+  - "#spren"
+  - "#inkspren"
+  - "#logical"
 status: active
-spren_type: Inkspren
-radiant: Kuma
 ---
 # Summary
 Kuma's logical and contrarian Inkspren.

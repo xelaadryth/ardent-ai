@@ -48,20 +48,20 @@ def apply_index_changes(index_updates: dict, index_deletes: list[str]):
 
     if index_updates:
         if not isinstance(index_updates, dict):
-            raise ValueError("index_updates must be an object mapping paths to metadata.")
-        for path, metadata in index_updates.items():
+            raise ValueError("index_updates must be an object mapping names to metadata.")
+        for name, metadata in index_updates.items():
             if not isinstance(metadata, dict):
                 raise ValueError("Each index metadata entry must be an object.")
             metadata["last_index"] = now_timestamp()
-            current_index["files"][path] = metadata
-            print(f"[INDEX UPDATE] {path}")
+            current_index["files"][name] = metadata
+            print(f"[INDEX UPDATE] {name}")
 
     if index_deletes:
         if not isinstance(index_deletes, list):
-            raise ValueError("index_deletes must be a list of paths.")
-        for path in index_deletes:
-            current_index["files"].pop(path, None)
-            print(f"[INDEX DELETE] {path}")
+            raise ValueError("index_deletes must be a list of names.")
+        for name in index_deletes:
+            current_index["files"].pop(name, None)
+            print(f"[INDEX DELETE] {name}")
 
     save_vault_index(current_index)
 

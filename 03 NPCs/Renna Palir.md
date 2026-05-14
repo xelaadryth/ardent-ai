@@ -1,28 +1,41 @@
 ---
 name: Renna Palir
 type: npc
-tags: [npc]
 status: active
-locations: [Truthkeeper Camp]
+links:
+  - "[[Revolar]]"
+  - "[[Truthkeepers]]"
+  - "[[Iiko]]"
+  - "[[Chip]]"
+  - "[[Knights of Dusk]]"
+tags:
+  - "#npc"
+  - "#lighteyed"
+  - "#alethi"
 ---
+# Description
+An elegant Alethi lighteyes who is significantly more sympathetic than her peers in the [[Truthkeepers]]. She is driven by a protective nature and a deep, underlying sorrow.
+
 # Appearance
-Bright green eyes, Alethi features, elegant.
+She possesses bright green eyes and classic, elegant Alethi features.
 
 # Personality
-Kind, trusting, protective. Deep sorrow over lost sister.
+Renna is characterized by her kindness, trusting nature, and protective instincts. While she carries a heavy burden of sorrow over her lost sister, she maintains a desire to help people. She also harbors a secret delusion that her younger sister is still alive.
 
 # Background
-From Revolar. Joined Truthkeepers after witnessing military logistics.
+Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after being inspired by witnessing their military logistics. However, her sympathetic nature has led her to distance herself from their harsher methods.
 
-# Goals & Motivations
-- **Proving Worth:** Make a difference to her parents.
-- **Protecting Iiko:** Sees her as a sibling figure.
-- **Help People:** More sympathetic than the Truthkeepers.
+# Goals
+- **Proving Worth:** To make a meaningful difference and prove her value to her parents.
+- **Protecting [[Iiko]]:** She has adopted [[Iiko]] as a sibling figure and is dedicated to her safety.
+- **Altruism:** Seeking ways to genuinely help people that align with her moral compass.
+
+# Hooks
+- 
 
 # Connections
-- [[Iiko]]: Protégé.
-- [[Chip]]: Ally.
-- [[Knights of Dusk]]: Defecting to their cause.
-
-# Secrets
-Delusion that her younger sister is alive.
+- **[[Iiko]]**: Her protégé and surrogate sibling.
+- **[[Chip]]**: A trusted ally.
+- **[[Knights of Dusk]]**: The rebel group to which she is currently defecting.
+- **[[Truthkeepers]]**: Her former organization.
+- **[[Revolar]]**: Her home city.

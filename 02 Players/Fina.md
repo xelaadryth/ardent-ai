@@ -2,29 +2,38 @@
 name: Fina
 type: player
 status: active
+links:
+  - "[[Verdae]]"
+tags:
+  - "#player"
+  - "#edgedancer"
+  - "#alethi"
+  - "#noble"
+  - "#lighteyed"
 player: Shirley
-order: Edgedancer
-spren: "[[Verdae]]"
 ---
-# Summary
-Alethi noble Edgedancer occult researcher seeking to document the Cosmere.
+
+# Description
+Alethi noble Edgedancer and occult researcher seeking to document the Cosmere.
 
 # Appearance
-Light brown eyes and light brown hair. Stands 5'7" with the poise of an Alethi noble; hands often stained with ink and chemicals.
+Light brown eyes and light brown hair. Stands 5'7" with the poise of an Alethi noble; her hands are often stained with ink and chemicals.
 
 # Personality
 A complex mix of grace and pragmatic ruthlessness. Cold and efficient when protecting her interests, yet driven by the Edgedancer oath to remember the forgotten.
 
 # Background
-Born into a noble family, she rejected a marriage alliance with a "nature cult" and fled through the Cognitive Realm to pursue medicine, poisons, and occult science.
+Born into a noble family, Fina rejected a marriage alliance with a "nature cult" and fled through the Cognitive Realm to pursue medicine, poisons, and occult science.
 
-# Motivations
-- The Secluded Lab: Establish a private place to conduct experiments.
-- The Encyclopedia: Catalog every species of flora and fauna on Roshar.
-- Spirit Realm Secrets: Uncover the truth behind the deepest layers of the Cosmere.
+# Goals
+- Establish a secluded laboratory to conduct experiments.
+- Catalog every species of flora and fauna on Roshar.
+- Uncover the deepest secrets of the Cosmere and the Spiritual Realm.
 
-# Relationships
-- [[Verdae]]: Her naive and vine-like Cultivationspren.
+# Hooks
+- Her family's abandoned marriage alliance may resurface.
+- Her experiments could attract dangerous attention from secret societies.
+- Her research may uncover forbidden truths about Roshar and beyond.
 
-# Tags
-#player
+# Connections
+- [[Verdae]] — Her naive and vine-like Cultivationspren.

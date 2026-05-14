@@ -2,31 +2,42 @@
 name: Iiko
 type: player
 status: active
+links:
+  - "[[Dreamwaker]]"
+  - "[[N'tal]]"
+  - "[[Kuma]]"
+  - "[[Fina]]"
+tags:
+  - "#truthwatcher"
+  - "#nurian"
+  - "#envoy"
 player: Truong
-order: Truthwatcher
-spren: "[[Dreamwaker]]"
 ---
-# Summary
-Manic Nurian Truthwatcher and Envoy seeking fundamental truths and the Ardentia.
+
+# Description
+Manic Nurian Truthwatcher and Envoy seeking fundamental truths and a place within the Ardentia.
 
 # Appearance
-Heterochromatic eyes (brown/yellow), 5'6", Alethi build. Rarely stands still.
+Heterochromatic eyes—one brown and one yellow—set in an Alethi build standing 5'6". Iiko rarely stands still, constantly fidgeting or pacing with restless energy.
 
 # Personality
-Whirlwind of energy, lively and often oblivious to social cues. Sees the world through a intense, "unhinged" Veristitalian lens.
+A whirlwind of enthusiasm and relentless curiosity. Iiko is lively, brilliant, and often oblivious to social cues, interpreting the world through an intense and occasionally unhinged Veristitalian lens.
 
 # Background
-Raised in a monastic tradition on Mythos. Worldhopped to Roshar, where they reunited with other Nurian survivors. Navigates Roshar with joy and confusion, hoping the Ardentia will tolerate their intense questioning.
+Raised within a monastic tradition on Mythos, Iiko later worldhopped to Roshar and reunited with fellow Nurian survivors. They approach Roshar with equal parts wonder and confusion, hoping the Ardentia can tolerate their endless questions and unconventional theories.
 
-# Motivations
-- Befriend the Voices: Discover if the "Possessed" are truly insane or merely seeing clearly.
-- Join the Ardentia: Find scholars who can endure their theories.
-- Mend the Broken Orders: Prepare for the Final Desolation.
+# Goals
+- Discover whether the "Possessed" are truly mad or simply perceiving deeper truths.
+- Earn a place within the Ardentia among scholars who can withstand their intensity.
+- Help mend the broken Knights Radiant orders in preparation for the Final Desolation.
 
-# Relationships
-- [[Dreamwaker]]: Ancient Mistspren partner who acts as their anchor.
-- [[N'tal]], [[Kuma]], [[Fina]]: Fellow Nurians.
-- [[Mallow]]: A local friend.
+# Hooks
+- Their investigations into the Possessed may uncover dangerous truths.
+- Their unconventional worldview may attract both ardents and secret societies.
+- Their search for cosmic truth could lead to discoveries beyond Roshar.
 
-# Tags
-#player
+# Connections
+- [[Dreamwaker]] — Ancient Mistspren partner who serves as their intellectual anchor.
+- [[N'tal]] — Fellow Nurian survivor.
+- [[Kuma]] — Fellow Nurian survivor.
+- [[Fina]] — Fellow Nurian survivor.

@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Templates/Spren Template.md",
+                "file": "03 NPCs/Adjudicator Peton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spren Template"
+              "title": "Adjudicator Peton"
             }
           }
         ],
@@ -283,6 +283,9 @@
   },
   "active": "ab0d9b63e01e760c",
   "lastOpenFiles": [
+    "vault_index.json",
+    "reindex-output.txt",
+    "00 Templates/Spren Template.md",
     "00 Templates/Session Template.md",
     "00 Templates/Scene Template.md",
     "00 Templates/Player Template.md",
@@ -291,7 +294,6 @@
     "00 Templates/Location Template.md",
     "00 Templates/Hook Template.md",
     "00 Templates/Faction Template.md",
-    "00 Templates/Spren Template.md",
     "Inbox/Frontmatter.md",
     "Inbox/Sathir.md",
     "Archive/0011-Khria.md",
@@ -308,8 +310,6 @@
     "Archive/0010-Citylord Nilar Yenev.md",
     "Archive/0009-Aylen.md",
     "03 NPCs/Highlord Paladar.md",
-    "03 NPCs/Highlady Marise Sathir.md",
-    "reindex-output.txt",
     "01 Factions",
     "10 Lore",
     "07 Hooks",

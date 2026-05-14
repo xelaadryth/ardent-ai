@@ -2,29 +2,41 @@
 name: Galeth-son-Thald
 type: player
 status: active
+links:
+  - "[[Kun'ahu]]"
+  - "[[Truthkeepers]]"
+tags:
+  - "#player"
+  - "#shin"
+  - "#warrior"
+  - "#exiled"
+  - "#stoneward"
+  - "#darkeyed"
 player: Corin
-order: Unknown
-spren: "[[Kun'ahu]]"
 ---
-# Summary
-Exiled Shin warrior living in penance among the Alethi.
+
+# Description
+Exiled Shin warrior living in penance among the Alethi, slowly becoming a Stoneward.
 
 # Appearance
-Traditional Shin, though his posture lacks the expected lightness of his people.
+Traditional Shin in appearance, though his posture lacks the expected lightness and serenity of his people.
 
 # Personality
-Grim fatalist who views his life as a punishment. Soft-spoken, but lacks the traditional Shin politeness; he is a man who doesn't believe his voice has any right to be heard.
+A grim fatalist who views his life as punishment. Soft-spoken and reserved, he lacks the traditional Shin politeness because he believes his voice has no right to be heard.
 
 # Background
-Once a leader in Shinovar, he fled after a soldier under his command killed an innocent girl. He views himself as a monster and chose to live among the Alethi to embrace the violence he feels matches his soul.
+Once a leader in Shinovar, Galeth fled after a soldier under his command killed an innocent girl. Convinced he is a monster, he chose to live among the Alethi, embracing the violence he believes reflects his own soul.
 
-# Motivations
-- Penance: To perform enough dangerous, selfless acts to balance the scales of his failures.
-- Survival as Punishment: Living in constant danger as a form of self-imposed exile.
+# Goals
+- Perform enough dangerous and selfless acts to atone for his failures.
+- Endure constant danger as a form of self-imposed punishment.
+- Protect others so they do not suffer from his mistakes.
 
-# Relationships
-- [[Truthkeepers]]: Views them as a tool to point his blade at threats.
-- The Alethi: Views them with dark kinship as fellow "monsters."
+# Hooks
+- Survivors or relatives connected to the girl’s death may resurface.
+- His past leadership in Shinovar may draw the attention of old allies or enemies.
+- His growing bond with [[Kun'ahu]] may challenge his belief that he deserves only punishment.
 
-# Tags
-#player
+# Connections
+- [[Kun'ahu]] — His jovial and dependable Peakspren.
+- [[Truthkeepers]] — A cause he sees as a worthy outlet for his blade.

@@ -1,9 +1,13 @@
 ---
 name: Pyre
 type: spren
+links:
+  - "[[N'tal]]"
+tags:
+  - "#spren"
+  - "#ashspren"
+  - "#radiant"
 status: active
-spren_type: Ashspren
-radiant: N'tal
 ---
 # Summary
 N'tal's radical and spiteful Ashspren.
