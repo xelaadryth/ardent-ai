@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 VAULT_ROOT = Path(".")
-CORE_FILES = ["SOUL.md", "README.md"]
+CORE_FILES = ["SOUL.md"]
 
 
 def read_file(path):

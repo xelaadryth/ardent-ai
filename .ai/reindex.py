@@ -5,7 +5,7 @@ from pathlib import Path
 
 from llm_client import generate_content
 from response_parser import apply_response
-from vault import read_file
+from vault import load_core_context
 from vault_index import load_vault_index
 from config import MODEL
 
@@ -48,13 +48,13 @@ def build_file_section(path: Path) -> str:
 
 
 def build_reindex_prompt(extra_prompt: str = '') -> str:
-    soul = read_file('SOUL.md')
+    core_context = load_core_context()
     vault_index_json = load_index_json()
     oldest_files = select_oldest_markdown_files(10)
     oldest_sections = '\n\n'.join(build_file_section(path) for path in oldest_files)
 
     prompt = f"""
-{soul}
+{core_context}
 
 ---
 
@@ -70,11 +70,13 @@ OLDEST 10 MARKDOWN FILES:
 
 REINDEX INSTRUCTIONS:
 1. Review the supplied vault index and oldest files for metadata mistakes, missing tags, broken or inconsistent links, stale summaries, missing entities, and formatting issues.
-2. Update file contents only when necessary to correct actual mistakes or to improve consistency.
-3. If SOUL.md can be made clearer, stronger, or more consistent, update it as part of this pass.
-4. Produce a JSON object only, with top-level keys: operations, index_updates, index_deletes.
-5. For file changes, use full-file content in create/update operations. Do not output partial fragments.
-6. The LLM should populate or strengthen summary and entities metadata whenever the page has generic or empty values.
+2. Update file contents only when necessary to add bi-directional links, correct actual mistakes, or to improve consistency.
+3. Do NOT under any circumstances generate new information. Double-check that you do not hallucinate new content.
+4. Do NOT remove #placeholder tags as part of a reindex as they are used to track files that need to be generated.
+5. If SOUL.md can be made clearer, stronger, or more concise, update it as part of this pass.
+6. Produce a JSON object only, with top-level keys: operations, index_updates, index_deletes.
+7. For file changes, use full-file content in create/update operations. Do not output partial fragments.
+8. The LLM should populate or strengthen summary and entities metadata whenever the page has generic or empty values.
 
 {extra_prompt}
 """

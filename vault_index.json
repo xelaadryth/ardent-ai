@@ -1,5 +1,14 @@
 {
   "files": {
+    "SOUL.md": {
+      "summary": "The core rules of this AI agent.",
+      "tags": [
+        "core",
+        "guidelines"
+      ],
+      "links": [],
+      "entities": []
+    },
     "00 Templates/Location Template.md": {
       "summary": "Location Template",
       "tags": [
