@@ -1,5 +1,3 @@
-import sys
-
 import pipeline
 from workflow_integration import compose_commit_message, handle_workflow_error, print_workflow_output
 

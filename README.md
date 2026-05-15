@@ -1,10 +1,23 @@
 # Ardent AI
 
-## TODO
+A multi-tool system for managing a Cosmere RPG knowledge base.
+
+TODO:
+- Rename repo and move local folder
+
+## AI Agent
+
+- Generates `vault_index.json` via GitHub Actions
+- Ingests Markdown files in the `Inbox` folder as instructions via GitHub Actions
+- Processes files and updates the vault
+
+### TODO
 - Fix links not properly parsing on the frontmatter on the document itself (correct on the indedx)
-- Clean up the god-awful code and tests
+- Full RAG implementation to replace or augment `vault_index.json`, move it into the .ai folder
 
 ## Obsidian
+
+- Auto-syncs via Obsidian Git plugin
 
 ### Setup
 - Install Community Plugins
@@ -18,3 +31,12 @@
 		- Pull strategy - Rebase, prefer Their
 	- Dataview
 	- QuickAdd
+
+## Quartz
+
+- Deploy to GitHub Pages via GitHub Actions
+
+### Setup
+- Run `.quartz/link_content.sh` to symlink the Obsidian Vault into the Quartz `content` folder
+
+
