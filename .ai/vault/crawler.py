@@ -15,18 +15,31 @@ from vault.parser import build_index_entry
 def crawl_numbered_markdown_files() -> list[Path]:
     """
     Crawl the vault for numbered markdown files.
-    
+
     Returns:
         List of relative paths to markdown files in numbered folders.
     """
     files = []
+
     for path in VAULT_ROOT.rglob("*.md"):
         if path == get_index_file():
             continue
 
         relative_path = path.relative_to(VAULT_ROOT)
-        folder_parts = relative_path.parts[:-1]
-        if any(re.match(r"^\d+", part) for part in folder_parts):
+        parts = relative_path.parts
+
+        # skip root-level markdown files
+        if len(parts) < 2:
+            continue
+
+        # ignore any hidden folders anywhere in the path
+        if any(part.startswith(".") for part in parts):
+            continue
+
+        top_folder = parts[0]
+
+        # only include top-level numbered folders (e.g. "02 Players")
+        if top_folder[:2].isdigit():
             files.append(relative_path)
 
     return sorted(files)
