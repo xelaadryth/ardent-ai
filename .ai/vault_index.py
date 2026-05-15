@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 import yaml
 
-from vault import load_core_context, load_markdown, VAULT_ROOT
+from vault import load_markdown, VAULT_ROOT
 
 
 def get_index_file() -> Path:
@@ -45,13 +45,26 @@ def query_terms(query: str) -> list[str]:
 
 def crawl_numbered_markdown_files() -> list[Path]:
     files = []
+
     for path in VAULT_ROOT.rglob("*.md"):
         if path == get_index_file():
             continue
 
         relative_path = path.relative_to(VAULT_ROOT)
-        folder_parts = relative_path.parts[:-1]
-        if any(re.match(r"^\d+", part) for part in folder_parts):
+        parts = relative_path.parts
+
+        # skip root-level files
+        if len(parts) < 2:
+            continue
+
+        top_folder = parts[0]
+
+        # ignore hidden folders anywhere in path
+        if any(part.startswith(".") for part in parts):
+            continue
+
+        # only include top-level numbered folders
+        if top_folder[:2].isdigit():
             files.append(relative_path)
 
     return sorted(files)
