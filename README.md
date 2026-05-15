@@ -5,10 +5,16 @@ A multi-tool system for managing a Cosmere RPG knowledge base.
 TODO:
 - Rename repo and move local folder
 
+## Dev Setup
+
+- `ollama create local -f .ai/Modelfile`
+- `ollama run local`
+- VS Code, continue.dev plugin
+
 ## AI Agent
 
-- Generates `vault_index.json` via GitHub Actions
-- Ingests Markdown files in the `Inbox` folder as instructions via GitHub Actions
+- Python code generates `vault_index.json` from frontmatter via GitHub Actions
+- AI Ingest Markdown files in the `Inbox` folder as instructions via GitHub Actions
 - Processes files and updates the vault
 
 ### TODO

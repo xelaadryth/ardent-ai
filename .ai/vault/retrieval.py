@@ -94,7 +94,7 @@ def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
     return score
 
 
-def retrieve_vault_context(query: str, limit: int = 10) -> str:
+def retrieve_vault_context(query: str, limit: int) -> str:
     """
     Retrieve relevant vault context based on a query.
     
