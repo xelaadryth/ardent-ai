@@ -125,4 +125,5 @@ runs:
             --base main \
             --head "$BRANCH" \
             --title "$TITLE"
+            --body "$TITLE"
         fi
