@@ -6,9 +6,8 @@ Rebuilds vault_index.json from frontmatter of all markdown files.
 No LLM calls - purely deterministic.
 """
 
-import sys
-
-from vault_index import build_index_from_disk, save_vault_index
+from vault import build_index_from_disk, save_vault_index
+from workflow_integration import compose_commit_message, handle_workflow_error, print_workflow_output
 
 
 def main():
@@ -19,18 +18,17 @@ def main():
         index = build_index_from_disk()
         
         if not index:
-            print("ERROR: No valid markdown files with frontmatter found!")
-            sys.exit(1)
+            raise ValueError("No valid markdown files with frontmatter found!")
         
         # Save the new index
         save_vault_index({"files": index})
         
         print(f"Successfully reindexed {len(index)} files")
-        print("COMMIT_MESSAGE=Ardent AI Reindex: Updated vault index from frontmatter")
+        commit_message = compose_commit_message(None, "Reindex: Updated vault index from frontmatter")
+        print_workflow_output(commit_message=commit_message)
         
     except Exception as exc:
-        print(f"ERROR: Reindex failed: {exc}")
-        sys.exit(1)
+        handle_workflow_error(exc, "Reindex")
 
 
 if __name__ == '__main__':

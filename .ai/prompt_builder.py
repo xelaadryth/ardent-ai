@@ -1,5 +1,4 @@
-from vault import read_file
-from vault_index import retrieve_vault_context
+from vault import read_file, retrieve_vault_context
 
 
 def load_soul():

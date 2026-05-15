@@ -1,0 +1,17 @@
+[project]
+name = "ardent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "google-api-core>=2.30.3",
+    "google-genai>=2.3.0",
+    "pytest>=9.0.3",
+    "pyyaml>=6.0.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]

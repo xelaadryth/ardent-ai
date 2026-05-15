@@ -12,54 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Run AI workflow
+        uses: ./.github/actions/ai-workflow
         with:
-          fetch-depth: 0
-
-      - name: Create Reindex branch
-        run: |
-          BRANCH="reindex/${{ github.run_id }}"
-          git checkout -b "$BRANCH"
-          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-          cache: "pip"
-          cache-dependency-path: .ai/requirements.txt
-
-      - name: Install dependencies
-        run: pip install -r .ai/requirements.txt
-
-      - name: Run unit tests
-        run: python -m pytest .ai/tests -q
-
-      - name: Run reindex
-        run: |
-          python .ai/reindex.py | tee output.txt
-          COMMIT_MESSAGE=$(grep '^COMMIT_MESSAGE=' output.txt | head -n 1 | cut -d'=' -f2- | tr -d '\r')
-          if [ -z "$COMMIT_MESSAGE" ]; then
-            COMMIT_MESSAGE='Ardent AI Reindex: Updated vault index from frontmatter'
-          fi
-          echo "COMMIT_MESSAGE=$COMMIT_MESSAGE" >> $GITHUB_ENV
-
-      - name: Create Pull Request
-        env:
-          GH_TOKEN: ${{ github.token }}
-          COMMIT_MESSAGE: ${{ env.COMMIT_MESSAGE }}
-        run: |
-          git config user.name "Ardent AI"
-          git config user.email "ardent-ai@users.noreply.github.com"
-          git add .
-          if git diff --cached --quiet; then
-            echo "NO_CHANGES=true" >> $GITHUB_ENV
-            exit 0
-          fi
-          git commit -m "$COMMIT_MESSAGE" || echo "No changes to commit"
-          git push origin "$BRANCH"
-          gh pr create \
-            --base main \
-            --head "$BRANCH" \
-            --title "🧠 $COMMIT_MESSAGE"
+          branch_prefix: "reindex"
+          python_script: ".ai/reindex.py"
+          default_commit_message: "Ardent AI Reindex: Updated vault index from frontmatter"
+          pr_title_prefix: "🧠"
+          skip_pr_on_pr: "false"

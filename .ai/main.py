@@ -1,19 +1,13 @@
-import os
+import sys
 
 import pipeline
-
-
-def compose_commit_message(request_name: str | None) -> str:
-    if request_name:
-        return f"Ardent AI update: {request_name}"
-    return "Ardent AI update"
+from workflow_integration import compose_commit_message, handle_workflow_error, print_workflow_output
 
 
 if __name__ == "__main__":
-    pipeline.main()
-    request_name = pipeline.LAST_REQUEST_NAME
-    commit_message = compose_commit_message(request_name)
-
-    if request_name:
-        print(f"REQUEST_FILENAME={request_name}")
-    print(f"COMMIT_MESSAGE={commit_message}")
+    try:
+        output, request_name = pipeline.main()
+        commit_message = compose_commit_message(request_name, "update")
+        print_workflow_output(request_name, commit_message)
+    except Exception as e:
+        handle_workflow_error(e, "AI agent")

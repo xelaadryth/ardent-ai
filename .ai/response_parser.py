@@ -3,8 +3,7 @@ import os
 import re
 import yaml
 from datetime import datetime, timezone
-from vault import write_file
-from vault_index import save_vault_index
+from vault import save_vault_index, write_file
 
 
 def parse_frontmatter(content: str) -> dict:
