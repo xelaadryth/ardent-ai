@@ -124,6 +124,6 @@ runs:
           gh pr create \
             --base main \
             --head "$BRANCH" \
-            --title "$TITLE"
+            --title "$TITLE" \
             --body "$TITLE"
         fi
