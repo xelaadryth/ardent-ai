@@ -11,7 +11,7 @@ def test_retrieve_vault_context_falls_back_when_no_matches(tmp_path, monkeypatch
 
     monkeypatch.setattr("vault.io.VAULT_ROOT", tmp_path)
 
-    context = vault.retrieve_vault_context("unlikely query")
+    context = vault.retrieve_vault_context("unlikely query", 10)
 
     assert "--- SOUL.md ---" in context
 
