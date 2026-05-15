@@ -97,10 +97,14 @@
             "id": "ab0d9b63e01e760c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SOUL.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SOUL"
             }
           }
         ],
@@ -279,6 +283,7 @@
   },
   "active": "ab0d9b63e01e760c",
   "lastOpenFiles": [
+    "README.md",
     "Inbox/Senny.md",
     "Inbox/Sila.md",
     "Archive/0015-Whitespine.md",
@@ -306,7 +311,6 @@
     "Inbox/Sathir.md",
     "Archive/0011-Khria.md",
     "03 NPCs/Khria.md",
-    "03 NPCs/Bit.md",
     "01 Factions",
     "10 Lore",
     "07 Hooks",
