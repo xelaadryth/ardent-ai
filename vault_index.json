@@ -1,8 +1,9 @@
 {
   "files": {
-    "02 Players/Fina.md": {
+    ".quartz/content/02 Players/Fina.md": {
       "name": "Fina",
       "type": "player",
+      "status": "active",
       "links": [
         "[[Verdae]]"
       ],
@@ -13,12 +14,12 @@
         "#noble",
         "#lighteyed"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "02 Players/Galeth-son-Thald.md": {
+    ".quartz/content/02 Players/Galeth-son-Thald.md": {
       "name": "Galeth-son-Thald",
       "type": "player",
+      "status": "active",
       "links": [
         "[[Kun'ahu]]",
         "[[Truthkeepers]]"
@@ -31,12 +32,12 @@
         "#stoneward",
         "#darkeyed"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "02 Players/Iiko.md": {
+    ".quartz/content/02 Players/Iiko.md": {
       "name": "Iiko",
       "type": "player",
+      "status": "active",
       "links": [
         "[[Dreamwaker]]",
         "[[N'tal]]",
@@ -48,12 +49,12 @@
         "#nurian",
         "#envoy"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "02 Players/Kuma.md": {
+    ".quartz/content/02 Players/Kuma.md": {
       "name": "Kuma",
       "type": "player",
+      "status": "active",
       "links": [
         "[[Viscose]]",
         "[[Revolar]]"
@@ -63,12 +64,12 @@
         "#nurian",
         "#maker"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "02 Players/Mallow.md": {
+    ".quartz/content/02 Players/Mallow.md": {
       "name": "Mallow",
       "type": "player",
+      "status": "active",
       "links": [
         "[[Khria]]",
         "[[Cadence]]"
@@ -79,12 +80,12 @@
         "#purelaker",
         "#enforcer"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "02 Players/N'tal.md": {
+    ".quartz/content/02 Players/N'tal.md": {
       "name": "N'tal",
       "type": "player",
+      "status": "active",
       "links": [
         "[[Pyre]]"
       ],
@@ -94,12 +95,12 @@
         "#nurian",
         "#merchant"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/Adjudicator Peton.md": {
+    ".quartz/content/03 NPCs/Adjudicator Peton.md": {
       "name": "Adjudicator Peton",
       "type": "npc",
+      "status": "active",
       "links": [
         "[[Truthkeepers]]"
       ],
@@ -110,12 +111,12 @@
         "#adjudicator",
         "#traditionalist"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/Chip.md": {
+    ".quartz/content/03 NPCs/Chip.md": {
       "name": "Chip",
       "type": "npc",
+      "status": "active",
       "links": [
         "[[Truthkeepers]]",
         "[[Ghostbloods]]",
@@ -129,12 +130,12 @@
         "#spy",
         "#noble"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/Citylord Nilar Yenev.md": {
+    ".quartz/content/03 NPCs/Citylord Nilar Yenev.md": {
       "name": "Citylord Nilar Yenev",
       "type": "npc",
+      "status": "active",
       "links": [
         "[[Highlord Paladar]]",
         "[[Highlady Marise Sathir]]"
@@ -147,12 +148,12 @@
         "#citylord",
         "#bit"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/High Enforcer Aylen.md": {
+    ".quartz/content/03 NPCs/High Enforcer Aylen.md": {
       "name": "High Enforcer Aylen",
       "type": "npc",
+      "status": "active",
       "links": [
         "[[Silent Oath]]",
         "[[High Witness Yeshan]]",
@@ -164,12 +165,12 @@
         "#makabaki",
         "#herald"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/High Witness Yeshan.md": {
+    ".quartz/content/03 NPCs/High Witness Yeshan.md": {
       "name": "High Witness Yeshan",
       "type": "npc",
+      "status": "active",
       "links": [
         "[[Possessed]]",
         "[[Truthkeepers]]"
@@ -179,12 +180,12 @@
         "#lighteyed",
         "#herald"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/Highlady Marise Sathir.md": {
+    ".quartz/content/03 NPCs/Highlady Marise Sathir.md": {
       "name": "Highlady Marise Sathir",
       "type": "npc",
+      "status": "active",
       "links": [
         "[[Citylord Nilar Yenev]]",
         "[[Dalen]]"
@@ -196,15 +197,13 @@
         "#highlady",
         "#house_sathir"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/Karani.md": {
+    ".quartz/content/03 NPCs/Karani.md": {
       "name": "Karani",
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Sila]]",
         "[[Chip]]",
         "[[Tahs]]",
         "[[Ghostbloods]]"
@@ -216,11 +215,12 @@
         "#worldhopper",
         "#ghostbloods"
       ],
-      "last_index": "2026-05-14T10:46:26Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/Khria.md": {
+    ".quartz/content/03 NPCs/Khria.md": {
       "name": "Khria",
       "type": "npc",
+      "status": "active",
       "links": [
         "[[Revolar]]",
         "[[Truthkeepers]]",
@@ -233,12 +233,12 @@
         "#truthwatcher",
         "#rebel"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/Renna Palir.md": {
+    ".quartz/content/03 NPCs/Renna Palir.md": {
       "name": "Renna Palir",
       "type": "npc",
+      "status": "active",
       "links": [
         "[[Revolar]]",
         "[[Truthkeepers]]",
@@ -251,12 +251,45 @@
         "#lighteyed",
         "#alethi"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "03 NPCs/Tahs.md": {
+    ".quartz/content/03 NPCs/Senny.md": {
+      "name": "Senny",
+      "type": "npc",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#truthkeeper"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/03 NPCs/Sila.md": {
+      "name": "Sila",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Chip]]",
+        "[[Karani]]",
+        "[[Revolar]]",
+        "[[Adjudicator Peton]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#ghostbloods",
+        "#mercenary"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/03 NPCs/Tahs.md": {
       "name": "Tahs",
       "type": "npc",
+      "status": "active",
       "links": [
         "[[Renna Palir]]",
         "[[Karani]]",
@@ -268,12 +301,12 @@
         "#alethi",
         "#initiate"
       ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "04 Sessions/000 Arrival.md": {
+    ".quartz/content/04 Sessions/000 Arrival.md": {
       "name": "000 Arrival",
       "type": "session",
+      "status": "inactive",
       "links": [
         "[[Truthkeeper Camp]]",
         "[[High Witness Yeshan]]",
@@ -290,12 +323,12 @@
         "#senny",
         "#quartermaster_jola"
       ],
-      "status": "inactive",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "04 Sessions/001 First Blood.md": {
+    ".quartz/content/04 Sessions/001 First Blood.md": {
       "name": "001 First Blood",
       "type": "session",
+      "status": "inactive",
       "links": [
         "[[Adjudicator Peton]]",
         "[[N'tal]]",
@@ -309,241 +342,9 @@
         "#Hearthstone",
         "#ShellmiteAttack"
       ],
-      "status": "inactive",
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "05 Factions/Ghostbloods.md": {
-      "name": "Ghostbloods",
-      "type": "faction",
-      "links": [
-        "[[Truthkeepers]]",
-        "[[Chip]]"
-      ],
-      "tags": [
-        "#faction",
-        "#secret-society",
-        "#espionage"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "05 Factions/Knights of Dusk.md": {
-      "name": "Knights of Dusk",
-      "type": "faction",
-      "links": [
-        "[[Revolar]]",
-        "[[Truthkeepers]]"
-      ],
-      "tags": [
-        "#faction"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "05 Factions/Silent Oath.md": {
-      "name": "Silent Oath",
-      "type": "faction",
-      "links": [
-        "[[Truthkeepers]]",
-        "[[High Enforcer Aylen]]"
-      ],
-      "tags": [
-        "#faction"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "05 Factions/Truthkeepers.md": {
-      "name": "Truthkeepers",
-      "type": "faction",
-      "links": [
-        "[[Silent Oath]]",
-        "[[High Witness Yeshan]]",
-        "[[Knights of Dusk]]",
-        "[[Revolar]]"
-      ],
-      "tags": [
-        "#faction"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "06 Locations/Hearthstone.md": {
-      "name": "Hearthstone",
-      "type": "location",
-      "status": "active",
-      "links": [
-        "[[001 First Blood]]",
-        "[[002 Whitespine]]"
-      ],
-      "tags": [
-        "#location"
-      ],
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "06 Locations/Revolar.md": {
-      "name": "Revolar",
-      "type": "location",
-      "links": [
-        "[[Truthkeepers]]",
-        "[[Knights of Dusk]]",
-        "[[Khria]]",
-        "[[Renna Palir]]"
-      ],
-      "tags": [
-        "#location",
-        "#placeholder"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "06 Locations/Truthkeeper Camp.md": {
-      "name": "Truthkeeper Camp",
-      "type": "location",
-      "links": [
-        "[[High Witness Yeshan]]",
-        "[[Adjudicator Peton]]",
-        "[[High Enforcer Aylen]]",
-        "[[Truthkeepers]]"
-      ],
-      "tags": [
-        "#location",
-        "#placeholder"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "07 Hooks/Sila's Allegiance.md": {
-      "name": "Sila's Allegiance",
-      "type": "hook",
-      "links": [
-        "[[Ghostbloods]]",
-        "[[N'tal]]",
-        "[[Adjudicator Peton]]"
-      ],
-      "tags": [
-        "#hook",
-        "#placeholder"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "08 Scenes/Shellmite Attack.md": {
-      "name": "Shellmite Attack",
-      "type": "scene",
-      "links": [
-        "[[Hearthstone]]",
-        "[[Truthkeepers]]"
-      ],
-      "tags": [
-        "#scene",
-        "#placeholder"
-      ],
-      "status": "inactive",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "10 Lore/Possessed.md": {
-      "name": "Possessed",
-      "type": "lore",
-      "links": [
-        "[[Truthkeepers]]",
-        "[[High Enforcer Aylen]]",
-        "[[High Witness Yeshan]]"
-      ],
-      "tags": [
-        "#lore",
-        "#placeholder"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "31 Spren/Cadence.md": {
-      "name": "Cadence",
-      "type": "spren",
-      "links": [
-        "[[Mallow]]"
-      ],
-      "tags": [
-        "#spren",
-        "#lightspren",
-        "#reacher"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "31 Spren/Dreamwaker.md": {
-      "name": "Dreamwaker",
-      "type": "spren",
-      "links": [
-        "[[Iiko]]",
-        "[[Glys]]"
-      ],
-      "tags": [
-        "#spren",
-        "#mistspren",
-        "#ancient"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "31 Spren/Kun'ahu.md": {
-      "name": "Kun'ahu",
-      "type": "spren",
-      "links": [
-        "[[Galeth-son-Thald]]",
-        "[[Dreamwaker]]"
-      ],
-      "tags": [
-        "#spren",
-        "#peakspren",
-        "#reliable"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "31 Spren/Pyre.md": {
-      "name": "Pyre",
-      "type": "spren",
-      "links": [
-        "[[N'tal]]"
-      ],
-      "tags": [
-        "#spren",
-        "#ashspren",
-        "#radiant"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "31 Spren/Verdae.md": {
-      "name": "Verdae",
-      "type": "spren",
-      "links": [
-        "[[Fina]]"
-      ],
-      "tags": [
-        "#spren",
-        "#cultivationspren",
-        "#naive"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "31 Spren/Viscose.md": {
-      "name": "Viscose",
-      "type": "spren",
-      "links": [
-        "[[Kuma]]"
-      ],
-      "tags": [
-        "#spren",
-        "#inkspren",
-        "#logical"
-      ],
-      "status": "active",
-      "last_index": "2026-05-14T08:17:14Z"
-    },
-    "04 Sessions/002 Whitespine.md": {
+    ".quartz/content/04 Sessions/002 Whitespine.md": {
       "name": "002 Whitespine",
       "type": "session",
       "status": "active",
@@ -561,10 +362,78 @@
         "#combat",
         "#investigation"
       ],
-      "last_index": "2026-05-14T08:17:14Z",
-      "number": 2
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "06 Locations/Hobbleken.md": {
+    ".quartz/content/05 Factions/Ghostbloods.md": {
+      "name": "Ghostbloods",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Chip]]"
+      ],
+      "tags": [
+        "#faction",
+        "#secret-society",
+        "#espionage"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/05 Factions/Knights of Dusk.md": {
+      "name": "Knights of Dusk",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#faction"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/05 Factions/Silent Oath.md": {
+      "name": "Silent Oath",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[High Enforcer Aylen]]"
+      ],
+      "tags": [
+        "#faction"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/05 Factions/Truthkeepers.md": {
+      "name": "Truthkeepers",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Silent Oath]]",
+        "[[High Witness Yeshan]]",
+        "[[Knights of Dusk]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#faction"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/06 Locations/Hearthstone.md": {
+      "name": "Hearthstone",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[001 First Blood]]",
+        "[[002 Whitespine]]"
+      ],
+      "tags": [
+        "#location"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/06 Locations/Hobbleken.md": {
       "name": "Hobbleken",
       "type": "location",
       "status": "active",
@@ -574,9 +443,25 @@
       "tags": [
         "#location"
       ],
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
-    "06 Locations/Stringken.md": {
+    ".quartz/content/06 Locations/Revolar.md": {
+      "name": "Revolar",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[Khria]]",
+        "[[Renna Palir]]"
+      ],
+      "tags": [
+        "#location",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/06 Locations/Stringken.md": {
       "name": "Stringken",
       "type": "location",
       "status": "active",
@@ -588,25 +473,419 @@
       "tags": [
         "#location"
       ],
-      "last_index": "2026-05-14T08:17:14Z"
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/06 Locations/Truthkeeper Camp.md": {
+      "name": "Truthkeeper Camp",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[High Witness Yeshan]]",
+        "[[Adjudicator Peton]]",
+        "[[High Enforcer Aylen]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#location",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/07 Hooks/Sila's Allegiance.md": {
+      "name": "Sila's Allegiance",
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[Ghostbloods]]",
+        "[[N'tal]]",
+        "[[Adjudicator Peton]]"
+      ],
+      "tags": [
+        "#hook",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/08 Scenes/Shellmite Attack.md": {
+      "name": "Shellmite Attack",
+      "type": "scene",
+      "status": "inactive",
+      "links": [
+        "[[Hearthstone]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#scene",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/10 Lore/Possessed.md": {
+      "name": "Possessed",
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[High Enforcer Aylen]]",
+        "[[High Witness Yeshan]]"
+      ],
+      "tags": [
+        "#lore",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/31 Spren/Cadence.md": {
+      "name": "Cadence",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Mallow]]"
+      ],
+      "tags": [
+        "#spren",
+        "#lightspren",
+        "#reacher"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/31 Spren/Dreamwaker.md": {
+      "name": "Dreamwaker",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Iiko]]",
+        "[[Glys]]"
+      ],
+      "tags": [
+        "#spren",
+        "#mistspren",
+        "#ancient"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/31 Spren/Kun'ahu.md": {
+      "name": "Kun'ahu",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Galeth-son-Thald]]",
+        "[[Dreamwaker]]"
+      ],
+      "tags": [
+        "#spren",
+        "#peakspren",
+        "#reliable"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/31 Spren/Pyre.md": {
+      "name": "Pyre",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[N'tal]]"
+      ],
+      "tags": [
+        "#spren",
+        "#ashspren",
+        "#radiant"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/31 Spren/Verdae.md": {
+      "name": "Verdae",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Fina]]"
+      ],
+      "tags": [
+        "#spren",
+        "#cultivationspren",
+        "#naive"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    ".quartz/content/31 Spren/Viscose.md": {
+      "name": "Viscose",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Kuma]]"
+      ],
+      "tags": [
+        "#spren",
+        "#inkspren",
+        "#logical"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "02 Players/Fina.md": {
+      "name": "Fina",
+      "type": "player",
+      "status": "active",
+      "links": [
+        "[[Verdae]]"
+      ],
+      "tags": [
+        "#player",
+        "#edgedancer",
+        "#alethi",
+        "#noble",
+        "#lighteyed"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "02 Players/Galeth-son-Thald.md": {
+      "name": "Galeth-son-Thald",
+      "type": "player",
+      "status": "active",
+      "links": [
+        "[[Kun'ahu]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#player",
+        "#shin",
+        "#warrior",
+        "#exiled",
+        "#stoneward",
+        "#darkeyed"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "02 Players/Iiko.md": {
+      "name": "Iiko",
+      "type": "player",
+      "status": "active",
+      "links": [
+        "[[Dreamwaker]]",
+        "[[N'tal]]",
+        "[[Kuma]]",
+        "[[Fina]]"
+      ],
+      "tags": [
+        "#truthwatcher",
+        "#nurian",
+        "#envoy"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "02 Players/Kuma.md": {
+      "name": "Kuma",
+      "type": "player",
+      "status": "active",
+      "links": [
+        "[[Viscose]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#elsecaller",
+        "#nurian",
+        "#maker"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "02 Players/Mallow.md": {
+      "name": "Mallow",
+      "type": "player",
+      "status": "active",
+      "links": [
+        "[[Khria]]",
+        "[[Cadence]]"
+      ],
+      "tags": [
+        "#player",
+        "#willshaper",
+        "#purelaker",
+        "#enforcer"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "02 Players/N'tal.md": {
+      "name": "N'tal",
+      "type": "player",
+      "status": "active",
+      "links": [
+        "[[Pyre]]"
+      ],
+      "tags": [
+        "#player",
+        "#dustbringer",
+        "#nurian",
+        "#merchant"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/Adjudicator Peton.md": {
+      "name": "Adjudicator Peton",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#adjudicator",
+        "#traditionalist"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/Chip.md": {
+      "name": "Chip",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Ghostbloods]]",
+        "[[Renna Palir]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#enforcer",
+        "#spy",
+        "#noble"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/Citylord Nilar Yenev.md": {
+      "name": "Citylord Nilar Yenev",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Highlord Paladar]]",
+        "[[Highlady Marise Sathir]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#stringken",
+        "#citylord",
+        "#bit"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/High Enforcer Aylen.md": {
+      "name": "High Enforcer Aylen",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Silent Oath]]",
+        "[[High Witness Yeshan]]",
+        "[[Possessed]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#makabaki",
+        "#herald"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/High Witness Yeshan.md": {
+      "name": "High Witness Yeshan",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Possessed]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#herald"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/Highlady Marise Sathir.md": {
+      "name": "Highlady Marise Sathir",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Citylord Nilar Yenev]]",
+        "[[Dalen]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#highlady",
+        "#house_sathir"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/Karani.md": {
+      "name": "Karani",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Chip]]",
+        "[[Tahs]]",
+        "[[Ghostbloods]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#worldhopper",
+        "#ghostbloods"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/Khria.md": {
+      "name": "Khria",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Mallow]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#purelaker",
+        "#truthwatcher",
+        "#rebel"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/Renna Palir.md": {
+      "name": "Renna Palir",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Iiko]]",
+        "[[Chip]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
     },
     "03 NPCs/Senny.md": {
       "name": "Senny",
       "type": "npc",
       "status": "active",
-      "links": [
-        "[[Truthkeepers]]",
-        "[[Possessed]]",
-        "[[Truthkeeper Camp]]",
-        "[[High Witness Yeshan]]"
-      ],
+      "links": [],
       "tags": [
         "#npc",
         "#lighteyed",
         "#alethi",
         "#truthkeeper"
       ],
-      "last_index": "2026-05-14T10:45:25Z"
+      "last_index": "2026-05-15T17:32:47Z"
     },
     "03 NPCs/Sila.md": {
       "name": "Sila",
@@ -626,7 +905,342 @@
         "#ghostbloods",
         "#mercenary"
       ],
-      "last_index": "2026-05-14T10:46:26Z"
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "03 NPCs/Tahs.md": {
+      "name": "Tahs",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Renna Palir]]",
+        "[[Karani]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#initiate"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "04 Sessions/000 Arrival.md": {
+      "name": "000 Arrival",
+      "type": "session",
+      "status": "inactive",
+      "links": [
+        "[[Truthkeeper Camp]]",
+        "[[High Witness Yeshan]]",
+        "[[Adjudicator Peton]]",
+        "[[Truthkeepers]]",
+        "[[Chip]]",
+        "[[Renna Palir]]"
+      ],
+      "tags": [
+        "#session",
+        "#loid",
+        "#yolen",
+        "#witness",
+        "#senny",
+        "#quartermaster_jola"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "04 Sessions/001 First Blood.md": {
+      "name": "001 First Blood",
+      "type": "session",
+      "status": "inactive",
+      "links": [
+        "[[Adjudicator Peton]]",
+        "[[N'tal]]",
+        "[[Hearthstone]]",
+        "[[Revolar]]",
+        "[[High Enforcer Aylen]]"
+      ],
+      "tags": [
+        "#session",
+        "#Truthkeepers",
+        "#Hearthstone",
+        "#ShellmiteAttack"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "04 Sessions/002 Whitespine.md": {
+      "name": "002 Whitespine",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[Fina]]",
+        "[[Renna Palir]]",
+        "[[Hobbleken]]",
+        "[[Stringken]]",
+        "[[Ilsh Thaylen]]",
+        "[[Highlord Sadeas]]",
+        "[[Highlord Paladar]]"
+      ],
+      "tags": [
+        "#session",
+        "#combat",
+        "#investigation"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "05 Factions/Ghostbloods.md": {
+      "name": "Ghostbloods",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Chip]]"
+      ],
+      "tags": [
+        "#faction",
+        "#secret-society",
+        "#espionage"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "05 Factions/Knights of Dusk.md": {
+      "name": "Knights of Dusk",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#faction"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "05 Factions/Silent Oath.md": {
+      "name": "Silent Oath",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[High Enforcer Aylen]]"
+      ],
+      "tags": [
+        "#faction"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "05 Factions/Truthkeepers.md": {
+      "name": "Truthkeepers",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Silent Oath]]",
+        "[[High Witness Yeshan]]",
+        "[[Knights of Dusk]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#faction"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "06 Locations/Hearthstone.md": {
+      "name": "Hearthstone",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[001 First Blood]]",
+        "[[002 Whitespine]]"
+      ],
+      "tags": [
+        "#location"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "06 Locations/Hobbleken.md": {
+      "name": "Hobbleken",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[002 Whitespine]]"
+      ],
+      "tags": [
+        "#location"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "06 Locations/Revolar.md": {
+      "name": "Revolar",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[Khria]]",
+        "[[Renna Palir]]"
+      ],
+      "tags": [
+        "#location",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "06 Locations/Stringken.md": {
+      "name": "Stringken",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[002 Whitespine]]",
+        "[[Highlord Sadeas]]",
+        "[[Highlord Paladar]]"
+      ],
+      "tags": [
+        "#location"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "06 Locations/Truthkeeper Camp.md": {
+      "name": "Truthkeeper Camp",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[High Witness Yeshan]]",
+        "[[Adjudicator Peton]]",
+        "[[High Enforcer Aylen]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#location",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "07 Hooks/Sila's Allegiance.md": {
+      "name": "Sila's Allegiance",
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[Ghostbloods]]",
+        "[[N'tal]]",
+        "[[Adjudicator Peton]]"
+      ],
+      "tags": [
+        "#hook",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "08 Scenes/Shellmite Attack.md": {
+      "name": "Shellmite Attack",
+      "type": "scene",
+      "status": "inactive",
+      "links": [
+        "[[Hearthstone]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#scene",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "10 Lore/Possessed.md": {
+      "name": "Possessed",
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[High Enforcer Aylen]]",
+        "[[High Witness Yeshan]]"
+      ],
+      "tags": [
+        "#lore",
+        "#placeholder"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "31 Spren/Cadence.md": {
+      "name": "Cadence",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Mallow]]"
+      ],
+      "tags": [
+        "#spren",
+        "#lightspren",
+        "#reacher"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "31 Spren/Dreamwaker.md": {
+      "name": "Dreamwaker",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Iiko]]",
+        "[[Glys]]"
+      ],
+      "tags": [
+        "#spren",
+        "#mistspren",
+        "#ancient"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "31 Spren/Kun'ahu.md": {
+      "name": "Kun'ahu",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Galeth-son-Thald]]",
+        "[[Dreamwaker]]"
+      ],
+      "tags": [
+        "#spren",
+        "#peakspren",
+        "#reliable"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "31 Spren/Pyre.md": {
+      "name": "Pyre",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[N'tal]]"
+      ],
+      "tags": [
+        "#spren",
+        "#ashspren",
+        "#radiant"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "31 Spren/Verdae.md": {
+      "name": "Verdae",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Fina]]"
+      ],
+      "tags": [
+        "#spren",
+        "#cultivationspren",
+        "#naive"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
+    },
+    "31 Spren/Viscose.md": {
+      "name": "Viscose",
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Kuma]]"
+      ],
+      "tags": [
+        "#spren",
+        "#inkspren",
+        "#logical"
+      ],
+      "last_index": "2026-05-15T17:32:47Z"
     }
   }
 }
