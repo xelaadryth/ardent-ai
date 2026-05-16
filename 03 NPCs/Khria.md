@@ -8,7 +8,7 @@ tags:
   - "#purelaker"
   - "#truthwatcher"
   - "#rebel"
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-18T12:00:00
 ---
 # Description
 A native of the Purelake and a founding member of the rebellion. She is a decisive lieutenant dedicated to restoring the Knights Radiant and freeing the people from oppression.
@@ -35,3 +35,4 @@ Her life changed after spotting a Mistspren in the shallow waters of the Purelak
 - **[[Mallow]]**: Her sister from the Purelake.
 - **[[Truthkeepers]]**: Her former captors and the primary targets of her rebellion.
 - **[[Revolar]]**: The city where she often operates in disguise.
+- [[The Darkstone Siege]]: Leads a precision breach team during the final battle.

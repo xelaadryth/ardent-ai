@@ -8,7 +8,7 @@ tags:
   - "#alethi"
   - "#dustbringer"
   - "#rebel_leader"
-last_updated: 2026-05-16T12:00:00
+last_updated: 2026-05-18T12:00:00
 ---
 # Description
 A man of seasoned military bearing, Brightlord Antisar Spadis—more commonly just called General Spade—carries himself with the quiet confidence of a leader who has seen the worst of war. He is currently the target of a high-level purge by the [[Truthkeepers]].
@@ -36,3 +36,4 @@ Once a highly respected General in the Vamah military, Spade was ousted through 
 - [[General Odrin Lesh]]: His successor and bitter rival.
 - [[Truthkeepers]]: The force he is currently preparing to fight.
 - [[02 Knights of Dusk Arc]]: Key protagonist of the conflict.
+- [[The Darkstone Siege]]: Leads the final assault on the lodge.

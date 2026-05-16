@@ -14,7 +14,7 @@
         "[[Lavrik]]",
         "[[Morrow]]",
         "[[High Enforcer Aylen]]",
-        "[[Shellmite Attack]]",
+        "[[The Shellmite Attack]]",
         "[[Sila's Allegiance]]",
         "[[000 Arrival]]",
         "[[001 First Blood]]",
@@ -99,7 +99,7 @@
         "[[Bodenar]]",
         "[[Undertaker]]",
         "[[Ghostbloods]]",
-        "[[Experimental Steamship]]",
+        "[[The Experimental Steamship]]",
         "[[The Steamship's Secret]]"
       ],
       "tags": [
@@ -223,6 +223,8 @@
       "links": [
         "[[Pyre]]",
         "[[Grand Justicar Malice]]",
+        "[[Arbiter Jalis]]",
+        "[[The Foundry Gambit]]",
         "[[04 Nurian Gems Arc]]"
       ],
       "tags": [
@@ -231,7 +233,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2026-05-17T12:00:00"
+      "last_updated": "2024-05-18T00:00:00"
     },
     "Adjudicator Peton": {
       "name": "Adjudicator Peton",
@@ -270,6 +272,25 @@
         "#sons_of_honor"
       ],
       "last_updated": "2026-05-16T16:00:00"
+    },
+    "Arbiter Jalis": {
+      "name": "Arbiter Jalis",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Grand Justicar Malice]]",
+        "[[N'tal]]",
+        "[[Revolar]]",
+        "[[The Foundry Gambit]]"
+      ],
+      "tags": [
+        "#npc",
+        "#bloodmarks",
+        "#veden",
+        "#antagonist"
+      ],
+      "last_updated": "2024-05-18T00:00:00"
     },
     "Ardent Kaelis": {
       "name": "Ardent Kaelis",
@@ -451,8 +472,6 @@
         "[[Ghostbloods]]",
         "[[Amaram]]",
         "[[Shallan Davar]]",
-        "[[Truthkeepers]]",
-        "[[Knights of Dusk]]",
         "[[03 Stormblessed Arc]]"
       ],
       "tags": [
@@ -605,6 +624,25 @@
         "#heretic"
       ],
       "last_updated": "2026-05-18T12:00:00"
+    },
+    "Jory": {
+      "name": "Jory",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Knights of Dusk]]",
+        "[[Stackhouses]]",
+        "[[Arbiter Jalis]]",
+        "[[The Foundry Gambit]]"
+      ],
+      "tags": [
+        "#npc",
+        "#possessed",
+        "#knights_of_dusk",
+        "#radiant"
+      ],
+      "last_updated": "2024-05-18T00:00:00"
     },
     "Kabsal": {
       "name": "Kabsal",
@@ -1286,7 +1324,7 @@
         "[[Knights of Dusk]]",
         "[[Doug (Guddy)]]",
         "[[Iiko]]",
-        "[[Stackhouse Slavers]]",
+        "[[The Stackhouse Slavers]]",
         "[[Bloodmarks]]",
         "[[Falen]]",
         "[[Kuma]]",
@@ -1330,13 +1368,14 @@
       "status": "active",
       "links": [
         "[[Bodenar]]",
-        "[[Highlord Paladar]]",
         "[[Revolar]]",
+        "[[Grand Justicar Malice]]",
+        "[[Arbiter Jalis]]",
+        "[[Highlord Paladar]]",
         "[[N'tal]]",
         "[[Truthkeepers]]",
         "[[Ghostbloods]]",
-        "[[Stackhouse Slavers]]",
-        "[[Grand Justicar Malice]]",
+        "[[The Stackhouse Slavers]]",
         "[[04 Nurian Gems Arc]]"
       ],
       "tags": [
@@ -1344,7 +1383,7 @@
         "#criminal_organization",
         "#worldhopping"
       ],
-      "last_updated": "2026-05-17T12:00:00"
+      "last_updated": "2024-05-18T00:00:00"
     },
     "Envisagers": {
       "name": "Envisagers",
@@ -1617,6 +1656,9 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[The Foundry Gambit|Abandoned Industrial Foundry]]",
+        "[[Bloodmarks]]",
+        "[[Possessed]]",
         "[[Stackhouses]]",
         "[[Revolar]]"
       ],
@@ -1624,7 +1666,7 @@
         "#location",
         "#revolar"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2024-05-18T00:00:00"
     },
     "Stackhouses": {
       "name": "Stackhouses",
@@ -1635,7 +1677,7 @@
         "[[Revolar]]",
         "[[Bloodmarks]]",
         "[[Knights of Dusk]]",
-        "[[Stackhouse Slavers]]"
+        "[[The Stackhouse Slavers]]"
       ],
       "tags": [
         "#location",
@@ -1785,6 +1827,28 @@
       ],
       "last_updated": "2026-05-17T12:00:00"
     },
+    "The Foundry Gambit": {
+      "name": "The Foundry Gambit",
+      "type": "scene",
+      "status": "planned",
+      "links": [
+        "[[Scarstone Quarter]]",
+        "[[Revolar]]",
+        "[[N'tal]]",
+        "[[Bloodmarks]]",
+        "[[Arbiter Jalis]]",
+        "[[Jory]]",
+        "[[Pyre]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#scene",
+        "#revolar",
+        "#combat",
+        "#moral_trial"
+      ],
+      "last_updated": "2024-05-18T00:00:00"
+    },
     "Shellmite Attack": {
       "name": "Shellmite Attack",
       "type": "scene",
@@ -1845,7 +1909,7 @@
       "type": "lore",
       "status": "active",
       "links": [
-        "[[Experimental Steamship]]",
+        "[[The Experimental Steamship]]",
         "[[Bloodmarks]]",
         "[[Grand Justicar Malice]]",
         "[[04 Nurian Gems Arc]]"
@@ -1877,7 +1941,7 @@
       "type": "lore",
       "status": "active",
       "links": [
-        "[[Experimental Steamship]]",
+        "[[The Experimental Steamship]]",
         "[[Nurian Gems]]",
         "[[Grand Justicar Malice]]",
         "[[Bloodmarks]]",

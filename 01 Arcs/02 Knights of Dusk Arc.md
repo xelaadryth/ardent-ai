@@ -6,7 +6,7 @@ tags:
   - "#arc"
   - "#revolar"
   - "#rebellion"
-last_updated: 2026-05-16T12:00:00
+last_updated: 2026-05-18T12:00:00
 number: 2
 ---
 # Description
@@ -25,6 +25,7 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - **Part 1: The Investigation:** The players track the Knights of Dusk's sabotage of supply lines and discover Spade's Radiant abilities.
 - **Part 2: The Confrontation:** The Silent Oath arrives to pass judgment on [[General Spade]] and his lieutenant [[Khria]].
 - **Part 3: The Flight:** The players must choose a side or simply survive as the Stone Forest becomes a battlefield, ultimately forcing them to flee [[Revolar]].
+- [[The Darkstone Siege]]
 
 # Hooks
 - **The Devotary Call:** [[Ardent Kaelis]] prompts [[Iiko]] to join a devotary during their investigation of the city.
@@ -33,3 +34,4 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 # Sessions
 - [[012 Following Chip]]
 - [[013 Shadow War in the Driftwards]]
+- [[The Darkstone Siege]]
