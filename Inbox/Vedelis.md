@@ -1,2 +1,3 @@
-Can you write me a page for the "inactive" (aka deceased) NPC Vedelis? Worked closely with Lavrik, known as a good person, was an ardent of Vamah loyal to General Spade and believed in the cause mainly to help preserve truth. He suspected that forces working for Highlord Paladar were removing books from the libraries for some reason, so fighting back against Vamah was his way of protecting his beliefs.
-Was friends with Ardent Kaelis and were both in the Devotary of 
+Can you write me a page for the "inactive" (aka deceased) NPC Vedelis? He worked closely with Lavrik, known as a good person, was an ardent of Vamah loyal to General Spade and believed in the cause mainly to help preserve truth. He suspected that forces working for Highlord Paladar were removing books from the libraries for some reason, so fighting back against Vamah was his way of protecting his beliefs.
+Was friends with Ardent Kaelis and were both in the Devotary of Sincerity. Vedelis was secretly a member of the Veristitalians.
+Can you also write me a faction page for the Veristitalians based on the book canon?
