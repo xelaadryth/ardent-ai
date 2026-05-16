@@ -133,9 +133,23 @@ jobs:
         shell: bash
         run: |
           git checkout main
-          git merge --ff-only "$BRANCH"
-          git push origin main
-          git push origin --delete "$BRANCH"
+          git fetch origin main
+
+          if git rebase origin/main "$BRANCH"; then
+            git checkout main
+            git merge --ff-only "$BRANCH"
+            git push origin main
+            git push origin --delete "$BRANCH"
+          else
+            git rebase --abort
+            echo "Rebase failed due to conflicts, falling back to PR"
+            TITLE="🧠 ${{ steps.ai.outputs.commit_message }}"
+            gh pr create \
+              --base main \
+              --head "${{ steps.branch.outputs.branch }}" \
+              --title "$TITLE" \
+              --body "⚠️ Auto-merge failed due to rebase conflicts. Manual review required."
+          fi
 
       - name: Create Pull Request
         if: steps.commit.outputs.has_changes == 'true' && github.event.inputs.create_pr == 'true'
