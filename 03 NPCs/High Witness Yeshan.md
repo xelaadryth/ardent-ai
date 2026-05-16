@@ -6,10 +6,10 @@ tags:
   - "#npc"
   - "#lighteyed"
   - "#herald"
-last_updated: 2026-05-13T23:29:00
+last_updated: 2024-05-19T12:00:00
 ---
 # Description
-A man of regal and commanding authority who possesses a visionary yet patient nature. In reality, he is the Herald Ishar, suffering from fractured sanity and conducting dangerous experiments with Connection to "fix" the world according to his own warped perspective.
+A man of regal and commanding authority who possesses a visionary yet patient nature. In reality, he is the Herald Ishar, suffering from fractured sanity and conducting dangerous experiments with Connection to "fix" the world according to his own warped perspective. He is the Patron Herald of the Bondsmiths.
 
 # Appearance
 Regal and commanding, he radiates a natural authority. He is noted for his piercing eyes that seem to look through those he speaks to.
@@ -25,9 +25,10 @@ Known to many as High Witness Yeshan, he is the Herald Ishar. His sanity is seve
 - **Experimental Restoration:** Continue his experiments with Connection to reshape the world.
 
 # Hooks
-- 
+-
 
 # Connections
 - **[[Truthkeepers]]**: The primary military force under his ultimate command.
+- **[[Orders of the Knights Radiant]]**: The patron Herald of the Bondsmiths.
 - **The Party**: He has directly influenced them by gifting them language and the power of Connection.
 - **[[Possessed]]**: The targets of the hunting force he intends to create.

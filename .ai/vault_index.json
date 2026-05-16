@@ -1964,6 +1964,33 @@
       ],
       "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
     },
+    "Minor NPCs": {
+      "name": "Minor NPCs",
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[000 Arrival]]",
+        "[[Truthkeeper Camp]]",
+        "[[001 First Blood]]",
+        "[[Salimset]]",
+        "[[002 Whitespine]]",
+        "[[Hobbleken]]",
+        "[[005 Hearthstone]]",
+        "[[Hearthstone]]",
+        "[[004 The Sathir Estate]]",
+        "[[003 Yenev and the Axe]]",
+        "[[House Sathir]]",
+        "[[Stringken]]",
+        "[[009 Slavers]]",
+        "[[006 Dillind and the Temple]]"
+      ],
+      "tags": [
+        "#lore",
+        "#npc",
+        "#reference"
+      ],
+      "last_updated": "2024-05-18T00:00:00"
+    },
     "Nurian Gems": {
       "name": "Nurian Gems",
       "type": "lore",

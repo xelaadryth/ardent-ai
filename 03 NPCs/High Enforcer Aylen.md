@@ -8,10 +8,10 @@ tags:
   - "#makabaki"
   - "#herald"
   - "#high_enforcer"
-last_updated: 2026-05-16T15:00:00
+last_updated: 2024-05-19T12:00:00
 ---
 # Description
-The High Enforcer of the Silent Oath and the ultimate authority on eliminating the threat of the [[Possessed]]. In reality, he is the Herald Nale, a figure of fractured sanity driven by an absolute, inflexible adherence to the law to prevent another Desolation.
+The High Enforcer of the Silent Oath and the ultimate authority on eliminating the threat of the [[Possessed]]. In reality, he is the Herald Nale (Nalan), the Patron Herald of the Skybreakers, a figure of fractured sanity driven by an absolute, inflexible adherence to the law to prevent another Desolation.
 
 # Appearance
 A man of intense, terrifying stillness with dark skin and a face that seems carved from obsidian, marked by a precise, crescent moon scar on his cheek. When he summons his shardblade, his eyes flash a brilliant, piercing gold.
@@ -27,6 +27,7 @@ He oversees the most lethal aspects of the [[Truthkeepers]] mission. He is waiti
 - **Cleansing:** Systematically execute the [[Possessed]] to prevent a repeat of the ancient Desolations.
 
 # Connections
+- [[Orders of the Knights Radiant]]: The patron Herald of the Skybreakers.
 - [[Silent Oath]]: The organization where he serves as supreme commander.
 - [[Truthkeepers]]: His current command priority.
 - [[Istrum]]: His subordinate and Skybreaker pupil.
