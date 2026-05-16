@@ -310,6 +310,22 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "03 NPCs/Istrum.md": {
+      "name": "Istrum",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Silent Oath]]",
+        "[[High Enforcer Aylen]]",
+        "[[Possessed]]"
+      ],
+      "tags": [
+        "#npc",
+        "#makabaki",
+        "#skybreaker"
+      ],
+      "last_updated": "2026-05-13T23:45:00"
+    },
     "03 NPCs/Karani.md": {
       "name": "Karani",
       "type": "npc",
