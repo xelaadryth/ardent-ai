@@ -4,6 +4,7 @@ type: player
 status: active
 links:
   - "[[Verdae]]"
+  - "[[Bitter Leaf Apothecary]]"
 tags:
   - "#player"
   - "#edgedancer"
@@ -11,7 +12,7 @@ tags:
   - "#noble"
   - "#lighteyed"
 player: Shirley
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-14T18:30:00
 ---
 
 # Description
@@ -38,3 +39,4 @@ Born into a noble family, Fina rejected a marriage alliance with a "nature cult"
 
 # Connections
 - [[Verdae]] — Her naive and vine-like Cultivationspren.
+- [[Bitter Leaf Apothecary]] — An essential resource for her research and medical work.
