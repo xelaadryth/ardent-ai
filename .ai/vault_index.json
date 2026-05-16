@@ -83,6 +83,32 @@
       ],
       "last_updated": "2026-05-16T16:00:00"
     },
+    "04 Nurian Gems Arc": {
+      "name": "04 Nurian Gems Arc",
+      "type": "arc",
+      "status": "planned",
+      "links": [
+        "[[Nurian Gems]]",
+        "[[N'tal]]",
+        "[[Bloodmarks]]",
+        "[[Kuma]]",
+        "[[Szeth-son-son-Vallano]]",
+        "[[Vorn]]",
+        "[[Ilsh]]",
+        "[[Grand Justicar Malice]]",
+        "[[Bodenar]]",
+        "[[Undertaker]]",
+        "[[Ghostbloods]]",
+        "[[Experimental Steamship]]",
+        "[[The Steamship's Secret]]"
+      ],
+      "tags": [
+        "#arc",
+        "#jah_keved",
+        "#nurian_gems"
+      ],
+      "last_updated": "2026-05-17T12:00:00"
+    },
     "Fina": {
       "name": "Fina",
       "type": "player",
@@ -177,7 +203,8 @@
       "status": "active",
       "links": [
         "[[Pyre]]",
-        "[[Grand Justicar Malice]]"
+        "[[Grand Justicar Malice]]",
+        "[[04 Nurian Gems Arc]]"
       ],
       "tags": [
         "#player",
@@ -185,7 +212,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-17T12:00:00"
     },
     "Adjudicator Peton": {
       "name": "Adjudicator Peton",
@@ -386,7 +413,8 @@
         "[[Bloodmarks]]",
         "[[Bodenar]]",
         "[[Ghostbloods]]",
-        "[[N'tal]]"
+        "[[N'tal]]",
+        "[[04 Nurian Gems Arc]]"
       ],
       "tags": [
         "#npc",
@@ -394,7 +422,7 @@
         "#bloodmarks",
         "#grand_justicar"
       ],
-      "last_updated": "2026-05-16T17:00:00"
+      "last_updated": "2026-05-17T12:00:00"
     },
     "Helaran": {
       "name": "Helaran",
@@ -735,7 +763,8 @@
       "status": "active",
       "links": [
         "[[Galeth-son-Thald]]",
-        "[[Silent Oath]]"
+        "[[Silent Oath]]",
+        "[[04 Nurian Gems Arc]]"
       ],
       "tags": [
         "#npc",
@@ -743,7 +772,7 @@
         "#assassin",
         "#truthless"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-17T12:00:00"
     },
     "Tahs": {
       "name": "Tahs",
@@ -1243,14 +1272,15 @@
         "[[Truthkeepers]]",
         "[[Ghostbloods]]",
         "[[Stackhouse Slavers]]",
-        "[[Grand Justicar Malice]]"
+        "[[Grand Justicar Malice]]",
+        "[[04 Nurian Gems Arc]]"
       ],
       "tags": [
         "#faction",
         "#criminal_organization",
         "#worldhopping"
       ],
-      "last_updated": "2026-05-16T17:00:00"
+      "last_updated": "2026-05-17T12:00:00"
     },
     "Envisagers": {
       "name": "Envisagers",
@@ -1384,14 +1414,15 @@
         "[[Bloodmarks]]",
         "[[Grand Justicar Malice]]",
         "[[Ilsh]]",
-        "[[Vorn]]"
+        "[[Vorn]]",
+        "[[04 Nurian Gems Arc]]"
       ],
       "tags": [
         "#location",
         "#jah_keved",
         "#trading_hub"
       ],
-      "last_updated": "2026-05-16T17:00:00"
+      "last_updated": "2026-05-17T12:00:00"
     },
     "Boundless Bazaar": {
       "name": "Boundless Bazaar",
@@ -1654,6 +1685,26 @@
       ],
       "last_updated": "2026-05-15T16:30:00"
     },
+    "Experimental Steamship": {
+      "name": "Experimental Steamship",
+      "type": "scene",
+      "status": "active",
+      "links": [
+        "[[Bodenar]]",
+        "[[Nurian Gems]]",
+        "[[Bloodmarks]]",
+        "[[Vorn]]",
+        "[[Ilsh]]",
+        "[[Kuma]]",
+        "[[04 Nurian Gems Arc]]"
+      ],
+      "tags": [
+        "#scene",
+        "#bodenar",
+        "#fabrial"
+      ],
+      "last_updated": "2026-05-17T12:00:00"
+    },
     "Shellmite Attack": {
       "name": "Shellmite Attack",
       "type": "scene",
@@ -1709,6 +1760,23 @@
       ],
       "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
     },
+    "Nurian Gems": {
+      "name": "Nurian Gems",
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Experimental Steamship]]",
+        "[[Bloodmarks]]",
+        "[[Grand Justicar Malice]]",
+        "[[04 Nurian Gems Arc]]"
+      ],
+      "tags": [
+        "#lore",
+        "#gemstone",
+        "#fabrial"
+      ],
+      "last_updated": "2026-05-17T12:00:00"
+    },
     "Possessed": {
       "name": "Possessed",
       "type": "lore",
@@ -1723,6 +1791,26 @@
         "#placeholder"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "The Steamship's Secret": {
+      "name": "The Steamship's Secret",
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Experimental Steamship]]",
+        "[[Nurian Gems]]",
+        "[[Grand Justicar Malice]]",
+        "[[Bloodmarks]]",
+        "[[Kuma]]",
+        "[[Vorn]]",
+        "[[04 Nurian Gems Arc]]"
+      ],
+      "tags": [
+        "#lore",
+        "#secret",
+        "#bodenar"
+      ],
+      "last_updated": "2026-05-17T12:00:00"
     },
     "Cadence": {
       "name": "Cadence",

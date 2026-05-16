@@ -6,22 +6,23 @@ tags:
   - "#npc"
   - "#ardent"
   - "#ghostbloods"
-last_updated: 2026-05-13T23:45:00
+last_updated: 2026-05-18T12:00:00
 ---
 # Description
-An Ardent of average looks, typically wearing the humble grey robes of his order. He has a friendly, approachable face and a gentle manner that makes him easy to trust.
+An Ardent of average looks, typically wearing the humble grey robes of his order. He presents himself as a devoted scholar, but he is a high-level infiltrator for the [[Ghostbloods]].
 
 # Personality
-Kabsal is charming, intelligent, and seemingly pious. He presents himself as a devoted scholar of the Ardentia, but this is a facade for his role as a dedicated agent of the Ghostbloods. He is patient and manipulative, capable of playing a very long game.
+Charming and intelligent. In this version of events, he is no longer a loyal puppet of his organization; he has become a true believer in [[Jasnah Kholin]]'s research and is prepared to betray the Ghostbloods to ensure her survival.
 
 # Background
-A skilled agent of the Ghostbloods, Kabsal specializes in deep-cover infiltration. He has been assigned to "befriend" Princess Jasnah Kholin in Kharbranth to stop her research into Voidbringers and the past.
+Assigned to "befriend" [[Jasnah Kholin]] in [[Kharbranth]] to monitor her research into the Voidbringers. While the [[Ghostbloods]] intend for him to facilitate her assassination, Kabsal has found himself sympathizing with her cause.
 
 # Goals
-- **Infiltration:** To gain access to Jasnah Kholin's inner circle in the Palanaeum.
-- **Execution:** To follow through on the Ghostbloods' orders to neutralize the threat she poses.
+- **Betrayal:** Sabotage the [[Ghostbloods]]' plans to eliminate Jasnah.
+- **Protection:** Ensure Jasnah's safety in the Palanaeum.
 
 # Connections
-- [[Ghostbloods]]: His true employers.
-- **Jasnah Kholin**: His current mark.
-- **The Ardentia**: His cover organization.
+- [[Ghostbloods]]: His former employers whom he intends to betray.
+- [[Jasnah Kholin]]: His mark and current object of protection.
+- [[Shallan Davar]]: A fellow operative he must monitor in [[Kharbranth]].
+- [[05 Kharbranth Infiltration Arc]]: The theater for his secret conflict.
