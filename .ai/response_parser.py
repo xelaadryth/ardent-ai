@@ -24,16 +24,22 @@ def parse_json_output(output: str) -> dict:
     output = output.strip()
     
     # If the json output is wrapped in a code block, extract it
-    if output.startswith("```json") and output.endswith("```"):
-        output = output[len("```json"): -len("```")].strip()
+    if output.startswith("```") and output.endswith("```"):
+        # Remove opening marker (with or without language tag)
+        first_newline = output.find("\n")
+        if first_newline != -1:
+            output = output[first_newline + 1:]  # Skip past first newline
+        else:
+            output = output[3:]  # Just strip the opening backticks
+        output = output[:-3].strip()  # Strip closing backticks
 
     try:
-        return json.loads(output)
+        return json.loads(output, strict=False)
     except json.JSONDecodeError:
         match = re.search(r"\{.*\}", output, re.DOTALL)
         if not match:
             raise
-        return json.loads(match.group(0))
+        return json.loads(match.group(0), strict=False)
 
 
 def now_timestamp() -> str:
