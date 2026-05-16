@@ -1,5 +1,39 @@
 {
   "files": {
+    "01 Truthkeepers Arc": {
+      "name": "01 Truthkeepers Arc",
+      "type": "arc",
+      "status": "active",
+      "links": [
+        "[[Adjudicator Peton]]",
+        "[[Truthkeepers]]",
+        "[[Possessed]]",
+        "[[High Witness Yeshan]]",
+        "[[Chip]]",
+        "[[Dillind]]",
+        "[[Lavrik]]",
+        "[[Morrow]]",
+        "[[High Enforcer Aylen]]",
+        "[[Shellmite Attack]]",
+        "[[Sila's Allegiance]]",
+        "[[000 Arrival]]",
+        "[[001 First Blood]]",
+        "[[002 Whitespine]]",
+        "[[003 Yenev and the Axe]]",
+        "[[004 The Sathir Estate]]",
+        "[[005 Hearthstone]]",
+        "[[006 Dillind and the Temple]]",
+        "[[007 Lavrik and the Soulcaster]]",
+        "[[008 The Envisagers of Talinan]]",
+        "[[009 Slavers]]",
+        "[[010 Soulcaster and Shared Employers]]",
+        "[[011 Promotions and Revolar]]"
+      ],
+      "tags": [
+        "#arc"
+      ],
+      "last_updated": "2026-05-16T11:00:00"
+    },
     "Fina": {
       "name": "Fina",
       "type": "player",
@@ -1014,7 +1048,10 @@
         "[[Knights of Dusk]]",
         "[[Doug (Guddy)]]",
         "[[Iiko]]",
+        "[[Stackhouse Slavers]]",
         "[[Bloodmarks]]",
+        "[[Falen]]",
+        "[[Kuma]]",
         "[[Undertaker]]",
         "[[Ghostbloods]]",
         "[[Bruckslats]]"
@@ -1023,7 +1060,7 @@
         "#session",
         "#investigation"
       ],
-      "last_updated": "2026-05-15T18:00:00"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "013 Shadow War in the Driftwards": {
       "name": "013 Shadow War in the Driftwards",
@@ -1059,6 +1096,7 @@
         "[[N'tal]]",
         "[[Truthkeepers]]",
         "[[Ghostbloods]]",
+        "[[Stackhouse Slavers]]",
         "[[Grand Justicar Malice]]"
       ],
       "tags": [
@@ -1066,7 +1104,7 @@
         "#criminal_organization",
         "#worldhopping"
       ],
-      "last_updated": "2026-05-14T18:00:00"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "Envisagers": {
       "name": "Envisagers",
@@ -1289,13 +1327,14 @@
         "[[Scarstone Quarter]]",
         "[[Revolar]]",
         "[[Bloodmarks]]",
-        "[[Knights of Dusk]]"
+        "[[Knights of Dusk]]",
+        "[[Stackhouse Slavers]]"
       ],
       "tags": [
         "#location",
         "#revolar"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "Stringken": {
       "name": "Stringken",
@@ -1432,6 +1471,33 @@
         "#placeholder"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "Stackhouse Slavers": {
+      "name": "Stackhouse Slavers",
+      "type": "scene",
+      "status": "active",
+      "links": [
+        "[[Chip]]",
+        "[[Scarstone Quarter]]",
+        "[[Stackhouses]]",
+        "[[Bloodmarks]]",
+        "[[Kuma]]",
+        "[[Falen]]",
+        "[[Truthkeepers]]",
+        "[[Soulcaster]]",
+        "[[N'tal]]",
+        "[[Knights of Dusk]]",
+        "[[Truthkeepers|Truthkeeper]]",
+        "[[Adjudicator Peton]]",
+        "[[012 Following Chip]]"
+      ],
+      "tags": [
+        "#scene",
+        "#combat",
+        "#revolar",
+        "#bloodmarks"
+      ],
+      "last_updated": "2026-05-16T12:00:00"
     },
     "Cremwidow Poison": {
       "name": "Cremwidow Poison",
