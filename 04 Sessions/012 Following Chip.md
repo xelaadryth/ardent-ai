@@ -5,7 +5,7 @@ status: active
 tags:
   - "#session"
   - "#investigation"
-last_updated: 2026-05-15T18:00:00
+last_updated: 2026-05-16T12:00:00
 ---
 
 # Description
@@ -16,7 +16,7 @@ The squad stalks [[Chip]] and [[Karani]] through [[Revolar]] to uncover their tr
 - **The Tail:** The party tracks [[Chip]] and [[Karani]] to the [[Stackhouses]] in the [[Scarstone Quarter]].
 - **Eavesdropping:** The party overhears the duo reporting on [[High Enforcer Aylen]]’s Shardblade and mentioning the [[Silent Oath]]. The spies express concern over the [[Knights of Dusk]] and dismiss [[Doug (Guddy)]] as a "dead traitor."
 - **Supernatural Glitches:** During the tail, the party attempts to move unseen. [[Iiko]] experiences a manifestation of Light, and the squad witnesses their spren speaking the words: "Strength Before Weakness."
-- **The Debt Collector Combat:** The squad interrupts [[Bloodmarks]] debt collectors shaking down a family in the [[Stackhouses]]. After a brief skirmish, the family reveals that they receive help from the [[Knights of Dusk]] and points the party toward their secret entrance, marked by a trail of red laundry.
+- **[[Stackhouse Slavers]]:** The squad interrupts a [[Bloodmarks]] debt collection squad abducting children from a family (led by [[Falen]]). After a skirmish in the muddy alleys using [[Kuma]]'s fabrials, the family is saved and mistakes the party for [[Knights of Dusk]], pointing them toward a secret hideout marked by red laundry.
 
 # Hooks
 - **The Undertaker's Meeting:** The party has two days to arrange a meeting with the [[Undertaker]].
@@ -38,3 +38,4 @@ The squad stalks [[Chip]] and [[Karani]] through [[Revolar]] to uncover their tr
 - [[Silent Oath]]
 - [[High Enforcer Aylen]]
 - [[Doug (Guddy)]]
+- [[Stackhouse Slavers]]
