@@ -94,13 +94,17 @@
             }
           },
           {
-            "id": "ab0d9b63e01e760c",
+            "id": "b41c90a59212643f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Ardent Kaelis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ardent Kaelis"
             }
           }
         ],
@@ -277,8 +281,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab0d9b63e01e760c",
+  "active": "b41c90a59212643f",
   "lastOpenFiles": [
+    "Inbox/Vorn.md",
+    "Inbox/Ardent Kaelis.md",
+    "Inbox/Undertaker.md",
+    "Inbox/Istrum.md",
+    "Inbox/Highlord Paladar.md",
+    "Inbox/General Odrin Lesh.md",
+    "00 Templates/NPC Template.md",
     "Makefile",
     "README.md",
     "Inbox/Senny.md",
@@ -299,21 +310,14 @@
     "00 Templates/Session Template.md",
     "00 Templates/Scene Template.md",
     "00 Templates/Player Template.md",
-    "00 Templates/NPC Template.md",
     "00 Templates/Lore Template.md",
     "00 Templates/Location Template.md",
-    "00 Templates/Hook Template.md",
-    "00 Templates/Faction Template.md",
-    "Inbox/Frontmatter.md",
-    "Inbox/Sathir.md",
-    "Archive/0011-Khria.md",
     "01 Factions",
     "10 Lore",
     "07 Hooks",
     "08 Scenes",
     "03 Locations",
     "06 Locations",
-    "05 Factions",
-    "01 Lore"
+    "05 Factions"
   ]
 }
