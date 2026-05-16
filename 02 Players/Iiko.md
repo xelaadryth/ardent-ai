@@ -8,11 +8,12 @@ links:
   - "[[Kuma]]"
   - "[[Fina]]"
 tags:
+  - "#player"
   - "#truthwatcher"
   - "#nurian"
   - "#envoy"
 player: Truong
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:45:00
 ---
 
 # Description
