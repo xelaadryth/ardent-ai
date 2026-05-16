@@ -83,6 +83,7 @@
       "status": "active",
       "links": [
         "[[Szeth-son-son-Vallano]]",
+        "[[The Axelsmith]]",
         "[[Kun'ahu]]",
         "[[Truthkeepers]]"
       ],
@@ -94,7 +95,7 @@
         "#stoneward",
         "#darkeyed"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2024-05-18T00:00:00"
     },
     "Iiko": {
       "name": "Iiko",
@@ -575,6 +576,7 @@
       "links": [
         "[[Revolar]]",
         "[[Truthkeepers]]",
+        "[[Possessed]]",
         "[[High Enforcer Aylen]]",
         "[[Cryptics]]"
       ],
@@ -695,6 +697,24 @@
         "#initiate"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "The Axelsmith": {
+      "name": "The Axelsmith",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Galeth-son-Thald]]",
+        "[[Salimset]]",
+        "[[011 Promotions and Revolar]]",
+        "[[010 Soulcaster and Shared Employers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#cartwright",
+        "#salimset"
+      ],
+      "last_updated": "2024-05-18T00:00:00"
     },
     "Tien": {
       "name": "Tien",
@@ -853,6 +873,7 @@
         "[[Dalen]]",
         "[[Ashusa]]",
         "[[Highlord Paladar]]",
+        "[[The Axelsmith]]",
         "[[Galeth-son-Thald]]",
         "[[Bit]]"
       ],
@@ -861,7 +882,7 @@
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2024-05-18T00:00:00"
     },
     "004 The Sathir Estate": {
       "name": "004 The Sathir Estate",
@@ -1035,7 +1056,7 @@
         "[[Ashusa]]",
         "[[Truthkeepers]]",
         "[[Galeth-son-Thald]]",
-        "[[The Axe]]",
+        "[[The Axelsmith]]",
         "[[Kuma]]",
         "[[Soulcaster]]",
         "[[Hobbleken]]",
@@ -1049,7 +1070,7 @@
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2026-05-15T18:30:00"
+      "last_updated": "2024-05-18T00:00:00"
     },
     "011 Promotions and Revolar": {
       "name": "011 Promotions and Revolar",
@@ -1070,8 +1091,7 @@
         "[[Knights of Dusk]]",
         "[[N'tal]]",
         "[[Doug (Guddy)]]",
-        "[[The Axe]]",
-        "[[Fina]]",
+        "[[The Axelsmith]]",
         "[[The Vamah Archivum]]",
         "[[Renna Palir]]",
         "[[Undertaker]]"
@@ -1081,7 +1101,7 @@
         "#promotion",
         "#investigation"
       ],
-      "last_updated": "2026-05-16T15:00:00"
+      "last_updated": "2024-05-18T00:00:00"
     },
     "012 Following Chip": {
       "name": "012 Following Chip",
@@ -1358,6 +1378,22 @@
         "#location"
       ],
       "last_updated": "2026-05-15T12:00:00"
+    },
+    "Salimset": {
+      "name": "Salimset",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[The Axelsmith]]",
+        "[[Chip]]",
+        "[[Sweeper]]",
+        "[[Morrow]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#location"
+      ],
+      "last_updated": "2024-05-18T00:00:00"
     },
     "Scarstone Quarter": {
       "name": "Scarstone Quarter",
