@@ -8,7 +8,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from vault.file_io import VAULT_ROOT
+from vault.file_io import AI_FOLDER, VAULT_ROOT
 
 
 def current_timestamp() -> str:
@@ -23,7 +23,7 @@ def current_timestamp() -> str:
 
 def get_index_file() -> Path:
     """Get the path to the vault index file."""
-    return Path("vault_index.json")
+    return AI_FOLDER / "vault_index.json"
 
 
 def load_vault_index() -> dict:

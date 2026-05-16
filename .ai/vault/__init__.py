@@ -6,6 +6,7 @@ This module re-exports the public API from vault_index.py for backward compatibi
 
 # Import from file_io module (formerly vault.py)
 from vault.file_io import (
+    AI_FOLDER,
     CORE_FILES,
     VAULT_ROOT,
     load_core_context,
@@ -37,6 +38,7 @@ from vault.utilities import (
 
 __all__ = [
     # From file_io module
+    "AI_FOLDER",
     "VAULT_ROOT",
     "CORE_FILES",
     "read_file",
