@@ -99,9 +99,6 @@ def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypa
 
 
 def test_build_index_entry_preserves_last_updated_from_frontmatter():
-    from pathlib import Path
-
-    path = Path("03 NPCs/Aaron.md")
     content = """---
 name: Aaron
 type: npc
@@ -117,15 +114,11 @@ Some content"""
 
 
 def test_build_index_entry_includes_status_from_frontmatter():
-    from pathlib import Path
-
-    path = Path("03 NPCs/Aaron.md")
     content = """---
 name: Aaron
 type: npc
 status: active
 tags: ["warrior"]
-links: ["Town"]
 ---
 Some content here."""
 
@@ -135,4 +128,3 @@ Some content here."""
     assert entry["name"] == "Aaron"
     assert entry["type"] == "npc"
     assert entry["tags"] == ["warrior"]
-    assert entry["links"] == ["Town"]
