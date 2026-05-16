@@ -399,6 +399,21 @@
       ],
       "last_updated": "2026-05-13T23:45:00"
     },
+    "03 NPCs/Lirin.md": {
+      "name": "Lirin",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Hearthstone]]",
+        "[[Toralin Roshone]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#surgeon"
+      ],
+      "last_updated": "2026-05-13T23:55:00"
+    },
     "03 NPCs/Mikeyel Franzay.md": {
       "name": "Mikeyel Franzay",
       "type": "npc",
@@ -517,6 +532,21 @@
         "#sadeas_princedom"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "03 NPCs/Toralin Roshone.md": {
+      "name": "Toralin Roshone",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Hearthstone]]",
+        "[[Laral Roshone]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi"
+      ],
+      "last_updated": "2026-05-13T23:55:00"
     },
     "03 NPCs/Undertaker.md": {
       "name": "Undertaker",
@@ -656,6 +686,35 @@
         "#downtime"
       ],
       "last_updated": "2026-05-13T23:45:00"
+    },
+    "04 Sessions/005 Hearthstone.md": {
+      "name": "005 Hearthstone",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[Highlady Marise Sathir]]",
+        "[[Citylord Nilar Yenev]]",
+        "[[Lirin]]",
+        "[[Toralin Roshone]]",
+        "[[Laral Roshone]]",
+        "[[Renna Palir]]",
+        "[[Chip]]",
+        "[[Karani]]",
+        "[[Morrow]]",
+        "[[Hearthstone]]",
+        "[[004 The Sathir Estate]]",
+        "[[003 Yenev and the Axe]]",
+        "[[Ilsh]]",
+        "[[Fina]]",
+        "[[House Sathir]]",
+        "[[Iiko]]"
+      ],
+      "tags": [
+        "#session",
+        "#rp",
+        "#investigation"
+      ],
+      "last_updated": "2026-05-13T23:55:00"
     },
     "05 Factions/Ghostbloods.md": {
       "name": "Ghostbloods",
