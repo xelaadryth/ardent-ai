@@ -9,7 +9,7 @@ tags:
   - "#npc"
   - "#lighteyed"
   - "#herald"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A man of regal and commanding authority who possesses a visionary yet patient nature. In reality, he is the Herald Ishar, suffering from fractured sanity and conducting dangerous experiments with Connection to "fix" the world according to his own warped perspective.

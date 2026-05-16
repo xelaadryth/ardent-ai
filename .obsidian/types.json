@@ -6,6 +6,6 @@
     "spren": "text",
     "radiant": "text",
     "links": "multitext",
-    "last_index": "datetime"
+    "last_updated": "datetime"
   }
 }

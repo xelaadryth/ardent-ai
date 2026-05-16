@@ -6,7 +6,7 @@ links:
   - "[[002 Whitespine]]"
 tags:
   - "#location"
-last_index: 2026-05-13T23:35:12
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
 A small town sheltered in the leeward side of hills within a lait, known for its agriculture and Hobble's Brook.

@@ -8,7 +8,7 @@ tags:
   - "#spren"
   - "#cultivationspren"
   - "#naive"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 An intensely naive and gentle Cultivationspren bonded to [[Fina]]. She serves as a soft, moral anchor, consistently nudging her partner away from cold pragmatism and toward the foundational ideals of the Radiants.

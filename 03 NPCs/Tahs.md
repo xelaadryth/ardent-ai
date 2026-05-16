@@ -11,7 +11,7 @@ tags:
   - "#lighteyed"
   - "#alethi"
   - "#initiate"
-last_index: 2026-05-13T23:35:12
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
 A Truthkeeper initiate driven by a desperate need for social validation and rank.

@@ -11,7 +11,7 @@ tags:
   - "#alethi"
   - "#highlady"
   - "#house_sathir"
-last_index: 2026-05-13T23:35:12
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
 A woman of intense focus and strict bearing who serves as the "brain" of House Sathir. She is a "correct" lighteyes who believes her duty is to protect those beneath her, often hiding her warmth behind a mask of high-noble duty.

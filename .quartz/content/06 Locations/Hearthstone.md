@@ -7,7 +7,7 @@ links:
   - "[[002 Whitespine]]"
 tags:
   - "#location"
-last_index: 2026-05-13T23:35:12
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
 A rural settlement currently serving as the site for an official miracle investigation.

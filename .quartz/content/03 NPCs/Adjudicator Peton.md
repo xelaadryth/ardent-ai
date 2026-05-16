@@ -10,7 +10,7 @@ tags:
   - "#alethi"
   - "#adjudicator"
   - "#traditionalist"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A high-ranking official within the Truthkeepers who balances a rigid sense of duty with the messy reality of leading "outsider" units.

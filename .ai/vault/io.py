@@ -23,7 +23,7 @@ def current_timestamp() -> str:
 
 def get_index_file() -> Path:
     """Get the path to the vault index file."""
-    return VAULT_ROOT / "vault_index.json"
+    return Path("vault_index.json")
 
 
 def load_vault_index() -> dict:

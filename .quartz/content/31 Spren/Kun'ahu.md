@@ -9,7 +9,7 @@ tags:
   - "#spren"
   - "#peakspren"
   - "#reliable"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A jovial and reliable Peakspren bonded to [[Galeth-son-Thald]]. He serves as an emotional anchor and a steadfast cheerleader, embodying the unshakable nature of the Stonewards.

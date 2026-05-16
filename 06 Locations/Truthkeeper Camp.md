@@ -10,7 +10,7 @@ links:
 tags:
   - "#location"
   - "#placeholder"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A fortified military encampment situated against a cliffside, serving as a primary training and mobilization hub for the [[Truthkeepers]]. The perimeter is notably marked by erratic, "creeping trees" that move independently of the wind.

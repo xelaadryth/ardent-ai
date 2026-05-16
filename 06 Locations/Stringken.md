@@ -8,7 +8,7 @@ links:
   - "[[Highlord Paladar]]"
 tags:
   - "#location"
-last_index: 2026-05-13T23:35:12
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
 A town currently experiencing political instability, featuring the "Creaky Chull" tavern.

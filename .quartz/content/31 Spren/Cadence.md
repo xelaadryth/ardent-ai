@@ -8,7 +8,7 @@ tags:
   - "#spren"
   - "#lightspren"
   - "#reacher"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A moody and empathetic Lightspren (Reacher) bonded to [[Mallow]]. She is a champion of personal liberty who guides her partner toward the path of a Willshaper.

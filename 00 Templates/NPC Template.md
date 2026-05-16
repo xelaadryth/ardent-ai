@@ -5,7 +5,7 @@ status: active
 links: []
 tags:
   - "#npc"
-last_index: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
+last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 ---
 # Description
 

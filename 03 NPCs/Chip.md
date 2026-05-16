@@ -13,7 +13,7 @@ tags:
   - "#enforcer"
   - "#spy"
   - "#noble"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A Ghostblood spy currently embedded within the [[Truthkeepers]], carefully hiding his true noble lineage and high-ranking status.

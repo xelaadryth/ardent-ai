@@ -8,7 +8,7 @@ tags:
   - "#spren"
   - "#ashspren"
   - "#radiant"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A radical and spiteful Ashspren bonded to [[N'tal]]. Unlike typical spren, she is driven by a deep-seated ideological hatred for the ancient Radiants and views herself as a necessary sacrifice to prevent the return of the Radiant bonds.

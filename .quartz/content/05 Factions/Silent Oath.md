@@ -7,7 +7,7 @@ links:
   - "[[High Enforcer Aylen]]"
 tags:
   - "#faction"
-last_index: 2026-05-13T23:33:15
+last_updated: 2026-05-13T23:33:15
 ---
 # Description
 A shadow organization operating within the higher echelons of the [[Truthkeepers]], specialized in the clinical elimination of high-priority "Possessed" targets.

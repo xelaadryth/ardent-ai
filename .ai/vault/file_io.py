@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-VAULT_ROOT = Path(".")
+VAULT_ROOT = Path("..")
 CORE_FILES = ["SOUL.md"]
 
 

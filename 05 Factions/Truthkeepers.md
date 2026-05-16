@@ -9,7 +9,7 @@ links:
   - "[[Revolar]]"
 tags:
   - "#faction"
-last_index: 2026-05-13T23:35:12
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
 A secretive, militant organization that operates under the conviction that they alone understand the existential threat posed by the "Possessed." They provide a front for more dangerous entities while maintaining a firm grip on local politics and security.

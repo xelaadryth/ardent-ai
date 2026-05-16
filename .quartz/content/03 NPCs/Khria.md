@@ -12,7 +12,7 @@ tags:
   - "#purelaker"
   - "#truthwatcher"
   - "#rebel"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A native of the Purelake and a founding member of the rebellion. She is a decisive lieutenant dedicated to restoring the Knights Radiant and freeing the people from oppression.

@@ -12,7 +12,7 @@ tags:
   - "#stringken"
   - "#citylord"
   - "#bit"
-last_index: 2026-05-13T23:35:12
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
 A political predator and "bad" lighteyes who specializes in removing risk and furthering Vamah causes at any cost. He is polished, reasonable-sounding, and utterly ruthless.

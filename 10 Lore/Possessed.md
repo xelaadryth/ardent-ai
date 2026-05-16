@@ -9,7 +9,7 @@ links:
 tags:
   - "#lore"
   - "#placeholder"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A derogatory or clinical term used by the [[Truthkeepers]] to categorize individuals exhibiting signs of aberrant surges, supernatural abilities, or sudden madness. These individuals are officially suspected of being influenced or controlled by external, malevolent entities.

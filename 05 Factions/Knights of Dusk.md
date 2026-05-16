@@ -7,7 +7,7 @@ links:
   - "[[Truthkeepers]]"
 tags:
   - "#faction"
-last_index: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:29:00
 ---
 # Description
 A clandestine rebel organization based in the urban shadows of [[Revolar]], led by emerging Knights Radiant. They represent the growing resistance against the established order of the princedoms.
