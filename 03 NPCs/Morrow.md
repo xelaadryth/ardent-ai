@@ -11,7 +11,7 @@ tags:
 last_updated: 2026-05-16T15:00:00
 ---
 # Description
-A former merchant from [[Revolar]] who was haunted by supernatural phenomena. He was identified by the [[Truthkeepers]] as "possessed" and was subsequently executed by [[High Enforcer Aylen]].
+A former merchant from [[Revolar]] who was haunted by supernatural phenomena. He was identified by the [[Truthkeepers]] as [[Possessed]] and was subsequently executed by [[High Enforcer Aylen]].
 
 # Appearance
 Morrow is a man who looks older than his years, with a tangled beard and eyes that dart frantically as if watching something invisible in the air. He wears the travel-stained clothes of a merchant, though they are now little more than rags.
