@@ -915,6 +915,30 @@
       ],
       "last_updated": "2026-05-14T15:00:00"
     },
+    "04 Sessions/012 Following Chip.md": {
+      "name": "012 Following Chip",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[Chip]]",
+        "[[Karani]]",
+        "[[Revolar]]",
+        "[[Ghostbloods]]",
+        "[[Bloodmarks]]",
+        "[[Knights of Dusk]]",
+        "[[Undertaker]]",
+        "[[Renna Palir]]",
+        "[[Highlord Paladar]]",
+        "[[Silent Oath]]",
+        "[[Possessed]]",
+        "[[Stackhouses]]"
+      ],
+      "tags": [
+        "#session",
+        "#investigation"
+      ],
+      "last_updated": "2026-05-14T16:00:00"
+    },
     "05 Factions/Envisagers.md": {
       "name": "Envisagers",
       "type": "faction",

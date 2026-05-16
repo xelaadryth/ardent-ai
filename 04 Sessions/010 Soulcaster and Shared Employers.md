@@ -2,15 +2,6 @@
 name: 010 Soulcaster and Shared Employers
 type: session
 status: active
-links:
-  - "[[Kuma]]"
-  - "[[Iiko]]"
-  - "[[Citylord Nilar Yenev]]"
-  - "[[Chip]]"
-  - "[[Fina]]"
-  - "[[Ashusa]]"
-  - "[[Bit]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#session"
   - "#combat"

@@ -2,17 +2,6 @@
 name: 012 Following Chip
 type: session
 status: active
-links:
-  - "[[Chip]]"
-  - "[[Karani]]"
-  - "[[Revolar]]"
-  - "[[Ghostbloods]]"
-  - "[[Bloodmarks]]"
-  - "[[Knights of Dusk]]"
-  - "[[Undertaker]]"
-  - "[[Renna Palir]]"
-  - "[[Highlord Paladar]]"
-  - "[[Silent Oath]]"
 tags:
   - "#session"
   - "#investigation"

@@ -2,19 +2,6 @@
 name: 005 Hearthstone
 type: session
 status: active
-links:
-  - "[[Highlady Marise Sathir]]"
-  - "[[Citylord Nilar Yenev]]"
-  - "[[Lirin]]"
-  - "[[Toralin Roshone]]"
-  - "[[Laral Roshone]]"
-  - "[[Renna Palir]]"
-  - "[[Chip]]"
-  - "[[Karani]]"
-  - "[[Morrow]]"
-  - "[[Hearthstone]]"
-  - "[[004 The Sathir Estate]]"
-  - "[[003 Yenev and the Axe]]"
 tags:
   - "#session"
   - "#rp"

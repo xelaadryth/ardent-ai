@@ -2,13 +2,6 @@
 name: 006 Dillind and the Temple
 type: session
 status: active
-links:
-  - "[[Dillind]]"
-  - "[[Knights of Dusk]]"
-  - "[[Iiko]]"
-  - "[[Chip]]"
-  - "[[Lavrik]]"
-  - "[[Highlord Paladar]]"
 tags:
   - "#session"
   - "#combat"

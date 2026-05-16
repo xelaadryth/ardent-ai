@@ -2,26 +2,6 @@
 name: 011 Promotions and Revolar
 type: session
 status: active
-links:
-  - "[[010 Soulcaster and Shared Employers]]"
-  - "[[Adjudicator Peton]]"
-  - "[[High Enforcer Aylen]]"
-  - "[[Morrow the Merchant]]"
-  - "[[Silent Oath]]"
-  - "[[Truthkeepers]]"
-  - "[[Revolar]]"
-  - "[[Istrim]]"
-  - "[[Salimset]]"
-  - "[[Branchken]]"
-  - "[[Leafken]]"
-  - "[[Listern]]"
-  - "[[Climit]]"
-  - "[[Yola]]"
-  - "[[Shess]]"
-  - "[[N'tal]]"
-  - "[[Sila]]"
-  - "[[Karani]]"
-  - "[[Chip]]"
 tags:
   - "#session"
   - "#promotion"
