@@ -17,6 +17,11 @@ on:
         description: "Specific Inbox markdown file to process first (optional)"
         required: false
         type: string
+      create_pr:
+        description: "Create a Pull Request instead of merging directly to main"
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -121,8 +126,19 @@ jobs:
           git push origin "$BRANCH"
           echo "has_changes=true" >> $GITHUB_OUTPUT
 
+      - name: Merge directly to main
+        if: steps.commit.outputs.has_changes == 'true' && github.event.inputs.create_pr != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          git checkout main
+          git merge --ff-only "$BRANCH"
+          git push origin main
+          git push origin --delete "$BRANCH"
+
       - name: Create Pull Request
-        if: github.event_name != 'pull_request' && steps.commit.outputs.has_changes == 'true'
+        if: steps.commit.outputs.has_changes == 'true' && github.event.inputs.create_pr == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
