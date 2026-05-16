@@ -70,7 +70,7 @@ The Dawncities are the oldest continuously inhabited locations on Roshar.
 
 - **Akinah:** Lost to the mists of Aimia; rumored to house ancient secrets.
 - **Azimir:** Famous for its intricate bronze architecture.
-- **Kholinar:** Built into the wind-shadow of a massive rock formation; home to the Windrunning Aegis.
+- **Kholinar:** Built into the wind-shadow of a massive rock formation.
 - **Kurth:** The capital of Rira.
 - **Narak:** Destroyed in the past; its remains now form the center of the [[Shattered Plains]].
 - **Panatham:** Located in Babatharnam, the coastal center of Sela Tales.

@@ -13,10 +13,13 @@ number: 5
 # Description
 The party is ordered by the [[Ghostbloods]] to infiltrate the city of [[Kharbranth]] to investigate [[Jasnah Kholin]], whom they believe poses a threat to their organization and is widely known as a heretic.
 
-# Key Characters
-- [[Kabsal]]: A Ghostblood agent posing as an Ardent, secretly planning to betray his organization to protect his target.
-- [[Jasnah Kholin]]: The target of the investigation, a renowned scholar and secret Radiant.
-- [[Shallan Davar]]: Jasnah's ward and a secret Ghostblood operative seeking to assassinate her.
+# Key Players
+- [[Ghostbloods]]
+	- [[Kabsal]]: A Ghostblood agent posing as an Ardent, secretly planning to betray his organization to protect his target.
+	- [[Shallan Davar]]: Jasnah's ward and a secret Ghostblood operative seeking to assassinate her.
+- Diagram
+- Other
+	- [[Jasnah Kholin]]: The target of the investigation, a renowned scholar and secret Radiant.
 
 # Stakes
 - **The Truth of the Desolations:** Discovering the reality of the Voidbringers and the ancient history of Roshar.

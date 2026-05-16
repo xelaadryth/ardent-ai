@@ -9,7 +9,7 @@ number:
 ---
 # Description
 
-# Key Characters
+# Key Players
 - 
 # Scenes
 - 

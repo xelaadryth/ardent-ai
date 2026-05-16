@@ -13,11 +13,13 @@ number: 3
 # Description
 A "storm-blessed" soldier named [[Tien]] is making a name for himself in the brutal border skirmishes of Alethkar and Jah Keved. He is a survivor who seems to defy death at every turn, drawing the attention of both the Heralds and the Radiants. In this timeline, he was saved by [[Kaladin]] during a sacrifice that passed on the destiny of the Stormblessed.
 
-# Key Characters
-- [[Tien]]: A former squad leader and potential Radiant who "collects" those in need of protection.
-- [[Helaran]]: A mysterious figure sent by the [[Ghostbloods]] to assassinate [[Amaram]].
-- [[Amaram]]: The Highlord leader of the [[Sons of Honor]] conducting recruitment drives.
-- [[Dillind]]: One of the young soldiers under [[Tien]]'s protection.
+# Key Players
+- Sadeas Army
+	- [[Amaram]]: The Highlord leader of the [[Sons of Honor]] conducting recruitment drives.
+	- [[Tien]]: A former squad leader and potential Radiant who "collects" those in need of protection.
+	- [[Dillind]]: One of the young soldiers under [[Tien]]'s protection.
+- [[Ghostbloods]]
+	- [[Helaran]]: A mysterious figure sent by the [[Ghostbloods]] to assassinate [[Amaram]].
 
 # Progression
 - **Act 1: Rumors of the Storm-Blessed:** The party hears stories of a soldier who survived impossible odds in the borderlands.

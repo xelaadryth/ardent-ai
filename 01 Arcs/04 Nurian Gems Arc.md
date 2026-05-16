@@ -14,13 +14,17 @@ number: 4
 The party travels to Jah Keved to uncover the origin of the unstable [[Nurian Gems]]. This journey is fueled by the Nurian party members' curiosity about their own world, [[N'tal]]'s thirst for revenge against the [[Bloodmarks]], and [[Kuma]]'s obsession with crafting and artifabrials. However, they arrive in a nation gripped by paranoia as [[Szeth-son-son-Vallano]] the Assassin in White begins his slaughter of Veden highprinces.
 
 # Key Players
-- [[N'tal]]: Seeking the Grand Justicar of the Bloodmarks responsible for his family's murder.
-- [[Kuma]]: Focused on the artifabrial demonstration and the Thaylen steamship project.
-- [[Vorn]]: Leader of the Thaylen steamship project.
-- [[Ilsh]]: A spren researcher recruited to help with the project.
-- [[Grand Justicar Malice]]: A high-ranking Bloodmark official in [[Bodenar]] who controls the Nurian gem trade.
-- [[Undertaker]]: Directing the [[Ghostbloods]] to investigate the highprince assassinations.
-- [[Szeth-son-son-Vallano]]: The phantom threat whose actions cast suspicion on all Shin "outsiders".
+- [[Ghostbloods]]
+	- [[N'tal]]: Seeking the Grand Justicar of the Bloodmarks responsible for his family's murder.
+	- [[Undertaker]]: Directing the [[Ghostbloods]] to investigate the highprince assassinations.
+- [[Bloodmarks]]
+	- [[Grand Justicar Malice]]: A high-ranking Bloodmark official in [[Bodenar]] who controls the Nurian gem trade.
+- Scholars
+	- [[Vorn]]: Leader of the Thaylen steamship project.
+	- [[Ilsh]]: A spren researcher recruited to help with the project.
+	- [[Kuma]]: Focused on the artifabrial demonstration and the Thaylen steamship project.
+- Other
+	- [[Szeth-son-son-Vallano]]: The phantom threat whose actions cast suspicion on all Shin "outsiders".
 
 # Stakes
 - **N'tal's Vengeance**: Failure to navigate the politics of [[Bodenar]] could result in [[N'tal]] being branded a criminal by the very people he seeks to kill.

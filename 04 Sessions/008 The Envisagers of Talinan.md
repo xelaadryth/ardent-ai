@@ -21,8 +21,9 @@ The squad navigates the mystery of [[Talinan]], a village harbor for the [[Envis
 
 # Hooks
 - **The Ten Keys:** Investigate the fragmented prophecy and the remaining nine city locations indicated by the [[Tablet of Eleven Cities]].
-- **Dillind's Path:** Safely deliver [[Dillind]] to [[House Sathir]].
-- **House Sathir's Gambit:** [[House Sathir]] is actively moving to dismantle the [[Envisagers]] by drafting their able-bodied men and executing leadership.
+- **Dillind's Path:** Safely deliver [[Dillind]] to the [[House Sathir|Sathir estate]].
+- **House Sathir's Gambit:** The [[House Sathir|Sathir estate]] is actively moving to dismantle the [[Envisagers]] by drafting their able-bodied men and executing leadership.
+- **Talinar**: The original home of the [[Envisagers]] that was destroyed by the [[Truthkeepers]]
 
 # Connections
 - [[Dillind]]

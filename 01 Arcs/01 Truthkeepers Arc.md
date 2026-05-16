@@ -10,14 +10,19 @@ number: 1
 # Description
 The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt down individuals who are [[Possessed]]. However, as the players fulfill their duties, they begin to experience the same symptoms: hearing voices and feeling the pull of another world.
 
-# Key Characters
-- [[High Witness Yeshan]]
-- [[Adjudicator Peton]]
-- [[Chip]]
-- [[Dillind]]
-- [[Lavrik]]
-- [[Morrow]]
-- [[High Enforcer Aylen]]
+# Key Players
+- [[Truthkeepers]]
+	- [[High Witness Yeshan]]
+	- [[Adjudicator Peton]]
+	- [[Chip]]
+	- [[Sila]]
+- [[Knights of Dusk]]
+	- [[Lavrik]]
+- Other
+	- [[Highlady Marise Sathir]]
+	- [[Citylord Nilar Yenev]]
+	- [[Dillind]]
+	- [[Morrow]]
 
 # Scenes
 - [[The Shellmite Attack]]
