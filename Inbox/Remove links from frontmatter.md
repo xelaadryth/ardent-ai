@@ -1,0 +1,1 @@
+Could you remove the `links` property from the frontmatter of all files?

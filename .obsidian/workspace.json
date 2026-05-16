@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 NPCs/Highlady Marise Sathir.md",
+                "file": "Inbox/Remove links from frontmatter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Highlady Marise Sathir"
+              "title": "Remove links from frontmatter"
             }
           }
         ],
@@ -283,6 +283,8 @@
   },
   "active": "b41c90a59212643f",
   "lastOpenFiles": [
+    "03 NPCs/Highlady Marise Sathir.md",
+    "Inbox/Remove links from frontmatter.md",
     "Archive/0024-Istrum.md",
     "03 NPCs/Istrum.md",
     "Archive/0023-Ilsh.md",
@@ -307,8 +309,6 @@
     "Inbox/Tien.md",
     "Inbox/Cream of the Crem.md",
     "Archive/0020-General Odrin Lesh.md",
-    "Inbox/Vorn.md",
-    "Inbox/Ardent Kaelis.md",
     "Makefile",
     "vault_index.json",
     "reindex-output.txt",
