@@ -1,0 +1,1 @@
+Can you generate me an NPC in Revolar that works with the Knights of Dusk, but is just a regular person? Perhaps a minor informant, along with a backstory of how the Knights of Dusk saved her and hooks and secrets that will be interesting for the players to discover?
