@@ -966,38 +966,34 @@
     "011 Promotions and Revolar": {
       "name": "011 Promotions and Revolar",
       "type": "session",
-      "status": "active",
+      "status": "inactive",
       "links": [
         "[[Adjudicator Peton]]",
         "[[High Enforcer Aylen]]",
-        "[[Silent Oath]]",
+        "[[Morrow the Merchant]]",
+        "[[Truthkeepers]]",
+        "[[Possessed]]",
+        "[[Cryptics]]",
+        "[[Chip]]",
+        "[[Karani]]",
+        "[[Ghostbloods]]",
+        "[[Bloodmarks]]",
         "[[Revolar]]",
         "[[Knights of Dusk]]",
-        "[[Truthkeepers]]",
-        "[[High Witness Yeshan]]",
-        "[[Morrow the Merchant]]",
-        "[[Possessed]]",
-        "[[Ghostbloods]]",
-        "[[Chip]]",
-        "[[Jokrun]]",
-        "[[Branchken]]",
-        "[[Leafken]]",
-        "[[Listern]]",
-        "[[Climit]]",
-        "[[Yola]]",
-        "[[Shess]]",
         "[[N'tal]]",
-        "[[Undertaker]]",
-        "[[Whitespine's Fang]]",
+        "[[Doug (Guddy)]]",
+        "[[The Axe]]",
+        "[[Fina]]",
         "[[The Vamah Archivum]]",
-        "[[Renna Palir]]"
+        "[[Renna Palir]]",
+        "[[Undertaker]]"
       ],
       "tags": [
         "#session",
         "#promotion",
         "#investigation"
       ],
-      "last_updated": "2026-05-15T16:30:00"
+      "last_updated": "2026-05-15T18:00:00"
     },
     "012 Following Chip": {
       "name": "012 Following Chip",

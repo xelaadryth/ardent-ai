@@ -5,17 +5,18 @@ status: active
 tags:
   - "#session"
   - "#investigation"
-last_updated: 2026-05-15T12:00:00
+last_updated: 2026-05-15T18:00:00
 ---
 
 # Description
-The squad stalks [[Chip]] through [[Revolar]] to uncover his true loyalties, leading them to a clandestine meeting with the [[Undertaker]] and revealing the shadow war between the [[Ghostbloods]] and the [[Bloodmarks]].
+The squad stalks [[Chip]] and [[Karani]] through [[Revolar]] to uncover their true loyalties. They track them to a meeting in the [[Stackhouses]] where they uncover intelligence regarding the [[Silent Oath]] and the [[Truthkeepers]].
 
 # Scenes
-- **The Tail:** The party tracks [[Chip]] from the [[Gemheart Inn]] to the [[Bruckslats]] district. He attempts to lose them in the [[Crowded Steppe]], a chaotic slum near the southeast docks.
-- **The Meeting:** [[Chip]] meets the [[Undertaker]] at a side entrance in the [[Bruckslats]]. The party eavesdrops on a discussion regarding Stormlight logistics, trade with Scadrial, and the potential to weaponize the [[Possessed]].
-- **Shadow Tensions:** The conversation reveals that [[Highlord Paladar]] is actively funding the [[Bloodmarks]], putting them in direct conflict with the [[Ghostbloods]].
-- **Stackhouse Rescue:** While investigating the area, the party intervenes in an encounter with slavers in the [[Stackhouses]], rescuing a family and discovering a trail of red laundry leading to a secret [[Knights of Dusk]] hideout.
+- **The Driftwards Lodging:** The squad settles into [[Cream of the Crem]], while [[Chip]] and [[Karani]] lodge at the [[Gemheart Inn]]. [[Renna Palir]] joins the squad, and they confide in her about their suspicions regarding the spies.
+- **The Tail:** The party tracks [[Chip]] and [[Karani]] to the [[Stackhouses]] in the [[Scarstone Quarter]].
+- **Eavesdropping:** The party overhears the duo reporting on [[High Enforcer Aylen]]’s Shardblade and mentioning the [[Silent Oath]]. The spies express concern over the [[Knights of Dusk]] and dismiss [[Doug (Guddy)]] as a "dead traitor."
+- **Supernatural Glitches:** During the tail, the party attempts to move unseen. [[Iiko]] experiences a manifestation of Light, and the squad witnesses their spren speaking the words: "Strength Before Weakness."
+- **The Debt Collector Combat:** The squad interrupts [[Bloodmarks]] debt collectors shaking down a family in the [[Stackhouses]]. After a brief skirmish, the family reveals that they receive help from the [[Knights of Dusk]] and points the party toward their secret entrance, marked by a trail of red laundry.
 
 # Hooks
 - **The Undertaker's Meeting:** The party has two days to arrange a meeting with the [[Undertaker]].
@@ -24,13 +25,16 @@ The squad stalks [[Chip]] through [[Revolar]] to uncover his true loyalties, lea
 
 # Connections
 - [[Chip]]
+- [[Karani]]
+- [[Renna Palir]]
 - [[Revolar]]
 - [[Undertaker]]
 - [[Ghostbloods]]
 - [[Bloodmarks]]
 - [[Gemheart Inn]]
 - [[Bruckslats]]
-- [[Crowded Steppe]]
-- [[Highlord Paladar]]
 - [[Stackhouses]]
 - [[Knights of Dusk]]
+- [[Silent Oath]]
+- [[High Enforcer Aylen]]
+- [[Doug (Guddy)]]
