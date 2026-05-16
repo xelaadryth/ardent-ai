@@ -1,7 +1,7 @@
 from pathlib import Path
 
 # AI_FOLDER is the .ai folder where scripts and index live
-AI_FOLDER = Path(__file__).parent.parent
+AI_FOLDER = Path(__file__).resolve().parent.parent
 # VAULT_ROOT is the repository root (parent of the .ai folder)
 VAULT_ROOT = AI_FOLDER.parent
 

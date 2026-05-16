@@ -6,9 +6,12 @@ Rebuilds vault_index.json from frontmatter of all markdown files.
 No LLM calls - purely deterministic.
 """
 
+ai_dir = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(ai_dir))
+
+from internal.workflow_integration import compose_commit_message, handle_workflow_error, print_workflow_output
 from pkg.vault.crawler import build_index_from_disk
 from pkg.vault.io import save_vault_index
-from internal.workflow_integration import compose_commit_message, handle_workflow_error, print_workflow_output
 
 
 def main():

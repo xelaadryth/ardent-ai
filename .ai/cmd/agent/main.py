@@ -1,6 +1,10 @@
 import os
 from pathlib import Path
+import sys
 from typing import Optional, Tuple
+
+ai_dir = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(ai_dir))
 
 from internal import inbox
 from internal.llm import generate_content
