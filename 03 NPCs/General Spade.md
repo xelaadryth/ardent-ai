@@ -23,12 +23,12 @@ Disciplined, just, and deeply protective of those under his command. He is drive
 Once a highly respected General in the Vamah military, Spade was ousted through a series of political maneuvers by the greedy Regent [[Highlord Paladar]]. During his exile, he bonded a spren, gaining the abilities of a Dustbringer (Releaser).
 
 # Goals
-- **Overthrow Paladar:** Purge the corruption from [[Revolar]].
-- **Survival:** Survive the judgment of the [[Silent Oath]] and [[High Enforcer Aylen]].
-- **Resistance:** Combat the [[Truthkeepers]] in the streets of [[Revolar]].
+- **Overthrow Paladar:** Purge the corruption from [[Revolar]] through targeted attacks
+- **Help the People**: Protect civilians when possible and try to do the right thing
+- **Protection:** Protect other surgebinders from the judgment of the [[Silent Oath]] and [[High Enforcer Aylen]]
 
 # Hooks
-- **Imminent Execution:** He is currently being held for execution by the [[Silent Oath]].
+- 
 
 # Connections
 - [[Knights of Dusk]]: His loyal followers and rebel army.
