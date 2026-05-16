@@ -483,6 +483,22 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "03 NPCs/Tien.md": {
+      "name": "Tien",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Kaladin]]",
+        "[[Windrunners]]"
+      ],
+      "tags": [
+        "#npc",
+        "#alethi",
+        "#soldier",
+        "#sadeas_princedom"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
+    },
     "04 Sessions/000 Arrival.md": {
       "name": "000 Arrival",
       "type": "session",
