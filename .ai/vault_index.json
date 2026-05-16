@@ -911,6 +911,23 @@
       ],
       "last_updated": "2026-05-14T16:00:00"
     },
+    "04 Sessions/013 Shadow War in the Driftwards.md": {
+      "name": "013 Shadow War in the Driftwards",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Knights of Dusk]]",
+        "[[Revolar]]",
+        "[[Undertaker]]"
+      ],
+      "tags": [
+        "#session",
+        "#investigation",
+        "#stealth"
+      ],
+      "last_updated": "2026-05-14T17:00:00"
+    },
     "05 Factions/Envisagers.md": {
       "name": "Envisagers",
       "type": "faction",
