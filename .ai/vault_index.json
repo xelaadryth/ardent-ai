@@ -615,7 +615,7 @@
         "[[Karani]]",
         "[[High Enforcer Aylen]]",
         "[[Revolar]]",
-        "[[Whitespine's Fang]]",
+        "[[Bruckslats]]",
         "[[Truthkeepers]]",
         "[[Silent Oath]]"
       ],
@@ -625,7 +625,7 @@
         "#ghostbloods",
         "#worldhopper"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2026-05-15T15:00:00"
     },
     "Vorn": {
       "name": "Vorn",
@@ -962,16 +962,21 @@
         "[[Revolar|Driftwards]]",
         "[[Bloodmarks]]",
         "[[Scarstone Quarter]]",
+        "[[N'tal]]",
+        "[[Chip]]",
+        "[[Whitespine's Fang]]",
+        "[[Undertaker]]",
+        "[[Bruckslats]]",
         "[[Knights of Dusk]]",
         "[[Revolar]]",
-        "[[Undertaker]]"
+        "[[Sweeper]]"
       ],
       "tags": [
         "#session",
         "#investigation",
         "#stealth"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2026-05-15T15:00:00"
     },
     "Bloodmarks": {
       "name": "Bloodmarks",
@@ -1303,15 +1308,15 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[Undertaker]]",
         "[[Bloodmarks]]",
-        "[[Revolar]]"
+        "[[Revolar]]",
+        "[[Sweeper]]"
       ],
       "tags": [
         "#location",
         "#revolar"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2026-05-15T15:00:00"
     },
     "Sila's Allegiance": {
       "name": "Sila's Allegiance",
