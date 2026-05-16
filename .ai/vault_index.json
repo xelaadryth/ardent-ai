@@ -60,6 +60,29 @@
       ],
       "last_updated": "2026-05-16T12:00:00"
     },
+    "03 Stormblessed Arc": {
+      "name": "03 Stormblessed Arc",
+      "type": "arc",
+      "status": "planned",
+      "links": [
+        "[[Tien]]",
+        "[[Kaladin]]",
+        "[[Helaran]]",
+        "[[Ghostbloods]]",
+        "[[Amaram]]",
+        "[[Sons of Honor]]",
+        "[[Dillind]]",
+        "[[Silent Oath]]",
+        "[[01 Truthkeepers Arc]]",
+        "[[02 Knights of Dusk Arc]]"
+      ],
+      "tags": [
+        "#arc",
+        "#stormblessed",
+        "#border_skirmish"
+      ],
+      "last_updated": "2026-05-16T16:00:00"
+    },
     "Fina": {
       "name": "Fina",
       "type": "player",
@@ -182,6 +205,25 @@
         "#traditionalist"
       ],
       "last_updated": "2026-05-15T12:00:00"
+    },
+    "Amaram": {
+      "name": "Amaram",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Sons of Honor]]",
+        "[[Hearthstone]]",
+        "[[House Sathir|Sathir Estate]]",
+        "[[Helaran]]",
+        "[[03 Stormblessed Arc]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#sons_of_honor"
+      ],
+      "last_updated": "2026-05-16T16:00:00"
     },
     "Ardent Kaelis": {
       "name": "Ardent Kaelis",
@@ -352,6 +394,26 @@
         "#grand_justicar"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "Helaran": {
+      "name": "Helaran",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Ghostbloods]]",
+        "[[Amaram]]",
+        "[[Sons of Honor]]",
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[03 Stormblessed Arc]]"
+      ],
+      "tags": [
+        "#npc",
+        "#ghostbloods",
+        "#assassin",
+        "#veshers"
+      ],
+      "last_updated": "2026-05-16T16:00:00"
     },
     "High Enforcer Aylen": {
       "name": "High Enforcer Aylen",
@@ -722,15 +784,21 @@
       "status": "active",
       "links": [
         "[[Kaladin]]",
-        "[[Windrunners]]"
+        "[[Truthkeepers]]",
+        "[[Ghostbloods]]",
+        "[[Dillind]]",
+        "[[Silent Oath]]",
+        "[[Windrunners]]",
+        "[[03 Stormblessed Arc]]"
       ],
       "tags": [
         "#npc",
         "#alethi",
         "#soldier",
-        "#sadeas_princedom"
+        "#sadeas_princedom",
+        "#stormblessed"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T16:00:00"
     },
     "Toralin Roshone": {
       "name": "Toralin Roshone",
@@ -1236,6 +1304,22 @@
         "#faction"
       ],
       "last_updated": "2026-05-13T23:33:15"
+    },
+    "Sons of Honor": {
+      "name": "Sons of Honor",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Amaram]]",
+        "[[Ghostbloods]]",
+        "[[03 Stormblessed Arc]]"
+      ],
+      "tags": [
+        "#faction",
+        "#secret_society",
+        "#vorin"
+      ],
+      "last_updated": "2026-05-16T16:00:00"
     },
     "Truthkeepers": {
       "name": "Truthkeepers",
