@@ -597,6 +597,26 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "04 Sessions/003 Yenev and the Axe.md": {
+      "name": "003 Yenev and the Axe",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[Citylord Nilar Yenev]]",
+        "[[Dalen]]",
+        "[[Galeth-son-Thald]]",
+        "[[Iiko]]",
+        "[[Highlady Marise Sathir]]",
+        "[[Bit]]",
+        "[[Highlord Paladar]]"
+      ],
+      "tags": [
+        "#session",
+        "#combat",
+        "#investigation"
+      ],
+      "last_updated": "2026-05-13T23:45:00"
+    },
     "05 Factions/Ghostbloods.md": {
       "name": "Ghostbloods",
       "type": "faction",
