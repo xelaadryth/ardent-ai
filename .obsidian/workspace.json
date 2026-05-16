@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Ardent Kaelis.md",
+                "file": "Inbox/Vorn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ardent Kaelis"
+              "title": "Vorn"
             }
           }
         ],
@@ -281,14 +281,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b41c90a59212643f",
+  "active": "c8ce4e29ab159e4f",
   "lastOpenFiles": [
-    "Inbox/Vorn.md",
-    "Inbox/Ardent Kaelis.md",
     "Inbox/Undertaker.md",
     "Inbox/Istrum.md",
     "Inbox/Highlord Paladar.md",
     "Inbox/General Odrin Lesh.md",
+    "Inbox/Ardent Kaelis.md",
+    "Inbox/Untitled.md",
+    "Inbox/Vorn.md",
     "00 Templates/NPC Template.md",
     "Makefile",
     "README.md",
@@ -311,7 +312,6 @@
     "00 Templates/Scene Template.md",
     "00 Templates/Player Template.md",
     "00 Templates/Lore Template.md",
-    "00 Templates/Location Template.md",
     "01 Factions",
     "10 Lore",
     "07 Hooks",
