@@ -174,7 +174,7 @@
             "description": "",
             "format": "{{era_name}}",
             "endsYear": false,
-            "isEvent": false,
+            "isEvent": true,
             "category": null,
             "isStartingEra": false,
             "date": {
@@ -190,7 +190,7 @@
             "description": "",
             "format": "{{era_name}}",
             "endsYear": false,
-            "isEvent": false,
+            "isEvent": true,
             "category": null,
             "isStartingEra": false,
             "date": {
@@ -206,13 +206,29 @@
             "description": "",
             "format": "{{era_name}}",
             "endsYear": false,
-            "isEvent": false,
+            "isEvent": true,
             "category": null,
             "isStartingEra": false,
             "date": {
               "year": -3300,
               "month": 0,
               "day": 1
+            }
+          },
+          {
+            "id": "ID_596a38ead928",
+            "type": "era",
+            "name": "Modern Era",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 1
             }
           }
         ],
@@ -221,8 +237,31 @@
         "dayDisplayCallback": "/**\n * Calendarium Day Callback for the Rosharan Calendar (Supports Pre-Epoch)\n * Formats absolute day indices into standard Vorin notation: YYYY.M.W.D\n * Supports negative timeline integers for historical worldbuilding notes.\n * \n * @param {number} totalDays - The absolute cumulative day of the calendar\n * @returns {string} The formatted Rosharan date string (Negative if Pre-Epoch)\n */\nfunction getRosharanDate(totalDays) {\n    // Rosharan calendar constants\n    const DAYS_IN_WEEK = 5;\n    const DAYS_IN_MONTH = 50;\n    const DAYS_IN_YEAR = 500;\n\n    if (totalDays >= 1) {\n        // --- Standard Post-Epoch Math ---\n        const zeroIndexedDays = totalDays - 1;\n\n        const year = Math.floor(zeroIndexedDays / DAYS_IN_YEAR) + 1;\n        const dayOfYear = zeroIndexedDays % DAYS_IN_YEAR;\n\n        const month = Math.floor(dayOfYear / DAYS_IN_MONTH) + 1;\n        const dayOfMonth = dayOfYear % DAYS_IN_MONTH;\n\n        const week = Math.floor(dayOfMonth / DAYS_IN_WEEK) + 1;\n        const dayOfWeek = (dayOfMonth % DAYS_IN_WEEK) + 1;\n\n        return `${year}.${month}.${week}.${dayOfWeek}`;\n    } else {\n        // --- Pre-Epoch Math (Counting backward from Day 1) ---\n        // Convert to a positive distance backward from the start of Year 1\n        const daysBeforeEpoch = 1 - totalDays; \n\n        const year = -Math.floor((daysBeforeEpoch - 1) / DAYS_IN_YEAR) - 1;\n        const dayOfYear = (daysBeforeEpoch - 1) % DAYS_IN_YEAR;\n\n        // Invert the month/week/day alignment so they count 1 to 10 within that negative year\n        const inverseDayOfYear = (DAYS_IN_YEAR - 1) - dayOfYear;\n\n        const month = Math.floor(inverseDayOfYear / DAYS_IN_MONTH) + 1;\n        const dayOfMonth = inverseDayOfYear % DAYS_IN_MONTH;\n\n        const week = Math.floor(dayOfMonth / DAYS_IN_WEEK) + 1;\n        const dayOfWeek = (dayOfMonth % DAYS_IN_WEEK) + 1;\n\n        // Returns a negative year prefix: e.g., -100.10.10.5\n        return `${year}.${month}.${week}.${dayOfWeek}`;\n    }\n}"
       },
       "seasonal": {
-        "seasons": [],
-        "offset": 0,
+        "seasons": [
+          {
+            "id": "ID_2a8908ba38aa",
+            "name": "The Weeping",
+            "type": "Periodic",
+            "color": "#4071d4",
+            "duration": 20,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          },
+          {
+            "id": "ID_c94a287b1a39",
+            "name": "Regular",
+            "type": "Periodic",
+            "color": "#676567",
+            "duration": 480,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "None"
+          }
+        ],
+        "offset": 490,
         "type": "Periodic",
         "displayColors": true,
         "interpolateColors": true,
@@ -240,12 +279,289 @@
         "defaultLocation": ""
       },
       "current": {
-        "day": 37,
+        "day": 17,
         "month": 1,
         "year": 1172
       },
-      "events": [],
-      "categories": [],
+      "events": [
+        {
+          "name": "First Arrival",
+          "description": "Humans arrive",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": -5900
+          },
+          "id": "ID_6808ca1af9aa",
+          "note": null,
+          "category": "ID_3bea9a3afaa9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Oathpact",
+          "description": "Signing of the Oathpact",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": -5800
+          },
+          "id": "ID_4b98ea1afa88",
+          "note": null,
+          "category": "ID_3bea9a3afaa9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Aharietiam",
+          "description": "Final Desolation",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": -3333
+          },
+          "id": "ID_897ad8a95ab8",
+          "note": null,
+          "category": "ID_3bea9a3afaa9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Day of Recreance",
+          "description": "The Great Betrayal",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": -327
+          },
+          "id": "ID_08aa1b3b0b09",
+          "note": null,
+          "category": "ID_3bea9a3afaa9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "False Desolation",
+          "description": "Enslaving of the Parshmen",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": -328
+          },
+          "id": "ID_6aba599a9aba",
+          "note": null,
+          "category": "ID_3bea9a3afaa9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "War of Loss",
+          "description": "Fall of the Hierocracy",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": 700
+          },
+          "id": "ID_3bb9ab28f89b",
+          "note": null,
+          "category": "ID_3bea9a3afaa9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Unification of Alethkar",
+          "description": "Gavilar unites Alethkar",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": 1137
+          },
+          "id": "ID_aa5a08b91b4b",
+          "note": null,
+          "category": "ID_3bea9a3afaa9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Range",
+          "end": {
+            "month": 0,
+            "day": 1,
+            "year": 1140
+          }
+        },
+        {
+          "name": "Parshendi Discovered",
+          "description": null,
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": 1166
+          },
+          "id": "ID_7afa69fa08eb",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Vengeance Pact",
+          "description": "Gavilar assassinated",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": 1167
+          },
+          "id": "ID_d848480be8aa",
+          "note": null,
+          "category": "ID_3bea9a3afaa9",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Kaladin Joins the Army",
+          "description": "Kaladin and Tien leave",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": 1168
+          },
+          "id": "ID_6bf93a98290a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Oroden Born",
+          "description": null,
+          "date": {
+            "month": 3,
+            "day": 20,
+            "year": 1172
+          },
+          "id": "ID_6939ab188bfb",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Revolar",
+          "description": "Party arrives at Revolar with the Truthkeepers and tails Chip that night.",
+          "date": {
+            "day": 16,
+            "month": 1,
+            "year": 1172
+          },
+          "id": "ID_bb2a79f8c95a",
+          "note": "04 Sessions/012 Following Chip.md",
+          "category": "ID_48aaaa094bd8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Morrow Executed",
+          "description": "Party returns to the Truthkeeper camp and Aylen executes Morrow",
+          "date": {
+            "day": 35,
+            "month": 0,
+            "year": 1172
+          },
+          "id": "ID_1b89fb99db1a",
+          "note": "04 Sessions/011 Promotions and Revolar.md",
+          "category": "ID_48aaaa094bd8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Truthkeeper Meet",
+          "description": "Truthkeepers rendezvous to attack the Knights of Dusk.",
+          "date": {
+            "day": 31,
+            "month": 1,
+            "year": 1172
+          },
+          "id": "ID_081a6a08a9c8",
+          "note": null,
+          "category": "ID_48aaaa094bd8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Hearthstone",
+          "description": "Party arrives in Hearthstone",
+          "date": {
+            "day": 24,
+            "month": 0,
+            "year": 1172
+          },
+          "id": "ID_2a79799a1a6a",
+          "note": "04 Sessions/005 Hearthstone.md",
+          "category": "ID_48aaaa094bd8",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_3bea9a3afaa9",
+          "color": "#560101",
+          "name": "Historical"
+        },
+        {
+          "id": "ID_48aaaa094bd8",
+          "color": "#4c219c",
+          "name": "Party"
+        },
+        {
+          "id": "ID_db7b99e9dafa",
+          "color": "#445e79",
+          "name": "Book"
+        }
+      ],
       "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events",
@@ -261,7 +577,7 @@
     "saving": true,
     "event": false,
     "calendar": false,
-    "savingEvent": false
+    "savingEvent": true
   },
   "eventFrontmatter": false,
   "parseDates": false,
@@ -274,7 +590,7 @@
   "debug": false,
   "askedToMoveFC": false,
   "askedAboutSync": true,
-  "syncBehavior": "Ask",
+  "syncBehavior": "Always",
   "inlineEventsTag": null,
   "paths": [
     [

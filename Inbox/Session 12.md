@@ -1,6 +1,6 @@
 A player wrote a session log from their character's point of view so there may be some typos and small inaccuracies, but can you add additional details from their session notes to update the session plan document for Session 12:
 
-Dates: (1172.2.7.1 - 1172.2.7.2)
+Dates: (1172.2.4.1 - 1172.2.4.2)
 in Revolar, we decided to stay at the Cream of the Crem Inn (cheapish option), Chip & Korani went to stay at the Gemheart Inn
 Renna told us she felt bad about us excluding her all the time so we let her stay with us, and we told her about Chip/Korani and their sus behavior
 Renna didn't recognize the symbol from the Chip/Korani letter seal, she guessed maybe it's related to the Knights of Dusk
