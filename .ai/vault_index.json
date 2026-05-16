@@ -64,7 +64,7 @@
         "#nurian",
         "#maker"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-13T23:35:12"
     },
     "02 Players/Mallow.md": {
       "name": "Mallow",
@@ -80,7 +80,7 @@
         "#purelaker",
         "#enforcer"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-13T23:35:12"
     },
     "02 Players/N'tal.md": {
       "name": "N'tal",
@@ -553,7 +553,7 @@
       "tags": [
         "#faction"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-13T23:35:12"
     },
     "05 Factions/Silent Oath.md": {
       "name": "Silent Oath",
@@ -636,7 +636,7 @@
         "#location",
         "#placeholder"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-13T23:35:12"
     },
     "06 Locations/Stringken.md": {
       "name": "Stringken",
@@ -675,15 +675,15 @@
       "status": "active",
       "links": [
         "[[Ghostbloods]]",
+        "[[Truthkeeper Camp]]",
         "[[N'tal]]",
-        "[[Adjudicator Peton]]",
-        "[[Truthkeeper Camp]]"
+        "[[Adjudicator Peton]]"
       ],
       "tags": [
         "#hook",
         "#placeholder"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-13T23:35:12"
     },
     "08 Scenes/Shellmite Attack.md": {
       "name": "Shellmite Attack",
@@ -727,7 +727,7 @@
         "#lightspren",
         "#reacher"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-13T23:35:12"
     },
     "31 Spren/Dreamwaker.md": {
       "name": "Dreamwaker",

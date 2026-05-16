@@ -5,6 +5,7 @@ status: active
 links:
   - "[[Kun'ahu]]"
   - "[[Truthkeepers]]"
+  - "[[Szeth-son-son-Vallano]]"
 tags:
   - "#player"
   - "#shin"
@@ -13,7 +14,7 @@ tags:
   - "#stoneward"
   - "#darkeyed"
 player: Corin
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:45:00
 ---
 
 # Description
@@ -26,7 +27,7 @@ Traditional Shin in appearance, though his posture lacks the expected lightness 
 A grim fatalist who views his life as punishment. Soft-spoken and reserved, he lacks the traditional Shin politeness because he believes his voice has no right to be heard.
 
 # Background
-Once a leader in Shinovar, Galeth fled after a soldier under his command killed an innocent girl. Convinced he is a monster, he chose to live among the Alethi, embracing the violence he believes reflects his own soul.
+Once a leader in Shinovar, Galeth fled after a soldier under his command killed an innocent girl. Convinced he is a monster, he chose to live among the Alethi, embracing the violence he believes reflects his own soul. He remembers [[Szeth-son-son-Vallano]] from his time as a young shepherd and soldier in Shinovar.
 
 # Goals
 - Perform enough dangerous and selfless acts to atone for his failures.
@@ -41,3 +42,4 @@ Once a leader in Shinovar, Galeth fled after a soldier under his command killed 
 # Connections
 - [[Kun'ahu]] — His jovial and dependable Peakspren.
 - [[Truthkeepers]] — A cause he sees as a worthy outlet for his blade.
+- [[Szeth-son-son-Vallano]] — A relic of his Shin past.
