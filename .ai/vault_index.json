@@ -935,14 +935,16 @@
         "[[Shess]]",
         "[[N'tal]]",
         "[[Undertaker]]",
-        "[[Whitespine's Fang]]"
+        "[[Whitespine's Fang]]",
+        "[[The Vamah Archivum]]",
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#session",
         "#promotion",
         "#investigation"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2026-05-15T16:30:00"
     },
     "012 Following Chip": {
       "name": "012 Following Chip",
@@ -1345,6 +1347,22 @@
         "#placeholder"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "Spy of Dusk": {
+      "name": "Spy of Dusk",
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[The Vamah Archivum]]",
+        "[[Renna Palir]]",
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#hook",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-15T16:30:00"
     },
     "Shellmite Attack": {
       "name": "Shellmite Attack",
