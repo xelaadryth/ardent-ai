@@ -612,6 +612,7 @@
         "[[Karani]]",
         "[[High Enforcer Aylen]]",
         "[[Revolar]]",
+        "[[Whitespine's Fang]]",
         "[[Truthkeepers]]",
         "[[Silent Oath]]"
       ],
@@ -621,7 +622,7 @@
         "#ghostbloods",
         "#worldhopper"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "Vorn": {
       "name": "Vorn",
@@ -1287,6 +1288,21 @@
         "#placeholder"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "Whitespine's Fang": {
+      "name": "Whitespine's Fang",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Undertaker]]",
+        "[[Bloodmarks]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-15T12:00:00"
     },
     "Sila's Allegiance": {
       "name": "Sila's Allegiance",

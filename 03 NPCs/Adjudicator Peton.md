@@ -10,7 +10,7 @@ tags:
   - "#alethi"
   - "#adjudicator"
   - "#traditionalist"
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-15T12:00:00
 ---
 # Description
 A high-ranking official within the Truthkeepers who balances a rigid sense of duty with the messy reality of leading "outsider" units.
@@ -28,9 +28,8 @@ Originally an Enforcer, Peton’s dedication to the law saw him promoted to the 
 - **Maintaining Order:** Ensure society functions by established rules and traditional structures.
 - **Leadership:** Guide his "flock" toward the Truthkeeper cause through discipline and example.
 
-# Hooks
-- 
-
 # Connections
-- **[[Truthkeepers]]**: The organization that serves as the primary source of his world-view and authority.
-- **The Party**: The group currently under his jurisdiction; they report directly to him.
+- [[Truthkeepers]]: The organization he serves as a senior administrator.
+- [[011 Promotions and Revolar]]: The session where he promoted the squad to Enforcer rank.
+- [[001 First Blood]]: The session where he oversaw the squad's disciplinary decisions and initial mission.
+- [[Sila's Allegiance]]: The investigation he tasked the squad with conducting regarding Sila's betrayal.

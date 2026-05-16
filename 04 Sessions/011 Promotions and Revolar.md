@@ -25,13 +25,15 @@ The squad is promoted to Enforcer rank by [[Adjudicator Peton]] and introduced t
 - **Revolar Rebellion:** Locate the base of the [[Knights of Dusk]] within [[Revolar]].
 
 # Connections
-- [[Adjudicator Peton]]
-- [[High Enforcer Aylen]]
-- [[Truthkeepers]]
-- [[High Witness Yeshan]]
-- [[Revolar]]
-- [[Ghostbloods]]
-- [[Chip]]
-- [[N'tal]]
-- [[Undertaker]]
-- [[Knights of Dusk]]
+- [[Adjudicator Peton]]: Assigned the squad to Enforcer rank and oversees their local mission status.
+- [[High Enforcer Aylen]]: Oversees the Truthkeeper operations and the Silent Oath's local purge.
+- [[Truthkeepers]]: The organization currently employing and directing the party.
+- [[High Witness Yeshan]]: The ultimate authority of the Truthkeepers who maintains the squad's linguistic Connection.
+- [[Revolar]]: The squad's primary destination and current operational theater.
+- [[Ghostbloods]]: A faction offering illicit logistical support and intelligence to the party.
+- [[Chip]]: A Ghostblood operative and squad contact.
+- [[N'tal]]: A party member tasked with a secret meeting with the Undertaker.
+- [[Undertaker]]: A high-ranking Ghostblood contact and target of the squad's investigation.
+- [[Knights of Dusk]]: A local insurgency currently being investigated by the party.
+- [[Morrow the Merchant]]: A victim of the Silent Oath whose execution serves as a warning.
+- [[Jokrun]]: A gate contact at Revolar potentially facilitating entry.
