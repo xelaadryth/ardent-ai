@@ -1,5 +1,5 @@
 {
-  "commitMessage": "",
+  "commitMessage": "Obsidian Vault: {{numFiles}}",
   "autoCommitMessage": "Obsidian Sync: {{numFiles}} files",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
