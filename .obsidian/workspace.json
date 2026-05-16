@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Remove links from frontmatter.md",
+                "file": "03 NPCs/Highlady Marise Sathir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remove links from frontmatter"
+              "title": "Highlady Marise Sathir"
             }
           }
         ],
@@ -281,8 +281,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b41c90a59212643f",
+  "active": "c8ce4e29ab159e4f",
   "lastOpenFiles": [
+    "Archive/0026-Remove links from frontmatter.md",
+    "Archive/0025-Kabsal.md",
+    "03 NPCs/Kabsal.md",
     "03 NPCs/Highlady Marise Sathir.md",
     "Inbox/Remove links from frontmatter.md",
     "Archive/0024-Istrum.md",
@@ -306,9 +309,6 @@
     "Inbox/Kabsal.md",
     "Inbox/Ilsh.md",
     "Inbox/Grand Justicar Malice.md",
-    "Inbox/Tien.md",
-    "Inbox/Cream of the Crem.md",
-    "Archive/0020-General Odrin Lesh.md",
     "Makefile",
     "vault_index.json",
     "reindex-output.txt",
