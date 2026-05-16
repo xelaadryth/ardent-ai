@@ -6,7 +6,7 @@ tags:
   - "#session"
   - "#promotion"
   - "#investigation"
-last_updated: 2026-05-15T12:00:00
+last_updated: 2026-05-15T16:30:00
 ---
 
 # Description
@@ -23,6 +23,7 @@ The squad is promoted to Enforcer rank by [[Adjudicator Peton]] and introduced t
 - **Ghostblood Favor:** Secure safe passage and intelligence in [[Revolar]] by completing a mission for the [[Ghostbloods]].
 - **The Silent Oath's Mission:** Investigate the reports from Azir as requested by [[High Enforcer Aylen]].
 - **Revolar Rebellion:** Locate the base of the [[Knights of Dusk]] within [[Revolar]].
+- **Spy of Dusk:** Investigate the security compromise within [[The Vamah Archivum]] involving [[Renna Palir]].
 
 # Connections
 - [[Adjudicator Peton]]: Assigned the squad to Enforcer rank and oversees their local mission status.
@@ -37,3 +38,4 @@ The squad is promoted to Enforcer rank by [[Adjudicator Peton]] and introduced t
 - [[Knights of Dusk]]: A local insurgency currently being investigated by the party.
 - [[Morrow the Merchant]]: A victim of the Silent Oath whose execution serves as a warning.
 - [[Jokrun]]: A gate contact at Revolar potentially facilitating entry.
+- [[Renna Palir]]: A Truthkeeper contact whose loyalties are under scrutiny.

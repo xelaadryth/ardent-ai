@@ -22,9 +22,9 @@
       "type": "player",
       "status": "active",
       "links": [
+        "[[Szeth-son-son-Vallano]]",
         "[[Kun'ahu]]",
-        "[[Truthkeepers]]",
-        "[[Szeth-son-son-Vallano]]"
+        "[[Truthkeepers]]"
       ],
       "tags": [
         "#player",
@@ -189,8 +189,7 @@
       "status": "active",
       "links": [
         "[[Highlord Paladar]]",
-        "[[Highlady Marise Sathir]]",
-        "[[010 Soulcaster and Shared Employers]]"
+        "[[Highlady Marise Sathir]]"
       ],
       "tags": [
         "#npc",
@@ -207,9 +206,8 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[006 Dillind and the Temple]]",
-        "[[008 The Envisagers of Talinan]]",
-        "[[Tien]]"
+        "[[Tien]]",
+        "[[006 Dillind and the Temple]]"
       ],
       "tags": [
         "#npc",
@@ -222,11 +220,11 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Revolar]]",
         "[[Highlord Paladar]]",
         "[[General Spade]]",
-        "[[Truthkeepers]]",
-        "[[Revolar]]",
-        "[[Knights of Dusk]]"
+        "[[Knights of Dusk]]",
+        "[[Truthkeepers]]"
       ],
       "tags": [
         "#npc",
@@ -242,12 +240,12 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Knights of Dusk]]",
-        "[[Truthkeepers]]",
         "[[Highlord Paladar]]",
         "[[General Odrin Lesh]]",
         "[[Revolar]]",
-        "[[Silent Oath]]"
+        "[[Truthkeepers]]",
+        "[[Silent Oath]]",
+        "[[Knights of Dusk]]"
       ],
       "tags": [
         "#npc",
@@ -280,9 +278,8 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Silent Oath]]",
-        "[[High Witness Yeshan]]",
         "[[Possessed]]",
+        "[[Silent Oath]]",
         "[[Truthkeepers]]"
       ],
       "tags": [
@@ -331,11 +328,11 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[General Odrin Lesh]]",
-        "[[Chip]]",
-        "[[Citylord Nilar Yenev]]",
         "[[General Spade]]",
-        "[[Truthkeepers]]"
+        "[[General Odrin Lesh]]",
+        "[[Truthkeepers]]",
+        "[[Chip]]",
+        "[[Citylord Nilar Yenev]]"
       ],
       "tags": [
         "#npc",
@@ -408,10 +405,10 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Sila]]",
         "[[Chip]]",
         "[[Tahs]]",
-        "[[Ghostbloods]]",
-        "[[Sila]]"
+        "[[Ghostbloods]]"
       ],
       "tags": [
         "#npc",
@@ -445,9 +442,7 @@
       "type": "npc",
       "status": "inactive",
       "links": [
-        "[[Knights of Dusk]]",
-        "[[006 Dillind and the Temple]]",
-        "[[007 Lavrik and the Soulcaster]]"
+        "[[Knights of Dusk]]"
       ],
       "tags": [
         "#npc",
@@ -490,8 +485,8 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Revolar]]",
         "[[Truthkeepers]]",
+        "[[Revolar]]",
         "[[Iiko]]",
         "[[Chip]]",
         "[[Knights of Dusk]]"
@@ -541,6 +536,26 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "Sweeper": {
+      "name": "Sweeper",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Possessed]]",
+        "[[Chip]]",
+        "[[Ghostbloods]]",
+        "[[Truthkeepers]]",
+        "[[N'tal]]",
+        "[[Undertaker]]"
+      ],
+      "tags": [
+        "#npc",
+        "#alethi",
+        "#contact"
+      ],
+      "last_updated": "2026-05-15T16:00:00"
+    },
     "Szeth-son-son-Vallano": {
       "name": "Szeth-son-son-Vallano",
       "type": "npc",
@@ -562,8 +577,8 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Renna Palir]]",
         "[[Karani]]",
+        "[[Renna Palir]]",
         "[[Truthkeepers]]"
       ],
       "tags": [
@@ -595,7 +610,6 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Hearthstone]]",
         "[[Laral Roshone]]"
       ],
       "tags": [
@@ -610,14 +624,14 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Ghostbloods]]",
-        "[[Chip]]",
-        "[[Karani]]",
-        "[[High Enforcer Aylen]]",
         "[[Revolar]]",
+        "[[Ghostbloods]]",
         "[[Bruckslats]]",
         "[[Truthkeepers]]",
-        "[[Silent Oath]]"
+        "[[Silent Oath]]",
+        "[[Chip]]",
+        "[[Karani]]",
+        "[[High Enforcer Aylen]]"
       ],
       "tags": [
         "#npc",
@@ -1059,10 +1073,10 @@
       "type": "faction",
       "status": "active",
       "links": [
-        "[[Silent Oath]]",
         "[[High Witness Yeshan]]",
-        "[[Knights of Dusk]]",
         "[[Revolar]]",
+        "[[Knights of Dusk]]",
+        "[[Silent Oath]]",
         "[[Adjudicator Peton]]",
         "[[011 Promotions and Revolar]]",
         "[[001 First Blood]]",
@@ -1152,9 +1166,9 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[Truthkeepers]]",
         "[[001 First Blood]]",
-        "[[002 Whitespine]]",
-        "[[Truthkeepers]]"
+        "[[002 Whitespine]]"
       ],
       "tags": [
         "#location"
@@ -1231,9 +1245,9 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[002 Whitespine]]",
         "[[Highlord Sadeas]]",
-        "[[Highlord Paladar]]"
+        "[[Highlord Paladar]]",
+        "[[002 Whitespine]]"
       ],
       "tags": [
         "#location"
@@ -1262,8 +1276,7 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[Envisagers]]",
-        "[[008 The Envisagers of Talinan]]"
+        "[[Envisagers]]"
       ],
       "tags": [
         "#location"
@@ -1291,11 +1304,11 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[Truthkeepers]]",
+        "[[Possessed]]",
         "[[High Witness Yeshan]]",
         "[[Adjudicator Peton]]",
-        "[[High Enforcer Aylen]]",
-        "[[Truthkeepers]]",
-        "[[Possessed]]"
+        "[[High Enforcer Aylen]]"
       ],
       "tags": [
         "#location",
@@ -1308,15 +1321,14 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[Bloodmarks]]",
-        "[[Revolar]]",
-        "[[Sweeper]]"
+        "[[Sweeper]]",
+        "[[Revolar]]"
       ],
       "tags": [
         "#location",
         "#revolar"
       ],
-      "last_updated": "2026-05-15T15:00:00"
+      "last_updated": "2026-05-15T16:00:00"
     },
     "Sila's Allegiance": {
       "name": "Sila's Allegiance",
