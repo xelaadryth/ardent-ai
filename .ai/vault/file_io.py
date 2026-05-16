@@ -33,7 +33,8 @@ def load_markdown(path: str) -> str:
     if not file_path.exists() or not file_path.is_file():
         return ""
 
-    return read_file(file_path)
+    # Resolve to absolute path to avoid double resolution in read_file
+    return read_file(file_path.resolve())
 
 
 def load_core_context() -> str:

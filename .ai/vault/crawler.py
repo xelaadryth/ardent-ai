@@ -8,7 +8,6 @@ import re
 from pathlib import Path
 
 from vault.file_io import VAULT_ROOT, load_markdown
-from vault.io import get_index_file
 from vault.parser import build_index_entry
 
 
@@ -22,9 +21,6 @@ def crawl_numbered_markdown_files() -> list[Path]:
     files = []
 
     for path in VAULT_ROOT.rglob("*.md"):
-        if path == get_index_file():
-            continue
-
         relative_path = path.relative_to(VAULT_ROOT)
         parts = relative_path.parts
 
