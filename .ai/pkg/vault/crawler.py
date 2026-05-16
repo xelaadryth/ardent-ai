@@ -43,7 +43,7 @@ def crawl_numbered_markdown_files() -> list[Path]:
     return sorted(files)
 
 
-def build_index_from_disk() -> dict:
+def build_index() -> dict:
     """
     Build the vault index by crawling all markdown files on disk.
     
