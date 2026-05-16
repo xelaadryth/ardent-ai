@@ -150,6 +150,26 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "03 NPCs/General Spade.md": {
+      "name": "General Spade",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Knights of Dusk]]",
+        "[[Truthkeepers]]",
+        "[[Highlord Paladar]]",
+        "[[Revolar]]",
+        "[[Silent Oath]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#dustbringer",
+        "#rebel_leader"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
+    },
     "03 NPCs/High Enforcer Aylen.md": {
       "name": "High Enforcer Aylen",
       "type": "npc",
