@@ -6,30 +6,27 @@ tags:
   - "#session"
   - "#combat"
   - "#investigation"
-last_updated: 2026-05-15T12:00:00
+last_updated: 2026-05-15T18:30:00
 ---
 
 # Description
-The squad navigates tensions in [[Stringken]] and [[Hobbleken]], dealing with the aftermath of their investigations and the political reach of local administrators.
+The squad encounters a corpse near the site of the bridge duel before sheltering from a highstorm in the Whitespine cave. Tensions flare in a confrontation with [[Ashusa]], revealing unsettling ties between local administrations and the [[Truthkeepers]].
 
 # Scenes
-- **Whitespine Shelter:** The party takes shelter from a highstorm in a Whitespine cave. [[Kuma]] and [[Iiko]] experiment with the recovered Soulcaster; [[Kuma]] successfully uses it to transmute a stick into smoke.
-- **Stringken Investigation:** The party deals with Ashusa’s surveillance. Ashusa, who knows of the missing gemhearts and has human slaves like [[Bit]] protecting her, holds evidence of bribery and money laundering involving [[Revolar]]-based merchants and the [[Bloodmarks]]. 
-- **The Confrontation:** [[Citylord Nilar Yenev]] blames the party for the disappearance of local "protection" operatives. [[Chip]] uses his connection to the [[Truthkeepers]] to leverage a "get-out-of-jail-free" card, revealing that the [[Truthkeepers]] and the local authorities share common employers.
-- **Hobbleken Return:** The squad visits [[Hobbleken]], where Bala confirms a full recovery from the illness previously identified as a common cold.
+- **Bridge Remains:** The squad investigates the bridge where [[Galeth-son-Thald]] defeated [[The Axe]], discovering a corpse swarmed by cremlings.
+- **Whitespine Cave Shelter:** The party retreats to the Whitespine cave to wait out a highstorm. [[Kuma]] successfully experiments with the [[Soulcaster]], transmuting a stick into smoke.
+- **The Ashusa Extortion:** En route to [[Hobbleken]], the squad is intercepted by a group led by [[Ashusa]]. She attempts to extort them over the whitespine gemhearts, but backs down when [[Chip]] reveals their status as [[Truthkeepers]]. She confirms the administration is funded by the same masters as the Truthkeepers.
+- **Hobbleken Interlude:** The squad reaches [[Hobbleken]] to wait out a second storm. The party confirms they are now all hearing mysterious internal voices. They resolve to keep these phenomena hidden from their Truthkeeper superiors and plan to deliver the [[Possessed]] captive to the [[Truthkeeper Camp]] to observe the organization's methods.
 
 # Hooks
-- **Ashusa's Favor:** The party owes Ashusa a favor in exchange for the financial records showing the flow of money to the [[Bloodmarks]].
 - **Shared Employers:** Investigate the nature of the entity that employs both the [[Truthkeepers]] and the corrupt elements of the Vamah/[[Stringken]] administration.
+- **The Possessed Captive:** Determine the Truthkeepers' true intent for their prisoners.
 
 # Connections
 - [[Stringken]]
 - [[Hobbleken]]
 - [[Kuma]]
-- [[Iiko]]
-- [[Bit]]
-- [[Revolar]]
-- [[Bloodmarks]]
-- [[Citylord Nilar Yenev]]
+- [[Ashusa]]
 - [[Chip]]
 - [[Truthkeepers]]
+- [[Truthkeeper Camp]]
