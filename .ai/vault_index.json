@@ -723,6 +723,32 @@
       ],
       "last_updated": "2026-05-14T00:00:00"
     },
+    "Lila": {
+      "name": "Lila",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Slipmarket]]",
+        "[[Knights of Dusk]]",
+        "[[Fieldwards]]",
+        "[[Stackhouse Slavers]]",
+        "[[Khria]]",
+        "[[General Spade]]",
+        "[[The Vamah Archivum]]",
+        "[[Stackhouses]]",
+        "[[Bloodmarks]]",
+        "[[Truthkeepers]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#revolar",
+        "#informant"
+      ],
+      "last_updated": "2024-05-19T10:00:00"
+    },
     "Lirin": {
       "name": "Lirin",
       "type": "npc",
@@ -1433,7 +1459,9 @@
         "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[Darkstone Forest]]",
-        "[[The Cinder Evacuation]]"
+        "[[The Cinder Evacuation]]",
+        "[[Lila]]",
+        "[[Slipmarket]]"
       ],
       "tags": [
         "#faction"
@@ -1630,6 +1658,7 @@
       "links": [
         "[[Darkstone Forest]]",
         "[[Stackhouses]]",
+        "[[Lila]]",
         "[[Cream of the Crem]]",
         "[[Whitespine's Fang]]",
         "[[Sun's Zenith]]",
@@ -1689,6 +1718,7 @@
         "[[Revolar]]",
         "[[Bloodmarks]]",
         "[[Knights of Dusk]]",
+        "[[Lila]]",
         "[[The Stackhouse Slavers]]"
       ],
       "tags": [
