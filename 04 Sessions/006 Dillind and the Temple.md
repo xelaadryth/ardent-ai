@@ -6,12 +6,11 @@ tags:
   - "#session"
   - "#combat"
   - "#investigation"
-last_updated: 2026-05-13T23:59:00
-number: 6
+last_updated: 2026-05-15T12:00:00
 ---
 
 # Description
-The squad encounters a young boy named Dillind while seeking shelter from a highstorm, leading them to a northern hideout of the Knights of Dusk and an ancient, sealed temple to the Traitor Radiants.
+The squad encounters a young boy named [[Dillind]] while seeking shelter from a highstorm, leading them to a northern hideout of the [[Knights of Dusk]] and an ancient, sealed temple to the Traitor Radiants.
 
 # Scenes
 - **The Encounter:** While seeking shelter, the party meets [[Dillind]], a teenager attempting to escape his cultist parents. He is terrified, seeking a life free from their obsession with reviving the Lost Radiants.
@@ -20,11 +19,12 @@ The squad encounters a young boy named Dillind while seeking shelter from a high
 
 # Hooks
 - **Dillind's Fate:** The boy needs protection from his parents and the cultists.
-- **Lavrik's Retribution:** The sergeant of the Knights of Dusk is hunting the party for their interference.
+- **Lavrik's Retribution:** The sergeant of the [[Knights of Dusk]], [[Lavrik]], is hunting the party for their interference.
 - **The Temple Secrets:** The carvings warn of an ancient entity tied to the Traitor Radiants that remains trapped within the temple.
 
 # Connections
-- [[Dillind]]: A youth seeking escape from a fanatical family.
-- [[Knights of Dusk]]: A rebel faction suffering from resource scarcity and storm-driven hostility.
-- [[Lavrik]]: An antagonist sergeant who serves as a looming threat.
-- [[Iiko]]: The only party member capable of interpreting the temple's Dawnchant inscriptions.
+- [[Dillind]]
+- [[Knights of Dusk]]
+- [[Lavrik]]
+- [[Iiko]]
+- [[Chip]]
