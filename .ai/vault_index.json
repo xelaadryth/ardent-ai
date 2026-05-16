@@ -928,6 +928,25 @@
       ],
       "last_updated": "2026-05-14T17:00:00"
     },
+    "05 Factions/Bloodmarks.md": {
+      "name": "Bloodmarks",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Highlord Paladar]]",
+        "[[Revolar]]",
+        "[[N'tal]]",
+        "[[Truthkeepers]]",
+        "[[Ghostbloods]]",
+        "[[Grand Justicar Malice]]"
+      ],
+      "tags": [
+        "#faction",
+        "#criminal_organization",
+        "#worldhopping"
+      ],
+      "last_updated": "2026-05-14T18:00:00"
+    },
     "05 Factions/Envisagers.md": {
       "name": "Envisagers",
       "type": "faction",
