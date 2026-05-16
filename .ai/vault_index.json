@@ -1024,12 +1024,13 @@
       "status": "active",
       "links": [
         "[[Revolar]]",
-        "[[Truthkeepers]]"
+        "[[Truthkeepers]]",
+        "[[Darkstone Forest]]"
       ],
       "tags": [
         "#faction"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "Silent Oath": {
       "name": "Silent Oath",
@@ -1117,6 +1118,20 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "Darkstone Forest": {
+      "name": "Darkstone Forest",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Knights of Dusk]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-15T12:00:00"
+    },
     "Hearthstone": {
       "name": "Hearthstone",
       "type": "location",
@@ -1164,7 +1179,7 @@
       "tags": [
         "#location"
       ],
-      "last_updated": "2026-05-14T18:00:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "Stringken": {
       "name": "Stringken",
