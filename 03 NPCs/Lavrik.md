@@ -1,7 +1,7 @@
 ---
 name: Lavrik
 type: npc
-status: active
+status: inactive
 links:
   - "[[Knights of Dusk]]"
   - "[[006 Dillind and the Temple]]"

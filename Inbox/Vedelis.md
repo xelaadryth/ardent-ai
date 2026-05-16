@@ -1,0 +1,2 @@
+Can you write me a page for the "inactive" (aka deceased) NPC Vedelis? Worked closely with Lavrik, known as a good person, was an ardent of Vamah loyal to General Spade and believed in the cause mainly to help preserve truth. He suspected that forces working for Highlord Paladar were removing books from the libraries for some reason, so fighting back against Vamah was his way of protecting his beliefs.
+Was friends with Ardent Kaelis and were both in the Devotary of 
