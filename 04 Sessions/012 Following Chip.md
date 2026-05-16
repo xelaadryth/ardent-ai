@@ -5,16 +5,15 @@ status: active
 tags:
   - "#session"
   - "#investigation"
-last_updated: 2026-05-14T16:00:00
-number: 12
+last_updated: 2026-05-15T12:00:00
 ---
 
 # Description
 The squad stalks [[Chip]] through [[Revolar]] to uncover his true loyalties, leading them to a clandestine meeting with the [[Undertaker]] and revealing the shadow war between the [[Ghostbloods]] and the [[Bloodmarks]].
 
 # Scenes
-- **The Tail:** The party tracks [[Chip]] from the Gemheart Inn to the Bruckslats district. He attempts to lose them in the Crowded Steppe, a chaotic slum near the southeast docks.
-- **The Meeting:** [[Chip]] meets the [[Undertaker]] at a side entrance in the Bruckslats. The party eavesdrops on a discussion regarding Stormlight logistics, trade with Scadrial, and the potential to weaponize the [[Possessed]].
+- **The Tail:** The party tracks [[Chip]] from the [[Gemheart Inn]] to the [[Bruckslats]] district. He attempts to lose them in the [[Crowded Steppe]], a chaotic slum near the southeast docks.
+- **The Meeting:** [[Chip]] meets the [[Undertaker]] at a side entrance in the [[Bruckslats]]. The party eavesdrops on a discussion regarding Stormlight logistics, trade with Scadrial, and the potential to weaponize the [[Possessed]].
 - **Shadow Tensions:** The conversation reveals that [[Highlord Paladar]] is actively funding the [[Bloodmarks]], putting them in direct conflict with the [[Ghostbloods]].
 - **Stackhouse Rescue:** While investigating the area, the party intervenes in an encounter with slavers in the [[Stackhouses]], rescuing a family and discovering a trail of red laundry leading to a secret [[Knights of Dusk]] hideout.
 
@@ -24,7 +23,14 @@ The squad stalks [[Chip]] through [[Revolar]] to uncover his true loyalties, lea
 - **Knights of Dusk:** Follow the red laundry trail to investigate the rebel hideout.
 
 # Connections
-- [[Chip]]: Confirmed agent of the [[Ghostbloods]].
-- [[Undertaker]]: Regional high-ranking operative for the [[Ghostbloods]].
-- [[Bloodmarks]]: Primary criminal rivals currently supported by [[Highlord Paladar]].
-- [[Stackhouses]]: Location of a recent slave rescue and potential rebel hideout.
+- [[Chip]]
+- [[Revolar]]
+- [[Undertaker]]
+- [[Ghostbloods]]
+- [[Bloodmarks]]
+- [[Gemheart Inn]]
+- [[Bruckslats]]
+- [[Crowded Steppe]]
+- [[Highlord Paladar]]
+- [[Stackhouses]]
+- [[Knights of Dusk]]
