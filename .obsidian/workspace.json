@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Vorn.md",
+                "file": "Inbox/Cream of the Crem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vorn"
+              "title": "Cream of the Crem"
             }
           }
         ],
@@ -281,15 +281,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8ce4e29ab159e4f",
+  "active": "b41c90a59212643f",
   "lastOpenFiles": [
+    "Inbox/Vorn.md",
+    "Inbox/Cream of the Crem.md",
+    "Inbox/Ardent Kaelis.md",
+    "Archive/0019-Ardent Kaelis.md",
+    "03 NPCs/Ardent Kaelis.md",
     "Inbox/Undertaker.md",
     "Inbox/Istrum.md",
     "Inbox/Highlord Paladar.md",
     "Inbox/General Odrin Lesh.md",
-    "Inbox/Ardent Kaelis.md",
-    "Inbox/Untitled.md",
-    "Inbox/Vorn.md",
     "00 Templates/NPC Template.md",
     "Makefile",
     "README.md",
@@ -310,8 +312,6 @@
     "00 Templates/Spren Template.md",
     "00 Templates/Session Template.md",
     "00 Templates/Scene Template.md",
-    "00 Templates/Player Template.md",
-    "00 Templates/Lore Template.md",
     "01 Factions",
     "10 Lore",
     "07 Hooks",
