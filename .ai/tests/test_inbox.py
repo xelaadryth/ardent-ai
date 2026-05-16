@@ -15,7 +15,7 @@ def test_find_inbox_file_returns_first_matching_file(monkeypatch, tmp_path):
     assert found == file_a
 
 
-def test_find_inbox_file_can_use_request_input(monkeypatch, tmp_path):
+def test_find_inbox_file_can_use_file_name(monkeypatch, tmp_path):
     inbox_dir = tmp_path / "Inbox"
     inbox_dir.mkdir()
     request_file = inbox_dir / "request.md"
@@ -23,6 +23,30 @@ def test_find_inbox_file_can_use_request_input(monkeypatch, tmp_path):
 
     monkeypatch.setattr(inbox, "INBOX_DIR", inbox_dir)
     found = inbox.find_inbox_file("request.md")
+
+    assert found == request_file
+
+
+def test_find_inbox_file_appends_md_extension(monkeypatch, tmp_path):
+    inbox_dir = tmp_path / "Inbox"
+    inbox_dir.mkdir()
+    request_file = inbox_dir / "request.md"
+    request_file.write_text("request", encoding="utf-8")
+
+    monkeypatch.setattr(inbox, "INBOX_DIR", inbox_dir)
+    found = inbox.find_inbox_file("request")
+
+    assert found == request_file
+
+
+def test_find_inbox_file_case_insensitive(monkeypatch, tmp_path):
+    inbox_dir = tmp_path / "Inbox"
+    inbox_dir.mkdir()
+    request_file = inbox_dir / "Request.md"
+    request_file.write_text("request", encoding="utf-8")
+
+    monkeypatch.setattr(inbox, "INBOX_DIR", inbox_dir)
+    found = inbox.find_inbox_file("request")
 
     assert found == request_file
 
