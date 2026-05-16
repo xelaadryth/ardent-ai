@@ -8,8 +8,6 @@ import re
 import yaml
 from datetime import datetime
 
-from vault.io import current_timestamp
-
 
 def extract_wikilinks(content: str) -> list[str]:
     """

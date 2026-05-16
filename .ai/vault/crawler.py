@@ -4,7 +4,6 @@ Vault file crawling operations.
 Handles crawling the vault for markdown files and building the index from disk.
 """
 
-import re
 from pathlib import Path
 
 from vault.file_io import VAULT_ROOT, load_markdown

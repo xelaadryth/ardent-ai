@@ -26,6 +26,9 @@ jobs:
         with:
           node-version: 24
 
+      - name: Setup content and generate homepage
+        run: bash .quartz/setup-content.sh
+
       - name: Install dependencies
         working-directory: .quartz
         run: npm install

@@ -1,4 +1,3 @@
-import json
 from pathlib import Path
 
 # AI_FOLDER is the .ai folder where scripts and index live

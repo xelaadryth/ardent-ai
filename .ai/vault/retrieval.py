@@ -4,12 +4,9 @@ Vault context retrieval operations.
 Handles retrieving relevant vault context based on queries and scoring entries.
 """
 
-import re
-from datetime import datetime, timezone
-
 from vault.file_io import load_markdown
 from vault.io import load_vault_index
-from vault.utilities import normalize_text, query_terms
+from vault.utilities import query_terms
 
 
 def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
@@ -42,7 +39,7 @@ def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
     if query_lower and query_lower in name_lower:
         score += 10
 
-    # Score tags from frontmatter
+    # Score tags from index
     for tag in entry.get("tags", []):
         tag_lower = str(tag).lower().lstrip("#")
         if query_lower == tag_lower:
@@ -52,7 +49,7 @@ def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
         elif any(term in tag_lower or tag_lower in term for term in terms):
             score += 6
 
-    # Score links from frontmatter
+    # Score links from index
     for link in entry.get("links", []):
         link_lower = str(link).lower().strip("[]# ")
         if query_lower == link_lower:

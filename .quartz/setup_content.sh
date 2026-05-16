@@ -2,31 +2,39 @@
 
 set -euo pipefail
 
-VAULT_ROOT="$(cd .. && pwd)"
-CONTENT_DIR="content"
+# Script is inside .quartz/, so vault root is the parent directory
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+VAULT_ROOT="$(dirname "$SCRIPT_DIR")"
+CONTENT_DIR="$SCRIPT_DIR/content"
 
 echo "Vault root: $VAULT_ROOT"
+echo "Content dir: $CONTENT_DIR"
 
+# Clean and recreate content directory
 rm -rf "$CONTENT_DIR"
 mkdir -p "$CONTENT_DIR"
 
 # Collect folders for homepage
 FOLDERS=()
 
+# Process all directories in vault root
 for dir in "$VAULT_ROOT"/*/; do
+  # Skip hidden folders (like .quartz itself)
+  [[ "$dir" =~ /\. ]] && continue
+  
   base="$(basename "$dir")"
 
   if [[ "$base" =~ ^[0-9]{2}\ .+ ]]; then
-    echo "Linking: $base"
-    ln -s "$dir" "$CONTENT_DIR/$base"
+    echo "Copying: $base"
+    cp -r "$dir" "$CONTENT_DIR/$base"
     FOLDERS+=("$base")
   fi
 done
 
-# Also link Dashboards folder even though it doesn't have a numbered prefix
+# Also copy Dashboards folder even though it doesn't have a numbered prefix
 if [ -d "$VAULT_ROOT/Dashboards" ]; then
-  echo "Linking: Dashboards"
-  ln -s "$VAULT_ROOT/Dashboards" "$CONTENT_DIR/Dashboards"
+  echo "Copying: Dashboards"
+  cp -r "$VAULT_ROOT/Dashboards" "$CONTENT_DIR/Dashboards"
   FOLDERS+=("Dashboards")
 fi
 
@@ -46,10 +54,9 @@ echo "Generating homepage at $INDEX_FILE"
   echo ""
 
   for f in "${FOLDERS[@]}"; do
-    # Escape closing brackets if needed (rare but safe)
     echo "- [[$f/]]"
   done
 
 } > "$INDEX_FILE"
 
-echo "Done."
+echo "Done. Folders added to homepage: ${FOLDERS[*]}"
