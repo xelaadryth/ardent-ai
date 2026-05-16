@@ -658,9 +658,9 @@
       "type": "session",
       "status": "inactive",
       "links": [
+        "[[Hearthstone]]",
         "[[Adjudicator Peton]]",
         "[[N'tal]]",
-        "[[Hearthstone]]",
         "[[Revolar]]",
         "[[High Enforcer Aylen]]"
       ],
@@ -679,11 +679,11 @@
       "links": [
         "[[Fina]]",
         "[[Renna Palir]]",
-        "[[Hobbleken]]",
-        "[[Stringken]]",
-        "[[Ilsh Thaylen]]",
         "[[Highlord Sadeas]]",
-        "[[Highlord Paladar]]"
+        "[[Ilsh Thaylen]]",
+        "[[Highlord Paladar]]",
+        "[[Hobbleken]]",
+        "[[Stringken]]"
       ],
       "tags": [
         "#session",
@@ -698,12 +698,11 @@
       "status": "active",
       "links": [
         "[[Citylord Nilar Yenev]]",
-        "[[Dalen]]",
-        "[[Galeth-son-Thald]]",
-        "[[Iiko]]",
         "[[Highlady Marise Sathir]]",
+        "[[Dalen]]",
         "[[Bit]]",
-        "[[Highlord Paladar]]"
+        "[[Highlord Paladar]]",
+        "[[Galeth-son-Thald]]"
       ],
       "tags": [
         "#session",
@@ -718,14 +717,8 @@
       "status": "active",
       "links": [
         "[[Highlady Marise Sathir]]",
-        "[[Dalen]]",
-        "[[Galeth-son-Thald]]",
-        "[[N'tal]]",
-        "[[Mallow]]",
-        "[[Iiko]]",
-        "[[Kuma]]",
-        "[[Fina]]",
-        "[[Mikeyel Franzay]]"
+        "[[Mikeyel Franzay]]",
+        "[[Dalen]]"
       ],
       "tags": [
         "#session",
@@ -739,20 +732,15 @@
       "type": "session",
       "status": "active",
       "links": [
-        "[[Highlady Marise Sathir]]",
-        "[[Citylord Nilar Yenev]]",
+        "[[Ilsh]]",
         "[[Lirin]]",
+        "[[Fina]]",
         "[[Toralin Roshone]]",
         "[[Laral Roshone]]",
         "[[Renna Palir]]",
         "[[Chip]]",
         "[[Karani]]",
-        "[[Morrow]]",
-        "[[Hearthstone]]",
-        "[[004 The Sathir Estate]]",
-        "[[003 Yenev and the Axe]]",
-        "[[Ilsh]]",
-        "[[Fina]]",
+        "[[Citylord Nilar Yenev]]",
         "[[House Sathir]]",
         "[[Iiko]]"
       ],
@@ -770,10 +758,9 @@
       "links": [
         "[[Dillind]]",
         "[[Knights of Dusk]]",
-        "[[Iiko]]",
         "[[Chip]]",
-        "[[Lavrik]]",
-        "[[Highlord Paladar]]"
+        "[[Iiko]]",
+        "[[Lavrik]]"
       ],
       "tags": [
         "#session",
@@ -788,12 +775,12 @@
       "status": "active",
       "links": [
         "[[Lavrik]]",
+        "[[Knights of Dusk]]",
         "[[Iiko]]",
+        "[[General Spade]]",
         "[[N'tal]]",
         "[[Galeth-son-Thald]]",
-        "[[Kuma]]",
-        "[[General Spade]]",
-        "[[Knights of Dusk]]"
+        "[[Kuma]]"
       ],
       "tags": [
         "#session",
@@ -808,15 +795,12 @@
       "status": "active",
       "links": [
         "[[Dillind]]",
-        "[[Talinan]]",
         "[[Iiko]]",
-        "[[Chip]]",
-        "[[Envisagers]]",
-        "[[006 Dillind and the Temple]]",
-        "[[Ghostbloods]]",
-        "[[Truthkeepers]]",
         "[[Dreamwaker]]",
         "[[Glys]]",
+        "[[Chip]]",
+        "[[Ghostbloods]]",
+        "[[Envisagers]]",
         "[[Tien]]"
       ],
       "tags": [
@@ -831,21 +815,19 @@
       "type": "session",
       "status": "active",
       "links": [
-        "[[Hearthstone]]",
-        "[[Highlady Marise Sathir]]",
-        "[[Renna Palir]]",
-        "[[Chip]]",
-        "[[Karani]]",
-        "[[Lirin]]",
-        "[[Tusa]]",
-        "[[Pafo]]",
-        "[[Mallow]]",
         "[[Fina]]",
-        "[[Revolar]]",
+        "[[Lirin]]",
         "[[Verdae]]",
         "[[Toralin Roshone]]",
         "[[Laral Roshone]]",
+        "[[Revolar]]",
+        "[[Renna Palir]]",
+        "[[Chip]]",
+        "[[Karani]]",
+        "[[Tusa]]",
+        "[[Pafo]]",
         "[[Cadence]]",
+        "[[Highlady Marise Sathir]]",
         "[[Truthkeepers]]"
       ],
       "tags": [
@@ -862,13 +844,12 @@
       "links": [
         "[[Kuma]]",
         "[[Iiko]]",
+        "[[Bit]]",
+        "[[Revolar]]",
         "[[Citylord Nilar Yenev]]",
         "[[Chip]]",
-        "[[Fina]]",
-        "[[Ashusa]]",
-        "[[Bit]]",
         "[[Truthkeepers]]",
-        "[[Revolar]]"
+        "[[Ashusa]]"
       ],
       "tags": [
         "#session",
@@ -882,15 +863,17 @@
       "type": "session",
       "status": "active",
       "links": [
-        "[[010 Soulcaster and Shared Employers]]",
         "[[Adjudicator Peton]]",
         "[[High Enforcer Aylen]]",
-        "[[Morrow the Merchant]]",
         "[[Silent Oath]]",
-        "[[Truthkeepers]]",
         "[[Revolar]]",
-        "[[Istrim]]",
-        "[[Salimset]]",
+        "[[Knights of Dusk]]",
+        "[[High Witness Yeshan]]",
+        "[[Morrow the Merchant]]",
+        "[[Possessed]]",
+        "[[Ghostbloods]]",
+        "[[Chip]]",
+        "[[Jokrun]]",
         "[[Branchken]]",
         "[[Leafken]]",
         "[[Listern]]",
@@ -898,14 +881,6 @@
         "[[Yola]]",
         "[[Shess]]",
         "[[N'tal]]",
-        "[[Sila]]",
-        "[[Karani]]",
-        "[[Chip]]",
-        "[[Knights of Dusk]]",
-        "[[High Witness Yeshan]]",
-        "[[Possessed]]",
-        "[[Ghostbloods]]",
-        "[[Jokrun]]",
         "[[Undertaker]]"
       ],
       "tags": [
@@ -921,17 +896,14 @@
       "status": "active",
       "links": [
         "[[Chip]]",
-        "[[Karani]]",
         "[[Revolar]]",
+        "[[Undertaker]]",
         "[[Ghostbloods]]",
         "[[Bloodmarks]]",
-        "[[Knights of Dusk]]",
-        "[[Undertaker]]",
-        "[[Renna Palir]]",
-        "[[Highlord Paladar]]",
-        "[[Silent Oath]]",
         "[[Possessed]]",
-        "[[Stackhouses]]"
+        "[[Highlord Paladar]]",
+        "[[Stackhouses]]",
+        "[[Knights of Dusk]]"
       ],
       "tags": [
         "#session",
