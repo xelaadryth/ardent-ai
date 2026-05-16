@@ -82,13 +82,13 @@ jobs:
 
       - name: Run reindex
         shell: bash
-        run: python .ai/reindex.py
+        run: python .ai/cmd/reindex/main.py
 
       - name: Run AI pipeline
         id: ai
         shell: bash
         run: |
-          python .ai/main.py | tee output.txt
+          python .ai/cmd/agent/main.py | tee output.txt
           COMMIT_MESSAGE=$(grep '^COMMIT_MESSAGE=' output.txt | head -n 1 | cut -d'=' -f2- | tr -d '\r')
           if [ -z "$COMMIT_MESSAGE" ]; then
             COMMIT_MESSAGE="Ardent AI update"
