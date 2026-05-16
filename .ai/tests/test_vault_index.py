@@ -6,21 +6,19 @@ from pathlib import Path
 
 
 def test_retrieve_vault_context_falls_back_when_no_matches(tmp_path, monkeypatch):
-    # Create vault_index.json in AI_FOLDER
-    (vault.AI_FOLDER / "vault_index.json").write_text(json.dumps({"files": {}}), encoding="utf-8")
+    # Create vault_index.json in tmp_path (AI_FOLDER)
+    (tmp_path / "vault_index.json").write_text(json.dumps({"files": {}}), encoding="utf-8")
     
     # Create vault files in tmp_path (VAULT_ROOT)
     (tmp_path / "SOUL.md").write_text("Soul file", encoding="utf-8")
     (tmp_path / "README.md").write_text("Readme file", encoding="utf-8")
 
     monkeypatch.setattr("vault.io.VAULT_ROOT", tmp_path)
+    monkeypatch.setattr("vault.io.AI_FOLDER", tmp_path)
 
     context = vault.retrieve_vault_context("unlikely query", 10)
 
     assert "--- SOUL.md ---" in context
-    
-    # Clean up
-    (vault.AI_FOLDER / "vault_index.json").unlink(missing_ok=True)
 
 
 def test_build_index_entry_extracts_frontmatter_links():
@@ -91,15 +89,13 @@ def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypa
         }
     }
 
-    # Create vault_index.json in AI_FOLDER
-    (vault.AI_FOLDER / "vault_index.json").write_text(json.dumps(vault_index_data), encoding="utf-8")
+    # Create vault_index.json in tmp_path (AI_FOLDER)
+    (tmp_path / "vault_index.json").write_text(json.dumps(vault_index_data), encoding="utf-8")
     monkeypatch.setattr("vault.io.VAULT_ROOT", tmp_path)
+    monkeypatch.setattr("vault.io.AI_FOLDER", tmp_path)
 
     oldest = vault.get_oldest_indexed_files(1)
     assert oldest == ["03 NPCs/OldFile.md"]
-    
-    # Clean up
-    (vault.AI_FOLDER / "vault_index.json").unlink(missing_ok=True)
 
 
 def test_build_index_entry_preserves_last_updated_from_frontmatter():

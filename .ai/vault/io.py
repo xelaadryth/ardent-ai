@@ -38,11 +38,8 @@ def load_vault_index() -> dict:
         ValueError: If the index file is malformed.
     """
     index_file = get_index_file()
-    print(f"[DEBUG] Looking for vault_index.json at: {index_file}")
-    print(f"[DEBUG] Absolute path: {index_file.resolve()}")
-    print(f"[DEBUG] Exists: {index_file.exists()}")
     if not index_file.exists():
-        raise FileNotFoundError(f"vault_index.json is required for retrieval but was not found. Looked for: {index_file}")
+        raise FileNotFoundError("vault_index.json is required for retrieval but was not found.")
 
     with index_file.open("r", encoding="utf-8") as f:
         data = json.load(f)

@@ -38,6 +38,27 @@ Both entry points use `workflow_integration.py` for standardized output formatti
 
 ## Important Patterns
 
+### Path Resolution
+**CRITICAL:** Never use `Path(__file__).parent` to calculate paths to the vault root or .ai folder. Always use the centralized constants from `vault.file_io`:
+
+- `VAULT_ROOT` - The repository root (parent of the .ai folder)
+- `AI_FOLDER` - The .ai folder where scripts and index live
+
+These are defined in `vault/file_io.py` and exported from the vault module. Using `.parent` calculations leads to fragile code that breaks when scripts run from different working directories (e.g., GitHub Actions vs local development).
+
+**Example:**
+```python
+from vault import AI_FOLDER, VAULT_ROOT
+
+# Correct
+soul_path = AI_FOLDER / "SOUL.md"
+vault_file = VAULT_ROOT / "03 NPCs/Aaron.md"
+
+# Incorrect - DO NOT DO THIS
+soul_path = Path(__file__).parent / "SOUL.md"
+vault_root = Path(__file__).parent.parent.parent
+```
+
 ### GitHub Actions Integration
 Entry points output variables in specific format for shell parsing:
 ```
