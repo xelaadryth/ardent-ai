@@ -2,13 +2,11 @@
 name: Cadence
 type: spren
 status: active
-links:
-  - "[[Mallow]]"
 tags:
   - "#spren"
   - "#lightspren"
   - "#reacher"
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
 A moody and empathetic Lightspren (Reacher) bonded to [[Mallow]]. She is a champion of personal liberty who guides her partner toward the path of a Willshaper.
@@ -30,5 +28,5 @@ Hailing from the Cognitive Realm, Cadence was drawn to the specific "cracks" in 
 - 
 
 # Connections
-- **[[Mallow]]**: Her bonded Radiant and primary partner in the physical realm.
+- [[Mallow]]: Her bonded Radiant and primary partner in the physical realm.
 - **The Forgotten**: Shares a specialized empathy for orphans and those cast aside by society.

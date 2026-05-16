@@ -2,10 +2,6 @@
 name: Kuma
 type: player
 status: active
-links:
-  - "[[Viscose]]"
-  - "[[Revolar]]"
-  - "[[Ilsh]]"
 tags:
   - "#elsecaller"
   - "#nurian"

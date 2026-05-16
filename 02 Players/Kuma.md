@@ -2,15 +2,12 @@
 name: Kuma
 type: player
 status: active
-links:
-  - "[[Viscose]]"
-  - "[[Revolar]]"
 tags:
   - "#elsecaller"
   - "#nurian"
   - "#maker"
 player: Dan
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:35:12
 ---
 
 # Description

@@ -326,6 +326,20 @@
       ],
       "last_updated": "2026-05-13T23:45:00"
     },
+    "03 NPCs/Kabsal.md": {
+      "name": "Kabsal",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Ghostbloods]]"
+      ],
+      "tags": [
+        "#npc",
+        "#ardent",
+        "#ghostbloods"
+      ],
+      "last_updated": "2026-05-13T23:45:00"
+    },
     "03 NPCs/Karani.md": {
       "name": "Karani",
       "type": "npc",
