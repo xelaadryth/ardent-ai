@@ -2,10 +2,6 @@
 name: Chip
 type: npc
 status: active
-links:
-  - "[[Truthkeepers]]"
-  - "[[Ghostbloods]]"
-  - "[[Renna Palir]]"
 tags:
   - "#npc"
   - "#lighteyed"
@@ -13,29 +9,26 @@ tags:
   - "#enforcer"
   - "#spy"
   - "#noble"
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
-A Ghostblood spy currently embedded within the [[Truthkeepers]], carefully hiding his true noble lineage and high-ranking status.
+A Ghostblood spy embedded within the [[Truthkeepers]]. A jovial, chill, and smirking jokester.
 
 # Appearance
-Light blue eyes. He carries a longsword and keeps throwing knives as secondary weapons.
+Light blue eyes. Carries a rapier and parrying knife.
 
 # Personality
-Jovial, chill, and a smirking jokester. He uses humor as a primary tool to deflect attention away from his background and noble upbringing.
+Uses humor as a deflection for his noble upbringing. Jovial and nonjudgmental.
 
 # Background
-His true identity is Archisal Paladar, the third son of Highlord Reladon Paladar. He is a 4th Dahn lighteyes posing as a 7th Dahn to maintain his cover in the field.
+True identity is Archisal Paladar, third son of Highlord Reladon Paladar (7th Dahn). Infiltrating the Truthkeepers to determine if they are viable allies for the Ghostbloods.
 
 # Goals
-- Maintain his cover within the [[Truthkeepers]].
-- Advance the interests of the [[Ghostbloods]].
-- Keep his true identity as Archisal Paladar a secret.
-
-# Hooks
-- 
+- Maintain cover.
+- Advance Ghostblood interests.
+- Prevent the rise of the Radiants (cautious approach).
 
 # Connections
-- [[Ghostbloods]]: Patron organization.
-- [[Renna Palir]]: Ally in Hearthstone investigation.
-- [[Truthkeepers]]: Organization he is currently infiltrating.
+- [[Ghostbloods]]: Patron.
+- [[Renna Palir]]: Ally in Hearthstone.
+- [[Truthkeepers]]: Infiltration target.

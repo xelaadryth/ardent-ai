@@ -2,10 +2,6 @@
 name: Tahs
 type: npc
 status: active
-links:
-  - "[[Renna Palir]]"
-  - "[[Karani]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#npc"
   - "#lighteyed"
@@ -17,25 +13,22 @@ last_updated: 2026-05-13T23:35:12
 A Truthkeeper initiate driven by a desperate need for social validation and rank.
 
 # Appearance
-Veden-style reddish hair and striking, dark purple eyes. She is often seen twirling strands of her long hair while watching those around her. She wears the muted robes of a Truthkeeper initiate.
+Veden-style reddish hair and striking, dark purple eyes. Often seen twirling strands of her long hair. Often seen with [[Renna Palir]].
 
 # Personality
-Tahs is externally polite but internally consumed by jealousy and a need for social validation. She bullies those she considers beneath her—specifically [[Karani]]—whenever [[Renna Palir]] isn't around. She is deeply concerned with her social appearance and "looking good" to her superiors.
+Externally polite but internally consumed by jealousy. She bullies [[Karani]] when [[Renna Palir]] is not around. Obsessed with her social appearance.
 
 # Background
-Adopted by a lighteyed mother who "married down" to a darkeyes, Tahs was never truly loved or accepted by her family. Both of her parents went missing, leaving her with a desperate need for the structure and status offered by the [[Truthkeepers]].
+Adopted by a lighteyed mother who married down. After her parents went missing, she sought the structure and status of the [[Truthkeepers]].
 
 # Goals
-- **Social Advancement:** To rise within the ranks of the Truthkeepers and secure the status she feels she was denied by her upbringing.
-- **Validation:** To be recognized as superior to her peers, especially those she perceives as "weak."
+- **Social Advancement:** Rise within the ranks and secure status.
+- **Validation:** Be recognized as superior to peers.
 
 # Secrets
-- Her cruelty toward [[Karani]] is a direct reflection of the unloved childhood she experienced after her parents' disappearance.
-
-# Hooks
--
+- Her cruelty is a reflection of her unloved childhood.
 
 # Connections
-- **[[Renna Palir]]**: Her companion, whom she secretly envies.
-- **[[Karani]]**: Her primary target for bullying.
-- **[[Truthkeepers]]**: The organization she hopes will give her the status she craves.
+- [[Renna Palir]]: Her companion.
+- [[Karani]]: Her primary target for bullying.
+- [[Truthkeepers]]: The organization she serves.

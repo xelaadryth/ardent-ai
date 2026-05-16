@@ -101,9 +101,6 @@
       "name": "Adjudicator Peton",
       "type": "npc",
       "status": "active",
-      "links": [
-        "[[Truthkeepers]]"
-      ],
       "tags": [
         "#npc",
         "#lighteyed",
@@ -111,17 +108,13 @@
         "#adjudicator",
         "#traditionalist"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
     },
     "03 NPCs/Chip.md": {
       "name": "Chip",
       "type": "npc",
       "status": "active",
-      "links": [
-        "[[Truthkeepers]]",
-        "[[Ghostbloods]]",
-        "[[Renna Palir]]"
-      ],
       "tags": [
         "#npc",
         "#lighteyed",
@@ -130,7 +123,8 @@
         "#spy",
         "#noble"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
     },
     "03 NPCs/Citylord Nilar Yenev.md": {
       "name": "Citylord Nilar Yenev",
@@ -203,12 +197,6 @@
       "name": "Karani",
       "type": "npc",
       "status": "active",
-      "links": [
-        "[[Chip]]",
-        "[[Tahs]]",
-        "[[Ghostbloods]]",
-        "[[Sila]]"
-      ],
       "tags": [
         "#npc",
         "#darkeyed",
@@ -216,7 +204,8 @@
         "#worldhopper",
         "#ghostbloods"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
     },
     "03 NPCs/Khria.md": {
       "name": "Khria",
@@ -240,49 +229,31 @@
       "name": "Renna Palir",
       "type": "npc",
       "status": "active",
-      "links": [
-        "[[Revolar]]",
-        "[[Truthkeepers]]",
-        "[[Iiko]]",
-        "[[Chip]]",
-        "[[Knights of Dusk]]"
-      ],
       "tags": [
         "#npc",
         "#lighteyed",
         "#alethi"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
     },
     "03 NPCs/Senny.md": {
       "name": "Senny",
       "type": "npc",
       "status": "active",
-      "links": [
-        "[[Truthkeepers]]",
-        "[[Possessed]]",
-        "[[Truthkeeper Camp]]",
-        "[[High Witness Yeshan]]"
-      ],
       "tags": [
         "#npc",
         "#lighteyed",
         "#alethi",
         "#truthkeeper"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
     },
     "03 NPCs/Sila.md": {
       "name": "Sila",
       "type": "npc",
       "status": "active",
-      "links": [
-        "[[Chip]]",
-        "[[Karani]]",
-        "[[Revolar]]",
-        "[[Adjudicator Peton]]",
-        "[[Truthkeepers]]"
-      ],
       "tags": [
         "#npc",
         "#darkeyed",
@@ -290,24 +261,21 @@
         "#ghostbloods",
         "#mercenary"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
     },
     "03 NPCs/Tahs.md": {
       "name": "Tahs",
       "type": "npc",
       "status": "active",
-      "links": [
-        "[[Renna Palir]]",
-        "[[Karani]]",
-        "[[Truthkeepers]]"
-      ],
       "tags": [
         "#npc",
         "#lighteyed",
         "#alethi",
         "#initiate"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
     },
     "04 Sessions/000 Arrival.md": {
       "name": "000 Arrival",
@@ -631,6 +599,386 @@
         "#logical"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "03 NPCs/Loid.md": {
+      "name": "Loid",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#mentor"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Sweeper.md": {
+      "name": "Sweeper",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#ghostbloods"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Jola Larith.md": {
+      "name": "Jola Larith",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#truthkeeper"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Heala Larith.md": {
+      "name": "Heala Larith",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#truthkeeper"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Eran.md": {
+      "name": "Eran",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#darkeyed"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Neval.md": {
+      "name": "Neval",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#darkeyed"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Luggan.md": {
+      "name": "Luggan",
+      "type": "npc",
+      "status": "dead",
+      "tags": [
+        "#npc",
+        "#darkeyed"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Cazo.md": {
+      "name": "Cazo",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#darkeyed"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Hine.md": {
+      "name": "Hine",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#darkeyed"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Adjudicator Milara.md": {
+      "name": "Adjudicator Milara",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#adjudicator"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Ithal Rorin.md": {
+      "name": "Ithal Rorin",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#lighteyed"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Morrow.md": {
+      "name": "Morrow",
+      "type": "npc",
+      "status": "dead",
+      "tags": [
+        "#npc",
+        "#merchant"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Ilsh.md": {
+      "name": "Ilsh",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#thaylen"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Bala.md": {
+      "name": "Bala",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#darkeyed"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Yarren.md": {
+      "name": "Yarren",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#farmer"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Oros.md": {
+      "name": "Oros",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#farmer"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Ebis.md": {
+      "name": "Ebis",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Rhilon.md": {
+      "name": "Rhilon",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#shopkeep"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Citylord Mogund Alta.md": {
+      "name": "Citylord Mogund Alta",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#lighteyed"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Dalen.md": {
+      "name": "Dalen",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/The Axe.md": {
+      "name": "The Axe",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#thug"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Bit.md": {
+      "name": "Bit",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#slave"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Nip.md": {
+      "name": "Nip",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#thug"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Josh.md": {
+      "name": "Josh",
+      "type": "npc",
+      "status": "dead",
+      "tags": [
+        "#npc",
+        "#thug"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Mikeyel Franzay.md": {
+      "name": "Mikeyel Franzay",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Shara Sathir.md": {
+      "name": "Shara Sathir",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Ibsol.md": {
+      "name": "Ibsol",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Tusa.md": {
+      "name": "Tusa",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#herdazian"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Pafo.md": {
+      "name": "Pafo",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#herdazian"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Dillind.md": {
+      "name": "Dillind",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Lod.md": {
+      "name": "Lod",
+      "type": "npc",
+      "status": "dead",
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Lavrik.md": {
+      "name": "Lavrik",
+      "type": "npc",
+      "status": "dead",
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Brightlord Antisar Spadis.md": {
+      "name": "Brightlord Antisar Spadis",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#general"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Vedelis.md": {
+      "name": "Vedelis",
+      "type": "npc",
+      "status": "dead",
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
+    },
+    "03 NPCs/Istrim.md": {
+      "name": "Istrim",
+      "type": "npc",
+      "status": "active",
+      "tags": [
+        "#npc",
+        "#truthkeeper"
+      ],
+      "last_updated": "2026-05-16T02:05:09Z",
+      "links": []
     }
   }
 }

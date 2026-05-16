@@ -2,10 +2,6 @@
 name: Karani
 type: npc
 status: active
-links:
-  - "[[Chip]]"
-  - "[[Tahs]]"
-  - "[[Ghostbloods]]"
 tags:
   - "#npc"
   - "#darkeyed"
@@ -14,31 +10,26 @@ tags:
   - "#ghostbloods"
 last_updated: 2026-05-13T23:35:12
 ---
-
 # Description
-An outsider to Roshar who feels deeply out of place. She is shy, scared, and a habitual people-pleaser who struggles with the harsh reality of her new world.
+An outsider to Roshar who feels deeply out of place. She is shy, scared, and a habitual people-pleaser.
 
 # Appearance
-Dark brown eyes and a short, stocky Alethi build. She has an unrefined appearance, characterized by heavy, clumsy steps and a nervous demeanor. She wears simple darkeyed clothing, often stained with ink.
+Dark brown eyes, short, stocky Alethi build. Her movements are unrefined, with short, manly steps.
 
 # Personality
-She is easily frightened and makes frequent mistakes due to her nerves, leading her to avoid danger whenever possible. She is a worldhopper who feels unprotected and vulnerable.
+Easily frightened and prone to mistakes, she avoids danger whenever possible. She is a people-pleaser who sticks close to [[Chip]] for protection.
 
 # Background
-Brought to Roshar by the Truthkeepers, she found herself isolated and terrified. Seeking security, she was approached by the Ghostbloods, who offered her protection in exchange for her assistance as an informant and spanreed operator. She played a key role in liberating [[Sila]] from hard labor.
+Brought to Roshar by the Truthkeepers. She is a worldhopper who was approached by the Ghostbloods. They offered her protection in exchange for her assistance as an informant and spanreed operator.
 
 # Goals
-- **Safety:** Find a sanctuary where she is not in constant danger or subject to bullying.
-- **Ghostblood Support:** Maintain her arrangement with the Ghostbloods in the hopes that they will guarantee her safety.
+- **Safety:** Find a sanctuary.
+- **Ghostblood Support:** Maintain her arrangement.
 
 # Secrets
-- She is a worldhopper who has already "flipped" and is actively reporting camp information to the Ghostbloods via spanreed.
-
-# Hooks
-- 
+- Actively reporting camp information to the Ghostbloods via spanreed.
 
 # Connections
-- [[Chip]]: Her primary contact and protector within the camp.
-- [[Tahs]]: Her primary tormentor within the Truthkeeper camp.
-- [[Ghostbloods]]: Her secret patrons and the recipients of her intelligence.
-- [[Sila]]: A mercenary she helped liberate and who now operates in the Ghostblood network.
+- [[Chip]]: Her primary contact.
+- [[Tahs]]: Her bully.
+- [[Ghostbloods]]: Her secret patrons.

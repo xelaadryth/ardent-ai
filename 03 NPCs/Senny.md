@@ -2,7 +2,6 @@
 name: Senny
 type: npc
 status: active
-links: []
 tags:
   - "#npc"
   - "#lighteyed"
@@ -11,24 +10,20 @@ tags:
 last_updated: 2026-05-13T23:35:12
 ---
 # Description
-A man who is "low tier" for a lighteyes, with a face that is constantly set in a serious, matter-of-fact frown. He is the son of skilled Alethi architects and carries himself with a quiet, unshakeable dignity.
-
-# Appearance
-A man who is "low tier" for a lighteyes, with a face that is constantly set in a serious, matter-of-fact frown. He is the son of skilled Alethi architects and carries himself with a quiet, unshakeable dignity.
+A low-tier lighteyes with a perpetually serious, matter-of-fact frown. Son of skilled Alethi architects.
 
 # Personality
-Senny (short for Senninned) is a true believer. He is serious, unyielding, and utterly dedicated to the [[Truthkeepers]]' cause. He doesn't care about his own advancement or prestige; he simply wants to help in any way he can. He is willing to die for the organization and never gives up, no matter the odds.
+Serious, unyielding, and utterly dedicated to the [[Truthkeepers]]. He is a true believer who seeks no prestige, only to help the cause.
 
 # Background
-Senny originally joined the [[Truthkeepers]] for a simple job at a friend's request. However, after witnessing a fellow believer sacrifice their life to save him from a [[Possessed]] creature, he underwent a spiritual awakening. He now sees the work of the [[Truthkeepers]] as a higher calling that outweighs his family's architectural legacy.
+Joined at a friend's request but underwent a spiritual awakening after a fellow believer sacrificed their life to save him from a [[Possessed]]. He views his service as a higher calling than his family's architectural legacy.
 
 # Goals
-- **Service to the Cause:** To fulfill the mission of the [[Truthkeepers]] and honor the sacrifice of the one who saved him.
-- **Helping the Camp:** He is focused on the practical needs of the [[Truthkeeper Camp]] and its mission.
-
-# Connections
-- [[Truthkeepers]]: The center of his world and his higher calling.
-- [[High Witness Yeshan]]: He views Yeshan's mission as a sacred duty.
+- **Service:** Fulfill the Truthkeeper mission and honor his savior.
 
 # Secrets
-His architecture background gives him a unique eye for the "structural" weaknesses in people and organizations, though he rarely uses this for anything other than the camp's benefit.
+- His architectural background gives him an eye for structural weaknesses in people and organizations.
+
+# Connections
+- [[Truthkeepers]]: Center of his world.
+- [[High Witness Yeshan]]: Views his mission as sacred.
