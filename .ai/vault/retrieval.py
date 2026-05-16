@@ -142,8 +142,10 @@ def retrieve_vault_context(query: str, limit: int) -> str:
     # Load file contents
     context_parts = []
     for filepath, _score in selected_items:
+        # Extract the name (filename without .md extension)
+        name = filepath.rsplit("/", 1)[-1].removesuffix(".md")
         context_parts.append(
-            f"--- {filepath} ---\n{load_markdown(filepath)}"
+            f"--- {name} ---\n{load_markdown(filepath)}"
         )
 
     return "\n\n".join(context_parts)

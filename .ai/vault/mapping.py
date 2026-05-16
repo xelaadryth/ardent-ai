@@ -13,10 +13,9 @@ def get_folder_prefix_for_type(entry_type: str) -> str:
         entry_type: The type of vault entry (e.g., "npc", "location").
     
     Returns:
-        Folder prefix for the entry type, or empty string for core files.
+        Folder prefix for the entry type.
     """
     type_to_prefix = {
-        "core": "",
         "template": "00 Templates",
         "player": "02 Players",
         "npc": "03 NPCs",
