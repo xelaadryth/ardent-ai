@@ -9,7 +9,7 @@ last_updated: 2026-05-15T12:00:00
 ---
 
 # Overview
-High-End Inn & Tavern in the Gilden District of [[Revolar]]. It serves as a front for the [[Bloodmarks]].
+High-End Inn & Tavern in the Middlecrest District of [[Revolar]]. It serves as a front for the [[Bloodmarks]].
 
 # Aspects
 - Polished brass and heavy mahogany
@@ -21,7 +21,7 @@ High-End Inn & Tavern in the Gilden District of [[Revolar]]. It serves as a fron
 - **Mood**: Exclusive, Professional, Vigilant
 
 # Description
-The Sun's Zenith is an upscale inn in the Gilden District that serves as the premier logistical hub for the [[Bloodmarks]] criminal syndicate. To avoid prying eyes and unexpected guests, the establishment is perpetually "fully booked" by long-term "scholars" and "wealthy merchants"—who are, in reality, Bloodmark agents and guards. While it maintains an impeccable public reputation, its true purpose remains the high-level processing of smuggled gems.
+The Sun's Zenith is an upscale inn in the Middlecrest District that serves as the premier logistical hub for the [[Bloodmarks]] criminal syndicate. To avoid prying eyes and unexpected guests, the establishment is perpetually "fully booked" by long-term "scholars" and "wealthy merchants"—who are, in reality, Bloodmark agents and guards. While it maintains an impeccable public reputation, its true purpose remains the high-level processing of smuggled gems.
 
 # Layout
 - **The Common Room**: The main floor features velvet-lined booths and a bar of dark, polished wood. 
