@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Szeth-son-son-Vallano.md",
+                "file": "03 NPCs/Highlady Marise Sathir.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Szeth-son-son-Vallano"
+              "title": "Highlady Marise Sathir"
             }
           }
         ],
@@ -283,18 +283,22 @@
   },
   "active": "b41c90a59212643f",
   "lastOpenFiles": [
-    "Inbox/Kabsal.md",
+    "03 NPCs/High Witness Yeshan.md",
+    "03 NPCs/High Enforcer Aylen.md",
+    "03 NPCs/General Odrin Lesh.md",
+    "03 NPCs/Citylord Nilar Yenev.md",
+    "03 NPCs/Ardent Kaelis.md",
+    "03 NPCs/Adjudicator Peton.md",
     "Inbox/Szeth-son-son-Vallano.md",
+    "Inbox/Kabsal.md",
     "Inbox/Ilsh.md",
     "Inbox/Grand Justicar Malice.md",
     "Inbox/Tien.md",
     "Inbox/Cream of the Crem.md",
     "Archive/0020-General Odrin Lesh.md",
-    "03 NPCs/General Odrin Lesh.md",
     "Inbox/Vorn.md",
     "Inbox/Ardent Kaelis.md",
     "Archive/0019-Ardent Kaelis.md",
-    "03 NPCs/Ardent Kaelis.md",
     "Inbox/Undertaker.md",
     "Inbox/Istrum.md",
     "Inbox/Highlord Paladar.md",
@@ -306,10 +310,6 @@
     "Inbox/Sila.md",
     "Archive/0015-Whitespine.md",
     "06 Locations/Stringken.md",
-    "06 Locations/Hobbleken.md",
-    "04 Sessions/002 Whitespine.md",
-    "03 NPCs/Karani.md",
-    "Inbox/Tahs.md",
     "vault_index.json",
     "reindex-output.txt",
     "01 Factions",
