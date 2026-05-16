@@ -20,7 +20,7 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 - [[High Enforcer Aylen]]
 
 # Scenes
-- [[Shellmite Attack]]
+- [[The Shellmite Attack]]
 
 # Hooks
 - [[Sila's Allegiance]]

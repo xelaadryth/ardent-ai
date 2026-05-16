@@ -26,7 +26,7 @@ Born to a Nurian farming family, Kuma cared more for books and tinkering than fo
 # Goals
 - Discover what happened to his parents and why they left him behind.
 - Build legendary creations that rival the greatest fabrials of ancient Roshar.
-- Investigate the [[Nurian Gems]] and the [[Experimental Steamship]] in the [[04 Nurian Gems Arc]].
+- Investigate the [[Nurian Gems]] and the [[The Experimental Steamship]] in the [[04 Nurian Gems Arc]].
 
 # Hooks
 - The mysterious device may be a key to dangerous or valuable knowledge.

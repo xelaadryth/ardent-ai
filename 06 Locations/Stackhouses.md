@@ -31,11 +31,11 @@ Mostly the working class of Revolar, many of whom are deeply in debt to the Vama
 Several apartments in the Stackhouses serve as safehouses for the [[Knights of Dusk]] insurgency. Residents have a system of "laundry signals" to warn each other of outsiders, quickly transmitted to the central square, often involving certain color patterns to indicate direction of travel. Red laundry on one side of the line points towards a temporary Knights of Dusk safe house for instance.
 
 # Hooks
-- **[[Stackhouse Slavers]]:** A Bloodmark collection squad attempts to abduct children in a muddy alleyway to settle a "labor-tithe."
+- **[[The Stackhouse Slavers]]:** A Bloodmark collection squad attempts to abduct children in a muddy alleyway to settle a "labor-tithe."
 
 # Connections
 - [[Scarstone Quarter]]
 - [[Revolar]]
 - [[Bloodmarks]]
 - [[Knights of Dusk]]
-- [[Stackhouse Slavers]]
+- [[The Stackhouse Slavers]]

@@ -21,7 +21,7 @@ Helaran's past is shrouded in secrecy, but he has risen quickly within the [[Gho
 
 # Goals
 - **Assassination:** Successfully eliminate [[Amaram]] as ordered by the [[Ghostbloods]].
-- **Anonymity:** Complete his mission without revealing his identity to the [[Truthkeepers]] or [[Knights of Dusk]].
+- **Anonymity:** Complete his mission without revealing his identity.
 
 # Connections
 - [[Ghostbloods]]: His patrons and handlers.
