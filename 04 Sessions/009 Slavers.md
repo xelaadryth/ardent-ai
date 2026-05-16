@@ -10,14 +10,14 @@ last_updated: 2026-05-15T12:00:00
 ---
 
 # Description
-The squad navigates the complexities of slavery and recruitment in [[Hearthstone]], while coordinating with [[House Sathir]] to secure their path to [[Revolar]]. 
+The squad navigates the complexities of slavery and recruitment, coordinating with [[House Sathir]] to secure their path to [[Revolar]]. 
 
 # Scenes
-- **Medical Aid:** [[Fina]] assists [[Lirin]] with the wounded, accompanied by [[Verdae]]. 
-- **The Recruitment Crisis:** [[Amaram]]'s recruitment drive approaches. Lieutenant Tanata prepares to conscript local children. [[Toralin Roshone]] attempts to deflect his role in the selection process to his wife, [[Laral Roshone]].
-- **Logistics:** The party prepares for the journey to [[Revolar]], securing citizenship credentials. [[Renna Palir]] oversees the group as a 9th dahn lighteyes, while [[Chip]] and [[Karani]] manage their own identities. [[Tusa]] and [[Pafo]] serve as retainers.
-- **The Runaways:** The party encounters five runaway slaves from [[Stringken]]—Jolio, Arolo, Torona, Palino, and Kilo—hiding in the woods. Supported by [[Cadence]] and [[Verdae]], the squad intervenes against the slaver Jir and his guards, Bop and Fimal.
-- **Sathir Negotiation:** The party consults with [[Highlady Marise Sathir]]. They seek to secure their credentials and aid in exchange for investigating the militant disruptions in her lands and finding alternative mercenary recruitment to spare the children from conscription.
+- **Hearthstone Rest:** The party rests in [[Hearthstone]] for two days. During this time, they discuss the mysterious voice heard in the temple; [[Iiko]] confirms it is the same entity they hear, which names itself [[Dreamwaker]]. [[Galeth-son-Thald]] conducts spear training for the party.
+- **The Slaver Encounter:** En route to [[Stringken]], the party encounters a slaver cart stuck on the road. The slaver claims to work for the [[Bloodmarks]]. The squad kills the slaver and his two guards, freeing the captives and disposing of the evidence.
+- **The Departure of Allies:** [[Tusa]] and [[Pafo]] depart the party to escort the freed slaves safely to the Herdazian border.
+- **Sathir Estate Arrival:** The party reaches the [[House Sathir|Sathir Estate]]. [[Dillind]] expresses his desire to stay at the estate, despite the impending risk of conscription into Alethi border skirmishes.
+- **The Revolar Gambit:** [[Renna Palir]] informs the party of their upcoming mission in [[Revolar]]. The party discusses potential cover stories—such as pretending to be the servants of a lighteyed noble—to bypass strict travel requirements.
 
 # Hooks
 - **Recruitment Drive:** Influence [[Amaram]] to accept mercenaries instead of the village children.
@@ -38,3 +38,6 @@ The squad navigates the complexities of slavery and recruitment in [[Hearthstone
 - [[Chip]]
 - [[Karani]]
 - [[Cadence]]
+- [[Dreamwaker]]
+- [[Dillind]]
+- [[Bloodmarks]]
