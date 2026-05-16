@@ -31,7 +31,7 @@ Her life changed after spotting a Mistspren in the shallow waters of the Purelak
 - 
 
 # Connections
-- **General Spade**: Her commander, savior, and fellow rebellion leader.
+- [[General Spade]]: Her commander, savior, and fellow rebellion leader.
 - **[[Mallow]]**: Her sister from the Purelake.
 - **[[Truthkeepers]]**: Her former captors and the primary targets of her rebellion.
 - **[[Revolar]]**: The city where she often operates in disguise.
