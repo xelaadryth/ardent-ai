@@ -1,0 +1,26 @@
+---
+name: Veristitalians
+type: faction
+status: active
+tags:
+  - "#faction"
+  - "#scholar"
+  - "#devotary"
+last_updated: 2026-05-14T18:00:00
+---
+# Description
+A secretive and scholarly sub-faction within the Vorin Church. Unlike those who study history for religious or political gain, the Veristitalians seek the "truth of what happened," regardless of whether it aligns with current orthodoxies or the desires of powerful lighteyes.
+
+# Philosophy
+They believe that history must be recorded accurately to prevent the cyclical errors of the past. They often operate undercover, viewing the systematic manipulation of historical records—such as those by [[Highlord Paladar]]—as a fundamental betrayal of their duty to the Almighty and humanity.
+
+# Structure
+- They operate as a decentralized network of scholars, ardents, and scribes.
+- Members often adopt cover identities to protect their research from censorship.
+
+# Connections
+- [[Ardent Vedelis]]: A recent member who paid the ultimate price for his pursuit of truth.
+- [[Devotary of Sincerity]]: Many Veristitalians align themselves with this devotary due to their shared values regarding objective reality.
+
+# Hooks
+- Uncover the hidden archives Vedelis may have left behind regarding the Vamah Princedom's lost history.

@@ -1062,16 +1062,23 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[Darkstone Forest]]",
+        "[[The Stackhouses]]",
+        "[[06 Locations/Cream of the Crem]]",
+        "[[Whitespine's Fang]]",
+        "[[Sun's Zenith]]",
+        "[[Gemheart Inn]]",
+        "[[Chip]]",
+        "[[Renna Palir]]",
+        "[[The Vamah Archivum]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
-        "[[Khria]]",
-        "[[Renna Palir]]"
+        "[[Khria]]"
       ],
       "tags": [
-        "#location",
-        "#placeholder"
+        "#location"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-14T18:00:00"
     },
     "06 Locations/Stringken.md": {
       "name": "Stringken",
