@@ -175,7 +175,8 @@
         "[[Revolar]]",
         "[[Ardent Kaelis]]",
         "[[Dreamwaker]]",
-        "[[02 Knights of Dusk Arc]]"
+        "[[02 Knights of Dusk Arc]]",
+        "[[Tablet of Eleven Cities]]"
       ],
       "tags": [
         "#player",
@@ -183,7 +184,7 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2024-05-19T15:00:00"
     },
     "Kuma": {
       "name": "Kuma",
@@ -1256,22 +1257,23 @@
         "[[Envisagers]]",
         "[[Dillind]]",
         "[[Iiko]]",
+        "[[Tablet of Eleven Cities]]",
         "[[Dreamwaker]]",
-        "[[Glys]]",
         "[[Chip]]",
         "[[Kholinar]]",
         "[[Ghostbloods]]",
         "[[House Sathir]]",
         "[[Highlady Marise Sathir]]",
         "[[House Sathir|Sathir estate]]",
-        "[[Tien]]"
+        "[[Tien]]",
+        "[[Ghostbloods\"\n- [[House Sathir]]"
       ],
       "tags": [
         "#session",
         "#investigation",
         "#combat"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2024-05-19T15:00:00"
     },
     "009 Slavers": {
       "name": "009 Slavers",
@@ -2084,6 +2086,35 @@
       ],
       "last_updated": "2024-05-19T12:00:00"
     },
+    "Tablet of Eleven Cities": {
+      "name": "Tablet of Eleven Cities",
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Urithiru]]",
+        "[[Dreamwaker]]",
+        "[[Truthkeepers]]",
+        "[[Kholinar]]",
+        "[[Rall Elorim]]",
+        "[[Narak]]",
+        "[[Shattered Plains]]",
+        "[[Azimir]]",
+        "[[High Witness Yeshan]]",
+        "[[Thaylen City]]",
+        "[[Kharbranth]]",
+        "[[Vedenar]]",
+        "[[Iiko]]",
+        "[[008 The Envisagers of Talinan]]"
+      ],
+      "tags": [
+        "#lore",
+        "#prophecy",
+        "#dawncities",
+        "#silver_kingdoms",
+        "#urithiru"
+      ],
+      "last_updated": "2024-05-19T15:00:00"
+    },
     "The Steamship's Secret": {
       "name": "The Steamship's Secret",
       "type": "lore",
@@ -2125,14 +2156,14 @@
       "status": "active",
       "links": [
         "[[Iiko]]",
-        "[[Glys]]"
+        "[[Tablet of Eleven Cities]]"
       ],
       "tags": [
         "#spren",
         "#mistspren",
         "#ancient"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2024-05-19T15:00:00"
     },
     "Kun'ahu": {
       "name": "Kun'ahu",
