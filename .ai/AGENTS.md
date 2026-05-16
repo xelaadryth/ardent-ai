@@ -18,6 +18,13 @@ Both entry points use `workflow_integration.py` for standardized output formatti
 - `cmd/agent/main.py` - Main AI agent workflow command (processes Inbox requests)
 - `cmd/reindex/main.py` - Manual vault reindexing command (deterministic, no LLM calls, but already happens in the agent workflow)
 
+**Internal Modules**
+- `internal/inbox.py` - Inbox file management (find, load, archive)
+- `internal/llm.py` - LLM client initialization and configuration
+- `internal/prompt_builder.py` - Prompt construction for AI interactions
+- `internal/response_parser.py` - Response frontmatter parsing and actual file editing
+- `internal/workflow_integration.py` - Standardized output formatting and error handling
+
 **Obsidian Vault**
 - `pkg/vault/crawler.py` - File crawling and index building from disk
 - `pkg/vault/file_io.py` - File I/O operations (read, write, load_markdown)
@@ -25,16 +32,7 @@ Both entry points use `workflow_integration.py` for standardized output formatti
 - `pkg/vault/mapping.py` - Type-to-folder mapping for vault organization
 - `pkg/vault/parser.py` - Frontmatter parsing and index entry building
 - `pkg/vault/retrieval.py` - Context retrieval with scoring
-- `pkg/vault/utilities.py` - General utilities (normalization, index management)
-
-**Vault Operations** (split by domain in `vault/` folder)
-- `vault/file_io.py` - File I/O operations (read, write, load_markdown)
-- `vault/io.py` - Vault index I/O (load_vault_index, save_vault_index)
-- `vault/parser.py` - Frontmatter parsing and index entry building
-- `vault/crawler.py` - File crawling and index building from disk
-- `vault/retrieval.py` - Context retrieval with scoring
-- `vault/mapping.py` - Type-to-folder mapping for vault organization
-- `vault/utilities.py` - General utilities (normalization, index management)
+- `pkg/vault/scoring.py` - Scoring logic for context retrieval
 
 **Supporting Modules**
 - `inbox.py` - Inbox file management (find, load, archive)
@@ -70,11 +68,11 @@ REQUEST_FILENAME=<filename>
 COMMIT_MESSAGE=<message>
 ```
 
-This is handled by `workflow_integration.print_workflow_output()`.
+This is handled by `internal/workflow_integration.print_workflow_output()`.
 
 ### Vault Index System
 - `vault_index.json` tracks all markdown files with frontmatter
-- Each entry has: name, type, status, links, tags, last_updated
+- Each entry has: name, type, status, tags, last_updated
 - Type-to-folder mapping organizes content (e.g., "npc" → "03 NPCs")
 - Index can be rebuilt deterministically from disk via `reindex.py`
 - `last_updated` is only set by the AI workflow when making operational changes, not by reindex
@@ -116,12 +114,4 @@ Vault entry types map to numbered folders:
 - spren: 31 Spren
 
 ### Error Handling
-All entry points use `workflow_integration.handle_workflow_error()` for consistent error output and exit codes.
-
-## Key Files to Understand
-
-1. `pipeline.py` - Main AI orchestration logic
-2. `vault/__init__.py` - Public API for vault operations
-3. `workflow_integration.py` - GitHub Actions integration
-4. `response_parser.py` - How LLM responses become file changes
-5. `vault/retrieval.py` - How vault context is retrieved for prompts
+All entry points use `internal/workflow_integration.handle_workflow_error()` for consistent error output and exit codes.

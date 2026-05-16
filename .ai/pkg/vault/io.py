@@ -5,7 +5,6 @@ Handles loading and saving the vault index file.
 """
 
 import json
-from datetime import datetime, timezone
 from pathlib import Path
 
 from .file_io import AI_FOLDER

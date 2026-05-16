@@ -6,11 +6,6 @@ and index management operations.
 """
 
 import re
-from datetime import datetime, timezone
-
-from .crawler import build_index_from_disk
-from .io import load_vault_index, save_vault_index
-from .mapping import get_filepath_from_name
 
 
 def normalize_text(value: str) -> str:

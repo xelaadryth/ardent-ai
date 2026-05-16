@@ -3,7 +3,7 @@ import os
 import re
 import yaml
 from datetime import datetime, timezone
-from pkg.vault import write_file
+from pkg.vault.file_io import write_file
 from pkg.vault.mapping import get_filepath_from_name
 
 

@@ -6,7 +6,8 @@ Rebuilds vault_index.json from frontmatter of all markdown files.
 No LLM calls - purely deterministic.
 """
 
-from pkg.vault import build_index_from_disk, save_vault_index
+from pkg.vault.crawler import build_index_from_disk
+from pkg.vault.io import save_vault_index
 from internal.workflow_integration import compose_commit_message, handle_workflow_error, print_workflow_output
 
 

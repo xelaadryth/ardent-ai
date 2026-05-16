@@ -4,7 +4,6 @@ from pathlib import Path
 AI_FOLDER = Path(__file__).parent.parent
 # VAULT_ROOT is the repository root (parent of the .ai folder)
 VAULT_ROOT = AI_FOLDER.parent
-CORE_FILES = ["SOUL.md"]
 
 
 def read_file(path):
@@ -37,13 +36,3 @@ def load_markdown(path: str) -> str:
 
     # Resolve to absolute path to avoid double resolution in read_file
     return read_file(file_path.resolve())
-
-
-def load_core_context() -> str:
-    context = []
-    for core_file in CORE_FILES:
-        content = load_markdown(core_file)
-        if content:
-            context.append(f"--- {core_file} ---\n{content}")
-
-    return "\n\n".join(context)

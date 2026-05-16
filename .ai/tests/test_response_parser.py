@@ -2,7 +2,7 @@ import json
 
 import pytest
 from internal.response_parser import parse_json_output, apply_response
-from pkg.vault import extract_wikilinks
+from pkg.vault.parser import extract_wikilinks
 
 
 def test_parse_json_output_handles_embedded_json():

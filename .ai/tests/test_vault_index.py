@@ -1,4 +1,5 @@
-from pkg import vault
+from pkg.vault import mapping
+from pkg.vault import parser
 
 
 def test_build_index_entry_extracts_frontmatter_links():
@@ -10,7 +11,7 @@ tags:
 ---
 [[Town]] is near [[Abbey]]. [[Town]] is also important. [[town]] is a duplicate."""
 
-    entry = vault.build_index_entry(content)
+    entry = parser.build_index_entry(content)
 
     assert "name" in entry
     assert "type" in entry
@@ -26,10 +27,9 @@ tags:
 def test_build_index_entry_handles_missing_frontmatter():
     from pathlib import Path
 
-    path = Path("03 NPCs/Aaron.md")
     content = "Some content without frontmatter"
 
-    entry = vault.build_index_entry(content)
+    entry = parser.build_index_entry(content)
 
     assert entry["name"] == ""
     assert entry["type"] == ""
@@ -38,9 +38,9 @@ def test_build_index_entry_handles_missing_frontmatter():
 
 
 def test_get_folder_from_type_returns_folder_prefix():
-    assert vault.get_folder_from_type("npc") == "03 NPCs"
-    assert vault.get_folder_from_type("player") == "02 Players"
-    assert vault.get_folder_from_type("core") == ""
+    assert mapping.get_folder_from_type("npc") == "03 NPCs"
+    assert mapping.get_folder_from_type("player") == "02 Players"
+    assert mapping.get_folder_from_type("core") == ""
 
 
 def test_build_index_entry_preserves_last_updated_from_frontmatter():
@@ -51,7 +51,7 @@ last_updated: 2023-01-01T00:00:00Z
 ---
 Some content"""
 
-    entry = vault.build_index_entry(content)
+    entry = parser.build_index_entry(content)
 
     assert "last_updated" in entry
     # YAML parses timestamps as datetime objects, but we convert them to ISO strings
@@ -67,7 +67,7 @@ tags: ["warrior"]
 ---
 Some content here."""
 
-    entry = vault.build_index_entry(content)
+    entry = parser.build_index_entry(content)
 
     assert entry["status"] == "active"
     assert entry["name"] == "Aaron"

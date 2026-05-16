@@ -1,4 +1,5 @@
-from pkg.vault import AI_FOLDER, read_file, retrieve_vault_context
+from pkg.vault.file_io import AI_FOLDER, read_file
+from pkg.vault.retrieval import retrieve_vault_context
 
 
 def load_soul():
@@ -26,7 +27,7 @@ def load_contract():
 
 def build_system_prompt(prompt: str, vault_limit=100) -> str:
     soul = load_soul()
-    vault_context = retrieve_vault_context(prompt, limit=vault_limit)
+    vault_context = retrieve_vault_context(limit=vault_limit)
     contract = load_contract()
 
     return f"""

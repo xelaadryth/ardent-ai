@@ -7,7 +7,7 @@ from internal.llm import generate_content
 from internal.response_parser import apply_response
 from internal.prompt_builder import build_system_prompt
 from internal.workflow_integration import compose_commit_message, handle_workflow_error, print_workflow_output
-from pkg.vault import load_vault_index
+from pkg.vault.io import load_vault_index
 
 
 def run_agent(file_name=None, extra_prompt="") -> Tuple[str, Optional[str]]:
