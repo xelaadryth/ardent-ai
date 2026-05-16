@@ -13,15 +13,15 @@ last_updated: 2026-05-15T12:00:00
 The squad navigates the mystery of [[Talinan]], a village harbor for the [[Envisagers]], and confronts the grim reality of [[Dillind]]'s upbringing. 
 
 # Scenes
-- **The Temple Discovery:** Deep within the temple, the party uncovers caravan supply routes indicating systemic exploitation by regional powers. [[Iiko]] discovers documents that trigger a prophetic memory in [[Dreamwaker]]—the Ten Keys prophecy—linked to the entity [[Glys]].
-- **The Soulcaster Dilemma:** [[Chip]] proposes retaining the recovered Soulcaster to offer it to the [[Ghostbloods]] for initiation credit, though its current state is damaged.
+- **The Temple Discovery:** Deep within the temple, the party uncovers caravan supply routes indicating systemic exploitation by regional powers. [[Iiko]] discovers documents that trigger a prophetic memory in [[Dreamwaker]]—the Ten Keys prophecy—linked to the entity [[Glys]]. The party recovers a map from a dead smoke-ardent and hears a mysterious voice directing them to collect 10 keys to reactivate an ancient mechanism.
+- **The Mural of Ten:** In a side chamber, the party finds a painted-over mural of the Vorin double-pupil eye surrounded by 10 symbols. [[Chip]] notes that one symbol resembles the layout of [[Kholinar]], suggesting the keys are locations of major cities.
+- **The Soulcaster Dilemma:** [[Chip]] proposes retaining the recovered Soulcaster to offer it to the [[Ghostbloods]] for initiation credit, though its current state is damaged. He insists the cave entrance be hidden.
 - **Return to Talinan:** The party escorts [[Dillind]] back to his home village. He reveals the true nature of his parents, Milam and Fari, who belong to the [[Envisagers]]. The parents argue that life-threatening hardship is necessary to forge Radiant-like resilience.
-- **The Resolution:** After the party extracts [[Dillind]], they discover the town was decimated. Milam and Fari are executed for crimes including assault and assisted suicide. [[Dillind]] eventually joins forces with the group surrounding [[Tien]].
-- **Chaos in the Streets:** A final bandit attack occurs, involving the torching of a barricaded building to create lawlessness in the region and undermine [[Highlord Sadeas]]-controlled territory.
+- **The Resolution:** After the party engages bandits at the village, Milam is killed in the combat, and Fari commits suicide by walking off a cliff. The squad decides to escort [[Dillind]] to [[House Sathir]] to seek refuge under [[Highlady Marise Sathir]].
 
 # Hooks
-- **The Ten Keys:** Investigate the fragmented prophecy recovered from the temple.
-- **Dillind's Path:** Ensure the boy's safety as he moves toward alignment with the future Windrunners.
+- **The Ten Keys:** Investigate the fragmented prophecy and the remaining nine city locations indicated by the mural.
+- **Dillind's Path:** Safely deliver [[Dillind]] to the [[House Sathir|Sathir estate]].
 - **House Sathir's Gambit:** The [[House Sathir|Sathir estate]] is actively moving to dismantle the [[Envisagers]] by drafting their able-bodied men and executing leadership.
 
 # Connections
@@ -32,3 +32,5 @@ The squad navigates the mystery of [[Talinan]], a village harbor for the [[Envis
 - [[Dreamwaker]]
 - [[Chip]]
 - [[Ghostbloods]]
+- [[House Sathir]]
+- [[Highlady Marise Sathir]]
