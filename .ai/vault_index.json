@@ -10,10 +10,13 @@
         "[[Possessed]]",
         "[[High Witness Yeshan]]",
         "[[Chip]]",
-        "[[Dillind]]",
+        "[[Sila]]",
+        "[[Knights of Dusk]]",
         "[[Lavrik]]",
+        "[[Highlady Marise Sathir]]",
+        "[[Citylord Nilar Yenev]]",
+        "[[Dillind]]",
         "[[Morrow]]",
-        "[[High Enforcer Aylen]]",
         "[[The Shellmite Attack]]",
         "[[Sila's Allegiance]]",
         "[[000 Arrival]]",
@@ -42,12 +45,20 @@
         "[[Truthkeepers]]",
         "[[Revolar]]",
         "[[Knights of Dusk]]",
-        "[[General Spade]]",
-        "[[Highlord Paladar]]",
+        "[[Silent Oath]]",
         "[[High Enforcer Aylen]]",
-        "[[General Odrin Lesh]]",
         "[[Istrum]]",
+        "[[General Spade]]",
         "[[Khria]]",
+        "[[Highlord Paladar]]",
+        "[[General Odrin Lesh]]",
+        "[[Lila]]",
+        "[[Ghostbloods]]",
+        "[[Undertaker]]",
+        "[[Sweeper]]",
+        "[[Sila]]",
+        "[[Bloodmarks]]",
+        "[[Arbiter Jalis]]",
         "[[Ardent Kaelis]]",
         "[[Iiko]]",
         "[[The Cinder Evacuation]]",
@@ -69,11 +80,11 @@
       "links": [
         "[[Tien]]",
         "[[Kaladin]]",
-        "[[Helaran]]",
-        "[[Ghostbloods]]",
         "[[Amaram]]",
         "[[Sons of Honor]]",
         "[[Dillind]]",
+        "[[Ghostbloods]]",
+        "[[Helaran]]",
         "[[Silent Oath]]",
         "[[01 Truthkeepers Arc]]",
         "[[02 Knights of Dusk Arc]]"
@@ -95,12 +106,12 @@
         "[[Bloodmarks]]",
         "[[Kuma]]",
         "[[Szeth-son-son-Vallano]]",
-        "[[Vorn]]",
-        "[[Ilsh]]",
+        "[[Ghostbloods]]",
+        "[[Undertaker]]",
         "[[Grand Justicar Malice]]",
         "[[Bodenar]]",
-        "[[Undertaker]]",
-        "[[Ghostbloods]]",
+        "[[Vorn]]",
+        "[[Ilsh]]",
         "[[The Experimental Steamship]]",
         "[[The Steamship's Secret]]"
       ],
@@ -1132,7 +1143,7 @@
         "[[Citylord Nilar Yenev]]",
         "[[Stringken]]",
         "[[Highlady Marise Sathir]]",
-        "[[House Sathir|Sathir Estate]]",
+        "[[House Sathir]]",
         "[[Dalen]]",
         "[[Ashusa]]",
         "[[Highlord Paladar]]",
@@ -1145,23 +1156,25 @@
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2024-05-18T00:00:00"
+      "last_updated": "2024-05-19T16:00:00"
     },
     "004 The Sathir Estate": {
       "name": "004 The Sathir Estate",
       "type": "session",
       "status": "active",
       "links": [
-        "[[House Sathir|Sathir Estate]]",
+        "[[House Sathir]]",
         "[[Highlady Marise Sathir]]",
         "[[Mikeyel Franzay]]",
         "[[N'tal]]",
         "[[Kuma]]",
         "[[Mallow]]",
         "[[Iiko]]",
+        "[[Dreamwaker]]",
+        "[[Glys]]",
+        "[[006 Dillind and the Temple]]",
         "[[Galeth-son-Thald]]",
         "[[Fina]]",
-        "[[House Sathir]]",
         "[[Undertaker]]",
         "[[Dalen]]"
       ],
@@ -1170,7 +1183,7 @@
         "#rp",
         "#downtime"
       ],
-      "last_updated": "2026-05-15T18:30:00"
+      "last_updated": "2024-05-19T16:00:00"
     },
     "005 Hearthstone": {
       "name": "005 Hearthstone",
@@ -1265,15 +1278,15 @@
         "[[House Sathir]]",
         "[[Highlady Marise Sathir]]",
         "[[House Sathir|Sathir estate]]",
-        "[[Tien]]",
-        "[[Ghostbloods\"\n- [[House Sathir]]"
+        "[[Truthkeepers]]",
+        "[[Tien]]"
       ],
       "tags": [
         "#session",
         "#investigation",
         "#combat"
       ],
-      "last_updated": "2024-05-19T15:00:00"
+      "last_updated": "2024-05-19T16:00:00"
     },
     "009 Slavers": {
       "name": "009 Slavers",
@@ -1290,7 +1303,6 @@
         "[[Bloodmarks]]",
         "[[Tusa]]",
         "[[Pafo]]",
-        "[[House Sathir|Sathir Estate]]",
         "[[Dillind]]",
         "[[Renna Palir]]",
         "[[Amaram]]",
@@ -1310,7 +1322,7 @@
         "#rp",
         "#investigation"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2024-05-19T16:00:00"
     },
     "010 Soulcaster and Shared Employers": {
       "name": "010 Soulcaster and Shared Employers",
@@ -1476,6 +1488,29 @@
         "#espionage"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "House Sathir": {
+      "name": "House Sathir",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Sadeas Princedom]]",
+        "[[Stringken]]",
+        "[[Hobbleken]]",
+        "[[Highlord Kethren Sathir]]",
+        "[[Highlady Marise Sathir]]",
+        "[[Shara Sathir]]",
+        "[[Dalen]]",
+        "[[Mikeyel Franzay]]",
+        "[[Citylord Nilar Yenev]]",
+        "[[004 The Sathir Estate]]"
+      ],
+      "tags": [
+        "#faction",
+        "#alethi",
+        "#noble_house"
+      ],
+      "last_updated": "2024-05-19T16:00:00"
     },
     "Knights of Dusk": {
       "name": "Knights of Dusk",
