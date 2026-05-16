@@ -137,6 +137,29 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "03 NPCs/Ardent Vedelis.md": {
+      "name": "Ardent Vedelis",
+      "type": "npc",
+      "status": "inactive",
+      "links": [
+        "[[Lavrik]]",
+        "[[Devotary of Sincerity]]",
+        "[[Veristitalians]]",
+        "[[Highlord Paladar]]",
+        "[[Vamah Archivum]]",
+        "[[Knights of Dusk]]",
+        "[[General Spade]]",
+        "[[Ardent Kaelis]]"
+      ],
+      "tags": [
+        "#npc",
+        "#ardent",
+        "#scholar",
+        "#veristitalian",
+        "#alethi"
+      ],
+      "last_updated": "2026-05-14T18:00:00"
+    },
     "03 NPCs/Chip.md": {
       "name": "Chip",
       "type": "npc",
@@ -1017,6 +1040,22 @@
         "#faction"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "05 Factions/Veristitalians.md": {
+      "name": "Veristitalians",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Highlord Paladar]]",
+        "[[Ardent Vedelis]]",
+        "[[Devotary of Sincerity]]"
+      ],
+      "tags": [
+        "#faction",
+        "#scholar",
+        "#devotary"
+      ],
+      "last_updated": "2026-05-14T18:00:00"
     },
     "06 Locations/Cream of the Crem.md": {
       "name": "Cream of the Crem",
