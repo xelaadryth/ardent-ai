@@ -8,7 +8,7 @@ tags:
   - "#makabaki"
   - "#herald"
   - "#high_enforcer"
-last_updated: 2026-05-16T12:00:00
+last_updated: 2026-05-16T15:00:00
 ---
 # Description
 The High Enforcer of the Silent Oath and the ultimate authority on eliminating the threat of the [[Possessed]]. In reality, he is the Herald Nale, a figure of fractured sanity driven by an absolute, inflexible adherence to the law to prevent another Desolation.
@@ -31,3 +31,4 @@ He oversees the most lethal aspects of the [[Truthkeepers]] mission. He is waiti
 - [[Truthkeepers]]: His current command priority.
 - [[Istrum]]: His subordinate and Skybreaker pupil.
 - [[02 Knights of Dusk Arc]]: Central antagonist and judge of the conflict.
+- [[Morrow]]: Executed him for possession during a demonstration of Truthkeeper duty.

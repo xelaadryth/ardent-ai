@@ -3,7 +3,7 @@
     "01 Truthkeepers Arc": {
       "name": "01 Truthkeepers Arc",
       "type": "arc",
-      "status": "active",
+      "status": "inactive",
       "links": [
         "[[Adjudicator Peton]]",
         "[[Truthkeepers]]",
@@ -32,7 +32,33 @@
       "tags": [
         "#arc"
       ],
-      "last_updated": "2026-05-16T11:00:00"
+      "last_updated": "2026-05-16T12:00:00"
+    },
+    "02 Knights of Dusk Arc": {
+      "name": "02 Knights of Dusk Arc",
+      "type": "arc",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Revolar]]",
+        "[[Knights of Dusk]]",
+        "[[General Spade]]",
+        "[[Highlord Paladar]]",
+        "[[High Enforcer Aylen]]",
+        "[[General Odrin Lesh]]",
+        "[[Istrum]]",
+        "[[Khria]]",
+        "[[Ardent Kaelis]]",
+        "[[Iiko]]",
+        "[[012 Following Chip]]",
+        "[[013 Shadow War in the Driftwards]]"
+      ],
+      "tags": [
+        "#arc",
+        "#revolar",
+        "#rebellion"
+      ],
+      "last_updated": "2026-05-16T12:00:00"
     },
     "Fina": {
       "name": "Fina",
@@ -75,11 +101,10 @@
       "type": "player",
       "status": "active",
       "links": [
+        "[[Revolar]]",
+        "[[Ardent Kaelis]]",
         "[[Dreamwaker]]",
-        "[[N'tal]]",
-        "[[Kuma]]",
-        "[[Fina]]",
-        "[[Boundless Bazaar]]"
+        "[[02 Knights of Dusk Arc]]"
       ],
       "tags": [
         "#player",
@@ -87,7 +112,7 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2026-05-14T20:00:00"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "Kuma": {
       "name": "Kuma",
@@ -164,8 +189,7 @@
       "links": [
         "[[Revolar]]",
         "[[Iiko]]",
-        "[[Ardentia of Revolar]]",
-        "[[Local Engineers & Stoneworkers]]"
+        "[[02 Knights of Dusk Arc]]"
       ],
       "tags": [
         "#npc",
@@ -173,7 +197,7 @@
         "#scholar",
         "#alethi"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "Ardent Vedelis": {
       "name": "Ardent Vedelis",
@@ -273,11 +297,11 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Knights of Dusk]]",
         "[[Revolar]]",
         "[[Highlord Paladar]]",
         "[[General Spade]]",
-        "[[Knights of Dusk]]",
-        "[[Truthkeepers]]"
+        "[[02 Knights of Dusk Arc]]"
       ],
       "tags": [
         "#npc",
@@ -286,19 +310,21 @@
         "#general",
         "#vamah_military"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "General Spade": {
       "name": "General Spade",
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Truthkeepers]]",
         "[[Highlord Paladar]]",
         "[[General Odrin Lesh]]",
         "[[Revolar]]",
-        "[[Truthkeepers]]",
         "[[Silent Oath]]",
-        "[[Knights of Dusk]]"
+        "[[High Enforcer Aylen]]",
+        "[[Knights of Dusk]]",
+        "[[02 Knights of Dusk Arc]]"
       ],
       "tags": [
         "#npc",
@@ -307,7 +333,7 @@
         "#dustbringer",
         "#rebel_leader"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "Grand Justicar Malice": {
       "name": "Grand Justicar Malice",
@@ -332,8 +358,13 @@
       "status": "active",
       "links": [
         "[[Possessed]]",
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[General Spade]]",
+        "[[Khria]]",
         "[[Silent Oath]]",
-        "[[Truthkeepers]]"
+        "[[Istrum]]",
+        "[[02 Knights of Dusk Arc]]"
       ],
       "tags": [
         "#npc",
@@ -342,7 +373,7 @@
         "#herald",
         "#high_enforcer"
       ],
-      "last_updated": "2026-05-14T15:00:00"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "High Witness Yeshan": {
       "name": "High Witness Yeshan",
@@ -383,9 +414,10 @@
       "links": [
         "[[General Spade]]",
         "[[General Odrin Lesh]]",
+        "[[Knights of Dusk]]",
         "[[Truthkeepers]]",
         "[[Chip]]",
-        "[[Citylord Nilar Yenev]]"
+        "[[02 Knights of Dusk Arc]]"
       ],
       "tags": [
         "#npc",
@@ -393,7 +425,7 @@
         "#alethi",
         "#highlord"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "Ilsh": {
       "name": "Ilsh",
@@ -428,16 +460,18 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Silent Oath]]",
         "[[High Enforcer Aylen]]",
-        "[[Possessed]]"
+        "[[Revolar]]",
+        "[[Knights of Dusk]]",
+        "[[02 Knights of Dusk Arc]]"
       ],
       "tags": [
         "#npc",
         "#makabaki",
-        "#skybreaker"
+        "#skybreaker",
+        "#truthkeeper"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-16T12:00:00"
     },
     "Kabsal": {
       "name": "Kabsal",
