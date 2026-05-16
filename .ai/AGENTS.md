@@ -102,6 +102,7 @@ This is handled by `internal/workflow_integration.print_workflow_output()`.
 Vault entry types map to numbered folders:
 - core: root level
 - template: 00 Templates
+- arc: 01 Arcs
 - player: 02 Players
 - npc: 03 NPCs
 - session: 04 Sessions

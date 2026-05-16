@@ -17,6 +17,7 @@ def get_folder_prefix_for_type(entry_type: str) -> str:
     """
     type_to_prefix = {
         "template": "00 Templates",
+        "arc": "01 Arcs",
         "player": "02 Players",
         "npc": "03 NPCs",
         "session": "04 Sessions",
