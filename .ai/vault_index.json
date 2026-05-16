@@ -113,6 +113,24 @@
       ],
       "last_updated": "2026-05-13T23:29:00"
     },
+    "03 NPCs/Ardent Kaelis.md": {
+      "name": "Ardent Kaelis",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Iiko]]",
+        "[[Ardentia of Revolar]]",
+        "[[Local Engineers & Stoneworkers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#ardent",
+        "#scholar",
+        "#alethi"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
+    },
     "03 NPCs/Chip.md": {
       "name": "Chip",
       "type": "npc",
