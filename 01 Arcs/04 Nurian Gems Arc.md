@@ -1,7 +1,7 @@
 ---
 name: 04 Nurian Gems Arc
 type: arc
-status: active
+status: planned
 tags:
   - "#arc"
   - "#jah_keved"
@@ -23,7 +23,7 @@ The party travels to Jah Keved to uncover the origin of the unstable [[Nurian Ge
 - [[Szeth-son-son-Vallano]]: The phantom threat whose actions cast suspicion on all Shin "outsiders".
 
 # Stakes
-- **N'tal's Vengeance**: Failure to navigate the politics of [[Bodenar]] could result in [[N'tal]] being branded a criminal or [[Possessed]] by the very people he seeks to kill.
+- **N'tal's Vengeance**: Failure to navigate the politics of [[Bodenar]] could result in [[N'tal]] being branded a criminal by the very people he seeks to kill.
 - **Technological Stability**: If the steamship's Nurian core is sabotaged or fails, it could trigger a disaster that destroys the [[Bodenar]] docks.
 - **Political Collapse**: The death of the highprinces threatens to plunge Jah Keved into a civil war that would disrupt [[Ghostbloods]] trade and research.
 
