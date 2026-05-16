@@ -1,0 +1,1 @@
+Remove links from the frontmatter of all pages since they're already present on the page.

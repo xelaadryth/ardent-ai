@@ -1,7 +1,7 @@
-from pathlib import Path
+from vault import VAULT_ROOT
 
-INBOX_DIR = Path("Inbox")
-ARCHIVE_DIR = Path("Archive")
+INBOX_DIR = VAULT_ROOT / "Inbox"
+ARCHIVE_DIR = VAULT_ROOT / "Archive"
 
 
 def find_inbox_file(request_input=None):
