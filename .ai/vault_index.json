@@ -393,6 +393,28 @@
       ],
       "last_updated": "2026-05-15T12:00:00"
     },
+    "Dalen": {
+      "name": "Dalen",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[House Sathir]]",
+        "[[Revolar]]",
+        "[[Highlady Marise Sathir]]",
+        "[[Highlord Kethren Sathir]]",
+        "[[Knights of Dusk]]",
+        "[[003 Yenev and the Axe]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#steward",
+        "#alethi",
+        "#house_sathir",
+        "#revolar"
+      ],
+      "last_updated": "2024-05-19T14:00:00"
+    },
     "Dillind": {
       "name": "Dillind",
       "type": "npc",
@@ -1981,8 +2003,8 @@
         "[[Hearthstone]]",
         "[[004 The Sathir Estate]]",
         "[[003 Yenev and the Axe]]",
-        "[[House Sathir]]",
         "[[Stringken]]",
+        "[[House Sathir]]",
         "[[009 Slavers]]",
         "[[006 Dillind and the Temple]]"
       ],
@@ -1991,7 +2013,7 @@
         "#npc",
         "#reference"
       ],
-      "last_updated": "2024-05-18T00:00:00"
+      "last_updated": "2024-05-19T14:00:00"
     },
     "Nurian Gems": {
       "name": "Nurian Gems",

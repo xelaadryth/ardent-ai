@@ -6,7 +6,7 @@ tags:
   - "#spren"
   - "#mistspren"
   - "#ancient"
-last_updated: 2026-05-13T23:29:00
+last_updated: 2024-05-19T15:00:00
 ---
 # Description
 An ancient Mistspren of immense age who serves as a grounding anchor for [[Iiko]]’s manic intellect. He carries the weight of prophecies from a bygone era and acts as a conduit for the "Ten Keys."
@@ -18,7 +18,7 @@ Dreamwaker manifests as a shimmering, unique pattern of refracted light. His mov
 Possessing an ancient soul, he speaks with deliberate care and slow enunciation. He is characterized by a deep, patient curiosity regarding the beauty of the Physical Realm. He values "unique perspectives" above all else, having bonded [[Iiko]] specifically to observe how a mortal mind pursues truth.
 
 # Background
-Dreamwaker is a Mistspren who predates the current era and maintains a significant connection to the spren [[Glys]]. This connection makes him the primary source of the "Ten Keys" prophecy, which serves as the driving force behind his partner’s current quest.
+Dreamwaker is a Mistspren who predates the current era and maintains a significant connection to the spren **Glys**. His connection makes him the primary source of the "Ten Keys" prophecy, which was triggered by the party's discovery of the [[Tablet of Eleven Cities]].
 
 # Goals
 - **The Search for Truth:** Pushing [[Iiko]] to actively "seek" the truth rather than merely desiring it.
@@ -29,5 +29,6 @@ Dreamwaker is a Mistspren who predates the current era and maintains a significa
 
 # Connections
 - **[[Iiko]]**: His bonded Radiant and the subject of his intellectual curiosity.
-- **[[Glys]]**: An ancient peer and the source of his most vital prophecy.
+- **Glys**: An ancient peer and the source of his most vital prophecy.
 - **The Ten Keys**: The prophetic framework that guides his and [[Iiko]]'s journey.
+- [[Tablet of Eleven Cities]]
