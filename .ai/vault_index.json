@@ -164,6 +164,20 @@
       ],
       "last_updated": "2026-05-14T18:00:00"
     },
+    "Ashusa": {
+      "name": "Ashusa",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Citylord Nilar Yenev]]",
+        "[[Stringken]]"
+      ],
+      "tags": [
+        "#npc",
+        "#alethi"
+      ],
+      "last_updated": "2026-05-15T12:00:00"
+    },
     "Chip": {
       "name": "Chip",
       "type": "npc",
@@ -188,8 +202,13 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Stringken]]",
+        "[[House Sathir]]",
+        "[[Highlady Marise Sathir]]",
         "[[Highlord Paladar]]",
-        "[[Highlady Marise Sathir]]"
+        "[[Bit]]",
+        "[[Ashusa]]",
+        "[[Dalen]]"
       ],
       "tags": [
         "#npc",
@@ -199,7 +218,7 @@
         "#citylord",
         "#bit"
       ],
-      "last_updated": "2026-05-14T12:00:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "Dillind": {
       "name": "Dillind",
@@ -741,13 +760,13 @@
       "links": [
         "[[Citylord Nilar Yenev]]",
         "[[Stringken]]",
-        "[[Kesh's Gorge]]",
         "[[Highlady Marise Sathir]]",
-        "[[Dalen]]",
-        "[[Bit]]",
         "[[House Sathir|Sathir Estate]]",
+        "[[Dalen]]",
+        "[[Ashusa]]",
         "[[Highlord Paladar]]",
-        "[[Galeth-son-Thald]]"
+        "[[Galeth-son-Thald]]",
+        "[[Bit]]"
       ],
       "tags": [
         "#session",
