@@ -22,7 +22,8 @@
       "status": "active",
       "links": [
         "[[Kun'ahu]]",
-        "[[Truthkeepers]]"
+        "[[Truthkeepers]]",
+        "[[Szeth-son-son-Vallano]]"
       ],
       "tags": [
         "#player",
@@ -32,7 +33,7 @@
         "#stoneward",
         "#darkeyed"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-13T23:45:00"
     },
     "02 Players/Iiko.md": {
       "name": "Iiko",
@@ -448,6 +449,22 @@
         "#mercenary"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "03 NPCs/Szeth-son-son-Vallano.md": {
+      "name": "Szeth-son-son-Vallano",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Galeth-son-Thald]]",
+        "[[Silent Oath]]"
+      ],
+      "tags": [
+        "#npc",
+        "#shin",
+        "#assassin",
+        "#truthless"
+      ],
+      "last_updated": "2026-05-13T23:45:00"
     },
     "03 NPCs/Tahs.md": {
       "name": "Tahs",
