@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 NPCs/Highlady Marise Sathir.md",
+                "file": "Inbox/Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Highlady Marise Sathir"
+              "title": "Session 3"
             }
           }
         ],
@@ -281,8 +281,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8ce4e29ab159e4f",
+  "active": "b41c90a59212643f",
   "lastOpenFiles": [
+    "03 NPCs/Highlady Marise Sathir.md",
+    "Inbox/Session 3.md",
+    "Inbox/Remove links from frontmatter.md",
+    "Archive/0030-Vorn.md",
+    "Archive/0029-Undertaker.md",
+    "03 NPCs/Vorn.md",
+    "03 NPCs/Undertaker.md",
     "Archive/0028-Tien.md",
     "03 NPCs/Tien.md",
     "Archive/0027-Szeth-son-son-Vallano.md",
@@ -290,8 +297,6 @@
     "Archive/0026-Remove links from frontmatter.md",
     "Archive/0025-Kabsal.md",
     "03 NPCs/Kabsal.md",
-    "03 NPCs/Highlady Marise Sathir.md",
-    "Inbox/Remove links from frontmatter.md",
     "Archive/0024-Istrum.md",
     "03 NPCs/Istrum.md",
     "Archive/0023-Ilsh.md",
@@ -304,11 +309,6 @@
     "03 NPCs/Highlord Paladar.md",
     "03 NPCs/Grand Justicar Malice.md",
     "03 NPCs/High Witness Yeshan.md",
-    "03 NPCs/High Enforcer Aylen.md",
-    "03 NPCs/General Odrin Lesh.md",
-    "03 NPCs/Citylord Nilar Yenev.md",
-    "03 NPCs/Ardent Kaelis.md",
-    "03 NPCs/Adjudicator Peton.md",
     "Makefile",
     "vault_index.json",
     "reindex-output.txt",
