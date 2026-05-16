@@ -137,6 +137,29 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "03 NPCs/Ardent Vedelis.md": {
+      "name": "Ardent Vedelis",
+      "type": "npc",
+      "status": "inactive",
+      "links": [
+        "[[Lavrik]]",
+        "[[Devotary of Sincerity]]",
+        "[[Veristitalians]]",
+        "[[Highlord Paladar]]",
+        "[[Vamah Archivum]]",
+        "[[Knights of Dusk]]",
+        "[[General Spade]]",
+        "[[Ardent Kaelis]]"
+      ],
+      "tags": [
+        "#npc",
+        "#ardent",
+        "#scholar",
+        "#veristitalian",
+        "#alethi"
+      ],
+      "last_updated": "2026-05-14T18:00:00"
+    },
     "03 NPCs/Chip.md": {
       "name": "Chip",
       "type": "npc",
@@ -1018,7 +1041,23 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "Cream of the Crem.md": {
+    "05 Factions/Veristitalians.md": {
+      "name": "Veristitalians",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Highlord Paladar]]",
+        "[[Ardent Vedelis]]",
+        "[[Devotary of Sincerity]]"
+      ],
+      "tags": [
+        "#faction",
+        "#scholar",
+        "#devotary"
+      ],
+      "last_updated": "2026-05-14T18:00:00"
+    },
+    "06 Locations/Cream of the Crem.md": {
       "name": "Cream of the Crem",
       "type": "location",
       "status": "active",
@@ -1031,7 +1070,7 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "Hearthstone.md": {
+    "06 Locations/Hearthstone.md": {
       "name": "Hearthstone",
       "type": "location",
       "status": "active",
@@ -1045,7 +1084,7 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "Hobbleken.md": {
+    "06 Locations/Hobbleken.md": {
       "name": "Hobbleken",
       "type": "location",
       "status": "active",
@@ -1057,14 +1096,14 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "Revolar.md": {
+    "06 Locations/Revolar.md": {
       "name": "Revolar",
       "type": "location",
       "status": "active",
       "links": [
         "[[Darkstone Forest]]",
         "[[The Stackhouses]]",
-        "[[06 Locations/Cream of the Crem]]",
+        "[[Cream of the Crem]]",
         "[[Whitespine's Fang]]",
         "[[Sun's Zenith]]",
         "[[Gemheart Inn]]",
@@ -1080,7 +1119,7 @@
       ],
       "last_updated": "2026-05-14T18:00:00"
     },
-    "Stringken.md": {
+    "06 Locations/Stringken.md": {
       "name": "Stringken",
       "type": "location",
       "status": "active",
@@ -1094,7 +1133,7 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "Talinan.md": {
+    "06 Locations/Talinan.md": {
       "name": "Talinan",
       "type": "location",
       "status": "active",
@@ -1107,7 +1146,7 @@
       ],
       "last_updated": "2026-05-14T14:00:00"
     },
-    "Truthkeeper Camp.md": {
+    "06 Locations/Truthkeeper Camp.md": {
       "name": "Truthkeeper Camp",
       "type": "location",
       "status": "active",
