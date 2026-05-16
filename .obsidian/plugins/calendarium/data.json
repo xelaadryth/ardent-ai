@@ -1,0 +1,285 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Roshar",
+      "description": "Rosharan calendar.",
+      "id": "ID_9b7b39f808e8",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Jesel",
+            "id": "ID_f83828db6afa"
+          },
+          {
+            "type": "day",
+            "name": "Nanel",
+            "id": "ID_9b19c878ab99"
+          },
+          {
+            "type": "day",
+            "name": "Chachel",
+            "id": "ID_59c9592b5828",
+            "abbreviation": "CHACH"
+          },
+          {
+            "type": "day",
+            "name": "Vevel",
+            "id": "ID_b99ada3bba2a"
+          },
+          {
+            "type": "day",
+            "name": "Palahel",
+            "id": "ID_5839fbbb5828",
+            "abbreviation": "PALAH"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Jes",
+            "length": 50,
+            "id": "ID_6a39db8a2bbb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Nan",
+            "length": 50,
+            "id": "ID_6bc968693b69",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Chach",
+            "length": 50,
+            "id": "ID_8878cbf97868",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Vev",
+            "length": 50,
+            "id": "ID_1b095ba8997a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Palah",
+            "length": 50,
+            "id": "ID_084b381b3be8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Shash",
+            "length": 50,
+            "id": "ID_99a8f909ea0b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Betab",
+            "length": 50,
+            "id": "ID_c958786a0ada",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Kak",
+            "length": 50,
+            "id": "ID_eb7bf90a9abb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tanat",
+            "length": 50,
+            "id": "ID_2beaa8f9e928",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ishi",
+            "length": 50,
+            "id": "ID_d8b9fafa08c9",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Salas",
+            "cycle": 1,
+            "offset": 0,
+            "faceColor": "#2f0075",
+            "shadowColor": "#000",
+            "id": "ID_89eb382b6bb8"
+          },
+          {
+            "name": "Nomon",
+            "cycle": 1,
+            "offset": 0,
+            "faceColor": "#25c0f4",
+            "shadowColor": "#000",
+            "id": "ID_6b2bdbeb184b"
+          },
+          {
+            "name": "Mishim",
+            "cycle": 1,
+            "offset": 0,
+            "faceColor": "#088000",
+            "shadowColor": "#000",
+            "id": "ID_995afa9a1a58"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_69da7888b929",
+            "type": "era",
+            "name": "Dawn Era",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": 1172,
+              "month": 1,
+              "day": 37
+            }
+          },
+          {
+            "id": "ID_59b919caa97a",
+            "type": "era",
+            "name": "Mythic Era",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -5900,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_ab9aebb8695a",
+            "type": "era",
+            "name": "Heraldic Epochs",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -5800,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_0bf8781aeb79",
+            "type": "era",
+            "name": "Era of Solitude",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -3300,
+              "month": 0,
+              "day": 1
+            }
+          }
+        ],
+        "padMonths": 2,
+        "padDays": 2,
+        "dayDisplayCallback": "/**\n * Calendarium Day Callback for the Rosharan Calendar (Supports Pre-Epoch)\n * Formats absolute day indices into standard Vorin notation: YYYY.M.W.D\n * Supports negative timeline integers for historical worldbuilding notes.\n * \n * @param {number} totalDays - The absolute cumulative day of the calendar\n * @returns {string} The formatted Rosharan date string (Negative if Pre-Epoch)\n */\nfunction getRosharanDate(totalDays) {\n    // Rosharan calendar constants\n    const DAYS_IN_WEEK = 5;\n    const DAYS_IN_MONTH = 50;\n    const DAYS_IN_YEAR = 500;\n\n    if (totalDays >= 1) {\n        // --- Standard Post-Epoch Math ---\n        const zeroIndexedDays = totalDays - 1;\n\n        const year = Math.floor(zeroIndexedDays / DAYS_IN_YEAR) + 1;\n        const dayOfYear = zeroIndexedDays % DAYS_IN_YEAR;\n\n        const month = Math.floor(dayOfYear / DAYS_IN_MONTH) + 1;\n        const dayOfMonth = dayOfYear % DAYS_IN_MONTH;\n\n        const week = Math.floor(dayOfMonth / DAYS_IN_WEEK) + 1;\n        const dayOfWeek = (dayOfMonth % DAYS_IN_WEEK) + 1;\n\n        return `${year}.${month}.${week}.${dayOfWeek}`;\n    } else {\n        // --- Pre-Epoch Math (Counting backward from Day 1) ---\n        // Convert to a positive distance backward from the start of Year 1\n        const daysBeforeEpoch = 1 - totalDays; \n\n        const year = -Math.floor((daysBeforeEpoch - 1) / DAYS_IN_YEAR) - 1;\n        const dayOfYear = (daysBeforeEpoch - 1) % DAYS_IN_YEAR;\n\n        // Invert the month/week/day alignment so they count 1 to 10 within that negative year\n        const inverseDayOfYear = (DAYS_IN_YEAR - 1) - dayOfYear;\n\n        const month = Math.floor(inverseDayOfYear / DAYS_IN_MONTH) + 1;\n        const dayOfMonth = inverseDayOfYear % DAYS_IN_MONTH;\n\n        const week = Math.floor(dayOfMonth / DAYS_IN_WEEK) + 1;\n        const dayOfWeek = (dayOfMonth % DAYS_IN_WEEK) + 1;\n\n        // Returns a negative year prefix: e.g., -100.10.10.5\n        return `${year}.${month}.${week}.${dayOfWeek}`;\n    }\n}"
+      },
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -726861180,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [],
+        "defaultLocation": ""
+      },
+      "current": {
+        "day": 37,
+        "month": 1,
+        "year": 1172
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "YYYY.M.DD"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_9b7b39f808e8",
+  "eventPreview": false,
+  "exit": {
+    "saving": true,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
