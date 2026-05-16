@@ -2,12 +2,9 @@
 name: Knights of Dusk
 type: faction
 status: active
-links:
-  - "[[Revolar]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#faction"
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:35:12
 ---
 # Description
 A clandestine rebel organization based in the urban shadows of [[Revolar]], led by emerging Knights Radiant. They represent the growing resistance against the established order of the princedoms.
@@ -27,5 +24,5 @@ The Knights of Dusk operate through military-inspired cells designed to evade de
 
 # Connections
 - **Highlord Paladar**: Their primary political and military enemy.
-- **[[Truthkeepers]]**: Direct ideological and physical opponents who hunt their members.
+- [[Truthkeepers]]: Direct ideological and physical opponents who hunt their members.
 - **The Poor of Revolar**: Their main source of intelligence, shelter, and logistical support.

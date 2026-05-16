@@ -2,16 +2,13 @@
 name: Mallow
 type: player
 status: active
-links:
-  - "[[Khria]]"
-  - "[[Cadence]]"
 tags:
   - "#player"
   - "#willshaper"
   - "#purelaker"
   - "#enforcer"
 player: Audrey
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:35:12
 ---
 
 # Description
