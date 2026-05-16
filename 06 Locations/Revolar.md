@@ -4,7 +4,7 @@ type: location
 status: active
 tags:
   - "#location"
-last_updated: 2026-05-14T18:00:00
+last_updated: 2026-05-15T12:00:00
 ---
 # Overview
 A major urban center and the intended destination for the squad's transfer. It serves as a significant hub for military logistics and political activity.
@@ -48,3 +48,4 @@ A major urban center and the intended destination for the squad's transfer. It s
 - [[Knights of Dusk]]: Operates within the city's shadows to coordinate rebel activities.
 - [[Khria]]: Often moves through the city in disguise to conduct logistical operations.
 - [[Renna Palir]]: Originally from this city before joining the Truthkeepers.
+- [[Darkstone Forest]]

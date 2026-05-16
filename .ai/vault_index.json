@@ -44,7 +44,8 @@
         "[[Dreamwaker]]",
         "[[N'tal]]",
         "[[Kuma]]",
-        "[[Fina]]"
+        "[[Fina]]",
+        "[[Boundless Bazaar]]"
       ],
       "tags": [
         "#player",
@@ -52,7 +53,7 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-14T20:00:00"
     },
     "Kuma": {
       "name": "Kuma",
@@ -683,20 +684,20 @@
       "type": "session",
       "status": "active",
       "links": [
+        "[[Hobbleken]]",
+        "[[Stringken]]",
         "[[Fina]]",
         "[[Renna Palir]]",
         "[[Highlord Sadeas]]",
         "[[Ilsh Thaylen]]",
-        "[[Highlord Paladar]]",
-        "[[Hobbleken]]",
-        "[[Stringken]]"
+        "[[Highlord Paladar]]"
       ],
       "tags": [
         "#session",
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "003 Yenev and the Axe": {
       "name": "003 Yenev and the Axe",
@@ -704,9 +705,12 @@
       "status": "active",
       "links": [
         "[[Citylord Nilar Yenev]]",
+        "[[Stringken]]",
+        "[[Kesh's Gorge]]",
         "[[Highlady Marise Sathir]]",
         "[[Dalen]]",
         "[[Bit]]",
+        "[[House Sathir|Sathir Estate]]",
         "[[Highlord Paladar]]",
         "[[Galeth-son-Thald]]"
       ],
@@ -715,15 +719,24 @@
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "004 The Sathir Estate": {
       "name": "004 The Sathir Estate",
       "type": "session",
       "status": "active",
       "links": [
+        "[[House Sathir|Sathir Estate]]",
         "[[Highlady Marise Sathir]]",
         "[[Mikeyel Franzay]]",
+        "[[N'tal]]",
+        "[[Kuma]]",
+        "[[Mallow]]",
+        "[[Iiko]]",
+        "[[Galeth-son-Thald]]",
+        "[[Fina]]",
+        "[[House Sathir]]",
+        "[[Undertaker]]",
         "[[Dalen]]"
       ],
       "tags": [
@@ -731,14 +744,18 @@
         "#rp",
         "#downtime"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "005 Hearthstone": {
       "name": "005 Hearthstone",
       "type": "session",
       "status": "active",
       "links": [
-        "[[Ilsh]]",
+        "[[House Sathir|Sathir Estate]]",
+        "[[Hearthstone]]",
+        "[[Toralin Roshone|Roshones]]",
+        "[[Amaram]]",
+        "[[Ilsh Thaylen]]",
         "[[Lirin]]",
         "[[Fina]]",
         "[[Toralin Roshone]]",
@@ -746,6 +763,7 @@
         "[[Renna Palir]]",
         "[[Chip]]",
         "[[Karani]]",
+        "[[Truthkeepers]]",
         "[[Citylord Nilar Yenev]]",
         "[[House Sathir]]",
         "[[Iiko]]"
@@ -755,7 +773,7 @@
         "#rp",
         "#investigation"
       ],
-      "last_updated": "2026-05-13T23:55:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "006 Dillind and the Temple": {
       "name": "006 Dillind and the Temple",
@@ -773,7 +791,7 @@
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2026-05-13T23:59:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "007 Lavrik and the Soulcaster": {
       "name": "007 Lavrik and the Soulcaster",
@@ -781,6 +799,7 @@
       "status": "active",
       "links": [
         "[[Lavrik]]",
+        "[[Ardent Vedelis]]",
         "[[Knights of Dusk]]",
         "[[Iiko]]",
         "[[General Spade]]",
@@ -793,45 +812,52 @@
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2026-05-14T00:00:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "008 The Envisagers of Talinan": {
       "name": "008 The Envisagers of Talinan",
       "type": "session",
       "status": "active",
       "links": [
+        "[[Talinan]]",
+        "[[Envisagers]]",
         "[[Dillind]]",
         "[[Iiko]]",
         "[[Dreamwaker]]",
         "[[Glys]]",
         "[[Chip]]",
         "[[Ghostbloods]]",
-        "[[Envisagers]]",
-        "[[Tien]]"
+        "[[Tien]]",
+        "[[Highlord Sadeas]]",
+        "[[House Sathir|Sathir estate]]"
       ],
       "tags": [
         "#session",
         "#investigation",
         "#combat"
       ],
-      "last_updated": "2026-05-14T14:00:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "009 Slavers": {
       "name": "009 Slavers",
       "type": "session",
       "status": "active",
       "links": [
+        "[[Hearthstone]]",
+        "[[House Sathir]]",
+        "[[Revolar]]",
         "[[Fina]]",
         "[[Lirin]]",
         "[[Verdae]]",
+        "[[Amaram]]",
         "[[Toralin Roshone]]",
         "[[Laral Roshone]]",
-        "[[Revolar]]",
         "[[Renna Palir]]",
         "[[Chip]]",
         "[[Karani]]",
         "[[Tusa]]",
         "[[Pafo]]",
+        "[[Stringken]]",
         "[[Cadence]]",
         "[[Highlady Marise Sathir]]",
         "[[Truthkeepers]]"
@@ -841,28 +867,30 @@
         "#rp",
         "#investigation"
       ],
-      "last_updated": "2026-05-14T14:30:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "010 Soulcaster and Shared Employers": {
       "name": "010 Soulcaster and Shared Employers",
       "type": "session",
       "status": "active",
       "links": [
+        "[[Stringken]]",
+        "[[Hobbleken]]",
         "[[Kuma]]",
         "[[Iiko]]",
         "[[Bit]]",
         "[[Revolar]]",
+        "[[Bloodmarks]]",
         "[[Citylord Nilar Yenev]]",
         "[[Chip]]",
-        "[[Truthkeepers]]",
-        "[[Ashusa]]"
+        "[[Truthkeepers]]"
       ],
       "tags": [
         "#session",
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2026-05-14T12:00:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "011 Promotions and Revolar": {
       "name": "011 Promotions and Revolar",
@@ -874,6 +902,7 @@
         "[[Silent Oath]]",
         "[[Revolar]]",
         "[[Knights of Dusk]]",
+        "[[Truthkeepers]]",
         "[[High Witness Yeshan]]",
         "[[Morrow the Merchant]]",
         "[[Possessed]]",
@@ -887,14 +916,15 @@
         "[[Yola]]",
         "[[Shess]]",
         "[[N'tal]]",
-        "[[Undertaker]]"
+        "[[Undertaker]]",
+        "[[Whitespine's Fang]]"
       ],
       "tags": [
         "#session",
         "#promotion",
         "#investigation"
       ],
-      "last_updated": "2026-05-14T15:00:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "012 Following Chip": {
       "name": "012 Following Chip",
@@ -906,6 +936,9 @@
         "[[Undertaker]]",
         "[[Ghostbloods]]",
         "[[Bloodmarks]]",
+        "[[Gemheart Inn]]",
+        "[[Bruckslats]]",
+        "[[Crowded Steppe]]",
         "[[Possessed]]",
         "[[Highlord Paladar]]",
         "[[Stackhouses]]",
@@ -915,14 +948,16 @@
         "#session",
         "#investigation"
       ],
-      "last_updated": "2026-05-14T16:00:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "013 Shadow War in the Driftwards": {
       "name": "013 Shadow War in the Driftwards",
       "type": "session",
       "status": "active",
       "links": [
+        "[[Revolar|Driftwards]]",
         "[[Bloodmarks]]",
+        "[[Scarstone Quarter]]",
         "[[Knights of Dusk]]",
         "[[Revolar]]",
         "[[Undertaker]]"
@@ -932,7 +967,7 @@
         "#investigation",
         "#stealth"
       ],
-      "last_updated": "2026-05-14T17:00:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "Bloodmarks": {
       "name": "Bloodmarks",
@@ -1052,6 +1087,22 @@
         "#revolar"
       ],
       "last_updated": "2026-05-14T18:30:00"
+    },
+    "Boundless Bazaar": {
+      "name": "Boundless Bazaar",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Undertaker]]",
+        "[[Kuma]]",
+        "[[Iiko]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-14T20:00:00"
     },
     "Cream of the Crem": {
       "name": "Cream of the Crem",
