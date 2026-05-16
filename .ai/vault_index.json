@@ -1181,6 +1181,36 @@
       ],
       "last_updated": "2026-05-15T12:00:00"
     },
+    "Scarstone Quarter": {
+      "name": "Scarstone Quarter",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Stackhouses]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-15T12:00:00"
+    },
+    "Stackhouses": {
+      "name": "Stackhouses",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Scarstone Quarter]]",
+        "[[Revolar]]",
+        "[[Bloodmarks]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-15T12:00:00"
+    },
     "Stringken": {
       "name": "Stringken",
       "type": "location",
