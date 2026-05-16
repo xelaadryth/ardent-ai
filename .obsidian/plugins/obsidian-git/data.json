@@ -1,6 +1,6 @@
 {
-  "commitMessage": "Obsidian Sync: {{numFiles}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "",
+  "autoCommitMessage": "Obsidian Sync: {{numFiles}} files",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
