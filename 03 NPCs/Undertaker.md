@@ -8,14 +8,14 @@ links:
   - "[[Karani]]"
   - "[[High Enforcer Aylen]]"
   - "[[Revolar]]"
+  - "[[Whitespine's Fang]]"
 tags:
   - "#npc"
   - "#thaylen"
   - "#ghostbloods"
   - "#worldhopper"
-last_updated: 2026-05-13T23:45:00
+last_updated: 2026-05-15T12:00:00
 ---
-
 # Description
 Undertaker is a man of indeterminate age with a weathered, yet sophisticated face. He often wears high-quality, though understated, Alethi silks in dark, somber tones. He carries himself with the quiet confidence of a predator and is rarely seen without a small, exotic avian (a chicken) perched nearby. He often smells faintly of strange perfumes and dried herbs. His eyebrows are dyed black and cut short, hiding his Thaylen origins except to the most discerning eyes.
 
@@ -37,3 +37,4 @@ Undertaker is actually **Mraize**, a worldhopper of significant power and influe
 - [[Ghostbloods]]: His true allegiance.
 - [[Chip]] & [[Karani]]: His field agents.
 - [[High Enforcer Aylen]]: He views Aylen's work with the Silent Oath as a necessary "cleaning service" for the world at large.
+- [[Whitespine's Fang]]: His favored meeting spot.
