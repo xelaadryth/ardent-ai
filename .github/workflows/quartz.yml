@@ -21,17 +21,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Debug - Show working directory and files
-        run: |
-          echo "Current directory: $(pwd)"
-          echo "GITHUB_WORKSPACE: $GITHUB_WORKSPACE"
-          echo "Files in root:"
-          ls -la
-          echo "Files in .quartz:"
-          ls -la .quartz/ || echo ".quartz directory not found!"
-          echo "Looking for script:"
-          find . -name "setup-content.sh" || echo "Script not found anywhere!"
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
