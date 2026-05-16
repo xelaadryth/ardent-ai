@@ -385,14 +385,15 @@
       "links": [
         "[[Viscose]]",
         "[[Revolar]]",
-        "[[Ilsh]]"
+        "[[Ilsh]]",
+        "[[Vorn]]"
       ],
       "tags": [
         "#elsecaller",
         "#nurian",
         "#maker"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-13T23:45:00"
     },
     "03 NPCs/Renna Palir.md": {
       "name": "Renna Palir",
@@ -517,6 +518,21 @@
         "#thaylen",
         "#ghostbloods",
         "#worldhopper"
+      ],
+      "last_updated": "2026-05-13T23:45:00"
+    },
+    "03 NPCs/Vorn.md": {
+      "name": "Vorn",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Kuma]]"
+      ],
+      "tags": [
+        "#npc",
+        "#thaylen",
+        "#artifabrian"
       ],
       "last_updated": "2026-05-13T23:45:00"
     },
