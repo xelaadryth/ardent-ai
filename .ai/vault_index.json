@@ -944,23 +944,24 @@
       "type": "session",
       "status": "active",
       "links": [
-        "[[Stringken]]",
-        "[[Hobbleken]]",
+        "[[Ashusa]]",
+        "[[Truthkeepers]]",
+        "[[Galeth-son-Thald]]",
+        "[[The Axe]]",
         "[[Kuma]]",
-        "[[Iiko]]",
-        "[[Bit]]",
-        "[[Revolar]]",
-        "[[Bloodmarks]]",
-        "[[Citylord Nilar Yenev]]",
+        "[[Soulcaster]]",
+        "[[Hobbleken]]",
         "[[Chip]]",
-        "[[Truthkeepers]]"
+        "[[Possessed]]",
+        "[[Truthkeeper Camp]]",
+        "[[Stringken]]"
       ],
       "tags": [
         "#session",
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2026-05-15T18:30:00"
     },
     "011 Promotions and Revolar": {
       "name": "011 Promotions and Revolar",

@@ -1,41 +1,42 @@
 ---
 name: 011 Promotions and Revolar
 type: session
-status: active
+status: inactive
 tags:
   - "#session"
   - "#promotion"
   - "#investigation"
-last_updated: 2026-05-15T16:30:00
+last_updated: 2026-05-15T18:00:00
 ---
 
 # Description
-The squad is promoted to Enforcer rank by [[Adjudicator Peton]] and introduced to [[High Enforcer Aylen]]. After witnessing a brutal demonstration of the [[Silent Oath]]'s methods, the party is tasked with transitioning to [[Revolar]] to investigate regional unrest and the [[Knights of Dusk]].
+The squad is promoted to Enforcer rank by [[Adjudicator Peton]] and introduced to [[High Enforcer Aylen]]. After witnessing the brutal execution of [[Morrow the Merchant]] by [[High Enforcer Aylen]]—who wielded a Shardblade and exhibited glowing eyes—the party learns that the [[Truthkeepers]] believe the [[Possessed]] (who suffer from visions of [[Cryptics]]) are a terminal, contagious threat. The squad discovers [[Chip]] and [[Karani]] are operating as independent spies for a faction connected to the [[Ghostbloods]] and [[Bloodmarks]]. Despite their misgivings about the Truthkeepers' methods, the squad agrees to accompany them to [[Revolar]] to investigate the [[Knights of Dusk]].
 
 # Scenes
 - **Promotion:** [[Adjudicator Peton]] commends the squad for their service, raising them to Enforcer rank and providing a bonus of 300 clearmarks.
-- **The Silent Oath:** [[High Enforcer Aylen]] arrives to oversee the [[Truthkeepers]] in [[High Witness Yeshan]]'s absence. He demonstrates the organization's grim duty by executing [[Morrow the Merchant]] for suspected contamination by the [[Possessed]].
-- **The Path to Revolar:** The party receives new directives. They must navigate the logistics of moving south, potentially leveraging [[Ghostbloods]] contacts via [[Chip]] or seeking legitimate entry via the bribe of [[Jokrun]] at the northern gates of [[Revolar]].
-- **Regional Travel:** The squad passes through various settlements including [[Branchken]], [[Leafken]], [[Listern]], [[Climit]], [[Yola]], and [[Shess]], witnessing the varying degrees of poverty and Vamah control.
-- **The Sweeper's Contact:** [[N'tal]] receives instructions from the Sweeper to meet the [[Undertaker]] at the [[Whitespine's Fang]] in [[Revolar]].
+- **The Execution:** [[High Enforcer Aylen]] demonstrates the organization's grim duty by executing [[Morrow the Merchant]], confirming that the Truthkeepers view [[Possessed]] individuals as irredeemable threats to be purged.
+- **Shadows and Secrets:** [[N'tal]] and the squad track [[Chip]] and [[Karani]], discovering they are collecting information on the [[Bloodmarks]] and the influx of spheres. They recover a sealed envelope bearing a symbol linked to [[Doug (Guddy)]] and the tragedy of [[N'tal]]'s family.
+- **The Road to Revolar:** The party encounters [[The Axe]], who aids them in repairing their cart. [[Karani]] shares her expertise in stealth and poisons with [[Fina]].
+- **Directives:** The squad is ordered to regroup outside [[Revolar]] in three weeks to combat the growing insurgency of the [[Knights of Dusk]].
 
 # Hooks
 - **Ghostblood Favor:** Secure safe passage and intelligence in [[Revolar]] by completing a mission for the [[Ghostbloods]].
 - **The Silent Oath's Mission:** Investigate the reports from Azir as requested by [[High Enforcer Aylen]].
 - **Revolar Rebellion:** Locate the base of the [[Knights of Dusk]] within [[Revolar]].
 - **Spy of Dusk:** Investigate the security compromise within [[The Vamah Archivum]] involving [[Renna Palir]].
+- **The Possessed:** Monitor the Truthkeepers' purging operations to protect those identified as Possessed.
 
 # Connections
-- [[Adjudicator Peton]]: Assigned the squad to Enforcer rank and oversees their local mission status.
+- [[Adjudicator Peton]]: Assigned the squad to Enforcer rank.
 - [[High Enforcer Aylen]]: Oversees the Truthkeeper operations and the Silent Oath's local purge.
 - [[Truthkeepers]]: The organization currently employing and directing the party.
-- [[High Witness Yeshan]]: The ultimate authority of the Truthkeepers who maintains the squad's linguistic Connection.
+- [[Chip]]: A Ghostblood operative and squad contact whose loyalties are under scrutiny.
+- [[Karani]]: A worldhopper and ghostblood informant.
 - [[Revolar]]: The squad's primary destination and current operational theater.
 - [[Ghostbloods]]: A faction offering illicit logistical support and intelligence to the party.
-- [[Chip]]: A Ghostblood operative and squad contact.
 - [[N'tal]]: A party member tasked with a secret meeting with the Undertaker.
 - [[Undertaker]]: A high-ranking Ghostblood contact and target of the squad's investigation.
 - [[Knights of Dusk]]: A local insurgency currently being investigated by the party.
 - [[Morrow the Merchant]]: A victim of the Silent Oath whose execution serves as a warning.
-- [[Jokrun]]: A gate contact at Revolar potentially facilitating entry.
-- [[Renna Palir]]: A Truthkeeper contact whose loyalties are under scrutiny.
+- [[The Axe]]: A warrior encountered on the road to Revolar.
+- [[Doug (Guddy)]]: A murder victim whose association with the Ghostbloods links to N'tal's past.
