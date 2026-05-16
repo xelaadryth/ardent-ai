@@ -32,11 +32,11 @@ A Nurian worldhopper posing as an Alethi merchant, N'tal grew up in a family of 
 # Hooks
 - The Undertaker may know more than N'tal is prepared to hear.
 - The mystery man could connect his family to a much larger conspiracy.
-- Pyre's destructive tendencies may push N'tal toward dangerous choices.
+- Pyre's destructive tendencies may push N'tal toward dangerous choices during the chase in [[The Foundry Gambit]].
 
 # Connections
 - [[Pyre]] — His radical and spiteful Ashspren.
 - [[Grand Justicar Malice]] — The orchestrator of his family's murder.
 - [[Arbiter Jalis]] — A personal enemy and Bloodmark Lieutenant.
-- [[The Foundry Gambit]] — A pivotal moment in his moral and Radiant journey.
+- [[The Foundry Gambit]] — The high-speed chase and moral crucible where he will Speak the Words.
 - [[04 Nurian Gems Arc]] — His primary path to vengeance in Jah Keved.

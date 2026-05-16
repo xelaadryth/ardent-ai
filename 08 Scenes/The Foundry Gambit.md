@@ -7,35 +7,35 @@ tags:
   - "#revolar"
   - "#combat"
   - "#moral_trial"
+  - "#chase"
 last_updated: 2024-05-18T00:00:00
 ---
 
 # Overview
-A pivotal encounter in an abandoned industrial foundry within the [[Scarstone Quarter]] of [[Revolar]]. The scene serves as a crucible for [[N'tal]], forcing a choice between long-sought vengeance against the [[Bloodmarks]] and the protection of a fledgling Radiant.
+A high-stakes pursuit through the winding, industrial alleys of the [[Scarstone Quarter]] that culminates in a moral crucible within a derelict crem-processing facility. This encounter is designed as the catalyst for [[N'tal]] to speak the First Ideal and manifest the surge of Abrasion.
 
 # Setup
-The party tracks a human trafficking shipment to a derelict foundry once used for crem-iron processing. They interrupt a transfer led by [[Arbiter Jalis]], who is interrogating [[Jory]]. [[Arbiter Jalis]] recognizes [[N'tal]] from the massacre of his family and uses the environment to stage a sadistic gauntlet.
+The party identifies a [[Bloodmarks]] transport team moving a high-value "asset"—the fledgling Radiant [[Jory]]. The pursuit begins as a high-speed chase across the rickety scaffolding of the [[Scarstone Quarter]], led by [[Arbiter Jalis]]. Jalis uses the neighborhood's unstable architecture to delay the party, leading them toward a "killing box" in an abandoned crem-iron foundry.
 
-# Environment & Hazards
-- **The Conveyor Crucible:** A massive ore conveyor dragging captives toward a smelting furnace.
-- **Upper Catwalks:** Suspended iron walkways offering high ground to [[Arbiter Jalis]].
-- **Oil-Slick Floors:** Patches of lubricant that make movement hazardous, designed to trigger [[N'tal]]'s manifestation of Abrasion.
-- **Iron Grates:** Drop-cages that can pin party members to the floor.
+# Phase 1: The Scarstone Pursuit
+To catch Jalis before he reaches the interior of the foundry, the party must navigate a series of dynamic obstacles:
+- **The Slick-Crem Alleys:** Narrow passages flooded with overflow from broken crem-cisterns. Requires an Agility test to navigate at speed. This is designed to tempt [[N'tal]] into a primitive use of Abrasion to "slide" across the surface.
+- **Scaffold Sabotage:** [[Bloodmarks]] archers on rooftops fire at support beams, dropping crates and timber into the party's path.
+- **The Sluice Gate:** A massive, rust-locked iron grate blocking the primary path. Requires a Strength or Thievery check to bypass without losing the lead.
 
-# Participants
-- [[Arbiter Jalis]]: Bloodmark Lieutenant and antagonist.
-- [[Jory]]: A frightened prisoner and fledgling Radiant.
-- [[Bloodmarks]]: Thugs and "Slick Knives" skirmishers.
-- [[N'tal]]: The primary focus of the moral trial.
+# Phase 2: The Foundry Crucible
+The chase ends in the heart of a derelict crem-iron processing plant. The machinery here is gravity-fed and low-tech, relying on massive stone vats and wooden sluices.
+- **The Sluice Gauntlet:** Jalis retreats across narrow wooden sluice-ways suspended over vats of semi-liquid crem-sludge. The floors are permanently slicked with industrial lubricant and fine crem-dust.
+- **The Settling Vat:** A massive stone basin where Jory is suspended. Jalis triggers a mechanism that begins lowering Jory into a vat of thick, suffocating crem-slurry.
 
 # The Choice: Vengeance or Protection
-During the encounter, [[Arbiter Jalis]] triggers the conveyor, sending [[Jory]] toward the furnace while retreating into the catwalks. [[N'tal]] must choose:
-1. **Vengeance:** Pursue and kill [[Arbiter Jalis]], allowing [[Jory]] to perish. This satisfies [[Pyre]]'s destructive urges but stalls [[N'tal]]'s growth toward the First Ideal.
-2. **Protection:** Abandon the chase to save [[Jory]]. This act of self-sacrifice triggers the manifestation of Abrasion and aligns with the First Ideal: "Life before death."
+As [[Jory]] begins to sink, [[Arbiter Jalis]] retreats toward an upper extraction point, mocking [[N'tal]] and weaponizing the memories of his family's slaughter. 
+1. **Vengeance:** Pursue Jalis immediately. This guarantees his capture or death but leaves Jory to suffocate in the crem-vat. [[Pyre]] pushes for this, viewing the execution of the enemy as the only logical outcome.
+2. **Protection:** Abandon the pursuit to save Jory from the vat. This selfless act, prioritizing a life over personal revenge, triggers [[N'tal]]'s realization of the First Ideal: "Life before death, strength before weakness, journey before destination."
 
 # Outcomes
-- **Success (Protection):** [[Jory]] is saved, [[N'tal]] manifests Abrasion, and [[Arbiter Jalis]] escapes to remain a recurring villain.
-- **Failure (Vengeance):** [[Arbiter Jalis]] is killed or captured, but [[Jory]] dies, causing [[Pyre]] to recoil and damaging [[N'tal]]'s spiritual progression.
+- **Speaking the Words:** If [[N'tal]] chooses to save Jory, he manifests full control over Abrasion, allowing him to glide across the slick foundry floor to reach the release mechanism in time. 
+- **The Escaped Villain:** By saving Jory, [[Arbiter Jalis]] manages to escape into the [[Scarstone Quarter]], cementing his role as a recurring nemesis linked to N'tal's past.
 
 # Connections
 - [[N'tal]]

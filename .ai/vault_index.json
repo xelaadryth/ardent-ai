@@ -50,6 +50,7 @@
         "[[Khria]]",
         "[[Ardent Kaelis]]",
         "[[Iiko]]",
+        "[[The Darkstone Siege]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
       ],
@@ -58,7 +59,7 @@
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "03 Stormblessed Arc": {
       "name": "03 Stormblessed Arc",
@@ -434,7 +435,8 @@
         "[[Silent Oath]]",
         "[[High Enforcer Aylen]]",
         "[[Knights of Dusk]]",
-        "[[02 Knights of Dusk Arc]]"
+        "[[02 Knights of Dusk Arc]]",
+        "[[The Darkstone Siege]]"
       ],
       "tags": [
         "#npc",
@@ -443,7 +445,7 @@
         "#dustbringer",
         "#rebel_leader"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Grand Justicar Malice": {
       "name": "Grand Justicar Malice",
@@ -595,7 +597,8 @@
         "[[High Enforcer Aylen]]",
         "[[Revolar]]",
         "[[Knights of Dusk]]",
-        "[[02 Knights of Dusk Arc]]"
+        "[[02 Knights of Dusk Arc]]",
+        "[[The Darkstone Siege]]"
       ],
       "tags": [
         "#npc",
@@ -603,7 +606,7 @@
         "#skybreaker",
         "#truthkeeper"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Jasnah Kholin": {
       "name": "Jasnah Kholin",
@@ -688,7 +691,8 @@
       "links": [
         "[[Revolar]]",
         "[[Truthkeepers]]",
-        "[[Mallow]]"
+        "[[Mallow]]",
+        "[[The Darkstone Siege]]"
       ],
       "tags": [
         "#npc",
@@ -697,7 +701,7 @@
         "#truthwatcher",
         "#rebel"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Lavrik": {
       "name": "Lavrik",
@@ -1806,6 +1810,30 @@
         "#revolar"
       ],
       "last_updated": "2026-05-15T16:30:00"
+    },
+    "The Darkstone Siege": {
+      "name": "The Darkstone Siege",
+      "type": "scene",
+      "status": "active",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Darkstone Forest]]",
+        "[[Knights of Dusk]]",
+        "[[Truthkeepers]]",
+        "[[Silent Oath]]",
+        "[[General Spade]]",
+        "[[Khria]]",
+        "[[Adjudicator Peton]]",
+        "[[Istrum]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#scene",
+        "#revolar",
+        "#combat",
+        "#darkstone_forest"
+      ],
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Experimental Steamship": {
       "name": "Experimental Steamship",
