@@ -4,6 +4,7 @@ import re
 import yaml
 from datetime import datetime, timezone
 from vault import write_file
+from vault.mapping import get_filepath_from_name
 
 
 def parse_frontmatter(content: str) -> dict:
@@ -42,40 +43,58 @@ def now_timestamp() -> str:
 def apply_operations(operations: list[dict], current_index: dict):
     for op in operations:
         action = op.get("action", "").lower()
-        path = op.get("path")
+        name = op.get("name")
 
-        if not path:
-            raise ValueError("Missing path")
+        if not name:
+            raise ValueError("Missing name")
 
         if action in {"create", "update"}:
             content = op.get("content", "")
 
-            # 1. WRITE FILE
+            # 1. PARSE FRONTMATTER TO GET TYPE
+            metadata = parse_frontmatter(content) or {}
+            entry_type = metadata.get("type", "")
+
+            if not entry_type:
+                raise ValueError(f"Missing type in frontmatter for {name}")
+
+            # 2. RECONSTRUCT PATH FROM NAME AND TYPE
+            path = get_filepath_from_name(name, entry_type)
+
+            # 3. WRITE FILE
             write_file(path, content)
             print(f"[WRITE] {path}")
 
-            # 2. PARSE FRONTMATTER
-            metadata = parse_frontmatter(content) or {}
-
-            # 3. ENSURE LINKS IS A LIST
+            # 4. ENSURE LINKS IS A LIST
             links = metadata.get("links", [])
             if not isinstance(links, list):
                 links = []
             metadata["links"] = links
 
-            # 4. UPDATE INDEX
+            # 5. UPDATE INDEX
             metadata["last_updated"] = now_timestamp()
             current_index["files"][path] = metadata
 
             print(f"[INDEX UPDATE] {path}")
 
         elif action == "delete":
-            if os.path.exists(path):
-                os.remove(path)
-                print(f"[DELETE] {path}")
+            # LOOK UP EXISTING ENTRY TO GET TYPE
+            existing_path = None
+            for filepath, entry in current_index.get("files", {}).items():
+                if entry.get("name") == name:
+                    existing_path = filepath
+                    break
 
-            current_index["files"].pop(path, None)
-            print(f"[INDEX DELETE] {path}")
+            if not existing_path:
+                print(f"[DELETE] {name} not found in index, skipping")
+                continue
+
+            if os.path.exists(existing_path):
+                os.remove(existing_path)
+                print(f"[DELETE] {existing_path}")
+
+            current_index["files"].pop(existing_path, None)
+            print(f"[INDEX DELETE] {existing_path}")
 
         else:
             raise ValueError(f"Unsupported operation action: {action}")

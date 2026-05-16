@@ -5,7 +5,7 @@ Return ONLY valid JSON:
   "operations": [
     {
       "action": "create" | "update" | "delete",
-      "path": "relative/path.md",
+      "name": "Page Name",
       "content": "full file contents including frontmatter"
     }
   ]
@@ -14,5 +14,5 @@ Return ONLY valid JSON:
 Rules:
 - content is required for create and update.
 - omit content for delete.
-- path must be relative to the vault root.
+- name is the page title.
 - if no changes are needed, return: {"operations":[]}
