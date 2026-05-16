@@ -2,7 +2,6 @@
 name: Senny
 type: npc
 status: active
-links: []
 tags:
   - "#npc"
   - "#lighteyed"

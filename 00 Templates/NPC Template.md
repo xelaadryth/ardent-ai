@@ -2,7 +2,6 @@
 name:
 type: npc
 status: active
-links: []
 tags:
   - "#npc"
 last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
