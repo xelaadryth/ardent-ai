@@ -417,14 +417,16 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Knights of Dusk]]"
+        "[[Knights of Dusk]]",
+        "[[006 Dillind and the Temple]]",
+        "[[007 Lavrik and the Soulcaster]]"
       ],
       "tags": [
         "#npc",
         "#sergeant",
         "#rebel"
       ],
-      "last_updated": "2026-05-13T23:59:00"
+      "last_updated": "2026-05-14T00:00:00"
     },
     "03 NPCs/Lirin.md": {
       "name": "Lirin",
@@ -761,6 +763,41 @@
         "#investigation"
       ],
       "last_updated": "2026-05-13T23:59:00"
+    },
+    "04 Sessions/007 Lavrik and the Soulcaster.md": {
+      "name": "007 Lavrik and the Soulcaster",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[Lavrik]]",
+        "[[Iiko]]",
+        "[[N'tal]]",
+        "[[Galeth-son-Thald]]",
+        "[[Kuma]]",
+        "[[General Spade]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#session",
+        "#combat",
+        "#investigation"
+      ],
+      "last_updated": "2026-05-14T00:00:00"
+    },
+    "05 Factions/Envisagers.md": {
+      "name": "Envisagers",
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Possessed]]",
+        "[[High Enforcer Aylen]]"
+      ],
+      "tags": [
+        "#faction",
+        "#cult"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
     },
     "05 Factions/Ghostbloods.md": {
       "name": "Ghostbloods",
