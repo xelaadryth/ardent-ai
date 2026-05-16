@@ -1255,6 +1255,22 @@
       ],
       "last_updated": "2026-05-14T14:00:00"
     },
+    "The Vamah Archivum": {
+      "name": "The Vamah Archivum",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Renna Palir]]",
+        "[[Possessed]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-15T12:00:00"
+    },
     "Truthkeeper Camp": {
       "name": "Truthkeeper Camp",
       "type": "location",
