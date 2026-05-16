@@ -8,7 +8,7 @@ tags:
   - "#nurian"
   - "#merchant"
 player: Ryan
-last_updated: 2026-05-13T23:45:00
+last_updated: 2026-05-17T12:00:00
 ---
 
 # Description
@@ -27,6 +27,7 @@ A Nurian worldhopper posing as an Alethi merchant, N'tal grew up in a family of 
 - Find the Undertaker in Revolar and learn the truth about his family's deaths.
 - Identify the mysterious man found dead alongside his family.
 - Hunt down Guddy, the traitor who defected to the Bloodmarks.
+- Seek justice against [[Grand Justicar Malice]] during the events of the [[04 Nurian Gems Arc]].
 
 # Hooks
 - The Undertaker may know more than N'tal is prepared to hear.
@@ -36,3 +37,4 @@ A Nurian worldhopper posing as an Alethi merchant, N'tal grew up in a family of 
 # Connections
 - [[Pyre]] — His radical and spiteful Ashspren.
 - [[Grand Justicar Malice]] — The orchestrator of his family's murder.
+- [[04 Nurian Gems Arc]] — His primary path to vengeance in Jah Keved.

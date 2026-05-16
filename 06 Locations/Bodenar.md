@@ -6,7 +6,7 @@ tags:
   - "#location"
   - "#jah_keved"
   - "#trading_hub"
-last_updated: 2026-05-16T17:00:00
+last_updated: 2026-05-17T12:00:00
 ---
 
 # Description
@@ -33,3 +33,4 @@ Bodenar is a primary hub for the trade of counterfeit spheres traveling west int
 - [[Ilsh]]: A spren researcher traveling to the city for the fabrial expo.
 - [[Vorn]]: An artifabrian leading the technical side of the steamship project for the Veilmaster.
 - [[Ghostbloods]]: Maintain a shadow presence in the city to compete for shipping and gem control.
+- [[04 Nurian Gems Arc]]: The central setting for the Veden arc and steamship demonstration.

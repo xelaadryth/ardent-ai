@@ -7,7 +7,7 @@ tags:
   - "#shin"
   - "#assassin"
   - "#truthless"
-last_updated: 2026-05-13T23:45:00
+last_updated: 2026-05-17T12:00:00
 ---
 # Description
 A Shin man of average height with large, pale eyes. He wears simple white robes and carries an Honorblade. He is a man broken by his status as "Truthless," bound by his culture to obey the commands of whoever holds his oathstone.
@@ -27,3 +27,4 @@ Born in Shinovar, Szeth was named "Truthless" after claiming that the Radiants h
 - [[Galeth-son-Thald]]: Galeth remembers Szeth from their homeland, knowing him as a simple shepherd turned soldier.
 - [[Silent Oath]]: They do not hunt him, as he wields an Honorblade rather than bonding a spren.
 - **The Oathstone**: The object that dictates his every action.
+- [[04 Nurian Gems Arc]]: His assassinations in Jah Keved cause the lockdown and paranoia in Bodenar.

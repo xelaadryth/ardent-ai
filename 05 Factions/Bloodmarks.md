@@ -6,7 +6,7 @@ tags:
   - "#faction"
   - "#criminal_organization"
   - "#worldhopping"
-last_updated: 2026-05-16T17:00:00
+last_updated: 2026-05-17T12:00:00
 ---
 # Description
 A dangerous criminal syndicate with reach across Roshar and beyond. Based in [[Bodenar]] (Jah Keved), they maintain a strategic foothold in the Horneater Peaks to exploit a Perpendicularity for illicit inter-planetary trade.
@@ -50,3 +50,4 @@ Ruthless and efficient, the syndicate leverages their knowledge of worldhopping 
 - [[Revolar]]
 - [[Stackhouse Slavers]]
 - [[Bodenar]]: Their primary base of operations and hub for the jewel trade.
+- [[04 Nurian Gems Arc]]: Primary antagonist faction for the Jah Keved campaign.

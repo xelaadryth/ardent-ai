@@ -8,7 +8,7 @@ tags:
   - "#nurian"
   - "#maker"
 player: Dan
-last_updated: 2026-05-14T20:00:00
+last_updated: 2026-05-17T12:00:00
 ---
 
 # Description
@@ -26,6 +26,7 @@ Born to a Nurian farming family, Kuma cared more for books and tinkering than fo
 # Goals
 - Discover what happened to his parents and why they left him behind.
 - Build legendary creations that rival the greatest fabrials of ancient Roshar.
+- Investigate the [[Nurian Gems]] and the [[Experimental Steamship]] in the [[04 Nurian Gems Arc]].
 
 # Hooks
 - The mysterious device may be a key to dangerous or valuable knowledge.
@@ -39,3 +40,4 @@ Born to a Nurian farming family, Kuma cared more for books and tinkering than fo
 - His uncle — The man who raised him and nearly lost his inheritance in a card game.
 - The Artifabrians of [[Revolar]] — Scholars and craftsmen he hopes can help him unlock the secrets of his device.
 - [[Boundless Bazaar]] — A prime location to find parts for his crafting and legendary item goals.
+- [[04 Nurian Gems Arc]] — His journey to Bodenar to witness the steamship demonstration.

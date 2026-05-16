@@ -7,7 +7,7 @@ tags:
   - "#veden"
   - "#bloodmarks"
   - "#grand_justicar"
-last_updated: 2026-05-16T17:00:00
+last_updated: 2026-05-17T12:00:00
 ---
 # Description
 A man of imposing presence, he wears the ornate, heavy robes of a religious fanatic—deep violets and golds that signal his high station. He is a cold, clinical individual with a terrifyingly sharp intellect.
@@ -34,3 +34,4 @@ Malice is currently the only leader in the [[Bloodmarks]] who knows about the Pe
 - [[N'tal]]: A survivor of his ambush; Malice is aware of this loose thread.
 - [[Ghostbloods]]: Primary rivals whose influence he seeks to destroy.
 - [[Bodenar]]: His primary base of operations.
+- [[04 Nurian Gems Arc]]: The main villain of the Bodenar investigation.

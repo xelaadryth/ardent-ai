@@ -384,6 +384,7 @@
       "status": "active",
       "links": [
         "[[Bloodmarks]]",
+        "[[Bodenar]]",
         "[[Ghostbloods]]",
         "[[N'tal]]"
       ],
@@ -393,7 +394,7 @@
         "#bloodmarks",
         "#grand_justicar"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T17:00:00"
     },
     "Helaran": {
       "name": "Helaran",
@@ -496,6 +497,7 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Bodenar]]",
         "[[Kuma]]"
       ],
       "tags": [
@@ -504,7 +506,7 @@
         "#researcher",
         "#ardent_imposter"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-16T17:00:00"
     },
     "Istrim": {
       "name": "Istrim",
@@ -841,6 +843,7 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Bodenar]]",
         "[[Revolar]]",
         "[[Kuma]]"
       ],
@@ -849,7 +852,7 @@
         "#thaylen",
         "#artifabrian"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-16T17:00:00"
     },
     "000 Arrival": {
       "name": "000 Arrival",
@@ -1233,6 +1236,7 @@
       "type": "faction",
       "status": "active",
       "links": [
+        "[[Bodenar]]",
         "[[Highlord Paladar]]",
         "[[Revolar]]",
         "[[N'tal]]",
@@ -1246,7 +1250,7 @@
         "#criminal_organization",
         "#worldhopping"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2026-05-16T17:00:00"
     },
     "Envisagers": {
       "name": "Envisagers",
@@ -1370,6 +1374,24 @@
         "#revolar"
       ],
       "last_updated": "2026-05-14T18:30:00"
+    },
+    "Bodenar": {
+      "name": "Bodenar",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Ghostbloods]]",
+        "[[Bloodmarks]]",
+        "[[Grand Justicar Malice]]",
+        "[[Ilsh]]",
+        "[[Vorn]]"
+      ],
+      "tags": [
+        "#location",
+        "#jah_keved",
+        "#trading_hub"
+      ],
+      "last_updated": "2026-05-16T17:00:00"
     },
     "Boundless Bazaar": {
       "name": "Boundless Bazaar",
