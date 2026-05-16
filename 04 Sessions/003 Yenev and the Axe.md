@@ -10,13 +10,13 @@ last_updated: 2026-05-15T12:00:00
 ---
 
 # Description
-The squad navigates the political machinations of [[Citylord Nilar Yenev]] in [[Stringken]] before encountering a brutal enforcer known as "The Axe" at [[Kesh's Gorge]].
+The squad navigates the political machinations of [[Citylord Nilar Yenev]] in [[Stringken]] after investigating a Whitespine den, eventually seeking the protection of [[Highlady Marise Sathir]] at the [[House Sathir|Sathir Estate]].
 
 # Scenes
-- **Citylord Confrontation:** Summoned by [[Citylord Nilar Yenev]], the squad is questioned regarding the region's missing gemhearts. [[Citylord Nilar Yenev]] blames [[Highlady Marise Sathir]]'s management. [[Dalen]] attempts to intercede but the party is forced to groom gumfrem in the stables, witnessing the mistreatment of slaves like [[Bit]].
-- **Stringken Rumors:** [[Stringken]] is suffering under new, strict governance and border recruitment. Locals express fear and resentment, speaking of militant southern groups and missing travelers.
-- **Kesh's Gorge:** While attempting to reach the [[House Sathir|Sathir Estate]], the party is blocked by thugs acting under the orders of [[Highlord Paladar]]. They are challenged by "The Axe," a towering warrior who demands a duel.
-- **The Duel:** The Axe challenges [[Galeth-son-Thald]] to single combat. After a brutal exchange, [[Galeth-son-Thald]] incapacitates the opponent, ending the standoff. The Axe concedes, relinquishing his weapon and allowing the party to pass.
+- **Stringken Investigation:** The party leaves the Whitespine remains but secures the gemhearts, returning to [[Stringken]]. They meet [[Dalen]], a loyal darkeyed servant of the Highlord. They encounter thugs working for [[Citylord Nilar Yenev]], who has recently replaced traditional pig ranching with gumfrem ranching, a move suspected of hiding systemic gemheart embezzlement.
+- **Citylord Confrontation:** The squad is summoned by the newly appointed and hostile [[Citylord Nilar Yenev]], alongside his secretary [[Ashusa]]. The party avoids incriminating themselves regarding the missing gemhearts.
+- **The Road to Sathir:** On [[Dalen]]'s recommendation, the party heads toward the [[House Sathir|Sathir Estate]]. They are ambushed by a group of twenty thugs acting for [[Highlord Paladar]].
+- **The Duel:** "The Axe" challenges [[Galeth-son-Thald]] to single combat. [[Galeth-son-Thald]] triumphs, claiming the legendary halberd for his own.
 
 # Hooks
 - **Gemheart Conspiracy:** The books handled by advisor Ashusa do not align; the gemhearts are disappearing despite [[Citylord Nilar Yenev]]'s accusations.
@@ -30,3 +30,5 @@ The squad navigates the political machinations of [[Citylord Nilar Yenev]] in [[
 - [[Highlady Marise Sathir]]
 - [[Highlord Paladar]]
 - [[Galeth-son-Thald]]
+- [[Ashusa]]
+- [[Stringken]]
