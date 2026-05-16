@@ -2,15 +2,6 @@
 name: 008 The Envisagers of Talinan
 type: session
 status: active
-links:
-  - "[[Dillind]]"
-  - "[[Talinan]]"
-  - "[[Iiko]]"
-  - "[[Chip]]"
-  - "[[Envisagers]]"
-  - "[[006 Dillind and the Temple]]"
-  - "[[Ghostbloods]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#session"
   - "#investigation"

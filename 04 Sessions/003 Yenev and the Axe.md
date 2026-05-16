@@ -2,12 +2,6 @@
 name: 003 Yenev and the Axe
 type: session
 status: active
-links:
-  - "[[Citylord Nilar Yenev]]"
-  - "[[Dalen]]"
-  - "[[Galeth-son-Thald]]"
-  - "[[Iiko]]"
-  - "[[Highlady Marise Sathir]]"
 tags:
   - "#session"
   - "#combat"

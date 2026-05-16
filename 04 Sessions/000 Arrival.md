@@ -2,13 +2,6 @@
 name: 000 Arrival
 type: session
 status: inactive
-links:
-  - "[[Truthkeeper Camp]]"
-  - "[[High Witness Yeshan]]"
-  - "[[Adjudicator Peton]]"
-  - "[[Truthkeepers]]"
-  - "[[Chip]]"
-  - "[[Renna Palir]]"
 tags:
   - "#session"
   - "#loid"

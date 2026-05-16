@@ -2,14 +2,6 @@
 name: 002 Whitespine
 type: session
 status: active
-links:
-  - "[[Fina]]"
-  - "[[Renna Palir]]"
-  - "[[Hobbleken]]"
-  - "[[Stringken]]"
-  - "[[Ilsh Thaylen]]"
-  - "[[Highlord Sadeas]]"
-  - "[[Highlord Paladar]]"
 tags:
   - "#session"
   - "#combat"
