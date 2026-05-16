@@ -1,7 +1,8 @@
 import json
 from pathlib import Path
 
-VAULT_ROOT = Path("..")
+# VAULT_ROOT is the repository root (parent of the .ai folder)
+VAULT_ROOT = Path(__file__).parent.parent.parent
 CORE_FILES = ["SOUL.md"]
 
 
