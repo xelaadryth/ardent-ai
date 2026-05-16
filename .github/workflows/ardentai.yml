@@ -29,6 +29,9 @@ jobs:
     outputs:
       should_run: ${{ steps.check.outputs.should_run }}
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Check for open PRs
         id: check
         env:
