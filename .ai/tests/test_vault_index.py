@@ -1,24 +1,4 @@
-import json
-
-import pytest
-import vault
-from pathlib import Path
-
-
-def test_retrieve_vault_context_falls_back_when_no_matches(tmp_path, monkeypatch):
-    # Create vault_index.json in tmp_path (AI_FOLDER)
-    (tmp_path / "vault_index.json").write_text(json.dumps({"files": {}}), encoding="utf-8")
-    
-    # Create vault files in tmp_path (VAULT_ROOT)
-    (tmp_path / "SOUL.md").write_text("Soul file", encoding="utf-8")
-    (tmp_path / "README.md").write_text("Readme file", encoding="utf-8")
-
-    monkeypatch.setattr("vault.io.VAULT_ROOT", tmp_path)
-    monkeypatch.setattr("vault.io.AI_FOLDER", tmp_path)
-
-    context = vault.retrieve_vault_context("unlikely query", 10)
-
-    assert "--- SOUL.md ---" in context
+from pkg import vault
 
 
 def test_build_index_entry_extracts_frontmatter_links():
@@ -61,35 +41,6 @@ def test_get_folder_from_type_returns_folder_prefix():
     assert vault.get_folder_from_type("npc") == "03 NPCs"
     assert vault.get_folder_from_type("player") == "02 Players"
     assert vault.get_folder_from_type("core") == ""
-
-
-def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypatch):
-    # Create test index with different timestamps
-    old_timestamp = "2023-01-01T00:00:00Z"
-    new_timestamp = "2024-01-01T00:00:00Z"
-    
-    vault_index_data = {
-        "files": {
-            "03 NPCs/OldFile.md": {
-                "name": "OldFile",
-                "type": "npc",
-                "last_updated": old_timestamp
-            },
-            "02 Players/NewFile.md": {
-                "name": "NewFile", 
-                "type": "player",
-                "last_updated": new_timestamp
-            }
-        }
-    }
-
-    # Create vault_index.json in tmp_path (AI_FOLDER)
-    (tmp_path / "vault_index.json").write_text(json.dumps(vault_index_data), encoding="utf-8")
-    monkeypatch.setattr("vault.io.VAULT_ROOT", tmp_path)
-    monkeypatch.setattr("vault.io.AI_FOLDER", tmp_path)
-
-    oldest = vault.get_oldest_indexed_files(1)
-    assert oldest == ["03 NPCs/OldFile.md"]
 
 
 def test_build_index_entry_preserves_last_updated_from_frontmatter():

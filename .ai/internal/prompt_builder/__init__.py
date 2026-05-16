@@ -1,4 +1,4 @@
-from vault import AI_FOLDER, read_file, retrieve_vault_context
+from pkg.vault import AI_FOLDER, read_file, retrieve_vault_context
 
 
 def load_soul():

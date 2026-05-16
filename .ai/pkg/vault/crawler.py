@@ -6,8 +6,8 @@ Handles crawling the vault for markdown files and building the index from disk.
 
 from pathlib import Path
 
-from vault.file_io import VAULT_ROOT, load_markdown
-from vault.parser import build_index_entry
+from .file_io import VAULT_ROOT, load_markdown
+from .parser import build_index_entry
 
 
 def crawl_numbered_markdown_files() -> list[Path]:

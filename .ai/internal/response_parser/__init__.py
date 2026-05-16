@@ -3,8 +3,8 @@ import os
 import re
 import yaml
 from datetime import datetime, timezone
-from vault import write_file
-from vault.mapping import get_filepath_from_name
+from pkg.vault import write_file
+from pkg.vault.mapping import get_filepath_from_name
 
 
 def parse_frontmatter(content: str) -> dict:

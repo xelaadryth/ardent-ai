@@ -1,13 +1,42 @@
 """
-Vault context retrieval operations.
+Vault utility functions.
 
-Handles retrieving relevant vault context based on queries and scoring entries.
+Provides general utility functions for text normalization, timestamps,
+and index management operations.
 """
 
-from vault.file_io import load_markdown
-from vault.io import load_vault_index
-from vault.mapping import get_filepath_from_name
-from vault.utilities import query_terms
+import re
+from datetime import datetime, timezone
+
+from .crawler import build_index_from_disk
+from .io import load_vault_index, save_vault_index
+from .mapping import get_filepath_from_name
+
+
+def normalize_text(value: str) -> str:
+    """
+    Normalize text for comparison.
+    
+    Args:
+        value: Text to normalize.
+    
+    Returns:
+        Normalized lowercase text with special characters replaced by spaces.
+    """
+    return re.sub(r"[^a-z0-9]+", " ", value.lower()).strip()
+
+
+def query_terms(query: str) -> list[str]:
+    """
+    Extract normalized query terms from a query string.
+    
+    Args:
+        query: The query string.
+    
+    Returns:
+        List of normalized query terms.
+    """
+    return [term for term in normalize_text(query).split() if term]
 
 
 def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
@@ -92,62 +121,17 @@ def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
     return score
 
 
-def retrieve_vault_context(query: str, limit: int) -> str:
+def sort_by_score(items: list[tuple[str, int, dict]]) -> list[tuple[str, int, dict]]:
     """
-    Retrieve relevant vault context based on a query.
-
+    Sort items by score in descending order.
+    
+    NOTE: This function is not currently used. We're sorting by last_updated instead.
+    Kept for potential future use if we want to return to score-based ranking.
+    
     Args:
-        query: The search query.
-        limit: Maximum number of files to retrieve.
-
+        items: List of tuples (name, score, metadata)
+    
     Returns:
-        String containing the concatenated content of relevant files.
+        Sorted list with highest scores first
     """
-    index = load_vault_index()
-
-    terms = query_terms(query)
-    scored: list[tuple[str, int]] = []
-
-    for name, metadata in index.get("files", index).items():
-        if not isinstance(metadata, dict):
-            continue
-
-        score = score_entry(name, metadata, terms, query)
-        if score > 0:
-            scored.append((name, score))
-
-    if not scored:
-        # Fallback to SOUL.md when no matches
-        try:
-            soul_content = load_markdown("SOUL.md")
-            return f"--- SOUL.md ---\n{soul_content}"
-        except Exception:
-            return "No relevant vault context found"
-
-    # Sort by score descending and take top N
-    selected_items = sorted(
-        scored,
-        key=lambda item: item[1],
-        reverse=True
-    )[:limit]
-
-    # Print selected files with scores
-    print(
-        "Selected vault context files:\n" +
-        "\n".join(
-            f"  {name}: {score}"
-            for name, score in selected_items
-        )
-    )
-
-    # Load file contents
-    context_parts = []
-    for name, _score in selected_items:
-        # Reconstruct filepath from name and type
-        entry_type = index.get("files", index).get(name, {}).get("type", "")
-        filepath = get_filepath_from_name(name, entry_type)
-        context_parts.append(
-            f"--- {name} ---\n{load_markdown(filepath)}"
-        )
-
-    return "\n\n".join(context_parts)
+    return sorted(items, key=lambda item: item[1], reverse=True)

@@ -1,8 +1,8 @@
 import json
 
 import pytest
-import response_parser
-from vault import extract_wikilinks
+from internal.response_parser import parse_json_output, apply_response
+from pkg.vault import extract_wikilinks
 
 
 def test_parse_json_output_handles_embedded_json():
@@ -10,7 +10,7 @@ def test_parse_json_output_handles_embedded_json():
 {"operations": [{"action": "create", "name": "Test", "content": "Hello"}]}
 More text'''
 
-    payload = response_parser.parse_json_output(output)
+    payload = parse_json_output(output)
 
     assert payload["operations"][0]["name"] == "Test"
 
@@ -31,10 +31,10 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
     def fake_load_vault_index():
         return {"files": {"Existing": {"summary": "Existing"}}}
 
-    monkeypatch.setattr(response_parser, "write_file", fake_write_file)
+    monkeypatch.setattr("internal.response_parser.write_file", fake_write_file)
 
     current_index = fake_load_vault_index()
-    response_parser.apply_response(output, current_index)
+    apply_response(output, current_index)
 
     assert written == [("03 NPCs/Foo.md", "---\nname: Foo\ntype: npc\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello [[OtherLink]]")]
     # Index is NOT updated (only reindex updates the index)
@@ -46,7 +46,7 @@ def test_apply_response_raises_for_invalid_operations():
     output = json.dumps({"operations": [{"action": "unknown", "name": "Foo"}]})
 
     with pytest.raises(ValueError, match="Unsupported operation action"):
-        response_parser.apply_response(output, current_index={"files": {}})
+        apply_response(output, current_index={"files": {}})
 
 
 def test_extract_wikilinks_basic():

@@ -1,4 +1,4 @@
-import inbox
+from internal import inbox
 
 
 def test_find_inbox_file_returns_first_matching_file(monkeypatch, tmp_path):
@@ -9,7 +9,7 @@ def test_find_inbox_file_returns_first_matching_file(monkeypatch, tmp_path):
     file_b = inbox_dir / "b.md"
     file_b.write_text("content", encoding="utf-8")
 
-    monkeypatch.setattr(inbox, "INBOX_DIR", inbox_dir)
+    monkeypatch.setattr("internal.inbox.INBOX_DIR", inbox_dir)
     found = inbox.find_inbox_file()
 
     assert found == file_a
@@ -21,7 +21,7 @@ def test_find_inbox_file_can_use_file_name(monkeypatch, tmp_path):
     request_file = inbox_dir / "request.md"
     request_file.write_text("request", encoding="utf-8")
 
-    monkeypatch.setattr(inbox, "INBOX_DIR", inbox_dir)
+    monkeypatch.setattr("internal.inbox.INBOX_DIR", inbox_dir)
     found = inbox.find_inbox_file("request.md")
 
     assert found == request_file
@@ -33,7 +33,7 @@ def test_find_inbox_file_appends_md_extension(monkeypatch, tmp_path):
     request_file = inbox_dir / "request.md"
     request_file.write_text("request", encoding="utf-8")
 
-    monkeypatch.setattr(inbox, "INBOX_DIR", inbox_dir)
+    monkeypatch.setattr("internal.inbox.INBOX_DIR", inbox_dir)
     found = inbox.find_inbox_file("request")
 
     assert found == request_file
@@ -45,7 +45,7 @@ def test_find_inbox_file_case_insensitive(monkeypatch, tmp_path):
     request_file = inbox_dir / "Request.md"
     request_file.write_text("request", encoding="utf-8")
 
-    monkeypatch.setattr(inbox, "INBOX_DIR", inbox_dir)
+    monkeypatch.setattr("internal.inbox.INBOX_DIR", inbox_dir)
     found = inbox.find_inbox_file("request")
 
     assert found == request_file
@@ -66,7 +66,7 @@ def test_archive_file_moves_file(monkeypatch, tmp_path):
     request_file = tmp_path / "request.md"
     request_file.write_text("hello", encoding="utf-8")
 
-    monkeypatch.setattr(inbox, "ARCHIVE_DIR", archive_dir)
+    monkeypatch.setattr("internal.inbox.ARCHIVE_DIR", archive_dir)
     archived = inbox.archive_file(request_file)
 
     assert archived.parent == archive_dir

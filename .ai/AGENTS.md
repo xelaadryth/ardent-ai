@@ -14,14 +14,18 @@ Both entry points use `workflow_integration.py` for standardized output formatti
 
 ### Core Modules
 
-**Workflow Integration**
-- `workflow_integration.py` - Centralized GitHub Actions integration (output formatting, commit messages, error handling)
+**Workflow Commands**
+- `cmd/agent/main.py` - Main AI agent workflow command (processes Inbox requests)
+- `cmd/reindex/main.py` - Manual vault reindexing command (deterministic, no LLM calls, but already happens in the agent workflow)
 
-**AI Pipeline**
-- `pipeline.py` - Orchestrates the AI agent workflow (no global state, returns tuples)
-- `llm_client.py` - Google Gemini API client with retry logic and model fallback
-- `prompt_builder.py` - Builds system prompts with vault context
-- `response_parser.py` - Parses LLM responses and applies operations to vault
+**Obsidian Vault**
+- `pkg/vault/crawler.py` - File crawling and index building from disk
+- `pkg/vault/file_io.py` - File I/O operations (read, write, load_markdown)
+- `pkg/vault/io.py` - Vault index I/O (load_vault_index, save_vault_index)
+- `pkg/vault/mapping.py` - Type-to-folder mapping for vault organization
+- `pkg/vault/parser.py` - Frontmatter parsing and index entry building
+- `pkg/vault/retrieval.py` - Context retrieval with scoring
+- `pkg/vault/utilities.py` - General utilities (normalization, index management)
 
 **Vault Operations** (split by domain in `vault/` folder)
 - `vault/file_io.py` - File I/O operations (read, write, load_markdown)
@@ -95,12 +99,6 @@ This is handled by `workflow_integration.print_workflow_output()`.
 - Python root is `.ai` folder (not repo root)
 - Uses `uv` for dependency management
 - Virtual environment in `.ai/.venv`
-
-### Circular Import Prevention
-The vault package was split to avoid circular imports:
-- `current_timestamp` moved to `vault/io.py` (not utilities)
-- Submodules import from specific locations to avoid cycles
-- `vault/__init__.py` re-exports all public API for backward compatibility
 
 ### Type System
 Vault entry types map to numbered folders:

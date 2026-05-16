@@ -1,4 +1,4 @@
-from vault import VAULT_ROOT
+from pkg.vault import VAULT_ROOT
 
 INBOX_DIR = VAULT_ROOT / "Inbox"
 ARCHIVE_DIR = VAULT_ROOT / "Archive"

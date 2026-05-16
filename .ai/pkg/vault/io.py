@@ -8,17 +8,7 @@ import json
 from datetime import datetime, timezone
 from pathlib import Path
 
-from vault.file_io import AI_FOLDER, VAULT_ROOT
-
-
-def current_timestamp() -> str:
-    """
-    Get current UTC timestamp in ISO format.
-    
-    Returns:
-        Current timestamp as ISO string without microseconds.
-    """
-    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
+from .file_io import AI_FOLDER
 
 
 def get_index_file() -> Path:

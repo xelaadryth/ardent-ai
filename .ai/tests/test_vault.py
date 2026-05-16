@@ -1,4 +1,4 @@
-import vault
+from pkg import vault
 
 
 def test_read_file_returns_content(tmp_path):
