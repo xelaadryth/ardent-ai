@@ -2,10 +2,6 @@
 name: Lavrik
 type: npc
 status: inactive
-links:
-  - "[[Knights of Dusk]]"
-  - "[[006 Dillind and the Temple]]"
-  - "[[007 Lavrik and the Soulcaster]]"
 tags:
   - "#npc"
   - "#sergeant"

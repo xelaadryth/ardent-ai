@@ -2,11 +2,6 @@
 name: Iiko
 type: player
 status: active
-links:
-  - "[[Dreamwaker]]"
-  - "[[N'tal]]"
-  - "[[Kuma]]"
-  - "[[Fina]]"
 tags:
   - "#player"
   - "#truthwatcher"

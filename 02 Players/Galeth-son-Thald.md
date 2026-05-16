@@ -2,10 +2,6 @@
 name: Galeth-son-Thald
 type: player
 status: active
-links:
-  - "[[Kun'ahu]]"
-  - "[[Truthkeepers]]"
-  - "[[Szeth-son-son-Vallano]]"
 tags:
   - "#player"
   - "#shin"

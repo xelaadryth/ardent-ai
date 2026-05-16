@@ -2,12 +2,6 @@
 name: Renna Palir
 type: npc
 status: active
-links:
-  - "[[Revolar]]"
-  - "[[Truthkeepers]]"
-  - "[[Iiko]]"
-  - "[[Chip]]"
-  - "[[Knights of Dusk]]"
 tags:
   - "#npc"
   - "#lighteyed"

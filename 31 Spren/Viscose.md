@@ -2,8 +2,6 @@
 name: Viscose
 type: spren
 status: active
-links:
-  - "[[Kuma]]"
 tags:
   - "#spren"
   - "#inkspren"

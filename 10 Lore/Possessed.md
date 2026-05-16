@@ -2,10 +2,6 @@
 name: Possessed
 type: lore
 status: active
-links:
-  - "[[Truthkeepers]]"
-  - "[[High Enforcer Aylen]]"
-  - "[[High Witness Yeshan]]"
 tags:
   - "#lore"
   - "#placeholder"

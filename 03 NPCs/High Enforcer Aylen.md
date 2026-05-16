@@ -2,11 +2,6 @@
 name: High Enforcer Aylen
 type: npc
 status: active
-links:
-  - "[[Silent Oath]]"
-  - "[[High Witness Yeshan]]"
-  - "[[Possessed]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#npc"
   - "#darkeyed"

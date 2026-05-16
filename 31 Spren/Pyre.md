@@ -2,8 +2,6 @@
 name: Pyre
 type: spren
 status: active
-links:
-  - "[[N'tal]]"
 tags:
   - "#spren"
   - "#ashspren"

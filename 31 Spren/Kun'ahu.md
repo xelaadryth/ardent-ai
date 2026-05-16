@@ -2,9 +2,6 @@
 name: Kun'ahu
 type: spren
 status: active
-links:
-  - "[[Galeth-son-Thald]]"
-  - "[[Dreamwaker]]"
 tags:
   - "#spren"
   - "#peakspren"

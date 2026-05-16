@@ -2,9 +2,6 @@
 name: Shellmite Attack
 type: scene
 status: inactive
-links:
-  - "[[Hearthstone]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#scene"
   - "#placeholder"

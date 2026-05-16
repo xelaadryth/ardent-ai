@@ -2,10 +2,6 @@
 name: Khria
 type: npc
 status: active
-links:
-  - "[[Revolar]]"
-  - "[[Truthkeepers]]"
-  - "[[Mallow]]"
 tags:
   - "#npc"
   - "#darkeyed"

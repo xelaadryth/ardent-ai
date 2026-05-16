@@ -2,10 +2,6 @@
 name: Tahs
 type: npc
 status: active
-links:
-  - "[[Renna Palir]]"
-  - "[[Karani]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#npc"
   - "#lighteyed"

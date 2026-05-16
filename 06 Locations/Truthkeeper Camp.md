@@ -2,11 +2,6 @@
 name: Truthkeeper Camp
 type: location
 status: active
-links:
-  - "[[High Witness Yeshan]]"
-  - "[[Adjudicator Peton]]"
-  - "[[High Enforcer Aylen]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#location"
   - "#placeholder"

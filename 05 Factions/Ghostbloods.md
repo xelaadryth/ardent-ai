@@ -2,9 +2,6 @@
 name: Ghostbloods
 type: faction
 status: active
-links:
-  - "[[Truthkeepers]]"
-  - "[[Chip]]"
 tags:
   - "#faction"
   - "#secret-society"

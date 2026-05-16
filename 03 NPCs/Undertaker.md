@@ -2,13 +2,6 @@
 name: Undertaker
 type: npc
 status: active
-links:
-  - "[[Ghostbloods]]"
-  - "[[Chip]]"
-  - "[[Karani]]"
-  - "[[High Enforcer Aylen]]"
-  - "[[Revolar]]"
-  - "[[Bruckslats]]"
 tags:
   - "#npc"
   - "#thaylen"

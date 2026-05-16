@@ -2,9 +2,6 @@
 name: High Witness Yeshan
 type: npc
 status: active
-links:
-  - "[[Possessed]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#npc"
   - "#lighteyed"

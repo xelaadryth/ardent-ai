@@ -2,9 +2,6 @@
 name: Silent Oath
 type: faction
 status: active
-links:
-  - "[[Truthkeepers]]"
-  - "[[High Enforcer Aylen]]"
 tags:
   - "#faction"
 last_updated: 2026-05-13T23:33:15

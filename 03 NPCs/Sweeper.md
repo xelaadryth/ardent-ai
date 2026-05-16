@@ -2,11 +2,6 @@
 name: Sweeper
 type: npc
 status: active
-links:
-  - "[[Chip]]"
-  - "[[Undertaker]]"
-  - "[[N'tal]]"
-  - "[[Revolar]]"
 tags:
   - "#npc"
   - "#alethi"

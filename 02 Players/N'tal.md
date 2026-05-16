@@ -2,9 +2,6 @@
 name: N'tal
 type: player
 status: active
-links:
-  - "[[Pyre]]"
-  - "[[Grand Justicar Malice]]"
 tags:
   - "#player"
   - "#dustbringer"

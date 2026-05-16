@@ -2,10 +2,6 @@
 name: General Odrin Lesh
 type: npc
 status: active
-links:
-  - "[[Highlord Paladar]]"
-  - "[[General Spade]]"
-  - "[[Truthkeepers]]"
 tags:
   - "#npc"
   - "#lighteyed"

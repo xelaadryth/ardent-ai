@@ -2,10 +2,6 @@
 name: Citylord Nilar Yenev
 type: npc
 status: active
-links:
-  - "[[Highlord Paladar]]"
-  - "[[Highlady Marise Sathir]]"
-  - "[[010 Soulcaster and Shared Employers]]"
 tags:
   - "#npc"
   - "#lighteyed"

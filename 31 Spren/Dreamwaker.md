@@ -2,9 +2,6 @@
 name: Dreamwaker
 type: spren
 status: active
-links:
-  - "[[Iiko]]"
-  - "[[Glys]]"
 tags:
   - "#spren"
   - "#mistspren"

@@ -2,10 +2,6 @@
 name: Stringken
 type: location
 status: active
-links:
-  - "[[002 Whitespine]]"
-  - "[[Highlord Sadeas]]"
-  - "[[Highlord Paladar]]"
 tags:
   - "#location"
 last_updated: 2026-05-13T23:35:12

@@ -2,8 +2,6 @@
 name: Verdae
 type: spren
 status: active
-links:
-  - "[[Fina]]"
 tags:
   - "#spren"
   - "#cultivationspren"

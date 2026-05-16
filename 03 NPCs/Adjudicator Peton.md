@@ -2,8 +2,6 @@
 name: Adjudicator Peton
 type: npc
 status: active
-links:
-  - "[[Truthkeepers]]"
 tags:
   - "#npc"
   - "#lighteyed"

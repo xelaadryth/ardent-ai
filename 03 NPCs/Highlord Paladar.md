@@ -2,11 +2,6 @@
 name: Highlord Paladar
 type: npc
 status: active
-links:
-  - "[[General Odrin Lesh]]"
-  - "[[Chip]]"
-  - "[[Citylord Nilar Yenev]]"
-  - "[[General Spade]]"
 tags:
   - "#npc"
   - "#lighteyed"

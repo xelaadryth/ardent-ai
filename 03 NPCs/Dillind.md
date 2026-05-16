@@ -2,10 +2,6 @@
 name: Dillind
 type: npc
 status: active
-links:
-  - "[[006 Dillind and the Temple]]"
-  - "[[008 The Envisagers of Talinan]]"
-  - "[[Tien]]"
 tags:
   - "#npc"
   - "#teenager"

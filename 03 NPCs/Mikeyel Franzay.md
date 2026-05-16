@@ -2,8 +2,6 @@
 name: Mikeyel Franzay
 type: npc
 status: active
-links:
-  - "[[Highlady Marise Sathir]]"
 tags:
   - "#npc"
   - "#alethi"

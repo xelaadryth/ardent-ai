@@ -2,9 +2,6 @@
 name: Fina
 type: player
 status: active
-links:
-  - "[[Verdae]]"
-  - "[[Bitter Leaf Apothecary]]"
 tags:
   - "#player"
   - "#edgedancer"

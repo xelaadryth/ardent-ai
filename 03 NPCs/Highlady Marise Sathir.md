@@ -2,9 +2,6 @@
 name: Highlady Marise Sathir
 type: npc
 status: active
-links:
-  - "[[Citylord Nilar Yenev]]"
-  - "[[Dalen]]"
 tags:
   - "#npc"
   - "#lighteyed"

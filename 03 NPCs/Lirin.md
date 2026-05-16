@@ -2,8 +2,6 @@
 name: Lirin
 type: npc
 status: active
-links:
-  - "[[Hearthstone]]"
 tags:
   - "#npc"
   - "#darkeyed"

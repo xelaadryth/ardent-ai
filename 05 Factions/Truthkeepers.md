@@ -2,11 +2,6 @@
 name: Truthkeepers
 type: faction
 status: active
-links:
-  - "[[Silent Oath]]"
-  - "[[High Witness Yeshan]]"
-  - "[[Knights of Dusk]]"
-  - "[[Revolar]]"
 tags:
   - "#faction"
 last_updated: 2026-05-15T12:00:00

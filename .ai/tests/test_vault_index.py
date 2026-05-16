@@ -22,14 +22,9 @@ def test_retrieve_vault_context_falls_back_when_no_matches(tmp_path, monkeypatch
 
 
 def test_build_index_entry_extracts_frontmatter_links():
-    from pathlib import Path
-
-    path = Path("03 NPCs/Aaron.md")
     content = """---
 name: Aaron
 type: npc
-links:
-  - "[[Town]]"
 tags:
   - "#noble"
 ---
@@ -43,7 +38,6 @@ tags:
     assert "tags" in entry
     assert entry["name"] == "Aaron"
     assert entry["type"] == "npc"
-    # Frontmatter links are preserved, body links are merged, duplicates removed
     assert "[[Town]]" in entry["links"]
     assert "[[Abbey]]" in entry["links"]
     assert entry["tags"] == ["#noble"]

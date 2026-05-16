@@ -2,9 +2,6 @@
 name: Talinan
 type: location
 status: active
-links:
-  - "[[Envisagers]]"
-  - "[[008 The Envisagers of Talinan]]"
 tags:
   - "#location"
 last_updated: 2026-05-14T14:00:00

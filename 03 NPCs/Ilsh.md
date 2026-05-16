@@ -8,8 +8,6 @@ tags:
   - "#researcher"
   - "#ardent_imposter"
 last_updated: 2026-05-13T23:35:12
-links:
-  - "[[Kuma]]"
 ---
 
 # Description

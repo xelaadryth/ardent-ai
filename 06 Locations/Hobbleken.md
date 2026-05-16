@@ -2,8 +2,6 @@
 name: Hobbleken
 type: location
 status: active
-links:
-  - "[[002 Whitespine]]"
 tags:
   - "#location"
 last_updated: 2026-05-13T23:35:12

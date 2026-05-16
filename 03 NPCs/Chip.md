@@ -2,10 +2,6 @@
 name: Chip
 type: npc
 status: active
-links:
-  - "[[Truthkeepers]]"
-  - "[[Ghostbloods]]"
-  - "[[Renna Palir]]"
 tags:
   - "#npc"
   - "#lighteyed"

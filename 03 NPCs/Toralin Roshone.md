@@ -2,9 +2,6 @@
 name: Toralin Roshone
 type: npc
 status: active
-links:
-  - "[[Hearthstone]]"
-  - "[[Laral Roshone]]"
 tags:
   - "#npc"
   - "#lighteyed"

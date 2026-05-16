@@ -2,8 +2,6 @@
 name: Istrim
 type: npc
 status: active
-links:
-  - "[[High Enforcer Aylen]]"
 tags:
   - "#npc"
   - "#truthkeeper"

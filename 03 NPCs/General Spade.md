@@ -2,11 +2,6 @@
 name: General Spade
 type: npc
 status: active
-links:
-  - "[[Knights of Dusk]]"
-  - "[[Truthkeepers]]"
-  - "[[Highlord Paladar]]"
-  - "[[General Odrin Lesh]]"
 tags:
   - "#npc"
   - "#lighteyed"
