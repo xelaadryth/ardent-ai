@@ -87,7 +87,8 @@
       "type": "player",
       "status": "active",
       "links": [
-        "[[Pyre]]"
+        "[[Pyre]]",
+        "[[Grand Justicar Malice]]"
       ],
       "tags": [
         "#player",
@@ -95,7 +96,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-13T23:45:00"
     },
     "03 NPCs/Adjudicator Peton.md": {
       "name": "Adjudicator Peton",
@@ -112,6 +113,24 @@
         "#traditionalist"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "03 NPCs/Ardent Kaelis.md": {
+      "name": "Ardent Kaelis",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Iiko]]",
+        "[[Ardentia of Revolar]]",
+        "[[Local Engineers & Stoneworkers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#ardent",
+        "#scholar",
+        "#alethi"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
     },
     "03 NPCs/Chip.md": {
       "name": "Chip",
@@ -150,6 +169,26 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "03 NPCs/General Odrin Lesh.md": {
+      "name": "General Odrin Lesh",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Highlord Paladar]]",
+        "[[General Spade]]",
+        "[[Truthkeepers]]",
+        "[[Revolar]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#general",
+        "#vamah_military"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
+    },
     "03 NPCs/General Spade.md": {
       "name": "General Spade",
       "type": "npc",
@@ -158,6 +197,7 @@
         "[[Knights of Dusk]]",
         "[[Truthkeepers]]",
         "[[Highlord Paladar]]",
+        "[[General Odrin Lesh]]",
         "[[Revolar]]",
         "[[Silent Oath]]"
       ],
@@ -167,6 +207,23 @@
         "#alethi",
         "#dustbringer",
         "#rebel_leader"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
+    },
+    "03 NPCs/Grand Justicar Malice.md": {
+      "name": "Grand Justicar Malice",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Ghostbloods]]",
+        "[[N'tal]]"
+      ],
+      "tags": [
+        "#npc",
+        "#veden",
+        "#bloodmarks",
+        "#grand_justicar"
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
@@ -219,6 +276,40 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "03 NPCs/Highlord Paladar.md": {
+      "name": "Highlord Paladar",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[General Odrin Lesh]]",
+        "[[Chip]]",
+        "[[Citylord Nilar Yenev]]",
+        "[[General Spade]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#highlord"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
+    },
+    "03 NPCs/Ilsh.md": {
+      "name": "Ilsh",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Kuma]]"
+      ],
+      "tags": [
+        "#npc",
+        "#thaylen",
+        "#researcher",
+        "#ardent_imposter"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
+    },
     "03 NPCs/Karani.md": {
       "name": "Karani",
       "type": "npc",
@@ -255,6 +346,22 @@
         "#rebel"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "03 NPCs/Kuma.md": {
+      "name": "Kuma",
+      "type": "player",
+      "status": "active",
+      "links": [
+        "[[Viscose]]",
+        "[[Revolar]]",
+        "[[Ilsh]]"
+      ],
+      "tags": [
+        "#elsecaller",
+        "#nurian",
+        "#maker"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
     },
     "03 NPCs/Renna Palir.md": {
       "name": "Renna Palir",
@@ -443,6 +550,19 @@
       ],
       "tags": [
         "#faction"
+      ],
+      "last_updated": "2026-05-13T23:35:12"
+    },
+    "06 Locations/Cream of the Crem.md": {
+      "name": "Cream of the Crem",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
