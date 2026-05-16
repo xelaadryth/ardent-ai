@@ -24,7 +24,6 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
     output = json.dumps(output_payload)
 
     written = []
-    index_saved = []
 
     def fake_write_file(path, content):
         written.append((path, content))
@@ -32,25 +31,21 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
     def fake_load_vault_index():
         return {"files": {"existing.md": {"summary": "Existing"}}}
 
-    def fake_save_vault_index(index_data):
-        index_saved.append(index_data)
-
     monkeypatch.setattr(response_parser, "write_file", fake_write_file)
-    monkeypatch.setattr(response_parser, "save_vault_index", fake_save_vault_index)
 
-    response_parser.apply_response(output, fake_load_vault_index())
+    current_index = fake_load_vault_index()
+    response_parser.apply_response(output, current_index)
 
     assert written == [("foo.md", "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello [[OtherLink]]")]
-    assert len(index_saved) == 1
-    assert "files" in index_saved[0]
-    assert "foo.md" in index_saved[0]["files"]
-    assert index_saved[0]["files"]["foo.md"]["name"] == "Foo"
-    assert index_saved[0]["files"]["foo.md"]["type"] == "example"
-    assert index_saved[0]["files"]["foo.md"]["tags"] == ["example"]
+    # Index is updated in memory but not saved to disk
+    assert "foo.md" in current_index["files"]
+    assert current_index["files"]["foo.md"]["name"] == "Foo"
+    assert current_index["files"]["foo.md"]["type"] == "example"
+    assert current_index["files"]["foo.md"]["tags"] == ["example"]
     # Note: response_parser no longer extracts body links, only uses frontmatter
-    assert index_saved[0]["files"]["foo.md"]["links"] == ["bar"]
-    assert index_saved[0]["files"]["foo.md"]["status"] == "active"
-    assert "last_updated" in index_saved[0]["files"]["foo.md"]
+    assert current_index["files"]["foo.md"]["links"] == ["bar"]
+    assert current_index["files"]["foo.md"]["status"] == "active"
+    assert "last_updated" in current_index["files"]["foo.md"]
 
 
 def test_apply_response_raises_for_invalid_operations():

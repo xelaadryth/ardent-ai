@@ -24,7 +24,7 @@ She possesses bright green eyes and classic, elegant Alethi features.
 Renna is characterized by her kindness, trusting nature, and protective instincts. While she carries a heavy burden of sorrow over her lost sister, she maintains a desire to help people. She also harbors a secret delusion that her younger sister is still alive.
 
 # Background
-Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after being inspired by witnessing their military logistics. However, her sympathetic nature has led her to distance herself from their harsher methods.
+Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after being inspired by witnessing their military logistics while working for the new military of Vamah. However, her sympathetic nature has led her to distance herself from their harsher methods.
 
 # Goals
 - **Proving Worth:** To make a meaningful difference and prove her value to her parents.

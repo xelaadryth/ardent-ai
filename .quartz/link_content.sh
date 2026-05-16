@@ -23,6 +23,13 @@ for dir in "$VAULT_ROOT"/*/; do
   fi
 done
 
+# Also link Dashboards folder even though it doesn't have a numbered prefix
+if [ -d "$VAULT_ROOT/Dashboards" ]; then
+  echo "Linking: Dashboards"
+  ln -s "$VAULT_ROOT/Dashboards" "$CONTENT_DIR/Dashboards"
+  FOLDERS+=("Dashboards")
+fi
+
 # Build homepage
 INDEX_FILE="$CONTENT_DIR/index.md"
 

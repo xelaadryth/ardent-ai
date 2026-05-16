@@ -3,7 +3,7 @@ import os
 import re
 import yaml
 from datetime import datetime, timezone
-from vault import save_vault_index, write_file
+from vault import write_file
 
 
 def parse_frontmatter(content: str) -> dict:
@@ -77,8 +77,6 @@ def apply_operations(operations: list[dict], current_index: dict):
 
         else:
             raise ValueError(f"Unsupported operation action: {action}")
-
-    save_vault_index(current_index)
 
 
 def apply_response(output: str, current_index: dict):
