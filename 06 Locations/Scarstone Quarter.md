@@ -6,6 +6,7 @@ tags:
   - "#location"
   - "#revolar"
 last_updated: 2024-05-18T00:00:00
+location: "[[Revolar]]"
 ---
 # Overview
 East part of the city, partially in the Cremfall. Weak ground and unstable foundations, takes the brunt of the storms, in need of repair.

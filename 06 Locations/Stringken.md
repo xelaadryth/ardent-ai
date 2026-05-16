@@ -5,6 +5,7 @@ status: active
 tags:
   - "#location"
 last_updated: 2026-05-13T23:35:12
+location: "[[Alethkar]]"
 ---
 # Description
 A town currently experiencing political instability, featuring the "Creaky Chull" tavern.

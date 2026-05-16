@@ -9,6 +9,8 @@ tags:
   - "#herald"
   - "#high_enforcer"
 last_updated: 2024-05-19T12:00:00
+faction: "[[Truthkeepers]]"
+location: "[[Revolar]]"
 ---
 # Description
 The High Enforcer of the Silent Oath and the ultimate authority on eliminating the threat of the [[Possessed]]. In reality, he is the Herald Nale (Nalan), the Patron Herald of the Skybreakers, a figure of fractured sanity driven by an absolute, inflexible adherence to the law to prevent another Desolation.

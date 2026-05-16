@@ -9,6 +9,8 @@ tags:
   - "#worldhopper"
   - "#ghostbloods"
 last_updated: 2026-05-13T23:35:12
+faction: "[[Ghostbloods]]"
+location: "[[Revolar]]"
 ---
 
 # Description

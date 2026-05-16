@@ -5,6 +5,7 @@ status: active
 tags:
   - "#location"
 last_updated: 2026-05-14T14:00:00
+location: "[[Alethkar]]"
 ---
 
 # Description

@@ -9,6 +9,8 @@ tags:
   - "#general"
   - "#vamah_military"
 last_updated: 2026-05-16T12:00:00
+faction: "[[Vamah]]"
+location: "[[Revolar]]"
 ---
 # Description
 A man of sharp features and a polished, military bearing. He wears the embellished brown and gray of Highlord Paladar's favored commanders, representing the corrupt regime against the [[Knights of Dusk]].

@@ -8,6 +8,8 @@ tags:
   - "#scholar"
   - "#alethi"
 last_updated: 2026-05-16T12:00:00
+faction:
+location: "[[Revolar]]"
 ---
 # Description
 An older, eccentric Ardent with a shaved head and the standard grey robes of his order. He specializes in geology and ancient history, seeking truth in the physical layers of the world.

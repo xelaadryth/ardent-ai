@@ -10,6 +10,8 @@ tags:
   - "#assassin"
   - "#apprentice"
 last_updated: 2026-05-18T12:00:00
+faction: "[[Ghostbloods]]"
+location: "[[Kharbranth]]"
 ---
 # Description
 A Veden noblewoman and ward to [[Jasnah Kholin]]. In this version of Roshar, she is a sleeper agent for the [[Ghostbloods]] tasked with assassinating her mentor to secure a Soulcaster.

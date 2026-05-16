@@ -8,6 +8,8 @@ tags:
   - "#assassin"
   - "#truthless"
 last_updated: 2026-05-17T12:00:00
+faction: "[[Diagram]]"
+location: "[[Jah Keved]]"
 ---
 # Description
 A Shin man of average height with large, pale eyes. He wears simple white robes and carries an Honorblade. He is a man broken by his status as "Truthless," bound by his culture to obey the commands of whoever holds his oathstone.

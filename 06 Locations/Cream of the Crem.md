@@ -6,6 +6,7 @@ tags:
   - "#location"
   - "#revolar"
 last_updated: 2026-05-19T12:00:00
+location: "[[Revolar]]"
 ---
 # Overview
 The "premier" lodging in the Driftwards district of [[Revolar]]. While significantly more expensive than its neighbors at 4 marks a night, its reputation for being "clean" is relative to the surrounding slums.

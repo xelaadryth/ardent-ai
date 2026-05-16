@@ -3,7 +3,17 @@
 A multi-tool system for managing a Cosmere RPG knowledge base.
 
 TODO:
-- Rename repo and move local folder
+- Add to frontmatter
+	- Party reputation (faction)
+	- Date (in-world)
+- Content organization
+	- Migrate session scenes to their own pages
+	- Centralized tag for active rumors/hooks with dataview for current session
+- Code changes
+	- Undertext - scribe notes on each page
+- Obsidian optimization
+	- Fantasy Map (Leaflet)
+- Implement Feedback.md
 
 ## Dev Setup
 

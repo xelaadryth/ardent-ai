@@ -8,6 +8,8 @@ tags:
   - "#skybreaker"
   - "#truthkeeper"
 last_updated: 2026-05-18T12:00:00
+faction: "[[Silent Oath]]"
+location: "[[Revolar]]"
 ---
 # Description
 A Makabaki woman in her mid-20s and a second-ideal Skybreaker. She serves as a reporter and subordinate to [[High Enforcer Aylen]]. Despite her stern training, she is a figure of mercy who will eventually spare the party during the Revolar conflict.

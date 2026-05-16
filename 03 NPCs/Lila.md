@@ -9,6 +9,8 @@ tags:
   - "#revolar"
   - "#informant"
 last_updated: 2024-05-19T10:00:00
+faction: "[[Knights of Dusk]]"
+location: "[[Revolar]]"
 ---
 
 # Description

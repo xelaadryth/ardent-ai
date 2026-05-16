@@ -8,6 +8,8 @@ tags:
   - "#bloodmarks"
   - "#grand_justicar"
 last_updated: 2026-05-17T12:00:00
+faction: "[[Bloodmarks]]"
+location: "[[Bodenar]]"
 ---
 # Description
 A man of imposing presence, he wears the ornate, heavy robes of a religious fanatic—deep violets and golds that signal his high station. He is a cold, clinical individual with a terrifyingly sharp intellect.

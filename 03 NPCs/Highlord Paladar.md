@@ -8,6 +8,8 @@ tags:
   - "#alethi"
   - "#highlord"
 last_updated: 2026-05-18T12:00:00
+faction: "[[Vamah]]"
+location: "[[Revolar]]"
 ---
 # Description
 Regent of Vamah, Paladar is a man of grand gestures and dramatic blinks who exploits the political vacuum left by nobles away at the Shattered Plains to expand his influence. He is the primary antagonist behind the instability in the region.

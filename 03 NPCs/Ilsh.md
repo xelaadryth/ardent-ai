@@ -8,6 +8,8 @@ tags:
   - "#researcher"
   - "#ardent_imposter"
 last_updated: 2026-05-16T17:00:00
+faction:
+location: "[[Bodenar]]"
 ---
 
 # Description

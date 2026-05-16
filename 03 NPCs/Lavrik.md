@@ -7,6 +7,8 @@ tags:
   - "#sergeant"
   - "#rebel"
 last_updated: 2026-05-14T00:00:00
+faction: "[[Knights of Dusk]]"
+location:
 ---
 
 # Description

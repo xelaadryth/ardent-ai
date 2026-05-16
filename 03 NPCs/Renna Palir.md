@@ -7,6 +7,8 @@ tags:
   - "#lighteyed"
   - "#alethi"
 last_updated: 2026-05-13T23:29:00
+faction: "[[Truthkeepers]]"
+location: "[[Revolar]]"
 ---
 # Description
 An elegant Alethi lighteyes who is significantly more sympathetic than her peers in the [[Truthkeepers]]. She is driven by a protective nature and a deep, underlying sorrow.

@@ -8,6 +8,8 @@ tags:
   - "#alethi"
   - "#truthkeeper"
 last_updated: 2026-05-13T23:35:12
+faction: "[[Truthkeepers]]"
+location: "[[Revolar]]"
 ---
 # Description
 A man who is "low tier" for a lighteyes, with a face that is constantly set in a serious, matter-of-fact frown. He is the son of skilled Alethi architects and carries himself with a quiet, unshakeable dignity.

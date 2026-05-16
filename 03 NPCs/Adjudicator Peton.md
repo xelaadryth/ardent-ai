@@ -9,6 +9,8 @@ tags:
   - "#adjudicator"
   - "#traditionalist"
 last_updated: 2026-05-15T12:00:00
+faction: "[[Truthkeepers]]"
+location: "[[Revolar]]"
 ---
 # Description
 A high-ranking official within the Truthkeepers who balances a rigid sense of duty with the messy reality of leading "outsider" units.

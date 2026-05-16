@@ -9,6 +9,8 @@ tags:
   - "#truthwatcher"
   - "#rebel"
 last_updated: 2026-05-18T12:00:00
+faction: "[[Knights of Dusk]]"
+location: "[[Revolar]]"
 ---
 # Description
 A native of the Purelake and a founding member of the rebellion. She is a decisive lieutenant dedicated to restoring the Knights Radiant and freeing the people from oppression.

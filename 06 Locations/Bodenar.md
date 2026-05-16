@@ -7,6 +7,7 @@ tags:
   - "#jah_keved"
   - "#trading_hub"
 last_updated: 2026-05-17T12:00:00
+location: "[[Jah Keved]]"
 ---
 
 # Description

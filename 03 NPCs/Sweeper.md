@@ -7,6 +7,8 @@ tags:
   - "#alethi"
   - "#contact"
 last_updated: 2026-05-15T16:00:00
+faction: "[[Ghostbloods]]"
+location: "[[Revolar]]"
 ---
 
 # Description

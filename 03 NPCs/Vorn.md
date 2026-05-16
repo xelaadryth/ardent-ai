@@ -7,6 +7,8 @@ tags:
   - "#thaylen"
   - "#artifabrian"
 last_updated: 2026-05-16T17:00:00
+faction:
+location: "[[Revolar]]"
 ---
 # Description
 An middle-aged Thaylen woman with exceptionally long, bushy white eyebrows that she frequently twists when thinking. She has dark blue eyes and shoulder length white hair. She wears the practical, ink-stained robes of an artifabrian, often with several measuring devices hanging from her belt.

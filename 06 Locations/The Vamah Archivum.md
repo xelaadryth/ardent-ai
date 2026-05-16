@@ -6,6 +6,7 @@ tags:
   - "#location"
   - "#revolar"
 last_updated: 2026-05-15T12:00:00
+location: "[[Revolar]]"
 ---
 # Overview
 The Vamah Archivum is the largest public library in [[Revolar]]. Established in the decades following the Hierocracy, it was built to centralize knowledge under the oversight of the princedom's legal scholars. While it is highly respectable, it is not particularly renowned throughout Roshar, as its collection is notoriously curated. Unknown to the public, it serves as the primary regional headquarters for the [[Truthkeepers]], with its restricted lower levels housing their command center.

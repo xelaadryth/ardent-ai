@@ -8,6 +8,8 @@ tags:
   - "#ghostbloods"
   - "#worldhopper"
 last_updated: 2026-05-15T15:00:00
+faction: "[[Ghostbloods]]"
+location: "[[Revolar]]"
 ---
 # Description
 Undertaker is a man of indeterminate age with a weathered, yet sophisticated face. He often wears high-quality, though understated, Alethi silks in dark, somber tones. He carries himself with the quiet confidence of a predator and is rarely seen without a small, exotic avian (a chicken) perched nearby. He often smells faintly of strange perfumes and dried herbs. His eyebrows are dyed black and cut short, hiding his Thaylen origins except to the most discerning eyes.

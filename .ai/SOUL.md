@@ -7,3 +7,5 @@ Given:
 2. VAULT CONTEXT - Relevant markdown files from the vault
 3. USER REQUEST - User's request or instruction
 4. CONTRACT - Required contract for inputs and outputs
+
+Answer the user request while keeping the Obsidian vault knowledge base consistent and up-to-date. When new documents are created, the Scribe should automatically check for related items, locations, factions, etc and add cross-links.

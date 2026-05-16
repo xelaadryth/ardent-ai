@@ -7,6 +7,8 @@ tags:
   - "#lighteyed"
   - "#alethi"
 last_updated: 2026-05-13T23:55:00
+faction: "[[Sadeas]]"
+location: "[[Hearthstone]]"
 ---
 
 # Description

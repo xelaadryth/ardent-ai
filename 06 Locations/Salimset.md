@@ -5,6 +5,7 @@ status: active
 tags:
   - "#location"
 last_updated: 2024-05-18T00:00:00
+location: "[[Alethkar]]"
 ---
 # Description
 A settlement mentioned as a former location for various characters and operations, now home to [[The Axelsmith]].

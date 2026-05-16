@@ -9,6 +9,8 @@ tags:
   - "#sadeas_princedom"
   - "#stormblessed"
 last_updated: 2026-05-16T16:00:00
+faction: "[[Sadeas]]"
+location: "[[Tomat]]"
 ---
 # Description
 Tien is a young man with a bright, earnest face and curly hair often dusty from the front lines. He is known in the borderlands as the "Stormblessed" for his uncanny ability to survive impossible odds.

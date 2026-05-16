@@ -6,6 +6,7 @@ tags:
   - "#location"
   - "#revolar"
 last_updated: 2026-05-15T12:00:00
+location: "[[Revolar]]"
 ---
 
 # Overview

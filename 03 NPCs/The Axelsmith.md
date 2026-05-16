@@ -8,6 +8,8 @@ tags:
   - "#cartwright"
   - "#salimset"
 last_updated: 2024-05-18T00:00:00
+faction:
+location: "[[Salimset]]"
 ---
 # Description
 The Axelsmith, formerly known as "The Axe", is a warrior who found a new purpose in life as a cartwright after his duel with [[Galeth-son-Thald]]. He speaks of himself in the third person.

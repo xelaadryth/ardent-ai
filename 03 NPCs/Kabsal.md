@@ -7,6 +7,8 @@ tags:
   - "#ardent"
   - "#ghostbloods"
 last_updated: 2026-05-18T12:00:00
+faction: "[[Ghostbloods]]"
+location: "[[Bodenar]]"
 ---
 # Description
 An Ardent of average looks, typically wearing the humble grey robes of his order. He presents himself as a devoted scholar, but he is a high-level infiltrator for the [[Ghostbloods]].

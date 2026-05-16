@@ -10,6 +10,8 @@ tags:
   - "#spy"
   - "#noble"
 last_updated: 2026-05-18T12:00:00
+faction: "[[Ghostbloods]]"
+location: "[[Alethkar]]"
 ---
 # Description
 A Ghostblood spy currently embedded within the [[Truthkeepers]], carefully hiding his true noble lineage and high-ranking status.

@@ -8,6 +8,8 @@ tags:
   - "#alethi"
   - "#sons_of_honor"
 last_updated: 2026-05-16T16:00:00
+faction:
+location: "[[Tomat]]"
 ---
 
 # Description

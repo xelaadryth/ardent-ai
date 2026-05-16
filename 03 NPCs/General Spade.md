@@ -9,6 +9,8 @@ tags:
   - "#dustbringer"
   - "#rebel_leader"
 last_updated: 2026-05-18T12:00:00
+faction: "[[Knights of Dusk]]"
+location: "[[Revolar]]"
 ---
 # Description
 A man of seasoned military bearing, Brightlord Antisar Spadis—more commonly just called General Spade—carries himself with the quiet confidence of a leader who has seen the worst of war. He is currently the target of a high-level purge by the [[Truthkeepers]].

@@ -8,6 +8,8 @@ tags:
   - "#veden"
   - "#antagonist"
 last_updated: 2024-05-18T00:00:00
+faction: "[[Bloodmarks]]"
+location: "[[Revolar]]"
 ---
 
 # Description

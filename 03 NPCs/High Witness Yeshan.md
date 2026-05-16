@@ -7,6 +7,8 @@ tags:
   - "#lighteyed"
   - "#herald"
 last_updated: 2024-05-19T12:00:00
+faction: "[[Truthkeepers]]"
+location: "[[Tukkar]]"
 ---
 # Description
 A man of regal and commanding authority who possesses a visionary yet patient nature. In reality, he is the Herald Ishar, suffering from fractured sanity and conducting dangerous experiments with Connection to "fix" the world according to his own warped perspective. He is the Patron Herald of the Bondsmiths.

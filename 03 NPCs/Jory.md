@@ -8,6 +8,8 @@ tags:
   - "#knights_of_dusk"
   - "#radiant"
 last_updated: 2024-05-18T00:00:00
+faction:
+location: "[[Revolar]]"
 ---
 
 # Description

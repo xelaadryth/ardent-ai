@@ -5,6 +5,7 @@ status: active
 tags:
   - "#location"
 last_updated: 2026-05-18T12:00:00
+location: "[[Alethkar]]"
 ---
 # Overview
 A major urban center and the intended destination for the squad's transfer. It serves as a significant hub for military logistics and political activity.

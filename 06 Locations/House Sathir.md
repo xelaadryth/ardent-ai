@@ -1,12 +1,13 @@
 ---
 name: House Sathir
-type: faction
+type: location
 status: active
 tags:
-  - "#faction"
+  - "#location"
   - "#alethi"
   - "#noble_house"
 last_updated: 2024-05-19T16:00:00
+location: "[[Alethkar]]"
 ---
 
 # Description

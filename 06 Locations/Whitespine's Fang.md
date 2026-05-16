@@ -6,6 +6,7 @@ tags:
   - "#location"
   - "#revolar"
 last_updated: 2026-05-19T12:00:00
+location: "[[Revolar]]"
 ---
 # Overview
 A moody, dimly lit tavern in the Driftwards. It functions as a strictly neutral ground where all factions can conduct private dealings without interference. Despite its sketchy and fearsome appearance, it is considered very safe and is respected by everyone as a protected space.
@@ -25,6 +26,5 @@ Sellswords, firemoss addicts, informants, and desperate travelers from every fac
 The neutrality of the establishment is maintained through a mutual, unspoken agreement among the city's power players. The floorboards in the back office conceal a stash of various debt collection notes from multiple groups.
 
 # Connections
-- [[Revolar]]
 - [[Sweeper]]
 - [[Cuisine of Roshar]]

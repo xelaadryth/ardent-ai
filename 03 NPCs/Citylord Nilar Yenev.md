@@ -10,6 +10,8 @@ tags:
   - "#citylord"
   - "#bit"
 last_updated: 2026-05-15T12:00:00
+faction: "[[Vamah]]"
+location: "[[Alethkar]]"
 ---
 # Description
 A political predator and "bad" lighteyes who specializes in removing risk and furthering Vamah causes at any cost. He is polished, reasonable-sounding, and utterly ruthless. Newly appointed to [[Stringken]], he has replaced the region's pig ranching with gumfrem ranching, which is suspected to be a front for embezzling gemheart taxes.

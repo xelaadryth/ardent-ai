@@ -6,6 +6,7 @@ tags:
   - "#location"
   - "#revolar"
 last_updated: 2026-05-15T12:00:00
+location: "[[Revolar]]"
 ---
 # Overview
 A bizarre and beautiful stone forest in Alethkar. The "trees" are tall pillars of caked-on crem, layered over centuries. Only the hardiest leaves poke out from the very tops, high above the forest floor. The forest is named for the expensive, dark wood that grows within these stone husks.

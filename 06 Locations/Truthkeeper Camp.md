@@ -6,6 +6,7 @@ tags:
   - "#location"
   - "#placeholder"
 last_updated: 2026-05-13T23:29:00
+location: "[[Alethkar]]"
 ---
 # Description
 A fortified military encampment situated against a cliffside, serving as a primary training and mobilization hub for the [[Truthkeepers]]. The perimeter is notably marked by erratic, "creeping trees" that move independently of the wind.

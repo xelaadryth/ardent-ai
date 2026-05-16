@@ -7,6 +7,8 @@ tags:
   - "#darkeyed"
   - "#surgeon"
 last_updated: 2026-05-13T23:55:00
+faction:
+location: "[[Hearthstone]]"
 ---
 
 # Description

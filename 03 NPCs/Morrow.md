@@ -9,6 +9,8 @@ tags:
   - "#merchant"
   - "#possessed"
 last_updated: 2026-05-16T15:00:00
+faction:
+location:
 ---
 # Description
 A former merchant from [[Revolar]] who was haunted by supernatural phenomena. He was identified by the [[Truthkeepers]] as [[Possessed]] and was subsequently executed by [[High Enforcer Aylen]].

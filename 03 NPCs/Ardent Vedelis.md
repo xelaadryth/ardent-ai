@@ -9,6 +9,8 @@ tags:
   - "#veristitalian"
   - "#alethi"
 last_updated: 2026-05-14T18:00:00
+faction: "[[Knights of Dusk]]"
+location:
 ---
 # Description
 A dedicated Ardent of Vamah who sought to preserve historical truth. He was a close ally of [[Lavrik]] and a member of the [[Devotary of Sincerity]].

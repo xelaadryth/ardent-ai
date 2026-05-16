@@ -10,6 +10,8 @@ tags:
   - "#house_sathir"
   - "#revolar"
 last_updated: 2024-05-19T14:00:00
+faction: "[[Sadeas]]"
+location: "[[Revolar]]"
 ---
 
 # Description

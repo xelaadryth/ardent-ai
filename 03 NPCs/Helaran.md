@@ -8,6 +8,8 @@ tags:
   - "#assassin"
   - "#veshers"
 last_updated: 2026-05-18T12:00:00
+faction: "[[Ghostbloods]]"
+location: "[[Tomat]]"
 ---
 
 # Description
