@@ -109,6 +109,25 @@
       ],
       "last_updated": "2026-05-17T12:00:00"
     },
+    "05 Kharbranth Infiltration Arc": {
+      "name": "05 Kharbranth Infiltration Arc",
+      "type": "arc",
+      "status": "planned",
+      "links": [
+        "[[Ghostbloods]]",
+        "[[Kharbranth]]",
+        "[[Jasnah Kholin]]",
+        "[[Kabsal]]",
+        "[[Shallan Davar]]"
+      ],
+      "tags": [
+        "#arc",
+        "#kharbranth",
+        "#infiltration",
+        "#ghostbloods"
+      ],
+      "last_updated": "2026-05-18T12:00:00"
+    },
     "Fina": {
       "name": "Fina",
       "type": "player",
@@ -431,7 +450,7 @@
       "links": [
         "[[Ghostbloods]]",
         "[[Amaram]]",
-        "[[Sons of Honor]]",
+        "[[Shallan Davar]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
         "[[03 Stormblessed Arc]]"
@@ -442,7 +461,7 @@
         "#assassin",
         "#veshers"
       ],
-      "last_updated": "2026-05-16T16:00:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "High Enforcer Aylen": {
       "name": "High Enforcer Aylen",
@@ -567,19 +586,43 @@
       ],
       "last_updated": "2026-05-16T12:00:00"
     },
+    "Jasnah Kholin": {
+      "name": "Jasnah Kholin",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Shallan Davar]]",
+        "[[Kharbranth]]",
+        "[[Kabsal]]",
+        "[[Ghostbloods]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#scholar",
+        "#radiant",
+        "#heretic"
+      ],
+      "last_updated": "2026-05-18T12:00:00"
+    },
     "Kabsal": {
       "name": "Kabsal",
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Ghostbloods]]"
+        "[[Ghostbloods]]",
+        "[[Jasnah Kholin]]",
+        "[[Kharbranth]]",
+        "[[Shallan Davar]]",
+        "[[05 Kharbranth Infiltration Arc]]"
       ],
       "tags": [
         "#npc",
         "#ardent",
         "#ghostbloods"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Karani": {
       "name": "Karani",
@@ -716,6 +759,27 @@
         "#truthkeeper"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "Shallan Davar": {
+      "name": "Shallan Davar",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Jasnah Kholin]]",
+        "[[Ghostbloods]]",
+        "[[Helaran]]",
+        "[[Kabsal]]",
+        "[[Kharbranth]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#veden",
+        "#ghostbloods",
+        "#assassin",
+        "#apprentice"
+      ],
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Sila": {
       "name": "Sila",
@@ -1492,6 +1556,22 @@
         "#location"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "Kharbranth": {
+      "name": "Kharbranth",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Jasnah Kholin]]",
+        "[[Kabsal]]",
+        "[[Shallan Davar]]",
+        "[[05 Kharbranth Infiltration Arc]]"
+      ],
+      "tags": [
+        "#location",
+        "#city_of_bells"
+      ],
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Revolar": {
       "name": "Revolar",
