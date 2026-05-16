@@ -6,28 +6,25 @@ tags:
   - "#npc"
   - "#makabaki"
   - "#skybreaker"
-last_updated: 2026-05-13T23:45:00
+  - "#truthkeeper"
+last_updated: 2026-05-16T12:00:00
 ---
 # Description
-A Makabaki woman in her mid-20s with deep, dark skin and striking green eyes. She is a member of the [[Silent Oath]] and a second-ideal Skybreaker.
+A Makabaki woman in her mid-20s and a second-ideal Skybreaker. She serves as a reporter and subordinate to [[High Enforcer Aylen]]. Despite her stern training, she is a figure of mercy who will eventually spare the party during the Revolar conflict.
 
 # Appearance
-She wears her black hair in a short, practical crop and carries herself with military discipline. Despite her stern training, her expressions often betray a flicker of doubt or deep thought.
+She wears her black hair in a short, practical crop and carries herself with military discipline. Her strike green eyes often betray a flicker of doubt regarding the cold directives she follows.
 
 # Personality
-Law-abiding and disciplined, Istrum is a true believer in the tenets of the Silent Oath. However, she possesses a compassionate heart that she struggles to reconcile with the cold directives of [[High Enforcer Aylen]]. She is a legalist who searches for "loopholes of mercy," attempting to interpret the strict letter of the law in ways that preserve life rather than extinguish it.
+Law-abiding and disciplined, but possesses a compassionate heart. She is a legalist who searches for "loopholes of mercy," attempting to interpret the strict letter of the law in ways that preserve life.
 
 # Background
-Istrum’s commitment to the law is absolute—she famously turned her own parents over to the Truthkeepers for attempting to join the Envisagers. Since then, she has risen to the rank of a second-ideal Skybreaker. However, the further she climbs within the Silent Oath, the more she begins to doubt the absolute righteousness of their purge.
+She is assigned to monitor the squad and the insurgency in [[Revolar]]. Her doubts about the Silent Oath's purge are growing as the conflict with the [[Knights of Dusk]] escalates.
 
 # Goals
-- **Adherence to Law:** Follow the directives of the Silent Oath and her mentor, [[High Enforcer Aylen]].
-- **Preservation of Life:** Find legal justifications to spare those who are not truly a threat, specifically the [[Possessed]] who show no signs of violence.
-- **Spiritual Growth:** Swear the Third Ideal and manifest a Shardblade.
-
-# Secrets
-Istrum is on a collision course with her own Oaths. Her trajectory suggests she will eventually manifest a Shardblade, but may lose it—or her standing—when she inevitably chooses mercy over Aylen's interpretation of justice.
+- **Spiritual Growth:** Swear the Third Ideal.
+- **Mercy:** Protect those who are not truly a threat, despite the law's demands.
 
 # Connections
-- [[High Enforcer Aylen]]: Her mentor and commander. She views him with a mix of awe and growing quiet dread.
-- The Party: She is assigned to monitor them, but her innate mercy may lead her to spare them even when the law demands their heads.
+- [[High Enforcer Aylen]]: Her mentor and commander.
+- [[02 Knights of Dusk Arc]]: Assigned to observe the squad and the rebellion.

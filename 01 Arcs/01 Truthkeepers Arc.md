@@ -1,14 +1,15 @@
 ---
 name: 01 Truthkeepers Arc
 type: arc
-status: active
+status: inactive
 tags:
   - "#arc"
-last_updated: 2026-05-16T11:00:00
+last_updated: 2026-05-16T12:00:00
 number: 1
 ---
 # Description
 The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt down individuals who are [[Possessed]]. However, as the players fulfill their duties, they begin to experience the same symptoms: hearing voices and feeling the pull of another world.
+
 # Key Characters
 - [[High Witness Yeshan]]
 - [[Adjudicator Peton]]
@@ -17,10 +18,13 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 - [[Lavrik]]
 - [[Morrow]]
 - [[High Enforcer Aylen]]
+
 # Scenes
 - [[Shellmite Attack]]
+
 # Hooks
 - [[Sila's Allegiance]]
+
 # Sessions
 - [[000 Arrival]]
 - [[001 First Blood]]
