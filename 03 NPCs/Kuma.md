@@ -7,7 +7,7 @@ tags:
   - "#nurian"
   - "#maker"
 player: Dan
-last_updated: 2026-05-13T23:35:12
+last_updated: 2026-05-13T23:45:00
 ---
 
 # Description
@@ -34,5 +34,6 @@ Born to a Nurian farming family, Kuma cared more for books and tinkering than fo
 # Connections
 - [[Viscose]] — His logical and contrarian Inkspren.
 - [[Ilsh]] — A researcher with whom he has shared discussions regarding spren and fabrials.
+- [[Vorn]] — An artifabrian intrigued by his grasp of fabrication.
 - His uncle — The man who raised him and nearly lost his inheritance in a card game.
 - The Artifabrians of [[Revolar]] — Scholars and craftsmen he hopes can help him unlock the secrets of his device.
