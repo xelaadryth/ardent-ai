@@ -15,7 +15,7 @@ The squad navigates tensions in Stringken and Hobbleken, dealing with the afterm
 
 # Scenes
 - **Whitespine Shelter:** The party takes shelter from a highstorm in a Whitespine cave. [[Kuma]] and [[Iiko]] experiment with the recovered Soulcaster; Kuma successfully uses it to transmute a stick into smoke.
-- **Stringken Investigation:** The party deals with Ashusa’s surveillance. Ashusa, who knows of the missing gemhearts and has human slaves like [[Bit]] protecting her, holds evidence of bribery and money laundering involving [[06 Locations/Revolar]]-based merchants and the Bloodmarks. 
+- **Stringken Investigation:** The party deals with Ashusa’s surveillance. Ashusa, who knows of the missing gemhearts and has human slaves like [[Bit]] protecting her, holds evidence of bribery and money laundering involving [[Revolar]]-based merchants and the Bloodmarks. 
 - **The Confrontation:** [[Citylord Nilar Yenev]] blames the party for the disappearance of local "protection" operatives. [[Chip]] uses his connection to the [[Truthkeepers]] to leverage a "get-out-of-jail-free" card, revealing that the Truthkeepers and the local authorities share common employers.
 - **Hobbleken Return:** The squad visits Hobbleken, where Bala confirms a full recovery from the illness previously identified as a common cold.
 

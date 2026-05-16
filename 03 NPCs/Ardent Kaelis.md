@@ -19,7 +19,7 @@ He is typically seen carrying a massive brass-bound ledger and ink-stained satch
 Kaelis has little patience for social posturing but becomes intensely engaged when discussing the physical history of the world. He belongs to the Devotary of Sincerity and believes that objective truth is physically buried within the crem and stone of Roshar. He possesses remarkable observational skills that often lead him to notice details others overlook.
 
 # Background
-Originally from the outskirts of Kholinar, Kaelis relocated to [[06 Locations/Revolar]] to study the unique crem deposition patterns of the Driftwards. He believes that by studying strata and erosion, one can reconstruct forgotten settlements and trace movements of civilizations following past Desolations. While his work is often dismissed by other ardents as tedious, he considers his research sacred.
+Originally from the outskirts of Kholinar, Kaelis relocated to [[Revolar]] to study the unique crem deposition patterns of the Driftwards. He believes that by studying strata and erosion, one can reconstruct forgotten settlements and trace movements of civilizations following past Desolations. While his work is often dismissed by other ardents as tedious, he considers his research sacred.
 
 # Goals
 - **Reconstruct Lost History:** Map buried settlements and ancient roads hidden by crem buildup.

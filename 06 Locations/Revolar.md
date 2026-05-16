@@ -22,7 +22,7 @@ A major urban center and the intended destination for the squad's transfer. It s
   - Barrel Row, Crowded Steppe, Lowstone Alley, Bruckslats (Ghostblood hideout), [[The Stackhouses]], Cremling Quarter.
 - **Slipmarket:** Docks to the southeast of the city, near the south gate caravans and trade ships, stalls that fold down and stow away. Shipments mainly come from the mountains to the southwest.
 - **The Driftwards:** Travelers, outsiders, transient populations, rougher district near the north gate.
-  - Bladeshine Inn, The Crossed Paths, Gloam Lantern, Stormrest, Greenplank Inn, [[06 Locations/Cream of the Crem]], [[Whitespine's Fang]] (Sweeper’s inn).
+  - Bladeshine Inn, The Crossed Paths, Gloam Lantern, Stormrest, Greenplank Inn, [[Cream of the Crem]], [[Whitespine's Fang]] (Sweeper’s inn).
 - **Devotary Ward:** Towards the southwest. "If you’re looking for answers, try the Ward. If you’re looking for results, try the Guard."
   - Includes Veristitalians, Sincerity, Purity, Insight, Denial, Mind, Mercy, Kalak, Order of Talenelat, Scholar’s Rest, Candle Quarter.
 - **Fieldwards:** To the west, agricultural, farming, tanneries, grain processing, warehouses.

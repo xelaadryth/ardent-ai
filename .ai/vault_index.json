@@ -59,7 +59,7 @@
       "status": "active",
       "links": [
         "[[Viscose]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Ilsh]]",
         "[[Vorn]]"
       ],
@@ -124,7 +124,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Iiko]]",
         "[[Ardentia of Revolar]]",
         "[[Local Engineers & Stoneworkers]]"
@@ -198,7 +198,7 @@
         "[[Highlord Paladar]]",
         "[[General Spade]]",
         "[[Truthkeepers]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Knights of Dusk]]"
       ],
       "tags": [
@@ -219,7 +219,7 @@
         "[[Truthkeepers]]",
         "[[Highlord Paladar]]",
         "[[General Odrin Lesh]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Silent Oath]]"
       ],
       "tags": [
@@ -400,7 +400,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[Mallow]]"
       ],
@@ -419,7 +419,7 @@
       "status": "active",
       "links": [
         "[[Viscose]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Ilsh]]",
         "[[Vorn]]"
       ],
@@ -480,7 +480,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[Iiko]]",
         "[[Chip]]",
@@ -518,7 +518,7 @@
       "links": [
         "[[Chip]]",
         "[[Karani]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Adjudicator Peton]]",
         "[[Truthkeepers]]"
       ],
@@ -604,7 +604,7 @@
         "[[Chip]]",
         "[[Karani]]",
         "[[High Enforcer Aylen]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[Silent Oath]]"
       ],
@@ -621,7 +621,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Kuma]]"
       ],
       "tags": [
@@ -661,7 +661,7 @@
         "[[Hearthstone]]",
         "[[Adjudicator Peton]]",
         "[[N'tal]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[High Enforcer Aylen]]"
       ],
       "tags": [
@@ -820,7 +820,7 @@
         "[[Verdae]]",
         "[[Toralin Roshone]]",
         "[[Laral Roshone]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Renna Palir]]",
         "[[Chip]]",
         "[[Karani]]",
@@ -845,7 +845,7 @@
         "[[Kuma]]",
         "[[Iiko]]",
         "[[Bit]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Citylord Nilar Yenev]]",
         "[[Chip]]",
         "[[Truthkeepers]]",
@@ -866,7 +866,7 @@
         "[[Adjudicator Peton]]",
         "[[High Enforcer Aylen]]",
         "[[Silent Oath]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Knights of Dusk]]",
         "[[High Witness Yeshan]]",
         "[[Morrow the Merchant]]",
@@ -896,7 +896,7 @@
       "status": "active",
       "links": [
         "[[Chip]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Undertaker]]",
         "[[Ghostbloods]]",
         "[[Bloodmarks]]",
@@ -918,7 +918,7 @@
       "links": [
         "[[Bloodmarks]]",
         "[[Knights of Dusk]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Undertaker]]"
       ],
       "tags": [
@@ -934,7 +934,7 @@
       "status": "active",
       "links": [
         "[[Highlord Paladar]]",
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[N'tal]]",
         "[[Truthkeepers]]",
         "[[Ghostbloods]]",
@@ -982,7 +982,7 @@
       "type": "faction",
       "status": "active",
       "links": [
-        "[[06 Locations/Revolar]]",
+        "[[Revolar]]",
         "[[Truthkeepers]]"
       ],
       "tags": [
@@ -1011,19 +1011,19 @@
         "[[Silent Oath]]",
         "[[High Witness Yeshan]]",
         "[[Knights of Dusk]]",
-        "[[06 Locations/Revolar]]"
+        "[[Revolar]]"
       ],
       "tags": [
         "#faction"
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "06 Locations/Cream of the Crem.md": {
+    "Cream of the Crem.md": {
       "name": "Cream of the Crem",
       "type": "location",
       "status": "active",
       "links": [
-        "[[06 Locations/Revolar]]"
+        "[[Revolar]]"
       ],
       "tags": [
         "#location",
@@ -1031,7 +1031,7 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "06 Locations/Hearthstone.md": {
+    "Hearthstone.md": {
       "name": "Hearthstone",
       "type": "location",
       "status": "active",
@@ -1045,7 +1045,7 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "06 Locations/Hobbleken.md": {
+    "Hobbleken.md": {
       "name": "Hobbleken",
       "type": "location",
       "status": "active",
@@ -1057,7 +1057,7 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "06 Locations/Revolar.md": {
+    "Revolar.md": {
       "name": "Revolar",
       "type": "location",
       "status": "active",
@@ -1080,7 +1080,7 @@
       ],
       "last_updated": "2026-05-14T18:00:00"
     },
-    "06 Locations/Stringken.md": {
+    "Stringken.md": {
       "name": "Stringken",
       "type": "location",
       "status": "active",
@@ -1094,7 +1094,7 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
-    "06 Locations/Talinan.md": {
+    "Talinan.md": {
       "name": "Talinan",
       "type": "location",
       "status": "active",
@@ -1107,7 +1107,7 @@
       ],
       "last_updated": "2026-05-14T14:00:00"
     },
-    "06 Locations/Truthkeeper Camp.md": {
+    "Truthkeeper Camp.md": {
       "name": "Truthkeeper Camp",
       "type": "location",
       "status": "active",

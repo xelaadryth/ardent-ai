@@ -3,7 +3,7 @@ name: Khria
 type: npc
 status: active
 links:
-  - "[[06 Locations/Revolar]]"
+  - "[[Revolar]]"
   - "[[Truthkeepers]]"
   - "[[Mallow]]"
 tags:
@@ -18,7 +18,7 @@ last_updated: 2026-05-13T23:29:00
 A native of the Purelake and a founding member of the rebellion. She is a decisive lieutenant dedicated to restoring the Knights Radiant and freeing the people from oppression.
 
 # Appearance
-Lean and lithe with sun-tanned skin typical of a Purelaker. She wears practical, muted clothing suited for travel. Utilizing her Truthwatcher abilities, she frequently employs illusions to disguise herself as a short Alethi darkeyed woman to move through the shadows of [[06 Locations/Revolar]].
+Lean and lithe with sun-tanned skin typical of a Purelaker. She wears practical, muted clothing suited for travel. Utilizing her Truthwatcher abilities, she frequently employs illusions to disguise herself as a short Alethi darkeyed woman to move through the shadows of [[Revolar]].
 
 # Personality
 Possesses a preternatural calm and a sharp logistical mind, always calculating the best path forward during high-stakes situations. While deeply loyal and decisive, she carries a quiet bitterness regarding the circumstances of her capture.
@@ -38,4 +38,4 @@ Her life changed after spotting a Mistspren in the shallow waters of the Purelak
 - **General Spade**: Her commander, savior, and fellow rebellion leader.
 - **[[Mallow]]**: Her sister from the Purelake.
 - **[[Truthkeepers]]**: Her former captors and the primary targets of her rebellion.
-- **[[06 Locations/Revolar]]**: The city where she often operates in disguise.
+- **[[Revolar]]**: The city where she often operates in disguise.

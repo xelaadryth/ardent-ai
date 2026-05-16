@@ -15,7 +15,7 @@ An middle-aged Thaylen woman with exceptionally long, bushy white eyebrows that 
 Academic and precise, though she has a tendency to get "lost in the gems." She speaks quickly, her Thaylen accent turning her Alethi into a grumble. Unlike some of her more boisterous colleagues, she is intensely focused on the efficiency of soul-capture and energy transfer.
 
 # Background
-A respected member of the Thaylen Artifabrian Guild, Vorn was recruited by the Veilmaster to lead the technical side of the steamship project in Bodenar. She is currently traveling through Alethkar to gather specific materials—and perhaps a few more skilled hands—before the final demonstration. She is currently in [[06 Locations/Revolar]] to charter a ship to take her to Bodenar, and may be willing to take on the party as guards.
+A respected member of the Thaylen Artifabrian Guild, Vorn was recruited by the Veilmaster to lead the technical side of the steamship project in Bodenar. She is currently traveling through Alethkar to gather specific materials—and perhaps a few more skilled hands—before the final demonstration. She is currently in [[Revolar]] to charter a ship to take her to Bodenar, and may be willing to take on the party as guards.
 
 # Goals & Motivations
 - **The Perfect Engine:** To prove that Nurian Gems can be stabilized for long-term industrial use.

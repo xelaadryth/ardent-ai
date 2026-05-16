@@ -7,7 +7,7 @@ links:
   - "[[Chip]]"
   - "[[Karani]]"
   - "[[High Enforcer Aylen]]"
-  - "[[06 Locations/Revolar]]"
+  - "[[Revolar]]"
 tags:
   - "#npc"
   - "#thaylen"
@@ -23,7 +23,7 @@ Undertaker is a man of indeterminate age with a weathered, yet sophisticated fac
 Calculating, patient, and intensely pragmatic. He speaks with a soft, melodic voice with almost no hint of Thaylen accent that carries an underlying threat. He views the world as a grand game of logistics and influence. He is not a zealot; he cares nothing for the Truthkeepers' ideology, but he admires their efficiency in maintaining "order." He is a collector of curiosities and information, valuing anything that grants leverage.
 
 # Background
-Operating out of the shadows of [[06 Locations/Revolar]], Undertaker rarely walks the streets without a fresh disguise. Sometimes a weathered soldier, sometimes a merchant, in reality, he is a high-ranking member of the [[Ghostbloods]], overseeing their operations in the region. He reports to Iyatil, who pretends to be his apprentice.
+Operating out of the shadows of [[Revolar]], Undertaker rarely walks the streets without a fresh disguise. Sometimes a weathered soldier, sometimes a merchant, in reality, he is a high-ranking member of the [[Ghostbloods]], overseeing their operations in the region. He reports to Iyatil, who pretends to be his apprentice.
 
 # Goals
 - **Regional Stability:** Keep the peace at all costs so that trade and research into fabrials and worldhopping can continue unhindered.

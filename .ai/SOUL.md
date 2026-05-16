@@ -38,10 +38,11 @@ Example:
 
 ```yaml
 ---
-name: Peton
+name: Aaron
 type: npc
 status: active
 tags:
+  - "#npc"
   - "#lighteyed"
   - "#alethi"
 last_updated: 2026-05-13T23:35:12
@@ -53,14 +54,14 @@ Templates
 
 Linking
 - When creating a file, insert bidirectional links to related documents, and update related documents to include [[Obsidian Links]] to the new page.
-- If a referenced page does not exist and should not be created, use a tag instead of an Obsidian link.
-- The Obsidian link text must match match the exact page title wrapped in double brackets. Do NOT use:
+- The Obsidian link text must match match the EXACT page title wrapped in double brackets. Do NOT use:
   - Aliases: [[Page Name|Display Text]]
   - Lowercase slugs: [[page_name]]
   - Prefixed IDs: [[npc_page_name]]
   - Markdown links: [text](file.md)
+  - Filepaths: [[03 NPCs/Aaron.md]]
 
 Modification Rules
 - Never delete files unless explicitly requested.
 - Preserve user-authored content whenever possible.
-- Normalize imported content to template structure.
+- Normalize imported content to match templates and existing documents.

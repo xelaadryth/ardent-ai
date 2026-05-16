@@ -10,7 +10,7 @@ number: 12
 ---
 
 # Description
-The squad stalks [[Chip]] through [[06 Locations/Revolar]] to uncover his true loyalties, leading them to a clandestine meeting with the [[Undertaker]] and revealing the shadow war between the [[Ghostbloods]] and the [[Bloodmarks]].
+The squad stalks [[Chip]] through [[Revolar]] to uncover his true loyalties, leading them to a clandestine meeting with the [[Undertaker]] and revealing the shadow war between the [[Ghostbloods]] and the [[Bloodmarks]].
 
 # Scenes
 - **The Tail:** The party tracks [[Chip]] from the Gemheart Inn to the Bruckslats district. He attempts to lose them in the Crowded Steppe, a chaotic slum near the southeast docks.

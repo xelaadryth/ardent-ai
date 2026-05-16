@@ -6,7 +6,7 @@ links:
   - "[[Silent Oath]]"
   - "[[High Witness Yeshan]]"
   - "[[Knights of Dusk]]"
-  - "[[06 Locations/Revolar]]"
+  - "[[Revolar]]"
 tags:
   - "#faction"
 last_updated: 2026-05-13T23:35:12
@@ -19,7 +19,7 @@ The Truthkeepers operate with near-total autonomy, shielded by the political cov
 
 # Goals
 - **Neutralization:** Identify and "neutralize" individuals showing signs of Surgebinding or mental instability.
-- **Logistical Control:** Secure [[06 Locations/Revolar]] and fortify supply lines for militant Sadeas groups coming from the Vamah Princedom.
+- **Logistical Control:** Secure [[Revolar]] and fortify supply lines for militant Sadeas groups coming from the Vamah Princedom.
 - **Suppression:** Actively hunt down and dismantle the [[Knights of Dusk]] to ensure regional stability.
 
 # Structure

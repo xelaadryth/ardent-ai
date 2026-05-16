@@ -30,6 +30,19 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Check for open PRs
+        if: github.event_name == 'push'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          OPEN_PRS=$(gh pr list --state open --json number --jq 'length')
+          if [ "$OPEN_PRS" -gt 0 ]; then
+            echo "Skipping workflow: $OPEN_PRS open PR(s) found"
+            echo "NO_CHANGES=true" >> $GITHUB_ENV
+            exit 0
+          fi
+
       - name: Create branch
         shell: bash
         run: |
