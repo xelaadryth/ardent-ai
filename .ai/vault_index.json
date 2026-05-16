@@ -255,15 +255,17 @@
       "links": [
         "[[Silent Oath]]",
         "[[High Witness Yeshan]]",
-        "[[Possessed]]"
+        "[[Possessed]]",
+        "[[Truthkeepers]]"
       ],
       "tags": [
         "#npc",
         "#darkeyed",
         "#makabaki",
-        "#herald"
+        "#herald",
+        "#high_enforcer"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-14T15:00:00"
     },
     "03 NPCs/High Witness Yeshan.md": {
       "name": "High Witness Yeshan",
@@ -330,6 +332,19 @@
         "#ardent_imposter"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "03 NPCs/Istrim.md": {
+      "name": "Istrim",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[High Enforcer Aylen]]"
+      ],
+      "tags": [
+        "#npc",
+        "#truthkeeper"
+      ],
+      "last_updated": "2026-05-14T15:00:00"
     },
     "03 NPCs/Istrum.md": {
       "name": "Istrum",
@@ -861,6 +876,44 @@
         "#investigation"
       ],
       "last_updated": "2026-05-14T12:00:00"
+    },
+    "04 Sessions/011 Promotions and Revolar.md": {
+      "name": "011 Promotions and Revolar",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[010 Soulcaster and Shared Employers]]",
+        "[[Adjudicator Peton]]",
+        "[[High Enforcer Aylen]]",
+        "[[Morrow the Merchant]]",
+        "[[Silent Oath]]",
+        "[[Truthkeepers]]",
+        "[[Revolar]]",
+        "[[Istrim]]",
+        "[[Salimset]]",
+        "[[Branchken]]",
+        "[[Leafken]]",
+        "[[Listern]]",
+        "[[Climit]]",
+        "[[Yola]]",
+        "[[Shess]]",
+        "[[N'tal]]",
+        "[[Sila]]",
+        "[[Karani]]",
+        "[[Chip]]",
+        "[[Knights of Dusk]]",
+        "[[High Witness Yeshan]]",
+        "[[Possessed]]",
+        "[[Ghostbloods]]",
+        "[[Jokrun]]",
+        "[[Undertaker]]"
+      ],
+      "tags": [
+        "#session",
+        "#promotion",
+        "#investigation"
+      ],
+      "last_updated": "2026-05-14T15:00:00"
     },
     "05 Factions/Envisagers.md": {
       "name": "Envisagers",
