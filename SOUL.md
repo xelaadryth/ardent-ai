@@ -21,18 +21,16 @@ Required fields:
 - `name`
 - `type`
 - `status`
-- `links`
 - `tags`
-- `last_index`
+- `last_updated`
 
 Rules:
 
 - `name` must match the file title.
 - `type` must match an existing template type.
 - `status` must be `active`, `inactive`, or `planned`.
-- `links` must always be an empty YAML list (`links: []`). The parser populates links automatically.
 - `tags` must be a YAML list of `#camel_case` tags.
-- `last_index` is generated automatically.
+- `last_updated` is the last time you modified the file.
 
 Example:
 
@@ -41,11 +39,10 @@ Example:
 name: Peton
 type: npc
 status: active
-links: []
 tags:
   - "#lighteyed"
   - "#alethi"
-last_index: 2026-05-13T23:35:12
+last_updated: 2026-05-13T23:35:12
 ---
 Templates
 - Use the matching template from 00 Templates/ when creating files.

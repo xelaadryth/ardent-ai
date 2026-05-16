@@ -38,7 +38,9 @@ tags:
     assert "tags" in entry
     assert entry["name"] == "Aaron"
     assert entry["type"] == "npc"
-    assert entry["links"] == ["[[Town]]"]
+    # Frontmatter links are preserved, body links are merged, duplicates removed
+    assert "[[Town]]" in entry["links"]
+    assert "[[Abbey]]" in entry["links"]
     assert entry["tags"] == ["#noble"]
 
 
@@ -72,12 +74,12 @@ def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypa
             "03 NPCs/OldFile.md": {
                 "name": "OldFile",
                 "type": "npc",
-                "last_index": old_timestamp
+                "last_updated": old_timestamp
             },
             "02 Players/NewFile.md": {
                 "name": "NewFile", 
                 "type": "player",
-                "last_index": new_timestamp
+                "last_updated": new_timestamp
             }
         }
     }
@@ -89,17 +91,22 @@ def test_get_oldest_indexed_files_returns_oldest_by_timestamp(tmp_path, monkeypa
     assert oldest == ["03 NPCs/OldFile.md"]
 
 
-def test_build_index_entry_includes_last_index_timestamp():
+def test_build_index_entry_preserves_last_updated_from_frontmatter():
     from pathlib import Path
 
     path = Path("03 NPCs/Aaron.md")
-    content = ""
+    content = """---
+name: Aaron
+type: npc
+last_updated: 2023-01-01T00:00:00Z
+---
+Some content"""
 
     entry = vault.build_index_entry(content)
 
-    assert "last_index" in entry
-    assert isinstance(entry["last_index"], str)
-    assert entry["last_index"].endswith("Z")
+    assert "last_updated" in entry
+    # YAML parses timestamps as datetime objects, but we convert them to ISO strings
+    assert entry["last_updated"] == "2023-01-01T00:00:00+00:00"
 
 
 def test_build_index_entry_includes_status_from_frontmatter():

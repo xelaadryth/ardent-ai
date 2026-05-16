@@ -96,8 +96,8 @@ def merge_index_entries(existing: dict, new_entry: dict) -> dict:
     if existing == new_entry:
         return existing
 
-    existing_last = existing.get("last_index", "")
-    new_last = new_entry.get("last_index", "")
+    existing_last = existing.get("last_updated", "")
+    new_last = new_entry.get("last_updated", "")
     try:
         if existing_last and new_last:
             existing_dt = datetime.fromisoformat(existing_last.replace("Z", "+00:00"))
@@ -134,13 +134,13 @@ def augment_index_with_disk(files: dict) -> tuple[dict, bool]:
 
 def get_oldest_indexed_files(limit: int = 10) -> list[str]:
     """
-    Get the oldest indexed files by last_index timestamp.
+    Get the oldest indexed files by last_updated timestamp.
     
     Args:
         limit: Maximum number of files to return.
     
     Returns:
-        List of file paths sorted by oldest last_index timestamp.
+        List of file paths sorted by oldest last_updated timestamp.
     """
     index = load_vault_index()
     entries = []
@@ -148,10 +148,10 @@ def get_oldest_indexed_files(limit: int = 10) -> list[str]:
     for name, metadata in index["files"].items():
         if not isinstance(metadata, dict):
             continue
-        last_index = metadata.get('last_index', '')
-        if last_index:
+        last_updated = metadata.get('last_updated', '')
+        if last_updated:
             try:
-                timestamp = datetime.fromisoformat(last_index.replace('Z', '+00:00')).timestamp()
+                timestamp = datetime.fromisoformat(last_updated.replace('Z', '+00:00')).timestamp()
                 entries.append((name, timestamp))
             except ValueError:
                 # Invalid timestamp, treat as very old

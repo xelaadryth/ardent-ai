@@ -49,9 +49,10 @@ This is handled by `workflow_integration.print_workflow_output()`.
 
 ### Vault Index System
 - `vault_index.json` tracks all markdown files with frontmatter
-- Each entry has: name, type, status, links, tags, last_index
+- Each entry has: name, type, status, links, tags, last_updated
 - Type-to-folder mapping organizes content (e.g., "npc" → "03 NPCs")
 - Index can be rebuilt deterministically from disk via `reindex.py`
+- `last_updated` is only set by the AI workflow when making operational changes, not by reindex
 
 ### AI Workflow
 1. Find inbox file (or use specific file from input)

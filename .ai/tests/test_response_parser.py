@@ -2,7 +2,7 @@ import json
 
 import pytest
 import response_parser
-from response_parser import extract_wikilinks
+from vault import extract_wikilinks
 
 
 def test_parse_json_output_handles_embedded_json():
@@ -18,7 +18,7 @@ More text'''
 def test_apply_response_writes_files_and_updates_index(monkeypatch):
     output_payload = {
         "operations": [
-            {"action": "create", "path": "foo.md", "content": "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello"}
+            {"action": "create", "path": "foo.md", "content": "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello [[OtherLink]]"}
         ]
     }
     output = json.dumps(output_payload)
@@ -40,16 +40,17 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
 
     response_parser.apply_response(output, fake_load_vault_index())
 
-    assert written == [("foo.md", "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello")]
+    assert written == [("foo.md", "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello [[OtherLink]]")]
     assert len(index_saved) == 1
     assert "files" in index_saved[0]
     assert "foo.md" in index_saved[0]["files"]
     assert index_saved[0]["files"]["foo.md"]["name"] == "Foo"
     assert index_saved[0]["files"]["foo.md"]["type"] == "example"
     assert index_saved[0]["files"]["foo.md"]["tags"] == ["example"]
+    # Note: response_parser no longer extracts body links, only uses frontmatter
     assert index_saved[0]["files"]["foo.md"]["links"] == ["bar"]
     assert index_saved[0]["files"]["foo.md"]["status"] == "active"
-    assert "last_index" in index_saved[0]["files"]["foo.md"]
+    assert "last_updated" in index_saved[0]["files"]["foo.md"]
 
 
 def test_apply_response_raises_for_invalid_operations():

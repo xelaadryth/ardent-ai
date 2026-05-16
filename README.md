@@ -7,9 +7,7 @@ TODO:
 
 ## Dev Setup
 
-- `ollama create local -f .ai/Modelfile`
-- `ollama run local`
-- VS Code, continue.dev plugin
+- Windsurf free tier, let it know to read `.ai/AGENTS.md` for context
 
 ## AI Agent
 

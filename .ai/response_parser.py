@@ -37,23 +37,6 @@ def now_timestamp() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
 
 
-def extract_wikilinks(content: str) -> list[str]:
-    raw_links = re.findall(r"\[\[([^\]]+)\]\]", content)
-
-    normalized = []
-    seen = set()
-
-    for link in raw_links:
-        cleaned = link.strip()
-        key = cleaned.lower()
-
-        if key and key not in seen:
-            normalized.append(f"[[{cleaned}]]")
-            seen.add(key)
-
-    return normalized
-
-
 def apply_operations(operations: list[dict], current_index: dict):
     for op in operations:
         action = op.get("action", "").lower()
@@ -72,19 +55,14 @@ def apply_operations(operations: list[dict], current_index: dict):
             # 2. PARSE FRONTMATTER
             metadata = parse_frontmatter(content) or {}
 
-            # 3. DERIVE LINKS FROM BODY (IMPORTANT STEP)
-            body_links = extract_wikilinks(content)
+            # 3. ENSURE LINKS IS A LIST
+            links = metadata.get("links", [])
+            if not isinstance(links, list):
+                links = []
+            metadata["links"] = links
 
-            # 4. MERGE LINKS (frontmatter wins if present)
-            fm_links = metadata.get("links", [])
-            if not isinstance(fm_links, list):
-                fm_links = []
-
-            merged_links = list(dict.fromkeys(fm_links + body_links))
-            metadata["links"] = merged_links
-
-            # 5. UPDATE INDEX
-            metadata["last_index"] = now_timestamp()
+            # 4. UPDATE INDEX
+            metadata["last_updated"] = now_timestamp()
             current_index["files"][path] = metadata
 
             print(f"[INDEX UPDATE] {path}")

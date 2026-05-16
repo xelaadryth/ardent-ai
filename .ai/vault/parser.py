@@ -6,8 +6,35 @@ Handles parsing frontmatter from markdown files and building index entries.
 
 import re
 import yaml
+from datetime import datetime
 
 from vault.io import current_timestamp
+
+
+def extract_wikilinks(content: str) -> list[str]:
+    """
+    Extract Obsidian-style wikilinks from markdown content.
+    
+    Args:
+        content: Markdown content string.
+    
+    Returns:
+        List of normalized wikilinks in the format [[link]].
+    """
+    raw_links = re.findall(r"\[\[([^\]]+)\]\]", content)
+
+    normalized = []
+    seen = set()
+
+    for link in raw_links:
+        cleaned = link.strip()
+        key = cleaned.lower()
+
+        if key and key not in seen:
+            normalized.append(f"[[{cleaned}]]")
+            seen.add(key)
+
+    return normalized
 
 
 def parse_frontmatter(content: str) -> dict:
@@ -38,28 +65,42 @@ def build_index_entry(content: str = "") -> dict:
         content: Markdown content string with frontmatter.
     
     Returns:
-        Dictionary containing the index entry with name, type, status, links, tags, and last_index.
+        Dictionary containing the index entry with name, type, status, links, tags, and last_updated.
     """
     frontmatter = parse_frontmatter(content)
     
     # Extract required fields from frontmatter
     name = frontmatter.get("name", "")
     entry_type = frontmatter.get("type", "")
-    links = frontmatter.get("links", [])
     tags = frontmatter.get("tags", [])
     status = frontmatter.get("status", "")
     
-    # Ensure links and tags are lists
-    if not isinstance(links, list):
-        links = []
+    # Extract links from frontmatter
+    fm_links = frontmatter.get("links", [])
+    if not isinstance(fm_links, list):
+        fm_links = []
+    
+    # Extract wikilinks from body content
+    body_links = extract_wikilinks(content)
+    
+    # Merge links (frontmatter wins if present)
+    merged_links = list(dict.fromkeys(fm_links + body_links))
+    
+    # Ensure tags is a list
     if not isinstance(tags, list):
         tags = []
+    
+    # Preserve existing last_updated from frontmatter, don't auto-update on reindex
+    last_updated = frontmatter.get("last_updated", "")
+    # Convert datetime objects to ISO format strings (YAML parses timestamps as datetime)
+    if isinstance(last_updated, datetime):
+        last_updated = last_updated.isoformat()
     
     return {
         "name": name,
         "type": entry_type,
         "status": status,
-        "links": links,
+        "links": merged_links,
         "tags": tags,
-        "last_index": current_timestamp()
+        "last_updated": last_updated
     }

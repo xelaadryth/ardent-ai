@@ -16,7 +16,7 @@ from vault.file_io import (
 
 # Re-export from submodules for backward compatibility
 from vault.io import current_timestamp, get_index_file, load_vault_index, save_vault_index
-from vault.parser import build_index_entry, parse_frontmatter
+from vault.parser import build_index_entry, extract_wikilinks, parse_frontmatter
 from vault.crawler import build_index_from_disk, crawl_numbered_markdown_files
 from vault.retrieval import retrieve_vault_context, score_entry
 from vault.mapping import (
@@ -50,6 +50,7 @@ __all__ = [
     # Parsing
     "parse_frontmatter",
     "build_index_entry",
+    "extract_wikilinks",
     # Crawling
     "crawl_numbered_markdown_files",
     "build_index_from_disk",
