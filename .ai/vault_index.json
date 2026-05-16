@@ -399,6 +399,20 @@
       ],
       "last_updated": "2026-05-13T23:45:00"
     },
+    "03 NPCs/Mikeyel Franzay.md": {
+      "name": "Mikeyel Franzay",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Highlady Marise Sathir]]"
+      ],
+      "tags": [
+        "#npc",
+        "#alethi",
+        "#guard"
+      ],
+      "last_updated": "2026-05-13T23:45:00"
+    },
     "03 NPCs/Renna Palir.md": {
       "name": "Renna Palir",
       "type": "npc",
@@ -618,6 +632,28 @@
         "#session",
         "#combat",
         "#investigation"
+      ],
+      "last_updated": "2026-05-13T23:45:00"
+    },
+    "04 Sessions/004 The Sathir Estate.md": {
+      "name": "004 The Sathir Estate",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[Highlady Marise Sathir]]",
+        "[[Dalen]]",
+        "[[Galeth-son-Thald]]",
+        "[[N'tal]]",
+        "[[Mallow]]",
+        "[[Iiko]]",
+        "[[Kuma]]",
+        "[[Fina]]",
+        "[[Mikeyel Franzay]]"
+      ],
+      "tags": [
+        "#session",
+        "#rp",
+        "#downtime"
       ],
       "last_updated": "2026-05-13T23:45:00"
     },
