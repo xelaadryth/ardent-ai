@@ -1,0 +1,1 @@
+Can you standardize Connections across all entries that have them to not only list Obsidian links to related entries but also provide a brief description of how they are connected? And also enforce that bidirectionality is maintained (if A connects to B, then B should also connect to A) if those documents already exist?

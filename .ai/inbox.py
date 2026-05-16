@@ -4,9 +4,16 @@ INBOX_DIR = VAULT_ROOT / "Inbox"
 ARCHIVE_DIR = VAULT_ROOT / "Archive"
 
 
-def find_inbox_file(request_input=None):
-    if request_input:
-        return INBOX_DIR / request_input
+def find_inbox_file(file_name=None):
+    if file_name:
+        # Append .md if not provided
+        if not file_name.endswith(".md"):
+            file_name += ".md"
+        # Case-insensitive match
+        for f in INBOX_DIR.glob("*.md"):
+            if f.name.lower() == file_name.lower():
+                return f
+        return None
 
     files = sorted(
         f for f in INBOX_DIR.glob("*.md")

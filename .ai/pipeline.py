@@ -15,8 +15,8 @@ load_prompt = inbox.load_prompt
 archive_file = inbox.archive_file
 
 
-def run_agent(request_input=None, extra_prompt="") -> Tuple[str, Optional[str]]:
-    request_file = find_inbox_file(request_input)
+def run_agent(file_name=None, extra_prompt="") -> Tuple[str, Optional[str]]:
+    request_file = find_inbox_file(file_name)
     if request_file is None:
         print("No request file found in Inbox.")
         return "", None
@@ -35,10 +35,10 @@ def run_agent(request_input=None, extra_prompt="") -> Tuple[str, Optional[str]]:
 
 
 def main() -> Tuple[str, Optional[str]]:
-    request_input = os.environ.get("REQUEST_INPUT")
+    file_name = os.environ.get("REQUEST_INPUT")
     extra_prompt = os.environ.get("EXTRA_PROMPT", "")
 
-    return run_agent(request_input=request_input, extra_prompt=extra_prompt)
+    return run_agent(file_name=file_name, extra_prompt=extra_prompt)
 
 
 if __name__ == "__main__":
