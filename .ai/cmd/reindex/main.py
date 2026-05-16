@@ -15,7 +15,6 @@ def main():
     try:
         # Build index from all markdown files
         index = build_index_from_disk()
-        
         if not index:
             raise ValueError("No valid markdown files with frontmatter found!")
         

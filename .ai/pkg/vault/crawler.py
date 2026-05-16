@@ -17,6 +17,7 @@ def crawl_numbered_markdown_files() -> list[Path]:
     Returns:
         List of relative paths to markdown files in numbered folders.
     """
+    print(f"Crawling VAULT_ROOT: {VAULT_ROOT}")
     files = []
 
     for path in VAULT_ROOT.rglob("*.md"):
@@ -36,6 +37,8 @@ def crawl_numbered_markdown_files() -> list[Path]:
         # only include top-level numbered folders (e.g. "02 Players")
         if top_folder[:2].isdigit():
             files.append(relative_path)
+
+    print(f"Found {len(files)} files")
 
     return sorted(files)
 
