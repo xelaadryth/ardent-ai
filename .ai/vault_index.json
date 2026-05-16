@@ -499,6 +499,27 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "03 NPCs/Undertaker.md": {
+      "name": "Undertaker",
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Ghostbloods]]",
+        "[[Chip]]",
+        "[[Karani]]",
+        "[[High Enforcer Aylen]]",
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Silent Oath]]"
+      ],
+      "tags": [
+        "#npc",
+        "#thaylen",
+        "#ghostbloods",
+        "#worldhopper"
+      ],
+      "last_updated": "2026-05-13T23:45:00"
+    },
     "04 Sessions/000 Arrival.md": {
       "name": "000 Arrival",
       "type": "session",
