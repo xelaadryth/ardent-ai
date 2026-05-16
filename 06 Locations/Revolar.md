@@ -44,7 +44,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 - **The Shieldring:** Ring around The Bastion, barracks of The Guard, training guards, elevated slightly above the rest of the city.
 
 # Connections
-- [[Truthkeepers]]
-- [[Knights of Dusk]]
-- [[Khria]]
-- [[Renna Palir]]
+- [[Truthkeepers]]: Maintains a significant presence and administrative control within the city.
+- [[Knights of Dusk]]: Operates within the city's shadows to coordinate rebel activities.
+- [[Khria]]: Often moves through the city in disguise to conduct logistical operations.
+- [[Renna Palir]]: Originally from this city before joining the Truthkeepers.
