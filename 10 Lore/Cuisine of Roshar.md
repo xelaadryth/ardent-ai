@@ -40,19 +40,22 @@ Cuisine on Roshar is heavily influenced by the availability of soulcast products
 Alethi cuisine is strictly divided between "men's food" (spicy and savory) and "women's food" (sweet and mild). The "burning" sensation of spicy food is highly valued among Alethi men. Dining is a communal activity, though the quality of the meal is a sharp indicator of one's dahn or nahn.
 
 ## Jah Keved
-Veden cuisine is often viewed as more refined and traditional, placing a higher emphasis on complex stews and the subtle flavoring of soulcast grains. It lacks the rigid gender-based spice divide found in Alethkar, preferring savory profiles over pure heat.
+Veden cuisine is often viewed as more refined and traditional, placing a higher emphasis on complex stews and the subtle flavoring of soulcast grains. It is even stricter on the rigid gender-based spice divide found in Alethkar.
 
 ## Horneater Peaks
 Unkalaki cuisine is famously robust and challenging for outsiders. Because Horneaters possess stronger molars, they often consume the shells and carapaces of crustaceans. Their food is extremely spicy, often utilizing peppers grown in the warm volcanic soil near the Peaks.
 
 # The Wines of Roshar
-Alcoholic beverages are categorized by color, indicating their potency and sweetness:
-- **Pink**: Very weak and very sweet; often served with breakfast.
-- **Yellow**: Light and citrusy.
-- **Orange**: The standard social wine.
-- **Green**: Strong and herbaceous.
-- **Blue**: Very potent and expensive, reserved for major celebrations.
-- **Violet**: The most potent wine, capable of inducing rapid intoxication.
+Alcoholic beverages are categorized by color. Here they are presented in order of weakest to strongest alcohol content:
+- **Pink**: Floral, aids alertness.
+- **Orange**: Fruit with notes of ginger.
+- **Yellow**: Bold and deep, without guilt.
+- **Auburn**: Fermented fruit (wine), spicy, earthy.
+- **Red**: Flavorful, with a pleasant burn.
+- **Sapphire**: Nutty taste with hints of honey. Lavis grain, most like whiskey.
+- **Blue**: Complex notes of berry and lemon.
+- **Violet**: Spiced sandalwood aroma.
+- **Horneater White**: Everclear. Horneater Lager.
 
 # Connections
 - [[Revolar]]

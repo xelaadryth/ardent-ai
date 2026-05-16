@@ -11,7 +11,7 @@ last_updated: 2026-05-19T12:00:00
 A moody, dimly lit tavern in the Driftwards. It functions as a strictly neutral ground where all factions can conduct private dealings without interference. Despite its sketchy and fearsome appearance, it is considered very safe and is respected by everyone as a protected space.
 
 # Atmosphere
-The air is thick with the scent of firemoss and cheap ale. The lighting is provided by flickering, low-quality spheres that cast long, dancing shadows. It is perpetually noisy, filled with the low hum of conspiratorial whispering and the occasional burst of violence. The tavern is favored by the [[Sweeper]] for its dark, dramatic atmosphere. More information on local beverages can be found in [[Cuisine of Roshar]].
+The air is thick with the scent of firemoss and cheap ale. The lighting is provided by flickering, low-quality spheres that cast long, dancing shadows. It is perpetually noisy, filled with the low hum of conspiratorial whispering and the occasional burst of violence. The tavern is favored by the [[Sweeper]] for its dark, dramatic atmosphere. You can find Horneater White here.
 
 # Notable Features
 - **The Shadowed Booths:** High-backed, private booths in the corners that offer total privacy for sensitive negotiations.
