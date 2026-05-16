@@ -162,7 +162,8 @@
       "status": "active",
       "links": [
         "[[Highlord Paladar]]",
-        "[[Highlady Marise Sathir]]"
+        "[[Highlady Marise Sathir]]",
+        "[[010 Soulcaster and Shared Employers]]"
       ],
       "tags": [
         "#npc",
@@ -172,7 +173,7 @@
         "#citylord",
         "#bit"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-14T12:00:00"
     },
     "03 NPCs/Dillind.md": {
       "name": "Dillind",
@@ -783,6 +784,28 @@
         "#investigation"
       ],
       "last_updated": "2026-05-14T00:00:00"
+    },
+    "04 Sessions/010 Soulcaster and Shared Employers.md": {
+      "name": "010 Soulcaster and Shared Employers",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[Kuma]]",
+        "[[Iiko]]",
+        "[[Citylord Nilar Yenev]]",
+        "[[Chip]]",
+        "[[Fina]]",
+        "[[Ashusa]]",
+        "[[Bit]]",
+        "[[Truthkeepers]]",
+        "[[Revolar]]"
+      ],
+      "tags": [
+        "#session",
+        "#combat",
+        "#investigation"
+      ],
+      "last_updated": "2026-05-14T12:00:00"
     },
     "05 Factions/Envisagers.md": {
       "name": "Envisagers",
