@@ -6,6 +6,7 @@ Handles retrieving relevant vault context based on queries and scoring entries.
 
 from vault.file_io import load_markdown
 from vault.io import load_vault_index
+from vault.mapping import get_filepath_from_name
 from vault.utilities import query_terms
 
 
@@ -94,11 +95,11 @@ def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
 def retrieve_vault_context(query: str, limit: int) -> str:
     """
     Retrieve relevant vault context based on a query.
-    
+
     Args:
         query: The search query.
         limit: Maximum number of files to retrieve.
-    
+
     Returns:
         String containing the concatenated content of relevant files.
     """
@@ -107,13 +108,13 @@ def retrieve_vault_context(query: str, limit: int) -> str:
     terms = query_terms(query)
     scored: list[tuple[str, int]] = []
 
-    for filepath, metadata in index.get("files", index).items():
+    for name, metadata in index.get("files", index).items():
         if not isinstance(metadata, dict):
             continue
 
-        score = score_entry(filepath, metadata, terms, query)
+        score = score_entry(name, metadata, terms, query)
         if score > 0:
-            scored.append((filepath, score))
+            scored.append((name, score))
 
     if not scored:
         # Fallback to SOUL.md when no matches
@@ -134,16 +135,17 @@ def retrieve_vault_context(query: str, limit: int) -> str:
     print(
         "Selected vault context files:\n" +
         "\n".join(
-            f"  {filepath}: {score}"
-            for filepath, score in selected_items
+            f"  {name}: {score}"
+            for name, score in selected_items
         )
     )
 
     # Load file contents
     context_parts = []
-    for filepath, _score in selected_items:
-        # Extract the name (filename without .md extension)
-        name = filepath.rsplit("/", 1)[-1].removesuffix(".md")
+    for name, _score in selected_items:
+        # Reconstruct filepath from name and type
+        entry_type = index.get("files", index).get(name, {}).get("type", "")
+        filepath = get_filepath_from_name(name, entry_type)
         context_parts.append(
             f"--- {name} ---\n{load_markdown(filepath)}"
         )

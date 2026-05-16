@@ -73,16 +73,8 @@ def build_index_entry(content: str = "") -> dict:
     tags = frontmatter.get("tags", [])
     status = frontmatter.get("status", "")
     
-    # Extract links from frontmatter
-    fm_links = frontmatter.get("links", [])
-    if not isinstance(fm_links, list):
-        fm_links = []
-    
     # Extract wikilinks from body content
-    body_links = extract_wikilinks(content)
-    
-    # Merge links (frontmatter wins if present)
-    merged_links = list(dict.fromkeys(fm_links + body_links))
+    links = extract_wikilinks(content)
     
     # Ensure tags is a list
     if not isinstance(tags, list):
@@ -98,7 +90,7 @@ def build_index_entry(content: str = "") -> dict:
         "name": name,
         "type": entry_type,
         "status": status,
-        "links": merged_links,
+        "links": links,
         "tags": tags,
         "last_updated": last_updated
     }

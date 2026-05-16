@@ -45,13 +45,12 @@ def build_index_from_disk() -> dict:
     Build the vault index by crawling all markdown files on disk.
     
     Returns:
-        Dictionary mapping file paths to index entries.
+        Dictionary mapping document names to index entries.
     """
     index = {}
     for relative_path in crawl_numbered_markdown_files():
         content = load_markdown(str(relative_path))
         entry = build_index_entry(content)
         if entry.get("name"):
-            filepath = relative_path.as_posix()
-            index[filepath] = entry
+            index[entry["name"]] = entry
     return index

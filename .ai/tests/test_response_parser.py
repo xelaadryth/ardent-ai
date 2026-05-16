@@ -7,18 +7,18 @@ from vault import extract_wikilinks
 
 def test_parse_json_output_handles_embedded_json():
     output = '''Some explanation
-{"operations": [{"action": "create", "path": "test.md", "content": "Hello"}]}
+{"operations": [{"action": "create", "name": "Test", "content": "Hello"}]}
 More text'''
 
     payload = response_parser.parse_json_output(output)
 
-    assert payload["operations"][0]["path"] == "test.md"
+    assert payload["operations"][0]["name"] == "Test"
 
 
 def test_apply_response_writes_files_and_updates_index(monkeypatch):
     output_payload = {
         "operations": [
-            {"action": "create", "path": "foo.md", "content": "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello [[OtherLink]]"}
+            {"action": "create", "name": "Foo", "content": "---\nname: Foo\ntype: npc\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello [[OtherLink]]"}
         ]
     }
     output = json.dumps(output_payload)
@@ -29,27 +29,21 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
         written.append((path, content))
 
     def fake_load_vault_index():
-        return {"files": {"existing.md": {"summary": "Existing"}}}
+        return {"files": {"Existing": {"summary": "Existing"}}}
 
     monkeypatch.setattr(response_parser, "write_file", fake_write_file)
 
     current_index = fake_load_vault_index()
     response_parser.apply_response(output, current_index)
 
-    assert written == [("foo.md", "---\nname: Foo\ntype: example\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello [[OtherLink]]")]
-    # Index is updated in memory but not saved to disk
-    assert "foo.md" in current_index["files"]
-    assert current_index["files"]["foo.md"]["name"] == "Foo"
-    assert current_index["files"]["foo.md"]["type"] == "example"
-    assert current_index["files"]["foo.md"]["tags"] == ["example"]
-    # Note: response_parser no longer extracts body links, only uses frontmatter
-    assert current_index["files"]["foo.md"]["links"] == ["bar"]
-    assert current_index["files"]["foo.md"]["status"] == "active"
-    assert "last_updated" in current_index["files"]["foo.md"]
+    assert written == [("03 NPCs/Foo.md", "---\nname: Foo\ntype: npc\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello [[OtherLink]]")]
+    # Index is NOT updated (only reindex updates the index)
+    assert "Foo" not in current_index["files"]
+    assert current_index["files"] == {"Existing": {"summary": "Existing"}}
 
 
 def test_apply_response_raises_for_invalid_operations():
-    output = json.dumps({"operations": [{"action": "unknown", "path": "foo.md"}]})
+    output = json.dumps({"operations": [{"action": "unknown", "name": "Foo"}]})
 
     with pytest.raises(ValueError, match="Unsupported operation action"):
         response_parser.apply_response(output, current_index={"files": {}})

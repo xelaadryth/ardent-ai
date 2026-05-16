@@ -71,30 +71,20 @@ def apply_operations(operations: list[dict], current_index: dict):
                 links = []
             metadata["links"] = links
 
-            # 5. UPDATE INDEX
-            metadata["last_updated"] = now_timestamp()
-            current_index["files"][path] = metadata
-
-            print(f"[INDEX UPDATE] {path}")
-
         elif action == "delete":
-            # LOOK UP EXISTING ENTRY TO GET TYPE
-            existing_path = None
-            for filepath, entry in current_index.get("files", {}).items():
-                if entry.get("name") == name:
-                    existing_path = filepath
-                    break
-
-            if not existing_path:
+            # LOOK UP EXISTING ENTRY BY NAME
+            if name not in current_index.get("files", {}):
                 print(f"[DELETE] {name} not found in index, skipping")
                 continue
 
-            if os.path.exists(existing_path):
-                os.remove(existing_path)
-                print(f"[DELETE] {existing_path}")
+            # RECONSTRUCT PATH FROM NAME AND TYPE
+            entry = current_index["files"][name]
+            entry_type = entry.get("type", "")
+            path = get_filepath_from_name(name, entry_type)
 
-            current_index["files"].pop(existing_path, None)
-            print(f"[INDEX DELETE] {existing_path}")
+            if os.path.exists(path):
+                os.remove(path)
+                print(f"[DELETE] {path}")
 
         else:
             raise ValueError(f"Unsupported operation action: {action}")

@@ -77,4 +77,4 @@ def get_filepath_from_name(name: str, file_type: str) -> str:
     if folder:
         return f"{folder}/{name}.md"
     else:
-        return f"{name}.md"
+        raise ValueError(f"Invalid type: {file_type} for entry {name}")
