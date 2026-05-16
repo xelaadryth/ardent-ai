@@ -50,6 +50,7 @@
         "[[Khria]]",
         "[[Ardent Kaelis]]",
         "[[Iiko]]",
+        "[[The Cinder Evacuation]]",
         "[[The Darkstone Siege]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
@@ -355,7 +356,9 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Ghostbloods]]",
-        "[[Renna Palir]]"
+        "[[The Cinder Evacuation]]",
+        "[[Renna Palir]]",
+        "[[Highlord Paladar]]"
       ],
       "tags": [
         "#npc",
@@ -365,7 +368,7 @@
         "#spy",
         "#noble"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Citylord Nilar Yenev": {
       "name": "Citylord Nilar Yenev",
@@ -548,6 +551,7 @@
       "links": [
         "[[General Spade]]",
         "[[General Odrin Lesh]]",
+        "[[The Cinder Evacuation]]",
         "[[Knights of Dusk]]",
         "[[Truthkeepers]]",
         "[[Chip]]",
@@ -559,7 +563,7 @@
         "#alethi",
         "#highlord"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Ilsh": {
       "name": "Ilsh",
@@ -1428,12 +1432,13 @@
       "links": [
         "[[Revolar]]",
         "[[Truthkeepers]]",
-        "[[Darkstone Forest]]"
+        "[[Darkstone Forest]]",
+        "[[The Cinder Evacuation]]"
       ],
       "tags": [
         "#faction"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Silent Oath": {
       "name": "Silent Oath",
@@ -1631,6 +1636,7 @@
         "[[Gemheart Inn]]",
         "[[Chip]]",
         "[[Renna Palir]]",
+        "[[The Cinder Evacuation]]",
         "[[The Vamah Archivum]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
@@ -1639,7 +1645,7 @@
       "tags": [
         "#location"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2026-05-18T12:00:00"
     },
     "Salimset": {
       "name": "Salimset",
@@ -1812,6 +1818,27 @@
         "#revolar"
       ],
       "last_updated": "2026-05-15T16:30:00"
+    },
+    "The Cinder Evacuation": {
+      "name": "The Cinder Evacuation",
+      "type": "scene",
+      "status": "active",
+      "links": [
+        "[[Skyglass District]]",
+        "[[Revolar]]",
+        "[[Highlord Paladar]]",
+        "[[Knights of Dusk]]",
+        "[[Chip]]",
+        "[[02 Knights of Dusk Arc]]"
+      ],
+      "tags": [
+        "#scene",
+        "#revolar",
+        "#investigation",
+        "#combat",
+        "#fire"
+      ],
+      "last_updated": "2026-05-18T12:00:00"
     },
     "The Darkstone Siege": {
       "name": "The Darkstone Siege",

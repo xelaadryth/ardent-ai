@@ -25,6 +25,7 @@ The air is thick with the smell of cooking fires and damp earth. It is a place o
 # Inhabitants
 
 Mostly the working class of Revolar, many of whom are deeply in debt to the Vamah Princedom or the [[Bloodmarks]]. Sympathy for the [[Knights of Dusk]] runs high here.
+- [[Lila]]: A resident and laundry worker who acts as an informant.
 
 # Secrets
 

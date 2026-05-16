@@ -20,7 +20,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 ## Outer Districts
 - **Scarstone Quarter**: East part of the city, partially in the Cremfall. Weak ground and unstable foundations, takes the brunt of the storms, in need of repair.
   - Barrel Row, Crowded Steppe, Lowstone Alley, Bruckslats (Ghostblood hideout), [[Stackhouses]], Cremling Quarter.
-- **Slipmarket**: Docks to the southeast of the city, near the south gate caravans and trade ships, stalls that fold down and stow away. Shipments mainly come from the mountains to the southwest.
+- **Slipmarket**: Docks to the southeast of the city, near the south gate caravans and trade ships, stalls that fold down and stow away. Shipments mainly come from the mountains to the southwest. Home to workers like [[Lila]].
 - **The Driftwards**: Travelers, outsiders, transient populations, rougher district near the north gate.
   - Bladeshine Inn, The Crossed Paths, Gloam Lantern, Stormrest, Greenplank Inn, [[Cream of the Crem]], [[Whitespine's Fang]] (Sweeper’s inn).
 - **Devotary Ward**: Towards the southwest. "If you’re looking for answers, try the Ward. If you’re looking for results, try the Guard."
@@ -48,6 +48,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 - [[Knights of Dusk]]: Operates within the city's shadows to coordinate rebel activities.
 - [[Khria]]: Often moves through the city in disguise to conduct logistical operations.
 - [[Renna Palir]]: Originally from this city before joining the Truthkeepers.
+- [[Lila]]: An informant living in the [[Stackhouses]].
 - [[Darkstone Forest]]
 - [[The Vamah Archivum]]
 - [[The Cinder Evacuation]]: A recent major arson event in the Skyglass District.
