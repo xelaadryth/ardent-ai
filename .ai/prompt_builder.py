@@ -13,21 +13,21 @@ def load_soul():
         raise RuntimeError("SOUL.md not found or invalid")
 
 
-def load_output_contract():
-    path = AI_FOLDER / "OUTPUT_CONTRACT.md"
+def load_contract():
+    path = AI_FOLDER / "CONTRACT.md"
     try:
         content = read_file(str(path))
         if not content:
-            raise ValueError("OUTPUT_CONTRACT.md is empty")
+            raise ValueError("CONTRACT.md is empty")
         return content
     except Exception:
-        raise RuntimeError("OUTPUT_CONTRACT.md not found or invalid")
+        raise RuntimeError("CONTRACT.md not found or invalid")
 
 
 def build_system_prompt(prompt: str, vault_limit=100) -> str:
     soul = load_soul()
     vault_context = retrieve_vault_context(prompt, limit=vault_limit)
-    output_contract = load_output_contract()
+    contract = load_contract()
 
     return f"""
 # SYSTEM (SOUL CORE)
@@ -47,14 +47,7 @@ Each block below is a single vault file. Treat each file as independent and cano
 
 ---
 
-# INSTRUCTIONS
-- Use ONLY vault context + SOUL rules.
-- Resolve conflicts by preferring vault files over canon lore.
-- Plan all changes before output.
-- Output must follow the JSON schema exactly.
-- No markdown, no commentary.
+# CONTRACT
 
----
-
-{output_contract}
+{contract}
 """
