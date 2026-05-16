@@ -4,13 +4,14 @@ type: player
 status: active
 links:
   - "[[Pyre]]"
+  - "[[Grand Justicar Malice]]"
 tags:
   - "#player"
   - "#dustbringer"
   - "#nurian"
   - "#merchant"
 player: Ryan
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-13T23:45:00
 ---
 
 # Description
@@ -23,7 +24,7 @@ Dark hazel eyes and short, wavy dark brown hair. At 4'10", N'tal is remarkably s
 Distrustful and cautious. N'tal values patience and self-control above all else, largely to keep the destructive urges of [[Pyre]] in check. He is driven by a focused determination to uncover the truth behind his family's murder.
 
 # Background
-A Nurian worldhopper posing as an Alethi merchant, N'tal grew up in a family of foresters and traders. He discovered a hidden gemstone cave that enabled profitable dealings with the Ghostbloods. His life changed when his family was killed during a botched trade. He survived only because he was away, carrying the key to a secret passage.
+A Nurian worldhopper posing as an Alethi merchant, N'tal grew up in a family of foresters and traders. He discovered a hidden gemstone cave that enabled profitable dealings with the Ghostbloods. His life changed when his family was killed during a botched trade orchestrated by [[Grand Justicar Malice]]. He survived only because he was away, carrying the key to a secret passage.
 
 # Goals
 - Find the Undertaker in Revolar and learn the truth about his family's deaths.
@@ -37,3 +38,4 @@ A Nurian worldhopper posing as an Alethi merchant, N'tal grew up in a family of 
 
 # Connections
 - [[Pyre]] — His radical and spiteful Ashspren.
+- [[Grand Justicar Malice]] — The orchestrator of his family's murder.
