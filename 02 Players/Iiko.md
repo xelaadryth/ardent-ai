@@ -13,7 +13,7 @@ tags:
   - "#nurian"
   - "#envoy"
 player: Truong
-last_updated: 2026-05-13T23:45:00
+last_updated: 2026-05-14T20:00:00
 ---
 
 # Description
@@ -43,3 +43,4 @@ Raised within a monastic tradition on Mythos, Iiko later worldhopped to Roshar a
 - [[N'tal]] — Fellow Nurian survivor.
 - [[Kuma]] — Fellow Nurian survivor.
 - [[Fina]] — Fellow Nurian survivor.
+- [[Boundless Bazaar]] — A place to observe diverse cultures and potentially find texts from Mythos.
