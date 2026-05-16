@@ -5,7 +5,7 @@ status: active
 links:
   - "[[Chip]]"
   - "[[Karani]]"
-  - "[[Revolar]]"
+  - "[[06 Locations/Revolar]]"
   - "[[Adjudicator Peton]]"
   - "[[Truthkeepers]]"
 tags:
@@ -24,7 +24,7 @@ A large, imposing darkeyed man who looks even more dangerous than he is. He is m
 Sila is craftier than he looks. While he presents as a simple thug, he is a survivor who isn't "sold" on the Truthkeepers' ideology or any higher cause. He likes drink, and he tends to waste his money as soon as he earns it—which keeps him constantly looking for the next "quick buck."
 
 # Background
-Originally a low-tier darkeyes at the Truthkeeper camp, Sila was hired to stop Doug (Guddy) from reaching Salimset. After the attempt failed and he was sentenced to hard labor, he was liberated by [[Chip]] and [[Karani]]. To escape the Truthkeepers' justice, he faked his own death in a fire accident. He has since fled south to [[Revolar]] to work for the Ghostbloods as a freelancer.
+Originally a low-tier darkeyes at the Truthkeeper camp, Sila was hired to stop Doug (Guddy) from reaching Salimset. After the attempt failed and he was sentenced to hard labor, he was liberated by [[Chip]] and [[Karani]]. To escape the Truthkeepers' justice, he faked his own death in a fire accident. He has since fled south to [[06 Locations/Revolar]] to work for the Ghostbloods as a freelancer.
 
 # Goals
 - **Survival:** Avoid the notice of the Truthkeepers, who believe him to be dead.
@@ -32,7 +32,7 @@ Originally a low-tier darkeyes at the Truthkeeper camp, Sila was hired to stop D
 - **Ghostblood Service:** Act as a freelance asset for the Ghostbloods in Revolar.
 
 # Secrets
-Sila's "death" by fire was meticulously staged. If any Truthkeepers, particularly [[Adjudicator Peton]], were to recognize him in [[Revolar]], his ruse would be discovered.
+Sila's "death" by fire was meticulously staged. If any Truthkeepers, particularly [[Adjudicator Peton]], were to recognize him in [[06 Locations/Revolar]], his ruse would be discovered.
 
 # Connections
 - [[Chip]]: One of his saviors and a current contact within the Ghostbloods.

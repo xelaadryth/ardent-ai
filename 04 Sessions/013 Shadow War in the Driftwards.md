@@ -27,5 +27,5 @@ The squad navigates the dangerous streets of the Driftwards, where disguised age
 # Connections
 - [[Bloodmarks]]: The criminal syndicate currently escalating their grip on Revolar.
 - [[Knights of Dusk]]: The faction trying to disrupt the Bloodmark supply chains.
-- [[Revolar]]: The urban battlefield where these skirmishes are taking place.
+- [[06 Locations/Revolar]]: The urban battlefield where these skirmishes are taking place.
 - [[Undertaker]]: The shadow figure potentially orchestrating the Ghostbloods' response to these events.

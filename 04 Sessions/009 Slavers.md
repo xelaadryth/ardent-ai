@@ -16,7 +16,7 @@ The squad navigates the complexities of slavery and recruitment in Hearthstone, 
 # Scenes
 - **Medical Aid:** [[Fina]] assists [[Lirin]] with the wounded, accompanied by [[Verdae]]. 
 - **The Recruitment Crisis:** Amaram's recruitment drive approaches. Lieutenant Tanata prepares to conscript local children. [[Toralin Roshone]] attempts to deflect his role in the selection process to his wife, [[Laral Roshone]].
-- **Logistics:** The party prepares for the journey to [[Revolar]], securing citizenship credentials. [[Renna Palir]] oversees the group as a 9th dahn lighteyes, while [[Chip]] and [[Karani]] manage their own identities. [[Tusa]] and [[Pafo]] serve as retainers.
+- **Logistics:** The party prepares for the journey to [[06 Locations/Revolar]], securing citizenship credentials. [[Renna Palir]] oversees the group as a 9th dahn lighteyes, while [[Chip]] and [[Karani]] manage their own identities. [[Tusa]] and [[Pafo]] serve as retainers.
 - **The Runaways:** The party encounters five runaway slaves from Stringken—Jolio, Arolo, Torona, Palino, and Kilo—hiding in the woods. Supported by [[Cadence]] and [[Verdae]], the squad intervenes against the slaver Jir and his guards, Bop and Fimal.
 - **Sathir Negotiation:** The party consults with [[Highlady Marise Sathir]]. They seek to secure their credentials and aid in exchange for investigating the militant disruptions in her lands and finding alternative mercenary recruitment to spare the children from conscription.
 

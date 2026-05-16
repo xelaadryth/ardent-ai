@@ -28,7 +28,7 @@ Disciplined, just, and deeply protective of those under his command. He is drive
 Once a highly respected General in the Vamah military, Spade was ousted through a series of political maneuvers by the greedy Regent [[Highlord Paladar]]. During his exile, he bonded a spren, gaining the abilities of a Dustbringer (Releaser).
 
 # Goals
-- **Overthrow Paladar:** Purge the corruption from [[Revolar]].
+- **Overthrow Paladar:** Purge the corruption from [[06 Locations/Revolar]].
 - **Leadership:** Act as a shield for his people despite the destructive nature of his Dustbringer powers.
 - **Resistance:** Combat the [[Truthkeepers]], who are supplying militant Sadeas groups to destabilize the region.
 
@@ -39,4 +39,4 @@ Once a highly respected General in the Vamah military, Spade was ousted through 
 - [[Knights of Dusk]]: His loyal followers and rebel army.
 - [[Highlord Paladar]]: The man who ruined his career and his city.
 - [[General Odrin Lesh]]: His successor and bitter rival.
-- [[Truthkeepers]]: The force he is currently preparing to fight in the streets of [[Revolar]].
+- [[Truthkeepers]]: The force he is currently preparing to fight in the streets of [[06 Locations/Revolar]].

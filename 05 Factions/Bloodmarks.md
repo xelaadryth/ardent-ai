@@ -18,7 +18,7 @@ The Bloodmarks prioritize profit and power through illicit logistics and intimid
 - **Forgery:** Producing fraudulent identification, such as papers for the defunct House Charash.
 - **Economic Subversion:** Supplying [[Highlord Paladar]] with luxury goods and firemoss in exchange for political cover and protection.
 - **Debt & Enslavement:** Ruthless debt collection, often resulting in kidnapping and the slave trade.
-- **Corruption:** Maintaining control over roughly 50% of the [[Revolar]] guard.
+- **Corruption:** Maintaining control over roughly 50% of the [[06 Locations/Revolar]] guard.
 - **Arms Dealing:** Trafficking official military armaments.
 
 # Structure
@@ -46,4 +46,4 @@ Ruthless and efficient, the syndicate leverages their knowledge of worldhopping 
 - [[Grand Justicar Malice]]
 - [[N'tal]]
 - [[Highlord Paladar]]
-- [[Revolar]]
+- [[06 Locations/Revolar]]

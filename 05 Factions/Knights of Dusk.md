@@ -7,7 +7,7 @@ tags:
 last_updated: 2026-05-13T23:35:12
 ---
 # Description
-A clandestine rebel organization based in the urban shadows of [[Revolar]], led by emerging Knights Radiant. They represent the growing resistance against the established order of the princedoms.
+A clandestine rebel organization based in the urban shadows of [[06 Locations/Revolar]], led by emerging Knights Radiant. They represent the growing resistance against the established order of the princedoms.
 
 # Background
 The Knights of Dusk operate through military-inspired cells designed to evade detection by the [[Truthkeepers]]. Utilizing a combination of guerrilla tactics, urban sabotage, and newly rediscovered Radiant powers, they have garnered significant support from the impoverished citizens of Revolar.
