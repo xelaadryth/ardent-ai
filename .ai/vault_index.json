@@ -364,7 +364,8 @@
         "[[Khria]]",
         "[[Silent Oath]]",
         "[[Istrum]]",
-        "[[02 Knights of Dusk Arc]]"
+        "[[02 Knights of Dusk Arc]]",
+        "[[Morrow]]"
       ],
       "tags": [
         "#npc",
@@ -373,7 +374,7 @@
         "#herald",
         "#high_enforcer"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2026-05-16T15:00:00"
     },
     "High Witness Yeshan": {
       "name": "High Witness Yeshan",
@@ -566,6 +567,25 @@
         "#guard"
       ],
       "last_updated": "2026-05-13T23:45:00"
+    },
+    "Morrow": {
+      "name": "Morrow",
+      "type": "npc",
+      "status": "inactive",
+      "links": [
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[High Enforcer Aylen]]",
+        "[[Cryptics]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#merchant",
+        "#possessed"
+      ],
+      "last_updated": "2026-05-16T15:00:00"
     },
     "Renna Palir": {
       "name": "Renna Palir",
@@ -1038,7 +1058,7 @@
       "links": [
         "[[Adjudicator Peton]]",
         "[[High Enforcer Aylen]]",
-        "[[Morrow the Merchant]]",
+        "[[Morrow]]",
         "[[Truthkeepers]]",
         "[[Possessed]]",
         "[[Cryptics]]",
@@ -1061,7 +1081,7 @@
         "#promotion",
         "#investigation"
       ],
-      "last_updated": "2026-05-15T18:00:00"
+      "last_updated": "2026-05-16T15:00:00"
     },
     "012 Following Chip": {
       "name": "012 Following Chip",
