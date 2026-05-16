@@ -1,5 +1,8 @@
 # Ardent AI
 
+- [Obsidian Site](https://xelaadryth.github.io/ardent-ai/)
+- [Google AI Studio Ratelimits](https://aistudio.google.com/rate-limit?timeRange=last-1-day&project=gen-lang-client-0550336497)
+
 A multi-tool system for managing a Cosmere RPG knowledge base.
 
 TODO:
