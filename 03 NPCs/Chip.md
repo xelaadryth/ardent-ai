@@ -9,7 +9,7 @@ tags:
   - "#enforcer"
   - "#spy"
   - "#noble"
-last_updated: 2026-05-13T23:29:00
+last_updated: 2026-05-18T12:00:00
 ---
 # Description
 A Ghostblood spy currently embedded within the [[Truthkeepers]], carefully hiding his true noble lineage and high-ranking status.
@@ -29,9 +29,11 @@ His true identity is Archisal Paladar, the third son of Highlord Reladon Paladar
 - Keep his true identity as Archisal Paladar a secret.
 
 # Hooks
-- 
+- **The Lost Book:** A childhood book of high sentimental value was nearly lost during the fire at his family's estate in [[The Cinder Evacuation]].
 
 # Connections
 - [[Ghostbloods]]: Patron organization.
 - [[Renna Palir]]: Ally in Hearthstone investigation.
 - [[Truthkeepers]]: Organization he is currently infiltrating.
+- [[Highlord Paladar]]: His father.
+- [[The Cinder Evacuation]]: His family's urban manor was the target of the arson.

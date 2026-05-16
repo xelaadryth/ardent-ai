@@ -7,7 +7,7 @@ tags:
   - "#lighteyed"
   - "#alethi"
   - "#highlord"
-last_updated: 2026-05-16T12:00:00
+last_updated: 2026-05-18T12:00:00
 ---
 # Description
 Regent of Vamah, Paladar is a man of grand gestures and dramatic blinks who exploits the political vacuum left by nobles away at the Shattered Plains to expand his influence. He is the primary antagonist behind the instability in the region.
@@ -19,7 +19,7 @@ Tall and bald with striking, bright yellow eyes. He is in his late 40s and carri
 Greedy, corrupt, and remarkably harsh. He hides a ruthless political mind behind grand gestures, focused entirely on the expansion of his influence and the Vamah Princedom.
 
 # Background
-He seized control of Vamah during the absence of other high-ranking nobles. He ousted [[General Spade]] in favor of his friend [[General Odrin Lesh]] and is currently engaged in a bitter feud with House Sathir.
+He seized control of Vamah during the absence of other high-ranking nobles. He ousted [[General Spade]] in favor of his friend [[General Odrin Lesh]] and is currently engaged in a bitter feud with House Sathir. His family manor in the Skyglass District was recently targeted by arsonists in [[The Cinder Evacuation]].
 
 # Goals
 - **Territorial Expansion:** Move the Vamah borders north into Sadeas lands through sabotage and "protection."
@@ -32,3 +32,4 @@ He uses the "Possessed" as a political tool, allowing the [[Truthkeepers]] to pu
 - [[General Odrin Lesh]]: His close friend and military enforcer.
 - [[Chip]]: His third son, Archisal Paladar.
 - [[02 Knights of Dusk Arc]]: Antagonist for the Revolar conflict.
+- [[The Cinder Evacuation]]: Victim of an arson attack on his urban estate.

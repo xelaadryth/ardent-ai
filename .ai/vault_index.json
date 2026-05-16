@@ -283,7 +283,8 @@
         "[[Grand Justicar Malice]]",
         "[[N'tal]]",
         "[[Revolar]]",
-        "[[The Foundry Gambit]]"
+        "[[The Foundry Gambit]]",
+        "[[Jory]]"
       ],
       "tags": [
         "#npc",
@@ -691,6 +692,7 @@
       "links": [
         "[[Revolar]]",
         "[[Truthkeepers]]",
+        "[[General Spade]]",
         "[[Mallow]]",
         "[[The Darkstone Siege]]"
       ],
@@ -1861,11 +1863,10 @@
       "status": "planned",
       "links": [
         "[[Scarstone Quarter]]",
-        "[[Revolar]]",
         "[[N'tal]]",
         "[[Bloodmarks]]",
-        "[[Arbiter Jalis]]",
         "[[Jory]]",
+        "[[Arbiter Jalis]]",
         "[[Pyre]]",
         "[[Knights of Dusk]]"
       ],
@@ -1873,7 +1874,8 @@
         "#scene",
         "#revolar",
         "#combat",
-        "#moral_trial"
+        "#moral_trial",
+        "#chase"
       ],
       "last_updated": "2024-05-18T00:00:00"
     },

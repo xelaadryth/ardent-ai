@@ -23,6 +23,7 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 
 # Scenes
 - **Part 1: The Investigation:** The players track the Knights of Dusk's sabotage of supply lines and discover Spade's Radiant abilities.
+- [[The Cinder Evacuation]]: A rescue mission at a burning manor that reveals pre-planned arson and the Knights' "terrorist" reputation.
 - **Part 2: The Confrontation:** The Silent Oath arrives to pass judgment on [[General Spade]] and his lieutenant [[Khria]].
 - **Part 3: The Flight:** The players must choose a side or simply survive as the Stone Forest becomes a battlefield, ultimately forcing them to flee [[Revolar]].
 - [[The Darkstone Siege]]

@@ -4,7 +4,7 @@ type: location
 status: active
 tags:
   - "#location"
-last_updated: 2026-05-15T12:00:00
+last_updated: 2026-05-18T12:00:00
 ---
 # Overview
 A major urban center and the intended destination for the squad's transfer. It serves as a significant hub for military logistics and political activity.
@@ -32,7 +32,7 @@ A major urban center and the intended destination for the squad's transfer. It s
   - [[Sun's Zenith]] (Nomos works the shift during the Hateful Hour).
   - [[Gemheart Inn]] (Lodging for [[Chip]] and [[Renna Palir]]).
   - Stone Anvil, Stormglass Inn.
-- **Skyglass District**: West lighteyed manors, literally elevated above the rest of the city.
+- **Skyglass District**: West lighteyed manors, literally elevated above the rest of the city. Site of the arson in [[The Cinder Evacuation]].
 - **Stoneweave**: Towards the south, skilled artisans, crem/stoneworkers, artifabrians.
   - The Forgebelt (Blacksmiths, armorers), The Prismwalk (Jewelers and gemcutters).
 - **Brightway**: Southwest high-class stores.
@@ -50,3 +50,4 @@ A major urban center and the intended destination for the squad's transfer. It s
 - [[Renna Palir]]: Originally from this city before joining the Truthkeepers.
 - [[Darkstone Forest]]
 - [[The Vamah Archivum]]
+- [[The Cinder Evacuation]]: A recent major arson event in the Skyglass District.
