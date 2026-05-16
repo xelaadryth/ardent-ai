@@ -4,5 +4,6 @@
   "obsidian-git",
   "quickadd",
   "calendarium",
-  "obsidian-leaflet-plugin"
+  "obsidian-leaflet-plugin",
+  "dataview-serializer"
 ]

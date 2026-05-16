@@ -4,8 +4,17 @@
 - [Google AI Studio Ratelimits](https://aistudio.google.com/rate-limit?timeRange=last-1-day&project=gen-lang-client-0550336497)
 
 A multi-tool system for managing a Cosmere RPG knowledge base.
+# TODO
+- Add this dataview for free backlinks, no longer need bidirectional linking.
 
-TODO:
+```
+LIST  
+FROM ""  
+WHERE contains(file.outlinks, this.file.link)  
+AND !contains(this.file.outlinks, file.link)  
+SORT file.name ASC
+```
+
 - Add to frontmatter
 	- Party reputation (faction)
 	- Date (in-world)

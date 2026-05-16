@@ -35,3 +35,11 @@ Bodenar is a primary hub for the trade of counterfeit spheres traveling west int
 - [[Vorn]]: An artifabrian leading the technical side of the steamship project for the Veilmaster.
 - [[Ghostbloods]]: Maintain a shadow presence in the city to compete for shipping and gem control.
 - [[04 Nurian Gems Arc]]: The central setting for the Veden arc and steamship demonstration.
+
+# People
+```dataview
+TABLE
+FROM "03 NPCs"
+WHERE location = this.file.link
+SORT file.name ASC
+```

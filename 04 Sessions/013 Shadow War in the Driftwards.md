@@ -1,7 +1,7 @@
 ---
 name: 013 Shadow War in the Driftwards
 type: session
-status: active
+status: planned
 tags:
   - "#session"
   - "#investigation"

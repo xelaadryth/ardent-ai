@@ -7,6 +7,7 @@ tags:
 last_updated: 2026-05-18T12:00:00
 location: "[[Alethkar]]"
 ---
+
 # Overview
 A major urban center and the intended destination for the squad's transfer. It serves as a significant hub for military logistics and political activity.
 
@@ -53,3 +54,19 @@ A major urban center and the intended destination for the squad's transfer. It s
 - [[Darkstone Forest]]
 - [[The Vamah Archivum]]
 - [[The Cinder Evacuation]]: A recent major arson event in the Skyglass District.
+
+# People
+```dataview
+TABLE
+FROM "03 NPCs"
+WHERE location = this.file.link
+SORT file.name ASC
+```
+
+# Sublocations
+```dataview
+TABLE
+FROM "06 Locations"
+WHERE location = this.file.link
+SORT file.name ASC
+```

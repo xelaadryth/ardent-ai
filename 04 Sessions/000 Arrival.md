@@ -1,7 +1,7 @@
 ---
 name: 000 Arrival
 type: session
-status: inactive
+status: active
 tags:
   - "#session"
   - "#loid"

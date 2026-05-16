@@ -23,3 +23,11 @@ East part of the city, partially in the Cremfall. Weak ground and unstable found
 # Connections
 - [[Revolar]]
 - [[Bloodmarks]]
+
+# Sublocations
+```dataview
+TABLE
+FROM "06 Locations"
+WHERE location = this.file.link
+SORT file.name ASC
+```

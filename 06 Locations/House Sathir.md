@@ -33,3 +33,11 @@ The house manages a significant estate that serves as a sanctuary for orphans an
 - [[Dalen]]
 - [[Mikeyel Franzay]]
 - [[004 The Sathir Estate]]
+
+# People
+```dataview
+TABLE
+FROM "03 NPCs"
+WHERE location = this.file.link
+SORT file.name ASC
+```

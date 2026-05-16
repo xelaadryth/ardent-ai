@@ -1,7 +1,7 @@
 ---
 name: 001 First Blood
 type: session
-status: inactive
+status: active
 tags:
   - "#session"
   - "#Truthkeepers"

@@ -1,7 +1,7 @@
 ---
 name: 011 Promotions and Revolar
 type: session
-status: inactive
+status: active
 tags:
   - "#session"
   - "#promotion"

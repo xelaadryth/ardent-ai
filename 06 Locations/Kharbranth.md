@@ -20,3 +20,11 @@ Known as the City of Bells, Kharbranth is a small kingdom built into the side of
 - [[Kabsal]]: Residing here to befriend Jasnah.
 - [[Shallan Davar]]: Serving her apprenticeship here.
 - [[05 Kharbranth Infiltration Arc]]: The setting for the upcoming investigation.
+
+# People
+```dataview
+TABLE
+FROM "03 NPCs"
+WHERE location = this.file.link
+SORT file.name ASC
+```
