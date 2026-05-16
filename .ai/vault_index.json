@@ -180,13 +180,15 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[006 Dillind and the Temple]]"
+        "[[006 Dillind and the Temple]]",
+        "[[008 The Envisagers of Talinan]]",
+        "[[Tien]]"
       ],
       "tags": [
         "#npc",
         "#teenager"
       ],
-      "last_updated": "2026-05-13T23:59:00"
+      "last_updated": "2026-05-14T14:00:00"
     },
     "03 NPCs/General Odrin Lesh.md": {
       "name": "General Odrin Lesh",
@@ -785,6 +787,30 @@
       ],
       "last_updated": "2026-05-14T00:00:00"
     },
+    "04 Sessions/008 The Envisagers of Talinan.md": {
+      "name": "008 The Envisagers of Talinan",
+      "type": "session",
+      "status": "active",
+      "links": [
+        "[[Dillind]]",
+        "[[Talinan]]",
+        "[[Iiko]]",
+        "[[Chip]]",
+        "[[Envisagers]]",
+        "[[006 Dillind and the Temple]]",
+        "[[Ghostbloods]]",
+        "[[Truthkeepers]]",
+        "[[Dreamwaker]]",
+        "[[Glys]]",
+        "[[Tien]]"
+      ],
+      "tags": [
+        "#session",
+        "#investigation",
+        "#combat"
+      ],
+      "last_updated": "2026-05-14T14:00:00"
+    },
     "04 Sessions/010 Soulcaster and Shared Employers.md": {
       "name": "010 Soulcaster and Shared Employers",
       "type": "session",
@@ -946,6 +972,19 @@
         "#location"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "06 Locations/Talinan.md": {
+      "name": "Talinan",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Envisagers]]",
+        "[[008 The Envisagers of Talinan]]"
+      ],
+      "tags": [
+        "#location"
+      ],
+      "last_updated": "2026-05-14T14:00:00"
     },
     "06 Locations/Truthkeeper Camp.md": {
       "name": "Truthkeeper Camp",

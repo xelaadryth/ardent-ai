@@ -4,20 +4,21 @@ type: location
 status: active
 tags:
   - "#location"
-  - "#placeholder"
-last_updated: 2026-05-13T23:35:12
+last_updated: 2026-05-14T15:00:00
 ---
 # Description
-A major urban center and the intended destination for the squad's transfer.
+A major urban center and the primary destination for the squad's transfer. It is the center of unrest in the Vamah Princedom.
 
 # Background
-Revolar serves as a significant hub for military logistics and political activity. It is characterized by its urban shadows and serves as a primary base of operations for various factions, including the [[Truthkeepers]] and the growing rebellion.
+Revolar is a hub for military logistics and political activity. The [[Truthkeepers]] maintain administrative control, while the [[Knights of Dusk]] coordinate a rebellion from the shadows.
 
 # Hooks
-- 
+- Investigation into the rebel cells.
+- Coordination with the Ghostbloods for safe entry.
+- Ardent ordination requirements.
 
 # Connections
-- [[Truthkeepers]]: Maintains a significant presence and administrative control within the city.
-- [[Knights of Dusk]]: Operates within the city's shadows to coordinate rebel activities.
-- [[Khria]]: Often moves through the city in disguise to conduct logistical operations.
-- [[Renna Palir]]: Originally from this city before joining the Truthkeepers.
+- [[Truthkeepers]]
+- [[Knights of Dusk]]
+- [[Ghostbloods]]
+- [[General Spade]]
