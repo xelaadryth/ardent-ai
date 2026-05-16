@@ -6,7 +6,7 @@ tags:
   - "#lore"
   - "#npc"
   - "#reference"
-last_updated: 2024-05-18T00:00:00
+last_updated: 2024-05-19T14:00:00
 ---
 
 # Overview
@@ -34,7 +34,6 @@ This document serves as a central reference for minor non-player characters enco
 | **Highlord Kethren Sathir** | Tired early-30s noble. Marise's husband. | [[004 The Sathir Estate]] | Shattered Plains |
 | **Citylord Mogund Alta** | Lazy, distantly interested official who avoids duty. | Mentioned | [[Hobbleken]] |
 | **Doug (Guddy)** | Ghostblood traitor with internal right-arm mark. | [[000 Arrival]] | **Dead** (Assassinated) |
-| **Dalen** | Gruff early-50s steward with a limp; fiercely loyal. | [[003 Yenev and the Axe]] | [[House Sathir]] |
 | **Bit** | Darkeyed slave with a 'C' brand on his forehead. | [[003 Yenev and the Axe]] | [[Stringken]] |
 | **Nip** | Nasally thug with facial scars. Former associate of the Axe. | [[003 Yenev and the Axe]] | [[Stringken]] |
 | **Josh** | Unrespected original leader of the Axelsmith's thugs. | [[003 Yenev and the Axe]] | **Dead** (Executed) |

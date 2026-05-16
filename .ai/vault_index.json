@@ -498,6 +498,7 @@
         "[[Knights of Dusk]]",
         "[[General Spade]]",
         "[[Khria]]",
+        "[[Orders of the Knights Radiant]]",
         "[[Silent Oath]]",
         "[[Istrum]]",
         "[[02 Knights of Dusk Arc]]",
@@ -510,7 +511,7 @@
         "#herald",
         "#high_enforcer"
       ],
-      "last_updated": "2026-05-16T15:00:00"
+      "last_updated": "2024-05-19T12:00:00"
     },
     "High Witness Yeshan": {
       "name": "High Witness Yeshan",
@@ -518,14 +519,15 @@
       "status": "active",
       "links": [
         "[[Possessed]]",
-        "[[Truthkeepers]]"
+        "[[Truthkeepers]]",
+        "[[Orders of the Knights Radiant]]"
       ],
       "tags": [
         "#npc",
         "#lighteyed",
         "#herald"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2024-05-19T12:00:00"
     },
     "Highlady Marise Sathir": {
       "name": "Highlady Marise Sathir",
@@ -2008,12 +2010,49 @@
       ],
       "last_updated": "2026-05-17T12:00:00"
     },
+    "Orders of the Knights Radiant": {
+      "name": "Orders of the Knights Radiant",
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[High Enforcer Aylen]]",
+        "[[High Witness Yeshan]]",
+        "[[Silent Oath]]",
+        "[[Truthkeepers]]",
+        "[[Pyre]]",
+        "[[N'tal]]",
+        "[[General Spade]]",
+        "[[Verdae]]",
+        "[[Fina]]",
+        "[[Dreamwaker]]",
+        "[[Iiko]]",
+        "[[Khria]]",
+        "[[Possessed]]",
+        "[[Morrow]]",
+        "[[Viscose]]",
+        "[[Kuma]]",
+        "[[Jasnah Kholin]]",
+        "[[Cadence]]",
+        "[[Mallow]]",
+        "[[Kun'ahu]]",
+        "[[Galeth-son-Thald]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#lore",
+        "#knights_radiant",
+        "#surgebinding",
+        "#oaths"
+      ],
+      "last_updated": "2024-05-19T12:00:00"
+    },
     "Possessed": {
       "name": "Possessed",
       "type": "lore",
       "status": "active",
       "links": [
         "[[Truthkeepers]]",
+        "[[Orders of the Knights Radiant]]",
         "[[High Enforcer Aylen]]",
         "[[High Witness Yeshan]]"
       ],
@@ -2021,7 +2060,7 @@
         "#lore",
         "#placeholder"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2024-05-19T12:00:00"
     },
     "The Steamship's Secret": {
       "name": "The Steamship's Secret",
