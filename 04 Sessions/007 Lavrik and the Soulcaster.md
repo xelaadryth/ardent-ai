@@ -2,13 +2,6 @@
 name: 007 Lavrik and the Soulcaster
 type: session
 status: active
-links:
-  - "[[Lavrik]]"
-  - "[[Iiko]]"
-  - "[[N'tal]]"
-  - "[[Galeth-son-Thald]]"
-  - "[[Kuma]]"
-  - "[[General Spade]]"
 tags:
   - "#session"
   - "#combat"

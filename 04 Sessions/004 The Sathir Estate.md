@@ -2,16 +2,6 @@
 name: 004 The Sathir Estate
 type: session
 status: active
-links:
-  - "[[Highlady Marise Sathir]]"
-  - "[[Dalen]]"
-  - "[[Galeth-son-Thald]]"
-  - "[[N'tal]]"
-  - "[[Mallow]]"
-  - "[[Iiko]]"
-  - "[[Kuma]]"
-  - "[[Fina]]"
-  - "[[Mikeyel Franzay]]"
 tags:
   - "#session"
   - "#rp"

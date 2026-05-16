@@ -2,12 +2,6 @@
 name: 001 First Blood
 type: session
 status: inactive
-links:
-  - "[[Adjudicator Peton]]"
-  - "[[N'tal]]"
-  - "[[Hearthstone]]"
-  - "[[Revolar]]"
-  - "[[High Enforcer Aylen]]"
 tags:
   - "#session"
   - "#Truthkeepers"

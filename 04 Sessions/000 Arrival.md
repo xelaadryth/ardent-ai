@@ -2,13 +2,6 @@
 name: 000 Arrival
 type: session
 status: inactive
-links:
-  - "[[Truthkeeper Camp]]"
-  - "[[High Witness Yeshan]]"
-  - "[[Adjudicator Peton]]"
-  - "[[Truthkeepers]]"
-  - "[[Chip]]"
-  - "[[Renna Palir]]"
 tags:
   - "#session"
   - "#loid"
@@ -40,4 +33,4 @@ Recruits arrive at the [[Truthkeeper Camp]], are introduced to [[High Witness Ye
 - **[[High Witness Yeshan]]**: The benefactor and source of the party's linguistic Connection.
 - **[[Adjudicator Peton]]**: The party's immediate superior and taskmaster.
 - **[[Truthkeepers]]**: The organization the recruits are now serving.
-- **[[Chip]]** & **[[Renna Palir]]**: Notable camp members and potential allies/rivals.
+- **[[Chip]]** & [[Renna Palir]]: Notable camp members and potential allies/rivals.

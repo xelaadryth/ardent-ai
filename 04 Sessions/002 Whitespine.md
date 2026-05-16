@@ -2,14 +2,6 @@
 name: 002 Whitespine
 type: session
 status: active
-links:
-  - "[[Fina]]"
-  - "[[Renna Palir]]"
-  - "[[Hobbleken]]"
-  - "[[Stringken]]"
-  - "[[Ilsh Thaylen]]"
-  - "[[Highlord Sadeas]]"
-  - "[[Highlord Paladar]]"
 tags:
   - "#session"
   - "#combat"
@@ -17,7 +9,6 @@ tags:
 last_updated: 2026-05-13T23:35:12
 number: 2
 ---
-
 # Description
 Following an investigation into a local "plague" in the town of Hobbleken, the squad travels to Stringken, where they encounter spren researchers and take on a contract to hunt a dangerous Whitespine.
 

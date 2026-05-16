@@ -2,18 +2,6 @@
 name: 009 Slavers
 type: session
 status: active
-links:
-  - "[[Hearthstone]]"
-  - "[[Highlady Marise Sathir]]"
-  - "[[Renna Palir]]"
-  - "[[Chip]]"
-  - "[[Karani]]"
-  - "[[Lirin]]"
-  - "[[Tusa]]"
-  - "[[Pafo]]"
-  - "[[Mallow]]"
-  - "[[Fina]]"
-  - "[[Revolar]]"
 tags:
   - "#session"
   - "#rp"
