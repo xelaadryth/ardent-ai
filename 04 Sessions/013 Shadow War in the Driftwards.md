@@ -6,7 +6,7 @@ tags:
   - "#session"
   - "#investigation"
   - "#stealth"
-last_updated: 2026-05-15T12:00:00
+last_updated: 2026-05-15T15:00:00
 ---
 
 # Description
@@ -14,6 +14,7 @@ The squad navigates the dangerous streets of the [[Revolar|Driftwards]], where d
 
 # Scenes
 - **The Driftwards Watch:** The party navigates the slums, noting the strange behavior of the local beggars who possess an unnatural, purposeful coordination as they move toward the [[Scarstone Quarter]].
+- **Meeting at the Whitespine:** [[N'tal]] meets the Sweeper and [[Chip]] at [[Whitespine's Fang]]. The atmosphere is thick with tension as they discuss how to secure an audience with the [[Undertaker]]. The Sweeper shares his contacts, explaining that the Undertaker is too cautious for public meetings and only permits invited guests to visit his hideout in the [[Bruckslats]].
 - **Uncovering the Spy:** The squad attempts to track the movements of the [[Knights of Dusk]] spy while avoiding the gaze of [[Bloodmarks]] spotters.
 - **The Scarstone Sprint:** A high-stakes chase through the dense, debris-filled streets of the [[Scarstone Quarter]] to intercept intelligence before it is handed off.
 - **Confrontation at the Foundry:** The party discovers a covert operation involving the weaponization of fabrials, confirming the [[Bloodmarks]]' intent to dominate the local gem trade.
@@ -28,3 +29,6 @@ The squad navigates the dangerous streets of the [[Revolar|Driftwards]], where d
 - [[Knights of Dusk]]
 - [[Revolar]]
 - [[Undertaker]]
+- [[Sweeper]]
+- [[N'tal]]
+- [[Chip]]

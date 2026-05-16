@@ -109,7 +109,10 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Truthkeepers]]"
+        "[[Truthkeepers]]",
+        "[[011 Promotions and Revolar]]",
+        "[[001 First Blood]]",
+        "[[Sila's Allegiance]]"
       ],
       "tags": [
         "#npc",
@@ -118,7 +121,7 @@
         "#adjudicator",
         "#traditionalist"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "Ardent Kaelis": {
       "name": "Ardent Kaelis",
@@ -1054,12 +1057,18 @@
         "[[Silent Oath]]",
         "[[High Witness Yeshan]]",
         "[[Knights of Dusk]]",
-        "[[Revolar]]"
+        "[[Revolar]]",
+        "[[Adjudicator Peton]]",
+        "[[011 Promotions and Revolar]]",
+        "[[001 First Blood]]",
+        "[[010 Soulcaster and Shared Employers]]",
+        "[[Chip]]",
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#faction"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-05-15T12:00:00"
     },
     "Veristitalians": {
       "name": "Veristitalians",
