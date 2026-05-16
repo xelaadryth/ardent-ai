@@ -29,3 +29,4 @@ The Knights of Dusk operate through military-inspired cells designed to evade de
 - **The Poor of Revolar**: Their main source of intelligence, shelter, and logistical support.
 - [[Darkstone Forest]]: Site of their hidden base.
 - [[The Cinder Evacuation]]: A strategic arson operation targeting Paladar's assets.
+- [[Lila]]: A laundry-worker and informant in the [[Slipmarket]].
