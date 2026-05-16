@@ -1,10 +1,5 @@
-#!/usr/bin/env python3
-"""
-Deterministic vault reindex script.
-
-Rebuilds vault_index.json from frontmatter of all markdown files.
-No LLM calls - purely deterministic.
-"""
+from pathlib import Path
+import sys
 
 ai_dir = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(ai_dir))
