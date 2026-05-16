@@ -1164,7 +1164,7 @@
       "status": "active",
       "links": [
         "[[Darkstone Forest]]",
-        "[[The Stackhouses]]",
+        "[[Stackhouses]]",
         "[[Cream of the Crem]]",
         "[[Whitespine's Fang]]",
         "[[Sun's Zenith]]",
@@ -1224,6 +1224,23 @@
         "#location"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "Sun's Zenith": {
+      "name": "Sun's Zenith",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Bloodmarks]]",
+        "[[Ghostbloods]]",
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-15T12:00:00"
     },
     "Talinan": {
       "name": "Talinan",

@@ -49,3 +49,4 @@ A major urban center and the intended destination for the squad's transfer. It s
 - [[Khria]]: Often moves through the city in disguise to conduct logistical operations.
 - [[Renna Palir]]: Originally from this city before joining the Truthkeepers.
 - [[Darkstone Forest]]
+- [[The Vamah Archivum]]
