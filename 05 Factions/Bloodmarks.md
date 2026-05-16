@@ -6,7 +6,7 @@ tags:
   - "#faction"
   - "#criminal_organization"
   - "#worldhopping"
-last_updated: 2026-05-14T18:00:00
+last_updated: 2026-05-16T12:00:00
 ---
 # Description
 A dangerous criminal syndicate with reach across Roshar and beyond. Based in Bodenar (Jah Keved), they maintain a strategic foothold in the Horneater Peaks to exploit a Perpendicularity for illicit inter-planetary trade.
@@ -41,9 +41,11 @@ Ruthless and efficient, the syndicate leverages their knowledge of worldhopping 
 - **The Perpendicularity:** Investigate the syndicate's operations in the Horneater Peaks.
 - **Ghostblood Conflict:** The struggle for dominance between the two syndicates in Revolar.
 - **N'tal's Vendetta:** Uncover the truth behind the ambush that killed the player's family.
+- **[[Stackhouse Slavers]]:** An attempt to collect a "labor-tithe" resulted in a clash with rogue Truthkeepers in the Stackhouses.
 
 # Connections
 - [[Grand Justicar Malice]]
 - [[N'tal]]
 - [[Highlord Paladar]]
 - [[Revolar]]
+- [[Stackhouse Slavers]]
