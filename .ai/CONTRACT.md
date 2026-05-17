@@ -51,7 +51,7 @@ last_updated: 2026-05-13T23:35:12
 - Update existing files instead of creating duplicates.
 
 # Linking
-- When creating a file, insert bidirectional links to related documents, and update related documents to include [[Obsidian Links]] to the new page.
+- When creating a file, insert [[Obsidian Links]] to related documents, and update related documents to make them up to date.
 - The Obsidian link text must match match the EXACT page title wrapped in double brackets. Do NOT use:
   - Aliases: [[Page Name|Display Text]]
   - Lowercase slugs: [[page_name]]

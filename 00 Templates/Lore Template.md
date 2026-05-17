@@ -1,5 +1,5 @@
 ---
-name:
+name: <% tp.file.title %>
 type: lore
 status: active
 tags:
@@ -7,10 +7,3 @@ tags:
 last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 ---
 # Description
-
-# Background
-
-# Hooks
-- 
-# Connections
-- 

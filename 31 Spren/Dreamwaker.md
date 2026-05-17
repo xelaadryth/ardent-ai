@@ -7,6 +7,7 @@ tags:
   - "#mistspren"
   - "#ancient"
 last_updated: 2024-05-19T15:00:00
+order: Truthwatcher
 ---
 # Description
 An ancient Mistspren of immense age who serves as a grounding anchor for [[Iiko]]’s manic intellect. He carries the weight of prophecies from a bygone era and acts as a conduit for the "Ten Keys."
@@ -23,12 +24,3 @@ Dreamwaker is a Mistspren who predates the current era and maintains a significa
 # Goals
 - **The Search for Truth:** Pushing [[Iiko]] to actively "seek" the truth rather than merely desiring it.
 - **Natural Observation:** Witnessing and appreciating the beauty of the natural world; he often interrupts high-stakes moments to admire a trick of the light or a flower.
-
-# Hooks
-- 
-
-# Connections
-- **[[Iiko]]**: His bonded Radiant and the subject of his intellectual curiosity.
-- **Glys**: An ancient peer and the source of his most vital prophecy.
-- **The Ten Keys**: The prophetic framework that guides his and [[Iiko]]'s journey.
-- [[Tablet of Eleven Cities]]

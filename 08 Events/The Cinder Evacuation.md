@@ -1,20 +1,23 @@
 ---
 name: The Cinder Evacuation
-type: scene
-status: active
+type: event
+status: planned
 tags:
-  - "#scene"
+  - "#event"
   - "#revolar"
   - "#investigation"
   - "#combat"
   - "#fire"
 last_updated: 2026-05-18T12:00:00
+fc-date: 1172-02-20
+fc-category: Party
+session: "[[013 Shadow War in the Driftwards]]"
 ---
 
-# Overview
+# Description
 A high-stakes rescue operation within the [[Skyglass District]] of [[Revolar]], involving a pre-planned arson attack on a manor belonging to [[Highlord Paladar]]. The event reveals the increasingly aggressive tactics of the [[Knights of Dusk]].
 
-# Scene Goal
+# Goal
 To rescue survivors from a sudden fire and uncover a suspicious conspiracy involving pre-planned arson at a noble estate.
 
 # Opening
@@ -33,9 +36,3 @@ As the party enters the noble district of [[Revolar]], they see a massive plume 
 - **The Ruined Manor:** The fire is contained in minutes, leaving only the noble's main manor a smoking ruin. 
 - **Terrorist Narrative:** Local guards shoo away witnesses. While the [[Knights of Dusk]] view themselves as freedom fighters, the current leadership of [[Revolar]] uses this event to label them as "terrorists."
 
-# Connections
-- [[Revolar]]
-- [[Highlord Paladar]]
-- [[Knights of Dusk]]
-- [[Chip]]
-- [[02 Knights of Dusk Arc]]

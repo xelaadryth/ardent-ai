@@ -1,16 +1,19 @@
 ---
 name: The Darkstone Siege
-type: scene
-status: active
+type: event
+status: planned
 tags:
-  - "#scene"
+  - "#event"
   - "#revolar"
   - "#combat"
   - "#darkstone_forest"
 last_updated: 2026-05-18T12:00:00
+fc-date: 1172-02-32
+fc-category: Party
+session:
 ---
 
-# Overview
+# Description
 The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The squad is cornered in an abandoned lodge within the [[Darkstone Forest]], forced to hold out against the full might of the [[Knights of Dusk]] until reinforcements arrive.
 
 # Setup
@@ -39,12 +42,3 @@ The [[Knights of Dusk]] use the forest's gloom for cover, darting in to test the
 # Resolution
 - **The Cleansing:** Regardless of the party's success in holding the lodge, the arrival of the [[Silent Oath]] results in a clinical and total elimination of the [[Knights of Dusk]] survivors. 
 - **The Mercy:** In the chaotic aftermath of the purge, [[Istrum]] assists the party in bypassing the Silent Oath's perimeter, allowing them to escape [[Revolar]] and flee the slaughter.
-
-# Connections
-- [[02 Knights of Dusk Arc]]
-- [[Darkstone Forest]]
-- [[General Spade]]
-- [[Khria]]
-- [[Istrum]]
-- [[Silent Oath]]
-- [[Adjudicator Peton]]

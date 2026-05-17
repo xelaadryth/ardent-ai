@@ -19,3 +19,5 @@ Authoritarian and weary. He views outsiders with suspicion and maintains tight c
 
 # Connections
 - [[Laral Roshone]]: His wife, who is beginning to take a more active role in the town's political life.
+- [[Lirin]]: An old enemy who he suspected stole the previous citylord's spheres.
+- [[Tien]]: The young soldier he sent to die in revenge.

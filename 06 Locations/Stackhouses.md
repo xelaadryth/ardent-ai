@@ -34,10 +34,3 @@ Several apartments in the Stackhouses serve as safehouses for the [[Knights of D
 
 # Hooks
 - **[[The Stackhouse Slavers]]:** A Bloodmark collection squad attempts to abduct children in a muddy alleyway to settle a "labor-tithe."
-
-# Connections
-- [[Scarstone Quarter]]
-- [[Revolar]]
-- [[Bloodmarks]]
-- [[Knights of Dusk]]
-- [[The Stackhouse Slavers]]

@@ -1,5 +1,5 @@
 ---
-name:
+name: <% tp.file.title %>
 type: arc
 status: active
 tags:
@@ -11,9 +11,14 @@ number:
 
 # Key Players
 - 
-# Scenes
+# Events
 - 
 # Hooks
 - 
 # Sessions
-- 
+<!-- QueryToSerialize:
+LIST
+FROM "04 Sessions"
+WHERE arc = this.file.link
+SORT file.name ASC
+-->

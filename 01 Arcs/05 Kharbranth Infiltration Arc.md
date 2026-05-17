@@ -30,9 +30,10 @@ The party is ordered by the [[Ghostbloods]] to infiltrate the city of [[Kharbran
 - **Act 2: The Infiltration:** Assisting [[Kabsal]] in gaining access to the Palanaeum and getting close to [[Jasnah Kholin]].
 - **Act 3: The Shattered Plains:** Following [[Jasnah Kholin]] as she departs for the Shattered Plains, leading to a confrontation on the high seas and the eventual loss of their Truthkeeper leadership.
 
-# Connections
-- [[Kharbranth]]
-- [[Ghostbloods]]
-- [[Jasnah Kholin]]
-- [[Shallan Davar]]
-- [[Kabsal]]
+# Sessions
+<!-- QueryToSerialize:
+LIST
+FROM "04 Sessions"
+WHERE arc = this.file.link
+SORT file.name ASC
+-->

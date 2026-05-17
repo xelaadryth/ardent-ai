@@ -15,6 +15,3 @@ Managed by a local official who is wary of lighteyes. The economy revolves aroun
 
 # Hooks
 - 
-
-# Connections
-- [[002 Whitespine]]

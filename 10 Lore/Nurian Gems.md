@@ -18,8 +18,3 @@ Unstable and highly reactive gemstones originating from the world of Mythos. The
 
 # History
 The gems are the primary export of the [[Bloodmarks]] syndicate, smuggled from the Horneater Peaks under the direction of [[Grand Justicar Malice]].
-
-# Connections
-- [[04 Nurian Gems Arc]]
-- [[Bloodmarks]]
-- [[The Experimental Steamship]]

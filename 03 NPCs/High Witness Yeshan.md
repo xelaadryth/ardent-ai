@@ -30,7 +30,4 @@ Known to many as High Witness Yeshan, he is the Herald Ishar. His sanity is seve
 -
 
 # Connections
-- **[[Truthkeepers]]**: The primary military force under his ultimate command.
-- **[[Orders of the Knights Radiant]]**: The patron Herald of the Bondsmiths.
-- **The Party**: He has directly influenced them by gifting them language and the power of Connection.
-- **[[Possessed]]**: The targets of the hunting force he intends to create.
+- [[High Enforcer Aylen]] - Leaves misguided instructions to prevent the Final Desolation.

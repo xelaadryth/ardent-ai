@@ -25,6 +25,3 @@ The air inside is thick with the earthy scent of drying moss and the sharp tang 
 
 # Secrets
 Mother Tane hides a rare specimen of "grass" in her attic—a Shin plant that doesn't move.
-
-# Connections
-- [[Fina]]

@@ -33,6 +33,5 @@ While her husband is away at the Shattered Plains, Marise manages the family est
 
 # Connections
 - **Highlord Kethren Sathir**: Her husband, currently a Companylord at the Shattered Plains.
-- **[[Citylord Nilar Yenev]]**: Her primary political rival and tormentor.
 - **[[Dalen]]**: Her loyal steward and friend.
-- **Mikeyel Franzay**: Her honor-bound protector.
+- **Mikeyel Franzay**: Her honor-bound protector who is secretly in love with her.

@@ -29,9 +29,6 @@ He oversees the most lethal aspects of the [[Truthkeepers]] mission. He is waiti
 - **Cleansing:** Systematically execute the [[Possessed]] to prevent a repeat of the ancient Desolations.
 
 # Connections
-- [[Orders of the Knights Radiant]]: The patron Herald of the Skybreakers.
-- [[Silent Oath]]: The organization where he serves as supreme commander.
-- [[Truthkeepers]]: His current command priority.
+- [[High Witness Yeshan]]: The only person he truly answers to, still believing in his wisdom.
 - [[Istrum]]: His subordinate and Skybreaker pupil.
-- [[02 Knights of Dusk Arc]]: Central antagonist and judge of the conflict.
 - [[Morrow]]: Executed him for possession during a demonstration of Truthkeeper duty.

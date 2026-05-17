@@ -1,13 +1,16 @@
 ---
-name: Stackhouse Slavers
-type: scene
+name: The Stackhouse Slavers
+type: event
 status: active
 tags:
-  - "#scene"
+  - "#event"
   - "#combat"
   - "#revolar"
   - "#bloodmarks"
 last_updated: 2026-05-16T12:00:00
+fc-date: 1172-02-16
+fc-category: Party
+session: "[[012 Following Chip]]"
 ---
 # Description
 As the squad returns from tailing [[Chip]] through the [[Scarstone Quarter]], they pass the [[Stackhouses]]. They encounter a [[Bloodmarks]] collection squad abducting children from a family to settle a "labor-tithe" debt.
@@ -34,11 +37,3 @@ The party likely steps in when the parents resist and start being beaten to deat
 - **Success:** The children and father [[Falen]] and mother are saved. The parents ask if the party are [[Knights of Dusk]].
 - **Consequence:** If the party doesn't hide their identity, the [[Bloodmarks]] will report the "rogue Truthkeepers" to their [[Truthkeepers|Truthkeeper]] contacts like [[Adjudicator Peton]].
 - **The First Ideal:** Prompt for "Life before death..." when the party commits to protecting the family against "legal" authority.
-
-# Connections
-- [[012 Following Chip]]
-- [[Stackhouses]]
-- [[Bloodmarks]]
-- [[Knights of Dusk]]
-- [[Kuma]]
-- [[N'tal]]

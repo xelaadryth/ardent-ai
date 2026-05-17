@@ -11,7 +11,7 @@ owner:
 
 A viscous toxin refined from the venom sacs of the predatory cremwidow.
 
-# Stats
+# Gameplay
 
 - Tier 2 Consumable (Poison)
 - Cost: 150 marks per dose
@@ -22,8 +22,3 @@ A viscous toxin refined from the venom sacs of the predatory cremwidow.
 # Background
 
 Created by [[Fina]] on the way to Revolar.
-
-# Hooks
-- Discover that [[Karani]] was recruited by the [[Ghostbloods]] for her poison-making skills.
-# Connections
-- [[Fina]] - Was taught to create this poison by [[Karani]].

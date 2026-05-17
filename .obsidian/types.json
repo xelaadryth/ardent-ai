@@ -6,6 +6,7 @@
     "spren": "text",
     "radiant": "text",
     "links": "multitext",
-    "last_updated": "datetime"
+    "last_updated": "datetime",
+    "fc-date": "text"
   }
 }

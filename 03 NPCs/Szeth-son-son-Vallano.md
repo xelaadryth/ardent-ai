@@ -27,6 +27,3 @@ Born in Shinovar, Szeth was named "Truthless" after claiming that the Radiants h
 
 # Connections
 - [[Galeth-son-Thald]]: Galeth remembers Szeth from their homeland, knowing him as a simple shepherd turned soldier.
-- [[Silent Oath]]: They do not hunt him, as he wields an Honorblade rather than bonding a spren.
-- **The Oathstone**: The object that dictates his every action.
-- [[04 Nurian Gems Arc]]: His assassinations in Jah Keved cause the lockdown and paranoia in Bodenar.

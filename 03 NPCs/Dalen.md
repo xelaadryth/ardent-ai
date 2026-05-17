@@ -36,9 +36,5 @@ A former soldier and close friend of Aljun Sathir (Kethren’s father), whom he 
 - **Soldier's Heart:** Despite his physical limitations, Dalen still feels the urge to fight and may put himself in harm's way to protect his charges.
 
 # Connections
-- [[House Sathir]]: His primary loyalty and home.
 - [[Highlady Marise Sathir]]: His liege and the person he serves directly.
 - [[Highlord Kethren Sathir]]: The noble he swore to protect.
-- [[Knights of Dusk]]: A group containing some of his old military associates.
-- [[Revolar]]: His current base of operations.
-- [[003 Yenev and the Axe]]: The session where he first guided the party.

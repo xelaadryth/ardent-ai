@@ -36,9 +36,12 @@ The party travels to Jah Keved to uncover the origin of the unstable [[Nurian Ge
 - **The Bodenar Arrival**: Meeting with the engineers and witnessing the preparations for the [[The Experimental Steamship]] and [[The Steamship's Secret]].
 - **The Bloodmark Infiltration**: [[N'tal]] tracks the Nurian gem shipments back to the Grand Justicar's estate.
 - **The Trial and the Trap**: As the steamship begins its run, [[Grand Justicar Malice]] moves to eliminate the "meddling worldhoppers," while rumors of a nearby highprince's death send the city into lockdown.
+- **The Perpendicularity:** Investigate the syndicate's operations in the Horneater Peaks.
 
-# Connections
-- [[Bodenar]]
-- [[Bloodmarks]]
-- [[Nurian Gems]]
-- [[Szeth-son-son-Vallano]]
+# Sessions
+<!-- QueryToSerialize:
+LIST
+FROM "04 Sessions"
+WHERE arc = this.file.link
+SORT file.name ASC
+-->

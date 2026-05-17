@@ -1,12 +1,15 @@
 {
-  "foldersToScan": [],
+  "foldersToScan": [
+    "Dashboards",
+    "06 Locations"
+  ],
   "ignoredFolders": [],
   "disableAutomaticUpdates": false,
   "showRefreshButton": true,
   "foldersToForceUpdate": [],
   "showErrorNotifications": true,
   "debugLogging": false,
-  "addTrailingNewline": false,
+  "addTrailingNewline": true,
   "linkFormat": "shortest",
   "enableDataviewJS": true
 }

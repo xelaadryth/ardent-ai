@@ -1,11 +1,14 @@
 ---
-name: Shellmite Attack
-type: scene
-status: inactive
+name: The Shellmite Attack
+type: event
+status: active
 tags:
-  - "#scene"
+  - "#event"
   - "#placeholder"
 last_updated: 2026-05-13T23:29:00
+fc-date: 1172-01-12
+fc-category: Party
+session: "[[001 First Blood]]"
 ---
 # Description
 A high-intensity combat encounter occurring during caravan transport. The squad must defend against a swarm of aggressive Shellmites, culminating in a confrontation with a massive alpha specimen.
@@ -16,7 +19,3 @@ While traveling toward [[Hearthstone]], the Truthkeeper caravan is ambushed by l
 # Hooks
 - **Defense:** Protect the vulnerable non-combatants and secure the supplies from being destroyed or consumed.
 - **Specimen:** The arrival of a massive, alpha-sized Shellmite that threatens to overturn the wagons.
-
-# Connections
-- **[[Hearthstone]]**: The intended destination of the caravan.
-- **[[Truthkeepers]]**: The organization responsible for the cargo and the safety of the transport.

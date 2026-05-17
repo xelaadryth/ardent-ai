@@ -24,15 +24,13 @@ Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after being inspi
 
 # Goals
 - **Proving Worth:** To make a meaningful difference and prove her value to her parents.
-- **Protecting [[Iiko]]:** She has adopted [[Iiko]] as a sibling figure and is dedicated to her safety.
+- **Protecting [[Iiko]]:** She has mentally adopted [[Iiko]] as a sibling figure and is dedicated to their safety.
 - **Altruism:** Seeking ways to genuinely help people that align with her moral compass.
 
 # Hooks
-- 
+- Accepting the loss of her sister
+- [[Spy of Dusk]]: Renna is a spy for the [[Knights of Dusk]].
 
 # Connections
 - **[[Iiko]]**: Her protégé and surrogate sibling.
 - **[[Chip]]**: A trusted ally.
-- **[[Knights of Dusk]]**: The rebel group to which she is currently defecting.
-- **[[Truthkeepers]]**: Her former organization.
-- **[[Revolar]]**: Her home city.

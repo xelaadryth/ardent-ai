@@ -29,7 +29,4 @@ Originally an Enforcer, Peton’s dedication to the law saw him promoted to the 
 - **Leadership:** Guide his "flock" toward the Truthkeeper cause through discipline and example.
 
 # Connections
-- [[Truthkeepers]]: The organization he serves as a senior administrator.
-- [[011 Promotions and Revolar]]: The session where he promoted the squad to Enforcer rank.
-- [[001 First Blood]]: The session where he oversaw the squad's disciplinary decisions and initial mission.
-- [[Sila's Allegiance]]: The investigation he tasked the squad with conducting regarding Sila's betrayal.
+-

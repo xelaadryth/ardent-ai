@@ -24,10 +24,8 @@ Law-abiding and disciplined, but possesses a compassionate heart. She is a legal
 She is assigned to monitor the squad and the insurgency in [[Revolar]]. Her doubts about the Silent Oath's purge are growing as the conflict with the [[Knights of Dusk]] escalates. During the final confrontation at the Darkstone Forest, she interprets the law to allow the party's escape.
 
 # Goals
-- **Spiritual Growth:** Swear the Third Ideal.
+- **Spiritual Growth:** Swear the Third Ideal - Ultimately decides on [[High Enforcer Aylen]] as she turns on the party.
 - **Mercy:** Protect those who are not truly a threat, despite the law's demands.
 
 # Connections
 - [[High Enforcer Aylen]]: Her mentor and commander.
-- [[02 Knights of Dusk Arc]]: Assigned to observe the squad and the rebellion.
-- [[The Darkstone Siege]]: Assists the party in escaping the final purge.

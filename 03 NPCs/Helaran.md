@@ -26,7 +26,5 @@ Helaran's past is shrouded in secrecy, but he has risen quickly within the [[Gho
 - **Anonymity:** Complete his mission without revealing his identity.
 
 # Connections
-- [[Ghostbloods]]: His patrons and handlers.
 - [[Amaram]]: His primary target.
 - [[Shallan Davar]]: His sister, who is unaware of his fate.
-- [[03 Stormblessed Arc]]: Key player in the border conflict.

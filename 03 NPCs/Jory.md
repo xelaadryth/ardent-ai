@@ -13,7 +13,7 @@ location: "[[Revolar]]"
 ---
 
 # Description
-A terrified teenage boy and fledgling Radiant who has recently begun hearing the whispers of a spren.
+A terrified teenage boy secretly working for the [[Knights of Dusk]] who has recently begun hearing the whispers of a spren.
 
 # Appearance
 Small and thin for his age, with messy hair and eyes that constantly dart toward unseen shadows.
@@ -31,4 +31,3 @@ Recruited by the [[Knights of Dusk]] after his "possession" was discovered in th
 # Connections
 - [[Knights of Dusk]]: The organization that attempted to protect him.
 - [[Arbiter Jalis]]: His captor.
-- [[The Foundry Gambit]]: The scene where his life hangs in the balance.

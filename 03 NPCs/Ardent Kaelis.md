@@ -24,6 +24,8 @@ Located in [[Revolar]], Kaelis has encountered [[Iiko]]. Recognizing their uniqu
 - **Mentor Iiko:** Prompt [[Iiko]] to join a devotary and follow the path of a scholar.
 - **Reconstruct Lost History:** Map buried settlements hidden by crem buildup.
 
+# Hooks
+- Familiar with the dawncities mentioned in the [[Tablet of Eleven Cities]].
+
 # Connections
 - [[Iiko]]: His potential student and successor.
-- [[02 Knights of Dusk Arc]]: Interacting with the squad as they arrive in Revolar.

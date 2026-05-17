@@ -1,17 +1,13 @@
 ---
-name:
+name: <% tp.file.title %>
 type: session
 status: active
 tags:
   - "#session"
 last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
-number:
+arc:
 ---
 # Description
 
-# Scenes
-- 
-# Hooks
-- 
-# Connections
+# Events
 - 

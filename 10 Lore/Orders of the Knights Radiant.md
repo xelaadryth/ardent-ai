@@ -126,9 +126,3 @@ The Knights Radiant were ten distinct Orders of Surgebinders, ancient protectors
 - **Essence:** Sinew (Flesh)
 - **Attributes:** Guiding and Instructor
 - **Warning:** Current vault intelligence identifies [[High Witness Yeshan]] as the Herald of this Order, though his sanity is severely fractured.
-
-# Connections
-- [[Possessed]]
-- [[Truthkeepers]]
-- [[Silent Oath]]
-- [[Knights of Dusk]]

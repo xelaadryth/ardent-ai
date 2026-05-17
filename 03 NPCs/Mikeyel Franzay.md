@@ -23,3 +23,4 @@ Literal, serious, and devoid of humor. He struggles with the survivor's guilt of
 
 # Connections
 - [[Highlady Marise Sathir]]: His liege and the secret object of his devotion.
+- [[Dalen]]: Friend and martial mentor. Part-time love mentor.

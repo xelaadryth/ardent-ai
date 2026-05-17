@@ -1,16 +1,13 @@
 ---
-name:
-type: scene
+name: <% tp.file.title %>
+type: event
 status: active
 tags:
-  - "#scene"
+  - "#event"
 last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
+fc-date:
+fc-category: Party
+session:
 ---
 # Description
 
-# Background
-
-# Hooks
-- 
-# Connections
-- 

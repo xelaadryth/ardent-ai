@@ -11,7 +11,9 @@ last_updated: 2024-05-18T00:00:00
 # Description
 A dangerous criminal syndicate with reach across Roshar and beyond. Based in [[Bodenar]] (Jah Keved), they maintain a strategic foothold in the Horneater Peaks to exploit a Perpendicularity for illicit inter-planetary trade.
 
-# Goals & Agenda
+Ruthless and efficient, the syndicate leverages their knowledge of worldhopping to evade local authorities. They operate shadow-armies and have successfully infiltrated regional governance in areas like Revolar.
+
+# Goals
 The Bloodmarks prioritize profit and power through illicit logistics and intimidation. Their agenda includes:
 - **Interplanetary Smuggling:** Exploiting the Horneater Perpendicularity to trade Nurian gems and resources between Mythos and Roshar.
 - **Black Market Trade:** Large-scale distribution of firemoss and luxury contraband.
@@ -25,26 +27,22 @@ The Bloodmarks prioritize profit and power through illicit logistics and intimid
 - **Lashes:** Sergeants.
 - **Thugs:** The lowest tier of muscle.
 
-# Methods & Influence
-Ruthless and efficient, the syndicate leverages their knowledge of worldhopping to evade local authorities. They operate shadow-armies and have successfully infiltrated regional governance in areas like Revolar.
-
 # Allies & Rivals
-- [[Highlord Paladar]]: Key political ally providing protection.
+- [[Vamah]]: Paid off law enforcement and officials, creating a safe haven for their operations.
 - [[N'tal]]: A survivor of a Bloodmark ambush; the faction has earned his deep-seated enmity.
 - [[Truthkeepers]]: Potential uneasy partners; currently, the syndicate is willing to assist them to further their own interests.
 - [[Ghostbloods]]: Primary rivals in the underworld; currently engaged in a shadow war over regional influence and logistics.
 
-# Hooks
-- **The Perpendicularity:** Investigate the syndicate's operations in the Horneater Peaks.
-- **Ghostblood Conflict:** The struggle for dominance between the two syndicates in Revolar.
-- **N'tal's Vendetta:** Uncover the truth behind the ambush that killed the player's family.
-- **[[The Stackhouse Slavers]]:** An attempt to collect a "labor-tithe" resulted in a clash with rogue Truthkeepers in the Stackhouses.
-
-# Connections
+# Members
+<!-- QueryToSerialize:
+LIST
+FROM "03 NPCs"
+WHERE faction = this.file.link
+SORT file.name ASC
+-->
+<!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
+- [[Arbiter Jalis]]
 - [[Grand Justicar Malice]]
-- [[N'tal]]
-- [[Highlord Paladar]]
-- [[Revolar]]
-- [[The Stackhouse Slavers]]
-- [[Bodenar]]: Their primary base of operations and hub for the jewel trade.
-- [[04 Nurian Gems Arc]]: Primary antagonist faction for the Jah Keved campaign.
+
+
+<!-- SerializedQuery END -->

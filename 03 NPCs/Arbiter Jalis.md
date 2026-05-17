@@ -29,7 +29,4 @@ Jalis was a key operative during the ambush orchestrated by [[Grand Justicar Mal
 - Break [[N'tal]]'s spirit by forcing him to relive his past failures.
 
 # Connections
-- [[Bloodmarks]]: His faction.
 - [[Grand Justicar Malice]]: His superior.
-- [[N'tal]]: His primary target for psychological torment.
-- [[The Foundry Gambit]]: The industrial pursuit where he attempts to kill [[Jory]] to spite N'tal.

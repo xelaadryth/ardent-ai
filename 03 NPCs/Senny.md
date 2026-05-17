@@ -27,9 +27,10 @@ Senny originally joined the [[Truthkeepers]] for a simple job at a friend's requ
 - **Service to the Cause:** To fulfill the mission of the [[Truthkeepers]] and honor the sacrifice of the one who saved him.
 - **Helping the Camp:** He is focused on the practical needs of the [[Truthkeeper Camp]] and its mission.
 
-# Connections
-- [[Truthkeepers]]: The center of his world and his higher calling.
-- [[High Witness Yeshan]]: He views Yeshan's mission as a sacred duty.
-
 # Secrets
 His architecture background gives him a unique eye for the "structural" weaknesses in people and organizations, though he rarely uses this for anything other than the camp's benefit.
+
+# Connections
+- [[High Witness Yeshan]]: He views Yeshan's mission as a sacred duty.
+- [[Ardent Kaelis]]: Senny's mentor in history and ancient architecture.
+

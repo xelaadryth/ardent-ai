@@ -15,15 +15,3 @@ Hearthstone is a small town that has recently come under the scrutiny of the [[T
 
 # Hooks
 - 
-
-# Connections
-- [[001 First Blood]]
-- [[002 Whitespine]]
-
-# People
-```dataview
-TABLE
-FROM "03 NPCs"
-WHERE location = this.file.link
-SORT file.name ASC
-```

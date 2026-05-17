@@ -35,10 +35,3 @@ The Sun's Zenith is an upscale inn in the Middlecrest District that serves as th
 # Secrets
 - **The Codeword**: "Ask the second moon for the suns."
 - **Firemoss Trade**: Small amounts can be purchased by those who know the signs.
-
-# Connections
-- [[Bloodmarks]]
-- [[Ghostbloods]]
-- [[Revolar]]
-- [[Truthkeepers]]
-- [[Knights of Dusk]]

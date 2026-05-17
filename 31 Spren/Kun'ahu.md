@@ -7,6 +7,7 @@ tags:
   - "#peakspren"
   - "#reliable"
 last_updated: 2026-05-13T23:29:00
+order: Stoneward
 ---
 # Description
 A jovial and reliable Peakspren bonded to [[Galeth-son-Thald]]. He serves as an emotional anchor and a steadfast cheerleader, embodying the unshakable nature of the Stonewards.
@@ -22,10 +23,3 @@ A Peakspren from the Cognitive Realm, Kun'ahu was drawn to Galeth due to the Shi
 
 # Goals
 - **Restore the Stonewards:** Driven by a fundamental desire to help others and demonstrate the power of true, unshakable reliability to the world through his bond.
-
-# Hooks
-- 
-
-# Connections
-- **[[Galeth-son-Thald]]**: His bonded Radiant and the warrior he supports.
-- **[[Dreamwaker]]**: A fellow spren within the party; Kun'ahu provides a grounded, optimistic foil to Dreamwaker's more cryptic and ancient personality.

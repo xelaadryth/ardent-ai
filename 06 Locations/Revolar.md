@@ -45,28 +45,22 @@ A major urban center and the intended destination for the squad's transfer. It s
 - **The Bastion**: Heart of the city, military HQ, command structures, officer housing.
 - **The Shieldring**: Ring around The Bastion, barracks of The Guard, training guards, elevated slightly above the rest of the city.
 
-# Connections
-- [[Truthkeepers]]: Maintains a significant presence and administrative control within the city.
-- [[Knights of Dusk]]: Operates within the city's shadows to coordinate rebel activities.
-- [[Khria]]: Often moves through the city in disguise to conduct logistical operations.
-- [[Renna Palir]]: Originally from this city before joining the Truthkeepers.
-- [[Lila]]: An informant living in the [[Stackhouses]].
-- [[Darkstone Forest]]
-- [[The Vamah Archivum]]
-- [[The Cinder Evacuation]]: A recent major arson event in the Skyglass District.
-
-# People
-```dataview
-TABLE
-FROM "03 NPCs"
-WHERE location = this.file.link
-SORT file.name ASC
-```
-
 # Sublocations
-```dataview
-TABLE
+<!-- QueryToSerialize:
+LIST
 FROM "06 Locations"
 WHERE location = this.file.link
+OR location.location = this.file.link
 SORT file.name ASC
-```
+-->
+<!-- SerializedQuery: LIST FROM "06 Locations" WHERE location = this.file.link OR location.location = this.file.link SORT file.name ASC -->
+- [[Bitter Leaf Apothecary]]
+- [[Boundless Bazaar]]
+- [[Darkstone Forest]]
+- [[Scarstone Quarter]]
+- [[Stackhouses]]
+- [[Sun's Zenith]]
+- [[The Vamah Archivum]]
+
+
+<!-- SerializedQuery END -->

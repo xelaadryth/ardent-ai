@@ -29,5 +29,3 @@ The eldest daughter of King Gavilar Kholin, she has spent years researching the 
 # Connections
 - [[Shallan Davar]]: Her ward and apprentice.
 - [[Kabsal]]: An Ardent who has been attempting to befriend her in the Palanaeum.
-- [[Kharbranth]]: Her current location.
-- [[Ghostbloods]]: The organization seeking her assassination.

@@ -147,7 +147,7 @@
             "id": "ID_995afa9a1a58"
           }
         ],
-        "displayMoons": true,
+        "displayMoons": false,
         "displayDayNumber": false,
         "leapDays": [],
         "eras": [
@@ -174,8 +174,8 @@
             "description": "",
             "format": "{{era_name}}",
             "endsYear": false,
-            "isEvent": true,
-            "category": null,
+            "isEvent": false,
+            "category": "ID_3bea9a3afaa9",
             "isStartingEra": false,
             "date": {
               "year": -5900,
@@ -190,8 +190,8 @@
             "description": "",
             "format": "{{era_name}}",
             "endsYear": false,
-            "isEvent": true,
-            "category": null,
+            "isEvent": false,
+            "category": "ID_3bea9a3afaa9",
             "isStartingEra": false,
             "date": {
               "year": -5800,
@@ -206,8 +206,8 @@
             "description": "",
             "format": "{{era_name}}",
             "endsYear": false,
-            "isEvent": true,
-            "category": null,
+            "isEvent": false,
+            "category": "ID_3bea9a3afaa9",
             "isStartingEra": false,
             "date": {
               "year": -3300,
@@ -477,40 +477,6 @@
           "type": "Date"
         },
         {
-          "name": "Revolar",
-          "description": "Party arrives at Revolar with the Truthkeepers and tails Chip that night.",
-          "date": {
-            "day": 16,
-            "month": 1,
-            "year": 1172
-          },
-          "id": "ID_bb2a79f8c95a",
-          "note": "04 Sessions/012 Following Chip.md",
-          "category": "ID_48aaaa094bd8",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          },
-          "type": "Date"
-        },
-        {
-          "name": "Morrow Executed",
-          "description": "Party returns to the Truthkeeper camp and Aylen executes Morrow",
-          "date": {
-            "day": 35,
-            "month": 0,
-            "year": 1172
-          },
-          "id": "ID_1b89fb99db1a",
-          "note": "04 Sessions/011 Promotions and Revolar.md",
-          "category": "ID_48aaaa094bd8",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          },
-          "type": "Date"
-        },
-        {
           "name": "Truthkeeper Meet",
           "description": "Truthkeepers rendezvous to attack the Knights of Dusk.",
           "date": {
@@ -560,12 +526,17 @@
           "id": "ID_db7b99e9dafa",
           "color": "#445e79",
           "name": "Book"
+        },
+        {
+          "id": "ID_d9d8f909bb48",
+          "color": "#1899bc",
+          "name": "\n"
         }
       ],
       "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events",
-      "dateFormat": "YYYY.M.DD"
+      "dateFormat": "YYYY.MM.DD"
     }
   ],
   "configDirectory": null,

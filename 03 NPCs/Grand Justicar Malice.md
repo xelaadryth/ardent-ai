@@ -32,8 +32,4 @@ One of the four Grand Justicars of the [[Bloodmarks]], Malice has spent decades 
 Malice is currently the only leader in the [[Bloodmarks]] who knows about the Perpendicularity. He uses this "hidden path" to move high-value goods and assassins undetected.
 
 # Connections
-- **Arbiter Jalis**: One of his ruthless field agents.
-- [[N'tal]]: A survivor of his ambush; Malice is aware of this loose thread.
-- [[Ghostbloods]]: Primary rivals whose influence he seeks to destroy.
-- [[Bodenar]]: His primary base of operations.
-- [[04 Nurian Gems Arc]]: The main villain of the Bodenar investigation.
+- [[Arbiter Jalis]]: One of his ruthless field agents.

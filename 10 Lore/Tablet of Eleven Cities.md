@@ -80,9 +80,3 @@ The Dawncities are the oldest continuously inhabited locations on Roshar.
 
 ### False Dawncity
 - **Sesemalex Dar:** A city carved into the very stone, featuring immense canyons and plateaus.
-
-# Connections
-- [[Iiko]]
-- [[Dreamwaker]]
-- [[Urithiru]]
-- [[008 The Envisagers of Talinan]]

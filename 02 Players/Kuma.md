@@ -7,8 +7,9 @@ tags:
   - "#elsecaller"
   - "#nurian"
   - "#maker"
-player: Dan
 last_updated: 2026-05-17T12:00:00
+player: Dan
+spren: "[[Viscose]]"
 ---
 
 # Description
@@ -38,6 +39,3 @@ Born to a Nurian farming family, Kuma cared more for books and tinkering than fo
 - [[Ilsh]] — A researcher with whom he has shared discussions regarding spren and fabrials.
 - [[Vorn]] — An artifabrian intrigued by his grasp of fabrication.
 - His uncle — The man who raised him and nearly lost his inheritance in a card game.
-- The Artifabrians of [[Revolar]] — Scholars and craftsmen he hopes can help him unlock the secrets of his device.
-- [[Boundless Bazaar]] — A prime location to find parts for his crafting and legendary item goals.
-- [[04 Nurian Gems Arc]] — His journey to Bodenar to witness the steamship demonstration.

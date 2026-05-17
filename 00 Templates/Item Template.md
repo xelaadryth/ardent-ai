@@ -1,5 +1,5 @@
 ---
-name:
+name: <% tp.file.title %>
 type: item
 status: active
 tags:
@@ -9,11 +9,6 @@ owner:
 ---
 # Description
 
-# Stats
+# Gameplay
 
 # Background
-
-# Hooks
-- 
-# Connections
-- 

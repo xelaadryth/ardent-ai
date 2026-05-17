@@ -21,9 +21,3 @@ When guiding the party to the [[The Vamah Archivum]], [[Renna Palir]] provided t
 * **Suspicious Silence:** Renna’s failure to warn the party about spies suggests she is either protecting someone, is being blackmailed, or is planning her own move toward the [[Knights of Dusk]].
 * **Internal Scrutiny:** Because the party was never warned, they may accidentally reveal sensitive information to the Knights of Dusk. Other Truthkeepers or even other party members may suspect individuals in the party.
 * **The Choice:** Renna’s inner turmoil over whether to turn spy for the Knights of Dusk makes her a wild card; she holds the keys to the Archivum but may soon hand them to the rebellion.
-
-# Connections
-- [[Renna Palir]]
-- [[The Vamah Archivum]]
-- [[Truthkeepers]]
-- [[Knights of Dusk]]

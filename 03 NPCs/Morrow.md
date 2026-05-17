@@ -31,8 +31,5 @@ Once a merchant who found himself embroiled in dark dealings, Morrow turned his 
 - **Hidden Past:** The nature of the "dark dealings" he was involved in remains a mystery that haunted him until his end.
 
 # Connections
-- [[Cryptics]]: He was haunted by "heads of twisted twine" (Liespren) before his death.
 - [[High Enforcer Aylen]]: Captured Morrow in Salimset and executed him for "possession."
 - **Rhilon**: A local shopkeep in [[Revolar]] who remembers him as a kind merchant who once exported grain.
-- [[Truthkeepers]]: Marked him as a priority target for identification and cleansing.
-- **The Players**: His first assigned mission to bring to "justice."

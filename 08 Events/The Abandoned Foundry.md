@@ -1,14 +1,17 @@
 ---
-name: The Foundry Gambit
-type: scene
+name: The Abandoned Foundry
+type: event
 status: planned
 tags:
-  - "#scene"
+  - "#event"
   - "#revolar"
   - "#combat"
   - "#moral_trial"
   - "#chase"
 last_updated: 2024-05-18T00:00:00
+fc-date: 1172-02-22
+fc-category: Party
+session:
 ---
 
 # Overview
@@ -36,11 +39,3 @@ As [[Jory]] begins to sink, [[Arbiter Jalis]] retreats toward an upper extractio
 # Outcomes
 - **Speaking the Words:** If [[N'tal]] chooses to save Jory, he manifests full control over Abrasion, allowing him to glide across the slick foundry floor to reach the release mechanism in time. 
 - **The Escaped Villain:** By saving Jory, [[Arbiter Jalis]] manages to escape into the [[Scarstone Quarter]], cementing his role as a recurring nemesis linked to N'tal's past.
-
-# Connections
-- [[N'tal]]
-- [[Arbiter Jalis]]
-- [[Jory]]
-- [[Scarstone Quarter]]
-- [[Bloodmarks]]
-- [[Knights of Dusk]]

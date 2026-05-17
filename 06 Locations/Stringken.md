@@ -15,6 +15,3 @@ Region experiencing forced recruitment by [[Highlord Sadeas]]. The area is plagu
 
 # Hooks
 - 
-
-# Connections
-- [[002 Whitespine]]

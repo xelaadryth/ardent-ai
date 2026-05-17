@@ -7,6 +7,7 @@ tags:
   - "#lightspren"
   - "#reacher"
 last_updated: 2026-05-13T23:35:12
+order: Willshaper
 ---
 # Description
 A moody and empathetic Lightspren (Reacher) bonded to [[Mallow]]. She is a champion of personal liberty who guides her partner toward the path of a Willshaper.
@@ -23,10 +24,3 @@ Hailing from the Cognitive Realm, Cadence was drawn to the specific "cracks" in 
 # Goals
 - **Seek Freedom:** Actively pushes her Radiant to transcend past superstitions and the restrictive mandates of the [[Truthkeepers]].
 - **Oppose Slavery:** Remains hyper-focused on the plight of the oppressed, specifically targeting the liberation of slaves and parshmen.
-
-# Hooks
-- 
-
-# Connections
-- [[Mallow]]: Her bonded Radiant and primary partner in the physical realm.
-- **The Forgotten**: Shares a specialized empathy for orphans and those cast aside by society.

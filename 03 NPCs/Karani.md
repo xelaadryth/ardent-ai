@@ -33,10 +33,10 @@ Brought to Roshar by the Truthkeepers, she found herself isolated and terrified.
 - She is a worldhopper who has already "flipped" and is actively reporting camp information to the Ghostbloods via spanreed.
 
 # Hooks
-- 
+- Also from Nuria (Mythos).
 
 # Connections
 - [[Chip]]: Her primary contact and protector within the camp.
 - [[Tahs]]: Her primary tormentor within the Truthkeeper camp.
-- [[Ghostbloods]]: Her secret patrons and the recipients of her intelligence.
 - [[Sila]]: A mercenary she helped liberate and who now operates in the Ghostblood network.
+- [[Fina]]: Secretly wants to befriend her as she knows she is a former princess (and more friends is always better), and teaches her poison-making.

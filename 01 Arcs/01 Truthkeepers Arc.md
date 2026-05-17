@@ -24,13 +24,20 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 	- [[Dillind]]
 	- [[Morrow]]
 
-# Scenes
+# Events
 - [[The Shellmite Attack]]
 
 # Hooks
 - [[Sila's Allegiance]]
 
 # Sessions
+<!-- QueryToSerialize:
+LIST
+FROM "04 Sessions"
+WHERE arc = this.file.link
+SORT file.name ASC
+-->
+<!-- SerializedQuery: LIST FROM "04 Sessions" WHERE arc = this.file.link SORT file.name ASC -->
 - [[000 Arrival]]
 - [[001 First Blood]]
 - [[002 Whitespine]]
@@ -43,3 +50,6 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 - [[009 Slavers]]
 - [[010 Soulcaster and Shared Employers]]
 - [[011 Promotions and Revolar]]
+
+
+<!-- SerializedQuery END -->

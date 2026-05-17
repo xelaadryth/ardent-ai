@@ -7,6 +7,7 @@ tags:
   - "#ashspren"
   - "#radiant"
 last_updated: 2026-05-13T23:29:00
+order: Dustbringer
 ---
 # Description
 A radical and spiteful Ashspren bonded to [[N'tal]]. Unlike typical spren, she is driven by a deep-seated ideological hatred for the ancient Radiants and views herself as a necessary sacrifice to prevent the return of the Radiant bonds.
@@ -23,10 +24,3 @@ Drawn to [[N'tal]]'s proximity to the [[Ghostbloods]] and his intense personal r
 # Goals
 - **Oppose the Radiants:** Actively work to prevent the spread of Radiant bonds, which she views as a betrayal by her kind.
 - **Support the Opposition:** Sympathize with any force—potentially including the side of Odium—that aims to dismantle the modern status quo of Roshar and the "traitorous" bonds.
-
-# Hooks
-- 
-
-# Connections
-- **[[N'tal]]**: Her bonded partner, whom she regards more as a tool for her ideological goals than a companion.
-- **The Possessed**: Her primary targets; she views them as dangerous anomalies that must be eliminated to protect the Cognitive Realm.

@@ -40,8 +40,4 @@ Lila was a modest seamstress in the [[Fieldwards]] until a corrupt Vamah tax col
 - She has been stealing small, dun spheres from the pockets of drunk guards to fund the rebellion's medical supplies.
 
 # Connections
-- [[Knights of Dusk]]: Her saviors and current employers.
 - [[Khria]]: The leader she reports to and views as a guardian.
-- [[Slipmarket]]: Her place of work and information gathering.
-- [[Stackhouses]]: Her home.
-- [[Revolar]]: Her city.

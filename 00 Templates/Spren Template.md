@@ -1,10 +1,11 @@
 ---
-name:
+name: <% tp.file.title %>
 type: spren
 status: active
 tags:
   - "#spren"
 last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
+order:
 ---
 # Description
 
@@ -15,8 +16,4 @@ last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 # Background
 
 # Goals
-- 
-# Hooks
-- 
-# Connections
 - 

@@ -31,9 +31,3 @@ The Archivum is bright, clean, and smells of fresh ink and cedar. Unlike older l
 
 # Secrets
 The library's collection is essentially an engine of propaganda. Every book within its walls has been edited or selected to reinforce the idea that the [[Possessed]] are a modern manifestation of an ancient evil that the Radiants once brought upon the world. Access to the Command Sanctum is granted only to those of Enforcer rank and above.
-
-# Connections
-- [[Revolar]]
-- [[Truthkeepers]]
-- [[Possessed]]
-- [[Renna Palir]]

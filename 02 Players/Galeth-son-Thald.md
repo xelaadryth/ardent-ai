@@ -9,8 +9,9 @@ tags:
   - "#exiled"
   - "#stoneward"
   - "#darkeyed"
-player: Corin
 last_updated: 2024-05-18T00:00:00
+player: Corin
+spren: "[[Kun'ahu]]"
 ---
 
 # Description
@@ -37,6 +38,5 @@ Once a leader in Shinovar, Galeth fled after a soldier under his command killed 
 
 # Connections
 - [[Kun'ahu]] — His jovial and dependable Peakspren.
-- [[Truthkeepers]] — A cause he sees as a worthy outlet for his blade.
-- [[Szeth-son-son-Vallano]] — A relic of his Shin past.
+- [[Szeth-son-son-Vallano]] — A childhood acquaintance from Shinovar, the shepherd [[Neturo]]'s son.
 - [[The Axelsmith]] — His former adversary in a duel.

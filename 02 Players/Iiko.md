@@ -7,8 +7,9 @@ tags:
   - "#truthwatcher"
   - "#nurian"
   - "#envoy"
-player: Truong
 last_updated: 2024-05-19T15:00:00
+player: Truong
+spren: "[[Dreamwaker]]"
 ---
 # Description
 Manic Nurian Truthwatcher and Envoy seeking fundamental truths and a place within the Ardentia.
@@ -31,6 +32,4 @@ As part of their transition into [[Revolar]], Iiko meets [[Ardent Kaelis]], whos
 
 # Connections
 - [[Dreamwaker]]: Ancient Mistspren partner.
-- [[Ardent Kaelis]]: Mentor and scholar in [[Revolar]].
-- [[02 Knights of Dusk Arc]]: Exploring the city and tracking the rebellion.
-- [[Tablet of Eleven Cities]]: Discovered this artifact in an ancient temple.
+- [[Ardent Kaelis]]: Scholar and potential mentor in [[Revolar]].

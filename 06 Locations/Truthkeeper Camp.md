@@ -16,9 +16,3 @@ The camp serves as the initiation point for new recruits and a staging ground fo
 
 # Hooks
 - 
-
-# Connections
-- **[[High Witness Yeshan]]**: Uses the camp as a base to grant linguistic Connection to recruits.
-- **[[Adjudicator Peton]]**: Manages the daily operations, assignments, and disciplinary actions of the camp.
-- **[[High Enforcer Aylen]]**: An intimidating presence whose arrival signals high-level legal scrutiny.
-- **[[Truthkeepers]]**: The organization that established and maintains the site as a base of operations.

@@ -27,19 +27,3 @@ Bustling and mercantile. The city is a forest of masts and tow-lines, filled wit
 
 # Secrets
 Bodenar is a primary hub for the trade of counterfeit spheres traveling west into Alethkar. The Veilmaster is rumored to have connections to both the [[Ghostbloods]] and the [[Bloodmarks]].
-
-# Connections
-- [[Bloodmarks]]: The syndicate is headquartered here.
-- [[Grand Justicar Malice]]: One of the leaders of the Bloodmarks who has spent decades consolidating power in the city.
-- [[Ilsh]]: A spren researcher traveling to the city for the fabrial expo.
-- [[Vorn]]: An artifabrian leading the technical side of the steamship project for the Veilmaster.
-- [[Ghostbloods]]: Maintain a shadow presence in the city to compete for shipping and gem control.
-- [[04 Nurian Gems Arc]]: The central setting for the Veden arc and steamship demonstration.
-
-# People
-```dataview
-TABLE
-FROM "03 NPCs"
-WHERE location = this.file.link
-SORT file.name ASC
-```

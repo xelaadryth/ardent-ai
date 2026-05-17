@@ -1,5 +1,5 @@
 ---
-name:
+name: <% tp.file.title %>
 type: location
 status: active
 tags:

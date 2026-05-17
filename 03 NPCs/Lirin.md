@@ -22,5 +22,4 @@ Stern, protective, and deeply principled. He remains wary of outsiders but value
 - Protect his remaining family, including his pregnant wife, Hesina, and unborn child, Oroden.
 
 # Connections
-- [[Hearthstone]]: His home and clinic site.
 - [[Toralin Roshone]]: Current town leadership with whom he shares a tense history.

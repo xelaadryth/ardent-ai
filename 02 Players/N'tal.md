@@ -7,8 +7,9 @@ tags:
   - "#dustbringer"
   - "#nurian"
   - "#merchant"
-player: Ryan
 last_updated: 2024-05-18T00:00:00
+player: Ryan
+spren: "[[Pyre]]"
 ---
 
 # Description
@@ -27,16 +28,14 @@ A Nurian worldhopper posing as an Alethi merchant, N'tal grew up in a family of 
 - Find the Undertaker in Revolar and learn the truth about his family's deaths.
 - Identify the mysterious man found dead alongside his family.
 - Hunt down [[Arbiter Jalis]], the man who participated in his family's slaughter.
-- Face the trial of [[The Foundry Gambit]] to manifest his true potential.
+- Face the trial of [[The Abandoned Foundry]] to manifest his true potential.
 
 # Hooks
 - The Undertaker may know more than N'tal is prepared to hear.
 - The mystery man could connect his family to a much larger conspiracy.
-- Pyre's destructive tendencies may push N'tal toward dangerous choices during the chase in [[The Foundry Gambit]].
+- Pyre's destructive tendencies may push N'tal toward dangerous choices during the chase in [[The Abandoned Foundry]].
 
 # Connections
 - [[Pyre]] — His radical and spiteful Ashspren.
 - [[Grand Justicar Malice]] — The orchestrator of his family's murder.
 - [[Arbiter Jalis]] — A personal enemy and Bloodmark Lieutenant.
-- [[The Foundry Gambit]] — The high-speed chase and moral crucible where he will Speak the Words.
-- [[04 Nurian Gems Arc]] — His primary path to vengeance in Jah Keved.

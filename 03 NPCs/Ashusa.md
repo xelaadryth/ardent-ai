@@ -13,4 +13,4 @@ location: "[[Alethkar]]"
 The secretary and advisor to [[Citylord Nilar Yenev]] in [[Stringken]]. She manages the financial records for the Citylord's operations.
 
 # Connections
-- [[Citylord Nilar Yenev]]
+- [[Citylord Nilar Yenev]] - Her boss that she's not so loyal to.

@@ -28,4 +28,3 @@ A close friend of [[Highlord Paladar]], Odrin Lesh was installed as General of [
 # Connections
 - [[Highlord Paladar]]: His patron and co-conspirator.
 - [[General Spade]]: His predecessor and bitter rival.
-- [[02 Knights of Dusk Arc]]: Key military commander for the Princedom side.

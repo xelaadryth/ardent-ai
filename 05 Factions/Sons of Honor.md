@@ -16,7 +16,13 @@ A secret society within the Alethi nobility and the Vorin Church. They believe t
 - **Return of the Heralds:** Force the Heralds to return by bringing about a new Desolation or equivalent world-wide conflict.
 - **Political Infiltration:** Secure high-ranking positions for their members within the Alethi princedoms.
 
-# Connections
-- [[Amaram]]: A primary leader and recruiter.
+# Allies & Rivals
 - [[Ghostbloods]]: Rivals who often find their interests at odds.
-- [[03 Stormblessed Arc]]: Actively involved in the escalation of border skirmishes.
+
+# Members
+<!-- QueryToSerialize:
+LIST
+FROM "03 NPCs"
+WHERE faction = this.file.link
+SORT file.name ASC
+-->

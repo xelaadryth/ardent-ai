@@ -30,12 +30,9 @@ Once a highly respected General in the Vamah military, Spade was ousted through 
 - **Protection:** Protect other surgebinders from the judgment of the [[Silent Oath]] and [[High Enforcer Aylen]]
 
 # Hooks
-- 
+- Vengeance for [[Lavrik]]
 
 # Connections
-- [[Knights of Dusk]]: His loyal followers and rebel army.
 - [[Highlord Paladar]]: The man who ruined his career and his city.
 - [[General Odrin Lesh]]: His successor and bitter rival.
-- [[Truthkeepers]]: The force he is currently preparing to fight.
-- [[02 Knights of Dusk Arc]]: Key protagonist of the conflict.
-- [[The Darkstone Siege]]: Leads the final assault on the lodge.
+- [[Lavrik]]: A childhood friend and key ally and strategist in the rebellion.

@@ -24,7 +24,3 @@ Merchants, minor functionaries of the Vamah Princedom, and travelers who can aff
 
 # Secrets
 The innkeep, a portly man named **Lukan**, takes a "no questions asked" approach to his guests' business, provided their marks are genuine. He has a secret cellar used for storing high-quality Horneater white (see [[Cuisine of Roshar]]), which he only breaks out for "special" guests.
-
-# Connections
-- [[Revolar]]
-- [[Cuisine of Roshar]]

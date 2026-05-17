@@ -20,14 +20,15 @@ A Veden noblewoman and ward to [[Jasnah Kholin]]. In this version of Roshar, she
 Externally shy and witty, Shallan hides a desperate and traumatized core. She is fiercely protective of her family's interests.
 
 # Background
-Shallan was recruited by the [[Ghostbloods]] through Luesh, her brother [[Helaran]]'s contact. She believes that by stealing Jasnah's Soulcaster, she can save her family and aid [[Helaran]], unaware that her brother is already dead.
+Shallan was recruited by the [[Ghostbloods]] through Luesh, her brother [[Helaran]]'s contact. She truly believes that by stealing Jasnah's working Soulcaster, she can save her family and aid [[Helaran]], unaware that her brother is already dead. She is coming to terms with her role as an assassin and her powers as a Lightweaver.
 
 # Goals
 - **Assassinate Jasnah Kholin:** Neutralize her mentor and steal her Soulcaster.
 - **Protect Family:** Restore her house's fortune in Jah Keved.
 
 # Connections
-- [[Jasnah Kholin]]: Her mentor and target.
+- [[Jasnah Kholin]]: Her academic mentor and target.
 - [[Helaran]]: Her brother and primary motivation.
-- [[Ghostbloods]]: Her secret employers.
-- [[Kabsal]]: A fellow Ghostblood contact in [[Kharbranth]].
+- [[Kabsal]]: Unknown to her, a fellow Ghostblood agent in [[Kharbranth]].
+- [[Luesh]]: Her recruiter and contact in the [[Ghostbloods]].
+- [[Tyn]]: Her [[Ghostbloods]] and street smarts mentor in [[Kharbranth]].

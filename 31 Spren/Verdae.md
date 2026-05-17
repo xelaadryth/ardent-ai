@@ -7,6 +7,7 @@ tags:
   - "#cultivationspren"
   - "#naive"
 last_updated: 2026-05-13T23:29:00
+order: Edgedancer
 ---
 # Description
 An intensely naive and gentle Cultivationspren bonded to [[Fina]]. She serves as a soft, moral anchor, consistently nudging her partner away from cold pragmatism and toward the foundational ideals of the Radiants.
@@ -23,10 +24,3 @@ A Cultivationspren hailing from the Cognitive Realm, Verdae did not choose her b
 # Goals
 - **Remember the Forgotten:** Frequently prompts [[Fina]] to acknowledge and care for the weak, the injured, and the overlooked.
 - **Moral Alignment:** Actively steers her Radiant toward the ideals of "Life Before Death" and "Journey Before Destination," seeking to soften her pragmatic edges.
-
-# Hooks
-- 
-
-# Connections
-- **[[Fina]]**: Her bonded Radiant and primary focus in the Physical Realm.
-- **The Ring**: The governing body of Cultivationspren that mandated her bond.

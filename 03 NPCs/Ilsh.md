@@ -29,12 +29,10 @@ A spren researcher from Thaylenah, Ilsh is traveling across Roshar seeking rare 
 - **The Bodenar Demonstration:** Serving as a researcher for the experimental steamship project.
 - **Covert Scholasticism:** Using his "Ardent" status to bypass restrictions on literacy and lore access.
 
-# Secrets
+# Hooks
+- **Experimental Steamship:** He is slated to be present at the experimental steamship demonstration.
 - His status as an Ardent is a complete fabrication used to explain his literacy and scholarly pursuits.
 
 # Connections
 - [[Kuma]]: An acquaintance who has discussed spren and fabrials with him.
-- [[Bodenar]]: His next major destination.
-
-# Hooks
-- **Experimental Steamship:** He is slated to be present at the experimental steamship demonstration.
+- [[Vorn]]: Artifabrian recruiting skilled spren researchers.

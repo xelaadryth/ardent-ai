@@ -7,6 +7,7 @@ tags:
   - "#inkspren"
   - "#logical"
 last_updated: 2026-05-13T23:29:00
+order: Elsecaller
 ---
 # Description
 A logical and contrarian Inkspren bonded to [[Kuma]]. They serve as a stoic counterbalance to their partner's creative impulses, viewing the world through a lens of absolute precision and fundamental truth.
@@ -23,9 +24,3 @@ An Inkspren from the Cognitive Realm, Viscose was attracted to [[Kuma]]’s dedi
 # Goals
 - **Logical Refinement:** Guiding [[Kuma]] toward the most efficient and logically sound path of self-improvement and creation.
 - **Honor the Bond:** Ensuring that [[Kuma]] strictly adheres to the logical codes and oaths associated with the Elsecallers.
-
-# Hooks
-- 
-
-# Connections
-- **[[Kuma]]**: Their bonded Radiant, whom they provide with constant analytical feedback and logical grounding.

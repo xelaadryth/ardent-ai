@@ -27,6 +27,3 @@ Formerly a fearsome warrior known as "The Axe". After losing a brutal duel to [[
 
 # Connections
 - [[Galeth-son-Thald]]: His opponent in a pivotal duel.
-- [[010 Soulcaster and Shared Employers]]: The session where his former bridge duel site was noted.
-- [[011 Promotions and Revolar]]: The session where he aided the party with their wagon.
-- [[Salimset]]: His current home and place of business.

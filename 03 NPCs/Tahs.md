@@ -34,6 +34,5 @@ Adopted by a lighteyed mother who "married down" to a darkeyes, Tahs was never t
 -
 
 # Connections
-- **[[Renna Palir]]**: Her companion, whom she secretly envies.
+- **[[Renna Palir]]**: Her friend, whom she secretly envies.
 - **[[Karani]]**: Her primary target for bullying.
-- **[[Truthkeepers]]**: The organization she hopes will give her the status she craves.

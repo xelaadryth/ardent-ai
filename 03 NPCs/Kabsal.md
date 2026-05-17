@@ -24,7 +24,5 @@ Assigned to "befriend" [[Jasnah Kholin]] in [[Kharbranth]] to monitor her resear
 - **Protection:** Ensure Jasnah's safety in the Palanaeum.
 
 # Connections
-- [[Ghostbloods]]: His former employers whom he intends to betray.
 - [[Jasnah Kholin]]: His mark and current object of protection.
-- [[Shallan Davar]]: A fellow operative he must monitor in [[Kharbranth]].
-- [[05 Kharbranth Infiltration Arc]]: The theater for his secret conflict.
+- [[Shallan Davar]]: A fellow operative he is unaware of.

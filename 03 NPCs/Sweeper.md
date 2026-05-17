@@ -28,4 +28,4 @@ The Sweeper has heard of the [[Ghostbloods]] and thinks they're the ultimate in 
 - [[N'tal]]: The party member he is currently attempting to flip.
 - [[Chip]]: His superior.
 - [[Undertaker]]: [[Chip]]'s superior in [[Revolar]].
-- Sila: He previously hired Sila and Luggan for assassinating Guddy (aka Doug) on [[Chip]]'s orders from the [[Undertaker]], so as to protect [[Chip]]'s cover.
+- [[Sila]]: Sweeper previously hired Sila and Luggan for assassinating [[Guddy]] on [[Chip]]'s orders from the [[Undertaker]].

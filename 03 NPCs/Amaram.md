@@ -26,7 +26,4 @@ A military commander currently operating in the borderlands. He has recently dra
 - **Military Power:** Build a private army capable of rivaling the Highprinces.
 
 # Connections
-- [[Sons of Honor]]: The secret society he leads.
-- [[Hearthstone]]: Site of his recent recruitment activities.
 - [[Helaran]]: The assassin hunting him.
-- [[03 Stormblessed Arc]]: Key antagonist in the border skirmishes.

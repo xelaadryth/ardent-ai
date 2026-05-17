@@ -8,10 +8,11 @@ tags:
 last_updated: 2026-05-13T23:35:12
 ---
 # Description
-An investigation into the traitorous ties of Sila to the [[Ghostbloods]]. The discovery of a Ghostblood symbol on Sila's person following a fatal incident at the [[Truthkeeper Camp]] has raised questions about his true motives and past crimes.
+Sila was sentenced to work hard labor in the [[Truthkeeper Camp]] but was soon liberated by [[Karani]] at [[Chip]]'s behest, and was brought officially into the fold of the [[Ghostbloods]].
 
 # Connections
 - [[Ghostbloods]]: The secretive organization Sila was covertly working for.
-- [[N'tal]]: A squad member whose family was murdered by Sila, creating a personal vendetta.
+- [[Doug]]: The person he was assigned to kill.
+- [[Sweeper]]: The person who hired him.
+- [[Galeth-son-Thald]]: The person who declined the assignment.
 - [[Adjudicator Peton]]: The officer who tasked the squad with deciding Sila's fate and overseeing the investigation.
-- **The Undertaker**: A mysterious contact mentioned in a note found on Sila's body.

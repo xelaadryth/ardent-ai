@@ -33,4 +33,3 @@ Sila's "death" by fire was meticulously staged. If any Truthkeepers, particularl
 # Connections
 - [[Chip]]: One of his saviors and a current contact within the Ghostbloods.
 - [[Karani]]: The other half of the team that freed him from hard labor.
-- [[Truthkeepers]]: His former employers and the organization he must avoid at all costs.

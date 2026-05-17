@@ -1,12 +1,15 @@
 ---
-name: Experimental Steamship
-type: scene
-status: active
+name: The Experimental Steamship
+type: event
+status: planned
 tags:
-  - "#scene"
+  - "#event"
   - "#bodenar"
   - "#fabrial"
 last_updated: 2026-05-17T12:00:00
+fc-date:
+fc-category: Party
+session:
 ---
 
 # Description
@@ -16,8 +19,3 @@ A high-intensity demonstration in the harbor of [[Bodenar]] featuring a Thaylen-
 - [[Vorn]]: Technical lead.
 - [[Ilsh]]: Spren researcher.
 - [[Kuma]]: Observer and secondary technician.
-
-# Connections
-- [[04 Nurian Gems Arc]]
-- [[Bodenar]]
-- [[Nurian Gems]]

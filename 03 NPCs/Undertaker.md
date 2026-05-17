@@ -29,7 +29,5 @@ Operating out of the shadows of [[Revolar]], Undertaker rarely walks the streets
 Undertaker is actually **Mraize**, a worldhopper of significant power and influence. He is not just a merchant; he is a hunter of the highest caliber. He knows far more about the "Possessed" than he lets on and is currently looking for a way to bind Radiants to the Ghostbloods' service as a permanent, controllable asset.
 
 # Connections
-- [[Ghostbloods]]: His true allegiance.
-- [[Chip]] & [[Karani]]: His field agents.
-- [[High Enforcer Aylen]]: He views Aylen's work with the Silent Oath as a necessary "cleaning service" for the world at large.
-- [[Bruckslats]]: His secure meeting location.
+- [[Chip]]: His direct field agent around Revolar.
+- [[Iyatil]]: His supposed "apprentice" who actually uses him to gather information and manipulate events from the shadows.

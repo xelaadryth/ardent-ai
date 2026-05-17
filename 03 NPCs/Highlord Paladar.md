@@ -33,5 +33,3 @@ He uses the "Possessed" as a political tool, allowing the [[Truthkeepers]] to pu
 # Connections
 - [[General Odrin Lesh]]: His close friend and military enforcer.
 - [[Chip]]: His third son, Archisal Paladar.
-- [[02 Knights of Dusk Arc]]: Antagonist for the Revolar conflict.
-- [[The Cinder Evacuation]]: Victim of an arson attack on his urban estate.

@@ -24,9 +24,3 @@ A melting pot of Alethi, Vedens, Thaylens, and more mysterious travelers. It is 
 
 # Secrets
 A merchant named **Zabriel** occasionally deals in rare, fake-sounding items from off-world, including fragments of atium, Taldain whitesand, and Nurian diamond broams. These items are of great interest to the [[Undertaker]], who collects such off-world trinkets.
-
-# Connections
-- [[Kuma]]
-- [[Iiko]]
-- [[Undertaker]]
-- [[Revolar]]

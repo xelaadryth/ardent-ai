@@ -14,17 +14,3 @@ Known as the City of Bells, Kharbranth is a small kingdom built into the side of
 # Notable Features
 - **The Palanaeum:** One of the greatest libraries on Roshar, containing millions of volumes.
 - **The City of Bells:** Constant ringing of bells signals various messages and warnings across the vertical city.
-
-# Connections
-- [[Jasnah Kholin]]: Currently conducting research here.
-- [[Kabsal]]: Residing here to befriend Jasnah.
-- [[Shallan Davar]]: Serving her apprenticeship here.
-- [[05 Kharbranth Infiltration Arc]]: The setting for the upcoming investigation.
-
-# People
-```dataview
-TABLE
-FROM "03 NPCs"
-WHERE location = this.file.link
-SORT file.name ASC
-```

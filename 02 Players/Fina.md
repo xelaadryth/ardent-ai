@@ -8,8 +8,9 @@ tags:
   - "#alethi"
   - "#noble"
   - "#lighteyed"
-player: Shirley
 last_updated: 2026-05-14T18:30:00
+player: Shirley
+spren: "[[Verdae]]"
 ---
 
 # Description
@@ -36,4 +37,3 @@ Born into a noble family, Fina rejected a marriage alliance with a "nature cult"
 
 # Connections
 - [[Verdae]] — Her naive and vine-like Cultivationspren.
-- [[Bitter Leaf Apothecary]] — An essential resource for her research and medical work.

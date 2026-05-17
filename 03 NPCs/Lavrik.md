@@ -12,7 +12,7 @@ location:
 ---
 
 # Description
-A sergeant within the [[Knights of Dusk]] who holds a grudge against the party for interfering with his unit's supply lines. He was recently confronted in the ancient temple where he attempted to secure an artifact.
+A sergeant within the [[Knights of Dusk]] who holds a grudge against the party for interfering with his unit's supply lines. He was slain in an ancient temple where he attempted to secure a Soulcaster.
 
 # Connections
-- [[Knights of Dusk]]: His faction.
+- [[Vedelis]]: The ardent working with him in the Knights of Dusk.

@@ -32,5 +32,4 @@ After [[Kaladin]] died saving him in the Jah Keved border skirmishes—a sacrifi
 # Connections
 - [[Kaladin]]: His fallen brother whose sacrifice defined his new path.
 - [[Dillind]]: A young soldier under his protection.
-- [[Windrunners]]: He is the candidate meant to lead them in this timeline.
-- [[03 Stormblessed Arc]]: The central figure of the border conflict.
+- Dallet (Sergeant), Cenn (young recruit), Coreb, Hab, Alabet, Reesh, Acis, Cyn, Hamel, Larn, Lyndel, Navar, Raksha, Toorim, Korater: The soldiers under his command.
