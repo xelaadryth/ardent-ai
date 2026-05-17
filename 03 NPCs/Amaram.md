@@ -6,7 +6,7 @@ tags:
   - "#lighteyed"
   - "#alethi"
   - "#sons_of_honor"
-last_updated: 2026-05-16T16:00:00
+last_updated: 2024-05-21T09:00:00
 faction: "[[Sadeas]]"
 location: "[[Tomat]]"
 ---
@@ -18,7 +18,7 @@ Brightlord Meridas Amaram is a high-ranking Alethi officer and a prominent figur
 He presents as the paragon of Alethi virtues—noble, pious, and dedicated. However, beneath this facade is a man driven by a fanatical belief that the Heralds must be forced to return at any cost.
 
 # Background
-A military commander currently operating in the borderlands. He has recently drawn criticism for his aggressive conscription of child soldiers from villages like [[Hearthstone]] and the [[House Sathir|Sathir Estate]].
+A military commander currently operating in the borderlands. He has recently drawn criticism for his aggressive conscription of child soldiers from villages like [[Hearthstone]] and the [[House Sathir|Sathir Estate]]. He is currently based in [[Tomat]], holding court on the Recruitment Green.
 
 # Goals
 - **Restoration:** Induce the return of the Heralds and the Knights Radiant by creating a world of conflict.
@@ -26,3 +26,4 @@ A military commander currently operating in the borderlands. He has recently dra
 
 # Connections
 - [[Helaran]]: The assassin hunting him.
+- [[Tien]]: His star recruit and squad leader in [[Tomat]].

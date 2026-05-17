@@ -160,6 +160,9 @@
         "[[Ardent Kaelis]]",
         "[[Iiko]]",
         "[[1172-02-16 The Stackhouse Slavers]]",
+        "[[1172-02-17 Meeting at the Whitespine]]",
+        "[[1172-02-17 Meeting with the Undertaker]]",
+        "[[1172-02-22 The Foundry Chase]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
       ],
@@ -168,7 +171,7 @@
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2026-05-20T12:00:00"
+      "last_updated": "2026-05-20T15:00:00"
     },
     "03 Stormblessed Arc": {
       "type": "arc",
@@ -237,7 +240,10 @@
       "type": "player",
       "status": "active",
       "links": [
-        "[[Verdae]]"
+        "[[Verdae]]",
+        "[[Bloodmarks]]",
+        "[[N'tal]]",
+        "[[Undertaker]]"
       ],
       "tags": [
         "#player",
@@ -246,7 +252,7 @@
         "#noble",
         "#lighteyed"
       ],
-      "last_updated": "2026-05-14T18:30:00"
+      "last_updated": "2026-05-20T15:00:00"
     },
     "Galeth-son-Thald": {
       "type": "player",
@@ -325,10 +331,13 @@
       "status": "active",
       "links": [
         "[[Pyre]]",
-        "[[Grand Justicar Malice]]",
+        "[[Ghostbloods]]",
+        "[[Bloodmarks]]",
+        "[[Fina]]",
         "[[Arbiter Jalis]]",
-        "[[1172-02-22 The Foundry Chase]]",
-        "[[N'tal's Vendetta]]"
+        "[[1172-02-17 The Foundry Chase]]",
+        "[[N'tal's Vendetta]]",
+        "[[Grand Justicar Malice]]"
       ],
       "tags": [
         "#player",
@@ -336,7 +345,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2026-05-20T12:00:00"
+      "last_updated": "2026-05-20T15:00:00"
     },
     "Adjudicator Peton": {
       "type": "npc",
@@ -1087,10 +1096,13 @@
         "[[Ghostbloods]]",
         "[[Revolar]]",
         "[[Bruckslats]]",
+        "[[N'tal]]",
+        "[[Fina]]",
         "[[Truthkeepers]]",
         "[[Silent Oath]]",
         "[[Chip]]",
-        "[[Iyatil]]"
+        "[[Iyatil]]",
+        "[[1172-02-17 Meeting with the Undertaker]]"
       ],
       "tags": [
         "#npc",
@@ -1098,7 +1110,7 @@
         "#ghostbloods",
         "#worldhopper"
       ],
-      "last_updated": "2026-05-15T15:00:00"
+      "last_updated": "2026-05-20T15:00:00"
     },
     "Vorn": {
       "type": "npc",
@@ -1957,7 +1969,7 @@
         "[[Stoneweave]]",
         "[[Revolar]]",
         "[[Viscose]]",
-        "[[Nurian Gems|Nurian Gem]]",
+        "[[Nurian Gem]]",
         "[[The Experimental Steamship]]",
         "[[Bodenar]]",
         "[[Nurian Gems]]"
@@ -1974,14 +1986,16 @@
       "type": "hook",
       "status": "active",
       "links": [
+        "[[Vorn]]",
+        "[[Kuma]]",
+        "[[Stoneweave]]",
+        "[[Revolar]]",
+        "[[Viscose]]",
+        "[[Nurian Gem]]",
         "[[Truthkeeper Camp]]",
         "[[Karani]]",
         "[[Chip]]",
-        "[[Ghostbloods]]",
-        "[[Doug]]",
-        "[[Sweeper]]",
-        "[[Galeth-son-Thald]]",
-        "[[Adjudicator Peton]]"
+        "[[Ghostbloods]]"
       ],
       "tags": [
         "#hook",
@@ -2055,7 +2069,10 @@
         "[[Darkstone Forest]]",
         "[[Kuma]]",
         "[[Vedelis]]",
-        "[[Stormbristle]]"
+        "[[Stormbristle]]",
+        "[[Driftwards]]",
+        "[[Scarstone Quarter]]",
+        "[[Knights of Dusk]]"
       ],
       "tags": [
         "#hook",
@@ -2176,6 +2193,30 @@
       ],
       "last_updated": "2026-05-20T14:00:00"
     },
+    "1172-02-17 Meeting with the Undertaker": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[013 Shadow War in the Driftwards]]",
+        "[[Whitespine's Fang]]",
+        "[[Bruckslats]]",
+        "[[Scarstone Quarter]]",
+        "[[Undertaker]]",
+        "[[N'tal]]",
+        "[[Fina]]",
+        "[[Bloodmarks]]",
+        "[[Arbiter Jalis]]",
+        "[[Stackhouses]]",
+        "[[1172-02-17 The Foundry Chase]]"
+      ],
+      "tags": [
+        "#event",
+        "#ghostbloods",
+        "#revolar",
+        "#revelation"
+      ],
+      "last_updated": "2026-05-20T15:00:00"
+    },
     "1172-02-20 The Cinder Evacuation": {
       "type": "event",
       "status": "active",
@@ -2199,12 +2240,13 @@
       "type": "event",
       "status": "active",
       "links": [
+        "[[013 Shadow War in the Driftwards]]",
         "[[Scarstone Quarter]]",
-        "[[N'tal]]",
+        "[[Bruckslats]]",
         "[[Bloodmarks]]",
-        "[[Jory]]",
         "[[Arbiter Jalis]]",
-        "[[Pyre]]"
+        "[[N'tal]]",
+        "[[Jory]]"
       ],
       "tags": [
         "#event",
@@ -2213,7 +2255,7 @@
         "#moral_trial",
         "#chase"
       ],
-      "last_updated": "2024-05-18T00:00:00"
+      "last_updated": "2026-05-20T15:00:00"
     },
     "1172-02-32 The Darkstone Siege": {
       "type": "event",
