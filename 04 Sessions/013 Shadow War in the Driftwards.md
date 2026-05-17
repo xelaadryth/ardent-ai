@@ -14,4 +14,4 @@ The squad navigates the dangerous streets of the [[Revolar|Driftwards]], where d
 
 # Events
 - **The Driftwards Watch:** The party navigates the slums, noting the strange behavior of the local beggars who possess an unnatural, purposeful coordination as they move toward the [[Scarstone Quarter]].
-- **[[Meeting at the Whitespine]]:** [[N'tal]] meets the Sweeper and [[Chip]] at [[Whitespine's Fang]]. The atmosphere is thick with tension as they discuss how to secure an audience with the [[Undertaker]]. The Sweeper shares his contacts, explaining that the Undertaker is too cautious for public meetings and only permits invited guests to visit his hideout in the [[Bruckslats]].
+- **[[1172-02-17 Meeting at the Whitespine]]:** [[N'tal]] meets the Sweeper and [[Chip]] at [[Whitespine's Fang]]. The atmosphere is thick with tension as they discuss how to secure an audience with the [[Undertaker]]. The Sweeper shares his contacts, explaining that the Undertaker is too cautious for public meetings and only permits invited guests to visit his hideout in the [[Bruckslats]].

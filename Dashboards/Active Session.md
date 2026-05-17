@@ -38,6 +38,7 @@ Current Session: [[013 Shadow War in the Driftwards]]
 
 <!-- QueryToSerialize: LIST FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
+- [[1172-02-17 Meeting at the Whitespine]]
 - [[1172-02-20 The Cinder Evacuation]]
 - [[1172-02-22 The Foundry Chase]]
 - [[1172-02-32 The Darkstone Siege]]
