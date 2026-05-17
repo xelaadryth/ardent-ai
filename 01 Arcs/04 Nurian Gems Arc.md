@@ -37,6 +37,8 @@ The party travels to Jah Keved to uncover the origin of the unstable [[Nurian Ge
 - **The Trial and the Trap**: As the steamship begins its run, [[Grand Justicar Malice]] moves to eliminate the "meddling worldhoppers," while rumors of a nearby highprince's death send the city into lockdown.
 - **The Perpendicularity:** Investigate the syndicate's operations in the Horneater Peaks.
 
+# Events
+<!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
 # Sessions
 <!-- QueryToSerialize:
 LIST

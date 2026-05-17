@@ -9,7 +9,7 @@ tags:
   - "#fire"
 last_updated: 2026-05-18T12:00:00
 fc-category: Party
-session: "[[013 Shadow War in the Driftwards]]"
+session:
 ---
 
 # Description

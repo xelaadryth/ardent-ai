@@ -5,14 +5,12 @@ tags:
   - "#hook"
   - "#revolar"
 last_updated: 2026-05-15T16:30:00
+leads:
+  - "The Omission: Realizing that other Truthkeepers openly discuss the 'spy problem' in the barracks, yet Renna never mentioned it when it was her job to inform them of everything."
+  - "Renna's Hesitation: Witnessing Renna's visible tension when she recites the entry codewords, as if she is hiding a second set of secrets."
 ---
 # Description
 When guiding the party to the [[The Vamah Archivum]], [[Renna Palir]] provided them with the necessary secret codewords and the location of the hidden entrance. However, she pointedly omitted a vital piece of information that other [[Truthkeepers]] take for granted: the base is currently compromised by a [[Knights of Dusk]] spy.
-
-# How to Find It
-
-* **The Omission:** Realizing that other Truthkeepers openly discuss the "spy problem" in the barracks, yet Renna never mentioned it when it was her job to inform them of everything.
-* **Renna's Hesitation:** Witnessing Renna’s visible tension when she recites the entry codewords, as if she is hiding a second set of secrets.
 
 # Implications
 

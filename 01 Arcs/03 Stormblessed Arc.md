@@ -33,6 +33,9 @@ A "storm-blessed" soldier named [[Tien]] is making a name for himself in the bru
 - **The Destiny Shift:** Investigate the nature of the bond or destiny passed from [[Kaladin]] to [[Tien]].
 - **Ghostblood Assassin:** Track [[Helaran]]'s progress toward [[Amaram]].
 
+# Events
+<!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
+
 # Sessions
 <!-- QueryToSerialize:
 LIST

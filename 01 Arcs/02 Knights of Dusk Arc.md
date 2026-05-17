@@ -33,25 +33,9 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 	- [[Ardent Kaelis]]: An eccentric scholar who takes an interest in [[Iiko]].
 
 # Events
-
-<!-- SerializedQuery: LIST FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
-- [[1172-02-20 The Cinder Evacuation]]
-- [[1172-02-22 The Foundry Chase]]
-- [[1172-02-32 The Darkstone Siege]]
-
-
-<!-- SerializedQuery END -->
-
-# Hooks
-
-<!-- SerializedQuery: LIST FROM "07 Hooks" WHERE status = "active" SORT file.name ASC -->
-- [[N'tal's Vendetta]]
-- [[New Technology]]
-- [[Sila's Allegiance]]
-- [[Spy of Dusk]]
-- [[The Devotary Call]]
-- [[The Highlord's Greed]]
-- [[Tracking the Knights of Dusk]]
+<!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
+<!-- SerializedQuery: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
+- [[1172-02-16 The Stackhouse Slavers]]
 
 
 <!-- SerializedQuery END -->

@@ -24,7 +24,7 @@ Vedelis was considered a kind and gentle soul, driven by a deep-seated belief th
 # Background
 While serving as an ardent, Vedelis discovered that agents of [[Highlord Paladar]] were systematically removing and destroying books from the [[Vamah Archivum]]. Viewing this as an act of cultural erasure, he concluded that the current Vamah leadership was antithetical to the search for truth. He joined the [[Knights of Dusk]] to protect history and support the cause of [[General Spade]].
 
-He was killed while attempting to secure an ancient Soulcaster from a temple to prevent it from falling into corrupt hands. Immediately before the squad engaged in the temple, he was witnessed sending an urgent message via spanreed. During the combat, he wielded a recovered smokestone Soulcaster to transmute several stone pillars into smoke; the rapid expansion of matter as it transitioned to gas created powerful blasts of air that blasted attackers away.
+He was killed while attempting to secure an ancient Soulcaster from a temple to prevent it from falling into corrupt hands. Immediately before the squad engaged in the temple, he was witnessed sending an urgent message via spanreed. During the combat, he wielded the recovered smokestone Soulcaster to transmute clothing, and even a stone pillar to smoke; the rapid expansion of matter as it transitioned to gas created powerful blasts of air that blasted attackers away.
 
 # Goals
 - Protect historical knowledge from censorship.

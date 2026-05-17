@@ -7,6 +7,7 @@
     "radiant": "text",
     "links": "multitext",
     "last_updated": "datetime",
-    "fc-date": "text"
+    "fc-date": "text",
+    "leads": "multitext"
   }
 }

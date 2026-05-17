@@ -10,10 +10,11 @@ number:
 
 # Key Players
 - 
-# Events
-- 
 # Hooks
 - 
+# Events
+<!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
+
 # Sessions
 <!-- QueryToSerialize:
 LIST

@@ -24,18 +24,17 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 	- [[Morrow]]
 
 # Events
+<!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
+<!-- SerializedQuery: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
+- [[1172-01-11 The Arrival]]
 - [[1172-01-12 The Shellmite Attack]]
+- [[1172-01-35 Morrow's Execution]]
 
-# Hooks
-- 
+
+<!-- SerializedQuery END -->
 
 # Sessions
-<!-- QueryToSerialize:
-LIST
-FROM "04 Sessions"
-WHERE arc = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "04 Sessions" WHERE arc = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "04 Sessions" WHERE arc = this.file.link SORT file.name ASC -->
 - [[000 Arrival]]
 - [[001 First Blood]]
