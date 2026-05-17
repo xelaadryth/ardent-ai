@@ -5,16 +5,16 @@ on:
     branches:
       - main
     paths:
-      - "Inbox/**/*.md"
+      - "Outbox/**/*.md"
 
   workflow_dispatch:
     inputs:
       prompt:
-        description: "Additional instructions to append to the Inbox request (optional)"
+        description: "Additional instructions to append to the Outbox request (optional)"
         required: false
         type: string
       request_file:
-        description: "Specific Inbox markdown file to process first (optional)"
+        description: "Specific Outbox markdown file to process first (optional)"
         required: false
         type: string
       create_pr:

@@ -1,22 +1,22 @@
 from pkg.vault.file_io import VAULT_ROOT
 
-INBOX_DIR = VAULT_ROOT / "Inbox"
+OUTBOX_DIR = VAULT_ROOT / "Outbox"
 ARCHIVE_DIR = VAULT_ROOT / "Archive"
 
 
-def find_inbox_file(file_name=None):
+def find_outbox_file(file_name=None):
     if file_name:
         # Append .md if not provided
         if not file_name.endswith(".md"):
             file_name += ".md"
         # Case-insensitive match
-        for f in INBOX_DIR.glob("*.md"):
+        for f in OUTBOX_DIR.glob("*.md"):
             if f.name.lower() == file_name.lower():
                 return f
         return None
 
     files = sorted(
-        f for f in INBOX_DIR.glob("*.md")
+        f for f in OUTBOX_DIR.glob("*.md")
         if f.is_file() and not f.name.startswith(".")
     )
 
@@ -49,4 +49,4 @@ def archive_file(file_path):
     target = ARCHIVE_DIR / f"{next_num:04d}-{file_path.name}"
     file_path.rename(target)
 
-    return target
+    return file_path.stem

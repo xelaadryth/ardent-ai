@@ -7,7 +7,7 @@ This is an Obsidian vault management system with AI-powered content generation. 
 ## Architecture
 
 ### Entry Points
-- `main.py` - AI agent workflow entry point (processes Inbox requests)
+- `main.py` - AI agent workflow entry point (processes Outbox requests)
 - `reindex.py` - Deterministic vault reindexing (no LLM calls)
 
 Both entry points use `workflow_integration.py` for standardized output formatting and error handling.
@@ -15,11 +15,11 @@ Both entry points use `workflow_integration.py` for standardized output formatti
 ### Core Modules
 
 **Workflow Commands**
-- `cmd/agent/main.py` - Main AI agent workflow command (processes Inbox requests)
+- `cmd/agent/main.py` - Main AI agent workflow command (processes Outbox requests)
 - `cmd/reindex/main.py` - Manual vault reindexing command (deterministic, no LLM calls, but already happens in the agent workflow)
 
 **Internal Modules**
-- `internal/inbox.py` - Inbox file management (find, load, archive)
+- `internal/outbox.py` - Outbox file management (find, load, archive)
 - `internal/llm.py` - LLM client initialization and configuration
 - `internal/prompt_builder.py` - Prompt construction for AI interactions
 - `internal/response_parser.py` - Response frontmatter parsing and actual file editing
@@ -35,7 +35,7 @@ Both entry points use `workflow_integration.py` for standardized output formatti
 - `pkg/vault/scoring.py` - Scoring logic for context retrieval
 
 **Supporting Modules**
-- `inbox.py` - Inbox file management (find, load, archive)
+- `outbox.py` - Outbox file management (find, load, archive)
 - `config.py` - Configuration (models, vault root, environment variables)
 
 ## Important Patterns
@@ -78,13 +78,13 @@ This is handled by `internal/workflow_integration.print_workflow_output()`.
 - `last_updated` is only set by the AI workflow when making operational changes, not by reindex
 
 ### AI Workflow
-1. Find inbox file (or use specific file from input)
+1. Find outbox file (or use specific file from input)
 2. Load prompt with optional extra instructions
 3. Build system prompt with SOUL.md + vault context
 4. Call LLM with retry logic across multiple models
 5. Parse JSON response and apply operations (create/update/delete files)
 6. Update vault index
-7. Archive processed inbox file
+7. Archive processed outbox file
 
 ### Testing
 - Uses pytest with monkeypatch for mocking

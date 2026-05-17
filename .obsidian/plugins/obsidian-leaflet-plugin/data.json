@@ -1,16 +1,236 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "map-revolar",
+      "locked": false,
+      "lastAccessed": 1779036574156,
+      "markers": [
+        {
+          "id": "ID_c90bc95a592b",
+          "type": "default",
+          "loc": [
+            -810.0625,
+            2048
+          ],
+          "link": "Scarstone Quarter",
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b2b195b386a",
+          "type": "default",
+          "loc": [
+            -576,
+            2056
+          ],
+          "link": "Stackhouses",
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6971854866056291,
+            0.25229960578186594
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dashboards/Maps.md"
+      ]
+    },
+    {
+      "id": "map-roshar",
+      "locked": false,
+      "lastAccessed": 1779036574156,
+      "markers": [
+        {
+          "id": "ID_59bab8184a1a",
+          "type": "Town",
+          "loc": [
+            -390.87890625,
+            1289
+          ],
+          "link": "Revolar",
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aada7a6bcb3a",
+          "type": "default",
+          "loc": [
+            -357.87890625,
+            1310
+          ],
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Branchken",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_785a2a8b18b9",
+          "type": "default",
+          "loc": [
+            -359,
+            1305
+          ],
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7452884066247858,
+            0.3988888888888889
+          ],
+          "description": "Leafken",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e88b894998fa",
+          "type": "Town",
+          "loc": [
+            -330.75,
+            1321
+          ],
+          "link": "Hearthstone",
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7544260422615648,
+            0.3675
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18b95879ea2b",
+          "type": "Town",
+          "loc": [
+            -344.12890625,
+            1317.75
+          ],
+          "link": "Salimset",
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58ca58285959",
+          "type": "Secret",
+          "loc": [
+            -343.25,
+            1314.75
+          ],
+          "link": "Truthkeeper Camp",
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.750856653340948,
+            0.3813888888888889
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bcbe9391b89",
+          "type": "Town",
+          "loc": [
+            -347.09765625,
+            1234.5
+          ],
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Tomat",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dashboards/Maps.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#a80000",
     "transform": {
       "size": 6,
       "x": 0,
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Town",
+      "iconName": "city",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Secret",
+      "iconName": "unlock-alt",
+      "color": "#515758",
+      "alpha": 0.87,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
@@ -23,7 +243,7 @@
     "patch": 5
   },
   "warnedAboutMapMarker": false,
-  "copyOnClick": false,
+  "copyOnClick": true,
   "displayMarkerTooltips": "hover",
   "displayOverlayTooltips": true,
   "configDirectory": null,

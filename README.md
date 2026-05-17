@@ -5,8 +5,8 @@
 
 A multi-tool system for managing a Cosmere RPG knowledge base.
 
-- Add to frontmatter
-	- Date (in-world)
+## TODO:
+- Intray Outray
 - Content organization
 	- Migrate session scenes to their own pages
 	- Centralized tag for active rumors/hooks with dataview for current session
@@ -23,12 +23,8 @@ A multi-tool system for managing a Cosmere RPG knowledge base.
 ## AI Agent
 
 - Python code generates `vault_index.json` from frontmatter via GitHub Actions
-- AI Ingest Markdown files in the `Inbox` folder as instructions via GitHub Actions
+- AI Ingest Markdown files in the `Outbox` folder as instructions via GitHub Actions
 - Processes files and updates the vault
-
-### TODO
-- Fix links not properly parsing on the frontmatter on the document itself (correct on the indedx)
-- Full RAG implementation to replace or augment `vault_index.json`, move it into the .ai folder
 
 ## Obsidian
 

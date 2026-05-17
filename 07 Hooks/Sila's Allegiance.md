@@ -6,13 +6,9 @@ tags:
   - "#placeholder"
 last_updated: 2026-05-13T23:35:12
 leads:
+  - "The Invitation: [[Vorn]] approaches [[Kuma]] in the [[Stoneweave]] district after hearing of his repair work, offering him a position as a technician for the upstream trial."
+  - "The Strange Hum: While passing [[Vorn]]'s workshop in [[Revolar]], [[Viscose]] notes that the gemstones inside are different because their vibrational frequency is superharmonic."
+  - "The Warning: Finding discarded, shattered [[Nurian Gem]] outside a warehouse that glows with an erratic, violet light, suggesting the technology is more dangerous than Vorn admits."
 ---
 # Description
 Sila was sentenced to work hard labor in the [[Truthkeeper Camp]] but was soon liberated by [[Karani]] at [[Chip]]'s behest, and was brought officially into the fold of the [[Ghostbloods]].
-
-# Connections
-- [[Ghostbloods]]: The secretive organization Sila was covertly working for.
-- [[Doug]]: The person he was assigned to kill.
-- [[Sweeper]]: The person who hired him.
-- [[Galeth-son-Thald]]: The person who declined the assignment.
-- [[Adjudicator Peton]]: The officer who tasked the squad with deciding Sila's fate and overseeing the investigation.

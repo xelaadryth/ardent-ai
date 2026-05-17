@@ -96,10 +96,24 @@ def apply_operations(operations: list[dict], current_index: dict):
             raise ValueError(f"Unsupported operation action: {action}")
 
 
-def apply_response(output: str, current_index: dict):
+def apply_response(output: str, current_index: dict, request_stem: str = None):
     payload = parse_json_output(output)
 
     operations = payload.get("operations", [])
+    response = payload.get("response")
+
+    # Print LLM's free-form response if present
+    if response:
+        print(f"\n[LLM RESPONSE]\n{response}\n")
+
+        # Save response to Inbox folder if request_stem is provided
+        if request_stem:
+            from pkg.vault.file_io import VAULT_ROOT
+            inbox_dir = VAULT_ROOT / "Inbox"
+            inbox_dir.mkdir(exist_ok=True)
+            response_file = inbox_dir / f"{request_stem}.md"
+            response_file.write_text(response, encoding="utf-8")
+            print(f"[SAVED RESPONSE] {response_file}")
 
     if operations:
         apply_operations(operations, current_index)

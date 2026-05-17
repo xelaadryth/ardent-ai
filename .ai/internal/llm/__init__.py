@@ -33,6 +33,10 @@ class VaultOperationsResponse(BaseModel):
     operations: List[FileOperation] = Field(
         description="A list of deterministic file operations to apply to the vault. If no changes are needed, return an empty list."
     )
+    response: Optional[str] = Field(
+        default=None,
+        description="Free-form comments, notes, questions, or feedback from the LLM about the recommended operations. This is the 'undertext' providing context, clarifications, or additional thoughts."
+    )
 
 
 # Automatic implicit caching probably lasts around 5 minutes

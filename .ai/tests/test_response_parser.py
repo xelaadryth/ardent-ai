@@ -34,7 +34,7 @@ def test_apply_response_writes_files_and_updates_index(monkeypatch):
     monkeypatch.setattr("internal.response_parser.write_file", fake_write_file)
 
     current_index = fake_load_vault_index()
-    apply_response(output, current_index)
+    apply_response(output, current_index, request_stem="test")
 
     assert written == [("03 NPCs/Foo.md", "---\nname: Foo\ntype: npc\ntags:\n  - example\nlinks:\n  - bar\nstatus: active\n---\nHello [[OtherLink]]")]
     # Index is NOT updated (only reindex updates the index)
