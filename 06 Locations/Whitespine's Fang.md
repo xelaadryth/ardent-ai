@@ -1,4 +1,4 @@
---- 
+---
 type: location
 status: active
 tags:
