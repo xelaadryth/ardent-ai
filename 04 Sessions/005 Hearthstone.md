@@ -1,7 +1,7 @@
 ---
 name: 005 Hearthstone
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#rp"

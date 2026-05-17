@@ -1,7 +1,7 @@
 ---
 name: 008 The Envisagers of Talinan
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#investigation"

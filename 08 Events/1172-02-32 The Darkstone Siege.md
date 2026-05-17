@@ -1,14 +1,13 @@
 ---
 name: The Darkstone Siege
 type: event
-status: planned
+status: active
 tags:
   - "#event"
   - "#revolar"
   - "#combat"
   - "#darkstone_forest"
 last_updated: 2026-05-18T12:00:00
-fc-date: 1172-02-32
 fc-category: Party
 session:
 ---

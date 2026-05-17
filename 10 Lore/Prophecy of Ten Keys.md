@@ -8,8 +8,7 @@ tags:
   - "#urithiru"
 last_updated: 2024-05-19T15:00:00
 ---
-
-## Description
+# Description
 
 A cryptic and epic prophecy delivered to the Mistspren Dreamwaker by another spren named Glys. It outlines the necessity of uniting ten individuals to stave off the Final Desolation.
 

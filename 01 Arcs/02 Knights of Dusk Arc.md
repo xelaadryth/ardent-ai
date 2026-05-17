@@ -35,13 +35,27 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 
 # Events
 - **Part 1: The Investigation:** The players track the Knights of Dusk's sabotage of supply lines and discover Spade's Radiant abilities.
-- [[The Cinder Evacuation]]: A rescue mission at a burning manor that reveals pre-planned arson and the Knights' "terrorist" reputation.
+- [[1172-02-20 The Cinder Evacuation]]: A rescue mission at a burning manor that reveals pre-planned arson and the Knights' "terrorist" reputation.
 - **Part 2: The Confrontation:** The Silent Oath arrives to pass judgment on [[General Spade]] and his lieutenant [[Khria]].
 - **Part 3: The Flight:** The players must choose a side or simply survive as the Stone Forest becomes a battlefield, ultimately forcing them to flee [[Revolar]].
-- [[The Darkstone Siege]]
+- [[1172-02-32 The Darkstone Siege]]
+
+<!-- QueryToSerialize:
+LIST
+FROM "08 Events"
+WHERE status = "active"
+SORT file.name ASC
+-->
+<!-- SerializedQuery: LIST FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
+- [[1172-02-20 The Cinder Evacuation]]
+- [[1172-02-22 The Abandoned Foundry]]
+- [[1172-02-32 The Darkstone Siege]]
+
+
+<!-- SerializedQuery END -->
 
 # Hooks
-- **[[The Stackhouse Slavers]]:** An attempt to collect a "labor-tithe" resulted in a clash with rogue Truthkeepers in the Stackhouses.
+- **[[1172-02-16 The Stackhouse Slavers]]:** An attempt to collect a "labor-tithe" resulted in a clash with rogue Truthkeepers in the Stackhouses.
 - **N'tal's Vendetta:** Uncover the truth behind the ambush that killed the player's family.
 - **The Devotary Call:** [[Ardent Kaelis]] prompts [[Iiko]] to join the [[Devotary of Sincerity]] during their investigation of the city.
 - **The Highlord's Greed:** [[Highlord Paladar]] uses the "Possessed" narrative to cover his territorial expansion.
@@ -49,7 +63,18 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - **The Scarstone Sprint:** A high-stakes chase through the dense, debris-filled streets of the [[Scarstone Quarter]] to intercept intelligence before it is handed off.
 - **Confrontation at the Foundry:** The party discovers a covert operation involving the weaponization of fabrials, confirming the [[Bloodmarks]]' intent to dominate the local gem trade.
 
+<!-- QueryToSerialize:
+LIST
+FROM "07 Hooks"
+WHERE status = "active"
+SORT file.name ASC
+-->
+<!-- SerializedQuery: LIST FROM "07 Hooks" WHERE status = "active" SORT file.name ASC -->
+- [[Sila's Allegiance]]
+- [[Spy of Dusk]]
 
+
+<!-- SerializedQuery END -->
 # Sessions
 <!-- QueryToSerialize:
 LIST

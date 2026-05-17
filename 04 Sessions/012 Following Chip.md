@@ -1,7 +1,7 @@
 ---
 name: 012 Following Chip
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#investigation"
@@ -17,4 +17,4 @@ The squad stalks [[Chip]] and [[Karani]] through [[Revolar]] to uncover their tr
 - **The Tail:** The party tracks [[Chip]] and [[Karani]] to the [[Stackhouses]] in the [[Scarstone Quarter]].
 - **Eavesdropping:** The party overhears the duo reporting on [[High Enforcer Aylen]]’s Shardblade and mentioning the [[Silent Oath]]. The spies express concern over the [[Knights of Dusk]] and dismiss [[Doug (Guddy)]] as a "dead traitor."
 - **Supernatural Glitches:** During the tail, the party attempts to move unseen. [[Iiko]] experiences a manifestation of Light, and the squad witnesses their spren speaking the words: "Strength Before Weakness."
-- **[[The Stackhouse Slavers]]:** The squad interrupts a [[Bloodmarks]] debt collection squad abducting children from a family (led by [[Falen]]). After a skirmish in the muddy alleys using [[Kuma]]'s fabrials, the family is saved and mistakes the party for [[Knights of Dusk]], pointing them toward a secret hideout marked by red laundry.
+- **[[1172-02-16 The Stackhouse Slavers]]:** The squad interrupts a [[Bloodmarks]] debt collection squad abducting children from a family (led by [[Falen]]). After a skirmish in the muddy alleys using [[Kuma]]'s fabrials, the family is saved and mistakes the party for [[Knights of Dusk]], pointing them toward a secret hideout marked by red laundry.

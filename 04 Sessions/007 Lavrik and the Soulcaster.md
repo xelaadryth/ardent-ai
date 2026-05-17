@@ -1,7 +1,7 @@
 ---
 name: 007 Lavrik and the Soulcaster
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#combat"

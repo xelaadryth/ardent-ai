@@ -1,7 +1,7 @@
 ---
 name: 000 Arrival
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#loid"

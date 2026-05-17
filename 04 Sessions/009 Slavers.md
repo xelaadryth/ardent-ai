@@ -1,7 +1,7 @@
 ---
 name: 009 Slavers
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#rp"

@@ -1,7 +1,7 @@
 ---
 name: 004 The Sathir Estate
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#rp"

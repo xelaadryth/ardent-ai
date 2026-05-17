@@ -1,11 +1,10 @@
 ---
 name: The Arrival
 type: event
-status: active
+status: completed
 tags:
   - "#event"
 last_updated: 2026-05-16T18:18:32
-fc-date: 1172-01-11
 fc-category: Party
 session: "[[000 Arrival]]"
 ---

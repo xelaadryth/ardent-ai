@@ -14,7 +14,7 @@ A clandestine rebel organization based in the urban shadows of [[Revolar]], led 
 - **Leadership Transition:** Successfully install General Spade as the new authority.
 - **Refound the Knights Radiant:** Establish a modern foundation for the ancient order.
 - **Infrastructure Seizure:** Execute a major offensive to take control of key city assets.
-- **Economic Sabotage:** Target corrupt nobles' estates, such as seen in [[The Cinder Evacuation]], to drain resources and damage their public image.
+- **Economic Sabotage:** Target corrupt nobles' estates, such as seen in [[1172-02-20 The Cinder Evacuation]], to drain resources and damage their public image.
 
 # Structure
 

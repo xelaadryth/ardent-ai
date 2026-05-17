@@ -1,7 +1,7 @@
 ---
 name: 006 Dillind and the Temple
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#combat"

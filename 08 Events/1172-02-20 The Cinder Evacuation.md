@@ -1,7 +1,7 @@
 ---
 name: The Cinder Evacuation
 type: event
-status: planned
+status: active
 tags:
   - "#event"
   - "#revolar"
@@ -9,7 +9,6 @@ tags:
   - "#combat"
   - "#fire"
 last_updated: 2026-05-18T12:00:00
-fc-date: 1172-02-20
 fc-category: Party
 session: "[[013 Shadow War in the Driftwards]]"
 ---

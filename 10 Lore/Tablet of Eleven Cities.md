@@ -10,7 +10,6 @@ tags:
   - "#urithiru"
 last_updated: 2024-05-19T15:00:00
 ---
-
 # Description
 An ancient, weather-worn stone wall carving found within a forgotten temple dedicated to the Radiant orders.
 

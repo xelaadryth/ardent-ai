@@ -1,7 +1,7 @@
 ---
 name: 011 Promotions and Revolar
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#promotion"
@@ -10,7 +10,7 @@ last_updated: 2024-05-18T00:00:00
 arc: "[[01 Truthkeepers Arc]]"
 ---
 # Description
-The squad is promoted to Enforcer rank by [[Adjudicator Peton]] and introduced to [[High Enforcer Aylen]]. After witnessing [[Morrow' Execution]] by [[High Enforcer Aylen]]—who wielded a Shardblade and exhibited glowing eyes—the party learns that the [[Truthkeepers]] believe the [[Possessed]] (who suffer from visions of [[Cryptics]]) are a terminal, contagious threat. The squad discovers [[Chip]] and [[Karani]] are operating as independent spies for a faction connected to the [[Ghostbloods]] and [[Bloodmarks]]. Despite their misgivings about the Truthkeepers' methods, the squad agrees to accompany them to [[Revolar]] to investigate the [[Knights of Dusk]].
+The squad is promoted to Enforcer rank by [[Adjudicator Peton]] and introduced to [[High Enforcer Aylen]]. After witnessing [[1172-01-35 Morrow's Execution]] by [[High Enforcer Aylen]]—who wielded a Shardblade and exhibited glowing eyes—the party learns that the [[Truthkeepers]] believe the [[Possessed]] (who suffer from visions of [[Cryptics]]) are a terminal, contagious threat. The squad discovers [[Chip]] and [[Karani]] are operating as independent spies for a faction connected to the [[Ghostbloods]] and [[Bloodmarks]]. Despite their misgivings about the Truthkeepers' methods, the squad agrees to accompany them to [[Revolar]] to investigate the [[Knights of Dusk]].
 
 # Events
 - **Promotion:** [[Adjudicator Peton]] commends the squad for their service, raising them to Enforcer rank and providing a bonus of 300 clearmarks.

@@ -1,7 +1,7 @@
 ---
 name: 003 Yenev and the Axe
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#combat"

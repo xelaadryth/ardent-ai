@@ -1,23 +1,24 @@
 <!-- QueryToSerialize:
 TABLE
-fc-date AS "Date (%30)",
+fc-category AS "Type",
 status AS "Status"
 FROM "08 Events"
-SORT fc-date DESC
+SORT file.name DESC
 -->
-<!-- SerializedQuery: TABLE fc-date AS "Date (%30)", status AS "Status" FROM "08 Events" SORT fc-date DESC -->
+<!-- SerializedQuery: TABLE fc-category AS "Type", status AS "Status" FROM "08 Events" SORT file.name DESC -->
 
-| File                                                                    | Date (%30)  | Status  |
-| ----------------------------------------------------------------------- | ----------- | ------- |
-| [[Aharietem]]                                   | -3300.01.01 | active  |
-| [[The Darkstone Siege]]               | 1172.3.3    | planned |
-| [[The Abandoned Foundry]]           | 1172.2.22   | planned |
-| [[The Cinder Evacuation]]           | 1172.2.20   | planned |
-| [[The Stackhouse Slavers]]         | 1172.2.16   | active  |
-| [[Morrow' Execution]]                   | 1172.2.4    | active  |
-| [[The Shellmite Attack]]             | 1172.1.12   | active  |
-| [[The Arrival]]                               | 1172.1.11   | active  |
-| [[The Experimental Steamship]] | \-          | planned |
+| File                                                                                  | Type       | Status    |
+| ------------------------------------------------------------------------------------- | ---------- | --------- |
+| [[The Experimental Steamship]]               | Party      | planned   |
+| [[1172-02-32 The Darkstone Siege]]       | Party      | active    |
+| [[1172-02-22 The Abandoned Foundry]]   | Party      | active    |
+| [[1172-02-20 The Cinder Evacuation]]   | Party      | active    |
+| [[1172-02-16 The Stackhouse Slavers]] | Party      | completed |
+| [[1172-01-35 Morrow's Execution]]         | Party      | completed |
+| [[1172-01-12 The Shellmite Attack]]     | Party      | completed |
+| [[1172-01-11 The Arrival]]                       | Party      | completed |
+| [[-3300-01-01 Aharietem]]                         | Historical | completed |
+| [[-230-01-01 Day of Recreance]]             | Historical | completed |
 
 
 <!-- SerializedQuery END -->

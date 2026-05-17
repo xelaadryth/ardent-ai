@@ -1,5 +1,5 @@
 {
-  "autoParse": false,
+  "autoParse": true,
   "calendars": [
     {
       "name": "Roshar",
@@ -526,22 +526,18 @@
           "id": "ID_db7b99e9dafa",
           "color": "#445e79",
           "name": "Book"
-        },
-        {
-          "id": "ID_d9d8f909bb48",
-          "color": "#1899bc",
-          "name": "\n"
         }
       ],
       "path": [],
       "supportInlineEvents": false,
-      "inlineEventTag": "#inline-events",
-      "dateFormat": "YYYY.MM.DD"
+      "inlineEventTag": null,
+      "dateFormat": "Y-M-D"
     }
   ],
   "configDirectory": null,
   "dailyNotes": false,
-  "dateFormat": "YYYY-MM-DD",
+  "parseTitles": true,
+  "dateFormat": "Y-M-D",
   "defaultCalendar": "ID_9b7b39f808e8",
   "eventPreview": false,
   "exit": {
@@ -551,22 +547,22 @@
     "savingEvent": true
   },
   "eventFrontmatter": false,
-  "parseDates": false,
+  "parseDates": true,
   "version": {
     "major": 2,
     "minor": 1,
     "patch": 0,
     "beta": null
   },
-  "debug": false,
+  "debug": true,
   "askedToMoveFC": false,
   "askedAboutSync": true,
   "syncBehavior": "Always",
   "inlineEventsTag": null,
   "paths": [
     [
-      "/",
-      "DEFAULT"
+      "08 Events",
+      "ID_9b7b39f808e8"
     ]
   ]
 }

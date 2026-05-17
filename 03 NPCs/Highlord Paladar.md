@@ -21,7 +21,7 @@ Tall and bald with striking, bright yellow eyes. He is in his late 40s and carri
 Greedy, corrupt, and remarkably harsh. He hides a ruthless political mind behind grand gestures, focused entirely on the expansion of his influence and the Vamah Princedom.
 
 # Background
-He seized control of Vamah during the absence of other high-ranking nobles. He ousted [[General Spade]] in favor of his friend [[General Odrin Lesh]] and is currently engaged in a bitter feud with House Sathir. His family manor in the Skyglass District was recently targeted by arsonists in [[The Cinder Evacuation]].
+He seized control of Vamah during the absence of other high-ranking nobles. He ousted [[General Spade]] in favor of his friend [[General Odrin Lesh]] and is currently engaged in a bitter feud with House Sathir. His family manor in the Skyglass District was recently targeted by arsonists in [[1172-02-20 The Cinder Evacuation]].
 
 # Goals
 - **Territorial Expansion:** Move the Vamah borders north into Sadeas lands through sabotage and "protection."

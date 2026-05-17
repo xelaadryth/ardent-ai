@@ -4,8 +4,8 @@ type: item
 status: active
 tags:
   - "#item"
-last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
-owner:
+last_updated: 2026-05-17T00:00:00
+owner: "[[Fina]]"
 ---
 # Description
 

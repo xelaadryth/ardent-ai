@@ -1,7 +1,6 @@
 {
   "foldersToScan": [
-    "Dashboards",
-    "06 Locations"
+    "/"
   ],
   "ignoredFolders": [],
   "disableAutomaticUpdates": false,

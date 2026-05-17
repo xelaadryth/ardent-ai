@@ -1,7 +1,7 @@
 ---
 name: The Abandoned Foundry
 type: event
-status: planned
+status: active
 tags:
   - "#event"
   - "#revolar"
@@ -9,7 +9,6 @@ tags:
   - "#moral_trial"
   - "#chase"
 last_updated: 2024-05-18T00:00:00
-fc-date: 1172-02-22
 fc-category: Party
 session:
 ---

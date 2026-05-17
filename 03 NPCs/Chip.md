@@ -31,10 +31,10 @@ His true identity is Archisal Paladar, the third son of Highlord Reladon Paladar
 - Keep his true identity as Archisal Paladar a secret.
 
 # Hooks
-- **The Lost Book:** A childhood book of high sentimental value was nearly lost during the fire at his family's estate in [[The Cinder Evacuation]].
+- **The Lost Book:** A childhood book of high sentimental value was nearly lost during the fire at his family's estate in [[1172-02-20 The Cinder Evacuation]].
 
 # Connections
 - [[Karani]]: Does the writing and poison-making for the Ghostbloods.
 - [[Truthkeepers]]: Organization he is currently infiltrating.
 - [[Highlord Paladar]]: His father.
-- [[The Cinder Evacuation]]: His family's urban manor was the target of the arson.
+- [[1172-02-20 The Cinder Evacuation]]: His family's urban manor was the target of the arson.

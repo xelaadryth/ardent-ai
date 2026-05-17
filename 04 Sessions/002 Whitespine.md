@@ -1,7 +1,7 @@
 ---
 name: 002 Whitespine
 type: session
-status: active
+status: completed
 tags:
   - "#session"
   - "#combat"

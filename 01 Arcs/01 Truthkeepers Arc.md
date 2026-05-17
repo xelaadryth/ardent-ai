@@ -1,7 +1,7 @@
 ---
 name: 01 Truthkeepers Arc
 type: arc
-status: inactive
+status: completed
 tags:
   - "#arc"
 last_updated: 2026-05-16T12:00:00
@@ -25,10 +25,10 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 	- [[Morrow]]
 
 # Events
-- [[The Shellmite Attack]]
+- [[1172-01-12 The Shellmite Attack]]
 
 # Hooks
-- [[Sila's Allegiance]]
+- 
 
 # Sessions
 <!-- QueryToSerialize:

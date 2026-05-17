@@ -34,7 +34,7 @@ A major urban center and the intended destination for the squad's transfer. It s
   - [[Sun's Zenith]] (Nomos works the shift during the Hateful Hour).
   - [[Gemheart Inn]] (Lodging for [[Chip]] and [[Renna Palir]]).
   - Stone Anvil, Stormglass Inn.
-- **Skyglass District**: West lighteyed manors, literally elevated above the rest of the city. Site of the arson in [[The Cinder Evacuation]].
+- **Skyglass District**: West lighteyed manors, literally elevated above the rest of the city. Site of the arson in [[1172-02-20 The Cinder Evacuation]].
 - **Stoneweave**: Towards the south, skilled artisans, crem/stoneworkers, artifabrians.
   - The Forgebelt (Blacksmiths, armorers), The Prismwalk (Jewelers and gemcutters).
 - **Brightway**: Southwest high-class stores.
