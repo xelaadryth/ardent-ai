@@ -3,7 +3,7 @@
     {
       "id": "map-revolar",
       "locked": false,
-      "lastAccessed": 1779036574156,
+      "lastAccessed": 1779037145009,
       "markers": [
         {
           "id": "ID_c90bc95a592b",
@@ -41,6 +41,113 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_4929db6b19fb",
+          "type": "Building",
+          "loc": [
+            -493.2265625,
+            1442.5
+          ],
+          "link": "Cream of the Crem",
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca5ae9f83beb",
+          "type": "Building",
+          "loc": [
+            -570.2265625,
+            1541
+          ],
+          "link": "The Vamah Archivum",
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_587a9b381a8b",
+          "type": "Building",
+          "loc": [
+            -452.2265625,
+            1802
+          ],
+          "link": "Whitespine's Fang",
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb8beb684aea",
+          "type": "Building",
+          "loc": [
+            -1106.7265625,
+            1739
+          ],
+          "link": "Sun's Zenith",
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bf99988aaea",
+          "type": "Event",
+          "loc": [
+            -620,
+            2046
+          ],
+          "link": "1172-02-16 The Stackhouse Slavers",
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6937945066124109,
+            0.2715724923346474
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9ab4ba9aad8",
+          "type": "Building",
+          "loc": [
+            -1152,
+            642.5
+          ],
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21787046456425907,
+            0.5045992115637319
+          ],
+          "description": "Devotary of Sincerity",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -52,7 +159,7 @@
     {
       "id": "map-roshar",
       "locked": false,
-      "lastAccessed": 1779036574156,
+      "lastAccessed": 1779037145009,
       "markers": [
         {
           "id": "ID_59bab8184a1a",
@@ -219,6 +326,38 @@
       "iconName": "unlock-alt",
       "color": "#515758",
       "alpha": 0.87,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Building",
+      "iconName": "warehouse",
+      "color": "#1a21e0",
+      "alpha": 0.72,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Event",
+      "iconName": "exclamation-triangle",
+      "color": "#d7bf1d",
+      "alpha": 0.55,
       "layer": true,
       "transform": {
         "size": 6,
