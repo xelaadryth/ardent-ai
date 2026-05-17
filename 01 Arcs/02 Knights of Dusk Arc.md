@@ -5,7 +5,7 @@ tags:
   - "#arc"
   - "#revolar"
   - "#rebellion"
-last_updated: 2026-05-20T12:00:00
+last_updated: 2026-05-20T15:00:00
 number: 2
 ---
 # Description
@@ -33,10 +33,11 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 	- [[Ardent Kaelis]]: An eccentric scholar who takes an interest in [[Iiko]].
 
 # Events
-<!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
 - [[1172-02-16 The Stackhouse Slavers]]
-
+- [[1172-02-17 Meeting at the Whitespine]]
+- [[1172-02-17 Meeting with the Undertaker]]
+- [[1172-02-22 The Foundry Chase]]
 
 <!-- SerializedQuery END -->
 # Sessions

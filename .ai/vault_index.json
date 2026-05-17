@@ -1445,7 +1445,7 @@
         "[[Revolar|Driftwards]]",
         "[[Bloodmarks]]",
         "[[Scarstone Quarter]]",
-        "[[Meeting at the Whitespine]]",
+        "[[1172-02-17 Meeting at the Whitespine]]",
         "[[N'tal]]",
         "[[Chip]]",
         "[[Whitespine's Fang]]",
@@ -1457,7 +1457,7 @@
         "#investigation",
         "#stealth"
       ],
-      "last_updated": "2026-05-15T15:00:00"
+      "last_updated": "2026-05-20T14:00:00"
     },
     "Bloodmarks": {
       "type": "faction",
@@ -2147,6 +2147,34 @@
         "#bloodmarks"
       ],
       "last_updated": "2026-05-16T12:00:00"
+    },
+    "1172-02-17 Meeting at the Whitespine": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[013 Shadow War in the Driftwards]]",
+        "[[Whitespine's Fang]]",
+        "[[N'tal]]",
+        "[[Undertaker]]",
+        "[[Chip]]",
+        "[[Sweeper]]",
+        "[[Ghostbloods]]",
+        "[[Scarstone Quarter]]",
+        "[[1172-02-16 The Stackhouse Slavers]]",
+        "[[Bruckslats]]",
+        "[[Bloodmarks]]",
+        "[[Nurian Gems]]",
+        "[[Driftwards]]",
+        "[[Truthkeepers]]",
+        "[[Senny]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#ghostbloods",
+        "#investigation"
+      ],
+      "last_updated": "2026-05-20T14:00:00"
     },
     "1172-02-20 The Cinder Evacuation": {
       "type": "event",

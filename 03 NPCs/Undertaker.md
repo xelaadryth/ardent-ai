@@ -6,7 +6,7 @@ tags:
   - "#thaylen"
   - "#ghostbloods"
   - "#worldhopper"
-last_updated: 2026-05-15T15:00:00
+last_updated: 2026-05-20T15:00:00
 faction: "[[Ghostbloods]]"
 location: "[[Revolar]]"
 ---
@@ -17,7 +17,7 @@ Undertaker is a man of indeterminate age with a weathered, yet sophisticated fac
 Calculating, patient, and intensely pragmatic. He speaks with a soft, melodic voice with almost no hint of Thaylen accent that carries an underlying threat. He views the world as a grand game of logistics and influence. He is not a zealot; he cares nothing for the Truthkeepers' ideology, but he admires their efficiency in maintaining "order." He is a collector of curiosities and information, valuing anything that grants leverage.
 
 # Background
-Operating out of the shadows of [[Revolar]], Undertaker rarely walks the streets without a fresh disguise. Sometimes a weathered soldier, sometimes a merchant, in reality, he is a high-ranking member of the [[Ghostbloods]], overseeing their operations in the region. He reports to Iyatil, who pretends to be his apprentice. He is extremely cautious, requiring guests to be invited to meet him in the [[Bruckslats]] rather than meeting in public houses.
+Operating out of the shadows of [[Revolar]], Undertaker rarely walks the streets without a fresh disguise. Sometimes a weathered soldier, sometimes a merchant, in reality, he is a high-ranking member of the [[Ghostbloods]], overseeing their operations in the region. He reports to Iyatil, who pretends to be his apprentice. He recently brokered a meeting with the squad in the [[Bruckslats]], revealing the dark history behind [[N'tal]]'s family gem mine and [[Fina]]'s accidental involvement.
 
 # Goals
 - **Regional Stability:** Keep the peace at all costs so that trade and research into fabrials and worldhopping can continue unhindered.
@@ -30,3 +30,5 @@ Undertaker is actually **Mraize**, a worldhopper of significant power and influe
 # Connections
 - [[Chip]]: His direct field agent around Revolar.
 - [[Iyatil]]: His supposed "apprentice" who actually uses him to gather information and manipulate events from the shadows.
+- [[N'tal]]: A potential asset whose family tragedy he helped illuminate during the meeting in [[1172-02-17 Meeting with the Undertaker]].
+- [[Fina]]: A former proxy whose past negligence he has weaponized to test the squad's loyalty.
