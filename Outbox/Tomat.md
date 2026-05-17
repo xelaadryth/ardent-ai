@@ -1,0 +1,1 @@
+Generate me a Location document for Tomat. Add in any canon details you know about it from the books, and make sure to update related documents if necessary. Come up with an idea or two to make things interesting there as well.
