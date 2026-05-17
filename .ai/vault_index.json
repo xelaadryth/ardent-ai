@@ -115,7 +115,9 @@
         "[[Citylord Nilar Yenev]]",
         "[[Dillind]]",
         "[[Morrow]]",
+        "[[1172-01-11 The Arrival]]",
         "[[1172-01-12 The Shellmite Attack]]",
+        "[[1172-01-35 Morrow's Execution]]",
         "[[000 Arrival]]",
         "[[001 First Blood]]",
         "[[002 Whitespine]]",
@@ -157,16 +159,7 @@
         "[[Arbiter Jalis]]",
         "[[Ardent Kaelis]]",
         "[[Iiko]]",
-        "[[1172-02-20 The Cinder Evacuation]]",
-        "[[1172-02-22 The Foundry Chase]]",
-        "[[1172-02-32 The Darkstone Siege]]",
-        "[[N'tal's Vendetta]]",
-        "[[New Technology]]",
-        "[[Sila's Allegiance]]",
-        "[[Spy of Dusk]]",
-        "[[The Devotary Call]]",
-        "[[The Highlord's Greed]]",
-        "[[Tracking the Knights of Dusk]]",
+        "[[1172-02-16 The Stackhouse Slavers]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
       ],
@@ -404,7 +397,8 @@
         "[[Revolar]]",
         "[[Iiko]]",
         "[[The Devotary Call]]",
-        "[[Tablet of Eleven Cities]]"
+        "[[Tablet of Eleven Cities]]",
+        "[[Ardent Vedelis]]"
       ],
       "tags": [
         "#npc",
@@ -412,7 +406,7 @@
         "#scholar",
         "#alethi"
       ],
-      "last_updated": "2026-05-20T12:00:00"
+      "last_updated": "2026-05-20T13:00:00"
     },
     "Ardent Vedelis": {
       "type": "npc",
@@ -432,9 +426,10 @@
         "#ardent",
         "#scholar",
         "#veristitalian",
-        "#alethi"
+        "#alethi",
+        "#soulcaster"
       ],
-      "last_updated": "2026-05-14T18:00:00"
+      "last_updated": "2026-05-20T13:00:00"
     },
     "Ashusa": {
       "type": "npc",
@@ -816,14 +811,14 @@
       "status": "inactive",
       "links": [
         "[[Knights of Dusk]]",
-        "[[Vedelis]]"
+        "[[Ardent Vedelis]]"
       ],
       "tags": [
         "#npc",
         "#sergeant",
         "#rebel"
       ],
-      "last_updated": "2026-05-14T00:00:00"
+      "last_updated": "2026-05-20T13:00:00"
     },
     "Lila": {
       "type": "npc",
@@ -1309,7 +1304,7 @@
         "#combat",
         "#investigation"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2026-05-20T13:00:00"
     },
     "008 The Envisagers of Talinan": {
       "type": "session",
@@ -1647,6 +1642,7 @@
         "[[Highlord Paladar]]",
         "[[Devotary of Sincerity]]",
         "[[Truthkeepers]]",
+        "[[Ardent Vedelis]]",
         "[[Jasnah Kholin]]"
       ],
       "tags": [
@@ -1654,7 +1650,7 @@
         "#scholar",
         "#devotary"
       ],
-      "last_updated": "2026-05-14T18:00:00"
+      "last_updated": "2026-05-20T13:00:00"
     },
     "Bitter Leaf Apothecary": {
       "type": "location",
@@ -1937,12 +1933,12 @@
       "type": "hook",
       "status": "active",
       "links": [
-        "[[N'tal]]",
-        "[[Bloodmarks]]",
-        "[[Arbiter Jalis]]",
-        "[[Grand Justicar Malice]]",
         "[[Driftwards]]",
-        "[[Nurian Gems]]"
+        "[[N'tal]]",
+        "[[Arbiter Jalis]]",
+        "[[Nurian Gems]]",
+        "[[Bloodmarks]]",
+        "[[Grand Justicar Malice]]"
       ],
       "tags": [
         "#hook",
@@ -1958,13 +1954,13 @@
       "links": [
         "[[Vorn]]",
         "[[Kuma]]",
-        "[[The Experimental Steamship]]",
-        "[[Bodenar]]",
-        "[[Nurian Gems]]",
         "[[Stoneweave]]",
         "[[Revolar]]",
         "[[Viscose]]",
-        "[[Nurian Gems|Nurian Gem]]"
+        "[[Nurian Gems|Nurian Gem]]",
+        "[[The Experimental Steamship]]",
+        "[[Bodenar]]",
+        "[[Nurian Gems]]"
       ],
       "tags": [
         "#hook",
@@ -2031,14 +2027,14 @@
       "type": "hook",
       "status": "active",
       "links": [
-        "[[Highlord Paladar]]",
-        "[[Bloodmarks]]",
-        "[[Revolar]]",
         "[[The Vamah Archivum]]",
         "[[Sun's Zenith]]",
         "[[Nomos]]",
         "[[The Bastion]]",
-        "[[General Odrin Lesh]]"
+        "[[General Odrin Lesh]]",
+        "[[Bloodmarks]]",
+        "[[Highlord Paladar]]",
+        "[[Revolar]]"
       ],
       "tags": [
         "#hook",
@@ -2156,7 +2152,6 @@
       "type": "event",
       "status": "active",
       "links": [
-        "[[013 Shadow War in the Driftwards]]",
         "[[Skyglass District]]",
         "[[Revolar]]",
         "[[Highlord Paladar]]",
