@@ -1,9 +1,19 @@
 {
   "files": {
+    "<% tp.file.title %>": {
+      "name": "<% tp.file.title %>",
+      "type": "spren",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#spren"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
     "01 Truthkeepers Arc": {
       "name": "01 Truthkeepers Arc",
       "type": "arc",
-      "status": "inactive",
+      "status": "completed",
       "links": [
         "[[Adjudicator Peton]]",
         "[[Truthkeepers]]",
@@ -17,8 +27,7 @@
         "[[Citylord Nilar Yenev]]",
         "[[Dillind]]",
         "[[Morrow]]",
-        "[[The Shellmite Attack]]",
-        "[[Sila's Allegiance]]",
+        "[[1172-01-12 The Shellmite Attack]]",
         "[[000 Arrival]]",
         "[[001 First Blood]]",
         "[[002 Whitespine]]",
@@ -61,8 +70,14 @@
         "[[Arbiter Jalis]]",
         "[[Ardent Kaelis]]",
         "[[Iiko]]",
-        "[[The Cinder Evacuation]]",
-        "[[The Darkstone Siege]]",
+        "[[1172-02-20 The Cinder Evacuation]]",
+        "[[1172-02-32 The Darkstone Siege]]",
+        "[[1172-02-22 The Abandoned Foundry]]",
+        "[[1172-02-16 The Stackhouse Slavers]]",
+        "[[Devotary of Sincerity]]",
+        "[[Scarstone Quarter]]",
+        "[[Sila's Allegiance]]",
+        "[[Spy of Dusk]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
       ],
@@ -85,9 +100,7 @@
         "[[Dillind]]",
         "[[Ghostbloods]]",
         "[[Helaran]]",
-        "[[Silent Oath]]",
-        "[[01 Truthkeepers Arc]]",
-        "[[02 Knights of Dusk Arc]]"
+        "[[Silent Oath]]"
       ],
       "tags": [
         "#arc",
@@ -146,8 +159,7 @@
       "type": "player",
       "status": "active",
       "links": [
-        "[[Verdae]]",
-        "[[Bitter Leaf Apothecary]]"
+        "[[Verdae]]"
       ],
       "tags": [
         "#player",
@@ -163,10 +175,10 @@
       "type": "player",
       "status": "active",
       "links": [
+        "[[Kun'ahu]]",
         "[[Szeth-son-son-Vallano]]",
         "[[The Axelsmith]]",
-        "[[Kun'ahu]]",
-        "[[Truthkeepers]]"
+        "[[Neturo]]"
       ],
       "tags": [
         "#player",
@@ -183,11 +195,9 @@
       "type": "player",
       "status": "active",
       "links": [
-        "[[Revolar]]",
-        "[[Ardent Kaelis]]",
         "[[Dreamwaker]]",
-        "[[02 Knights of Dusk Arc]]",
-        "[[Tablet of Eleven Cities]]"
+        "[[Revolar]]",
+        "[[Ardent Kaelis]]"
       ],
       "tags": [
         "#player",
@@ -204,23 +214,27 @@
       "links": [
         "[[Viscose]]",
         "[[Revolar]]",
+        "[[Nurian Gems]]",
+        "[[The Experimental Steamship]]",
+        "[[04 Nurian Gems Arc]]",
         "[[Ilsh]]",
         "[[Vorn]]"
       ],
       "tags": [
+        "#player",
         "#elsecaller",
         "#nurian",
         "#maker"
       ],
-      "last_updated": "2026-05-13T23:45:00"
+      "last_updated": "2026-05-17T12:00:00"
     },
     "Mallow": {
       "name": "Mallow",
       "type": "player",
       "status": "active",
       "links": [
-        "[[Khria]]",
-        "[[Cadence]]"
+        "[[Cadence]]",
+        "[[Khria]]"
       ],
       "tags": [
         "#player",
@@ -238,8 +252,7 @@
         "[[Pyre]]",
         "[[Grand Justicar Malice]]",
         "[[Arbiter Jalis]]",
-        "[[The Foundry Gambit]]",
-        "[[04 Nurian Gems Arc]]"
+        "[[1172-02-22 The Abandoned Foundry]]"
       ],
       "tags": [
         "#player",
@@ -255,9 +268,7 @@
       "status": "active",
       "links": [
         "[[Truthkeepers]]",
-        "[[011 Promotions and Revolar]]",
-        "[[001 First Blood]]",
-        "[[Sila's Allegiance]]"
+        "[[Revolar]]"
       ],
       "tags": [
         "#npc",
@@ -273,11 +284,12 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Sadeas]]",
+        "[[Tomat]]",
         "[[Sons of Honor]]",
         "[[Hearthstone]]",
         "[[House Sathir|Sathir Estate]]",
-        "[[Helaran]]",
-        "[[03 Stormblessed Arc]]"
+        "[[Helaran]]"
       ],
       "tags": [
         "#npc",
@@ -293,11 +305,9 @@
       "status": "active",
       "links": [
         "[[Bloodmarks]]",
-        "[[Grand Justicar Malice]]",
-        "[[N'tal]]",
         "[[Revolar]]",
-        "[[The Foundry Gambit]]",
-        "[[Jory]]"
+        "[[Grand Justicar Malice]]",
+        "[[N'tal]]"
       ],
       "tags": [
         "#npc",
@@ -314,7 +324,7 @@
       "links": [
         "[[Revolar]]",
         "[[Iiko]]",
-        "[[02 Knights of Dusk Arc]]"
+        "[[Tablet of Eleven Cities]]"
       ],
       "tags": [
         "#npc",
@@ -329,12 +339,12 @@
       "type": "npc",
       "status": "inactive",
       "links": [
+        "[[Knights of Dusk]]",
         "[[Lavrik]]",
         "[[Devotary of Sincerity]]",
         "[[Veristitalians]]",
         "[[Highlord Paladar]]",
         "[[Vamah Archivum]]",
-        "[[Knights of Dusk]]",
         "[[General Spade]]",
         "[[Ardent Kaelis]]"
       ],
@@ -352,6 +362,8 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Vamah]]",
+        "[[Alethkar]]",
         "[[Citylord Nilar Yenev]]",
         "[[Stringken]]"
       ],
@@ -366,10 +378,11 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Truthkeepers]]",
         "[[Ghostbloods]]",
-        "[[The Cinder Evacuation]]",
-        "[[Renna Palir]]",
+        "[[Alethkar]]",
+        "[[Truthkeepers]]",
+        "[[1172-02-20 The Cinder Evacuation]]",
+        "[[Karani]]",
         "[[Highlord Paladar]]"
       ],
       "tags": [
@@ -387,6 +400,8 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Vamah]]",
+        "[[Alethkar]]",
         "[[Stringken]]",
         "[[House Sathir]]",
         "[[Highlady Marise Sathir]]",
@@ -410,12 +425,12 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[House Sathir]]",
+        "[[Sadeas]]",
         "[[Revolar]]",
+        "[[House Sathir]]",
         "[[Highlady Marise Sathir]]",
         "[[Highlord Kethren Sathir]]",
-        "[[Knights of Dusk]]",
-        "[[003 Yenev and the Axe]]"
+        "[[Knights of Dusk]]"
       ],
       "tags": [
         "#npc",
@@ -432,8 +447,9 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Tien]]",
-        "[[006 Dillind and the Temple]]"
+        "[[Sadeas]]",
+        "[[Tomat]]",
+        "[[Tien]]"
       ],
       "tags": [
         "#npc",
@@ -446,11 +462,11 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Knights of Dusk]]",
+        "[[Vamah]]",
         "[[Revolar]]",
+        "[[Knights of Dusk]]",
         "[[Highlord Paladar]]",
-        "[[General Spade]]",
-        "[[02 Knights of Dusk Arc]]"
+        "[[General Spade]]"
       ],
       "tags": [
         "#npc",
@@ -466,15 +482,14 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Knights of Dusk]]",
+        "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[Highlord Paladar]]",
         "[[General Odrin Lesh]]",
-        "[[Revolar]]",
         "[[Silent Oath]]",
         "[[High Enforcer Aylen]]",
-        "[[Knights of Dusk]]",
-        "[[02 Knights of Dusk Arc]]",
-        "[[The Darkstone Siege]]"
+        "[[Lavrik]]"
       ],
       "tags": [
         "#npc",
@@ -494,7 +509,7 @@
         "[[Bodenar]]",
         "[[Ghostbloods]]",
         "[[N'tal]]",
-        "[[04 Nurian Gems Arc]]"
+        "[[Arbiter Jalis]]"
       ],
       "tags": [
         "#npc",
@@ -510,9 +525,9 @@
       "status": "active",
       "links": [
         "[[Ghostbloods]]",
+        "[[Tomat]]",
         "[[Amaram]]",
-        "[[Shallan Davar]]",
-        "[[03 Stormblessed Arc]]"
+        "[[Shallan Davar]]"
       ],
       "tags": [
         "#npc",
@@ -527,15 +542,14 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Possessed]]",
         "[[Truthkeepers]]",
+        "[[Revolar]]",
+        "[[Possessed]]",
         "[[Knights of Dusk]]",
         "[[General Spade]]",
         "[[Khria]]",
-        "[[Orders of the Knights Radiant]]",
-        "[[Silent Oath]]",
+        "[[High Witness Yeshan]]",
         "[[Istrum]]",
-        "[[02 Knights of Dusk Arc]]",
         "[[Morrow]]"
       ],
       "tags": [
@@ -552,9 +566,10 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Possessed]]",
         "[[Truthkeepers]]",
-        "[[Orders of the Knights Radiant]]"
+        "[[Tukkar]]",
+        "[[Possessed]]",
+        "[[High Enforcer Aylen]]"
       ],
       "tags": [
         "#npc",
@@ -568,7 +583,8 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Citylord Nilar Yenev]]",
+        "[[Sadeas]]",
+        "[[House Sathir]]",
         "[[Dalen]]"
       ],
       "tags": [
@@ -585,13 +601,14 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Vamah]]",
+        "[[Revolar]]",
         "[[General Spade]]",
         "[[General Odrin Lesh]]",
-        "[[The Cinder Evacuation]]",
+        "[[1172-02-20 The Cinder Evacuation]]",
         "[[Knights of Dusk]]",
         "[[Truthkeepers]]",
-        "[[Chip]]",
-        "[[02 Knights of Dusk Arc]]"
+        "[[Chip]]"
       ],
       "tags": [
         "#npc",
@@ -607,7 +624,8 @@
       "status": "active",
       "links": [
         "[[Bodenar]]",
-        "[[Kuma]]"
+        "[[Kuma]]",
+        "[[Vorn]]"
       ],
       "tags": [
         "#npc",
@@ -617,29 +635,15 @@
       ],
       "last_updated": "2026-05-16T17:00:00"
     },
-    "Istrim": {
-      "name": "Istrim",
-      "type": "npc",
-      "status": "active",
-      "links": [
-        "[[High Enforcer Aylen]]"
-      ],
-      "tags": [
-        "#npc",
-        "#truthkeeper"
-      ],
-      "last_updated": "2026-05-14T15:00:00"
-    },
     "Istrum": {
       "name": "Istrum",
       "type": "npc",
       "status": "active",
       "links": [
-        "[[High Enforcer Aylen]]",
+        "[[Silent Oath]]",
         "[[Revolar]]",
-        "[[Knights of Dusk]]",
-        "[[02 Knights of Dusk Arc]]",
-        "[[The Darkstone Siege]]"
+        "[[High Enforcer Aylen]]",
+        "[[Knights of Dusk]]"
       ],
       "tags": [
         "#npc",
@@ -654,10 +658,10 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Shallan Davar]]",
+        "[[Veristitalians]]",
         "[[Kharbranth]]",
-        "[[Kabsal]]",
-        "[[Ghostbloods]]"
+        "[[Shallan Davar]]",
+        "[[Kabsal]]"
       ],
       "tags": [
         "#npc",
@@ -674,11 +678,11 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Bloodmarks]]",
+        "[[Revolar]]",
         "[[Knights of Dusk]]",
+        "[[Bloodmarks]]",
         "[[Stackhouses]]",
-        "[[Arbiter Jalis]]",
-        "[[The Foundry Gambit]]"
+        "[[Arbiter Jalis]]"
       ],
       "tags": [
         "#npc",
@@ -694,10 +698,10 @@
       "status": "active",
       "links": [
         "[[Ghostbloods]]",
+        "[[Bodenar]]",
         "[[Jasnah Kholin]]",
         "[[Kharbranth]]",
-        "[[Shallan Davar]]",
-        "[[05 Kharbranth Infiltration Arc]]"
+        "[[Shallan Davar]]"
       ],
       "tags": [
         "#npc",
@@ -711,10 +715,12 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Ghostbloods]]",
+        "[[Revolar]]",
         "[[Sila]]",
         "[[Chip]]",
         "[[Tahs]]",
-        "[[Ghostbloods]]"
+        "[[Fina]]"
       ],
       "tags": [
         "#npc",
@@ -730,11 +736,11 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Knights of Dusk]]",
         "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[General Spade]]",
-        "[[Mallow]]",
-        "[[The Darkstone Siege]]"
+        "[[Mallow]]"
       ],
       "tags": [
         "#npc",
@@ -750,7 +756,8 @@
       "type": "npc",
       "status": "inactive",
       "links": [
-        "[[Knights of Dusk]]"
+        "[[Knights of Dusk]]",
+        "[[Vedelis]]"
       ],
       "tags": [
         "#npc",
@@ -764,8 +771,9 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Slipmarket]]",
         "[[Knights of Dusk]]",
+        "[[Revolar]]",
+        "[[Slipmarket]]",
         "[[Fieldwards]]",
         "[[Stackhouse Slavers]]",
         "[[Khria]]",
@@ -773,8 +781,7 @@
         "[[The Vamah Archivum]]",
         "[[Stackhouses]]",
         "[[Bloodmarks]]",
-        "[[Truthkeepers]]",
-        "[[Revolar]]"
+        "[[Truthkeepers]]"
       ],
       "tags": [
         "#npc",
@@ -805,7 +812,10 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Highlady Marise Sathir]]"
+        "[[Sadeas]]",
+        "[[House Sathir]]",
+        "[[Highlady Marise Sathir]]",
+        "[[Dalen]]"
       ],
       "tags": [
         "#npc",
@@ -842,8 +852,9 @@
         "[[Truthkeepers]]",
         "[[Revolar]]",
         "[[Iiko]]",
-        "[[Chip]]",
-        "[[Knights of Dusk]]"
+        "[[Spy of Dusk]]",
+        "[[Knights of Dusk]]",
+        "[[Chip]]"
       ],
       "tags": [
         "#npc",
@@ -858,9 +869,11 @@
       "status": "active",
       "links": [
         "[[Truthkeepers]]",
+        "[[Revolar]]",
         "[[Possessed]]",
         "[[Truthkeeper Camp]]",
-        "[[High Witness Yeshan]]"
+        "[[High Witness Yeshan]]",
+        "[[Ardent Kaelis]]"
       ],
       "tags": [
         "#npc",
@@ -875,11 +888,13 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Jasnah Kholin]]",
         "[[Ghostbloods]]",
+        "[[Kharbranth]]",
+        "[[Jasnah Kholin]]",
         "[[Helaran]]",
         "[[Kabsal]]",
-        "[[Kharbranth]]"
+        "[[Luesh]]",
+        "[[Tyn]]"
       ],
       "tags": [
         "#npc",
@@ -896,11 +911,11 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Ghostbloods]]",
+        "[[Revolar]]",
         "[[Chip]]",
         "[[Karani]]",
-        "[[Revolar]]",
-        "[[Adjudicator Peton]]",
-        "[[Truthkeepers]]"
+        "[[Adjudicator Peton]]"
       ],
       "tags": [
         "#npc",
@@ -916,13 +931,15 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Ghostbloods]]",
         "[[Revolar]]",
         "[[Possessed]]",
         "[[Chip]]",
-        "[[Ghostbloods]]",
         "[[Truthkeepers]]",
         "[[N'tal]]",
-        "[[Undertaker]]"
+        "[[Undertaker]]",
+        "[[Sila]]",
+        "[[Guddy]]"
       ],
       "tags": [
         "#npc",
@@ -936,9 +953,9 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Galeth-son-Thald]]",
-        "[[Silent Oath]]",
-        "[[04 Nurian Gems Arc]]"
+        "[[Diagram]]",
+        "[[Jah Keved]]",
+        "[[Galeth-son-Thald]]"
       ],
       "tags": [
         "#npc",
@@ -953,9 +970,10 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Truthkeepers]]",
+        "[[Revolar]]",
         "[[Karani]]",
-        "[[Renna Palir]]",
-        "[[Truthkeepers]]"
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#npc",
@@ -970,10 +988,9 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Galeth-son-Thald]]",
         "[[Salimset]]",
-        "[[011 Promotions and Revolar]]",
-        "[[010 Soulcaster and Shared Employers]]"
+        "[[Galeth-son-Thald]]",
+        "[[011 Promotions and Revolar]]"
       ],
       "tags": [
         "#npc",
@@ -988,13 +1005,13 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Sadeas]]",
+        "[[Tomat]]",
         "[[Kaladin]]",
         "[[Truthkeepers]]",
         "[[Ghostbloods]]",
         "[[Dillind]]",
-        "[[Silent Oath]]",
-        "[[Windrunners]]",
-        "[[03 Stormblessed Arc]]"
+        "[[Silent Oath]]"
       ],
       "tags": [
         "#npc",
@@ -1010,7 +1027,11 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Laral Roshone]]"
+        "[[Sadeas]]",
+        "[[Hearthstone]]",
+        "[[Laral Roshone]]",
+        "[[Lirin]]",
+        "[[Tien]]"
       ],
       "tags": [
         "#npc",
@@ -1024,14 +1045,13 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Revolar]]",
         "[[Ghostbloods]]",
+        "[[Revolar]]",
         "[[Bruckslats]]",
         "[[Truthkeepers]]",
         "[[Silent Oath]]",
         "[[Chip]]",
-        "[[Karani]]",
-        "[[High Enforcer Aylen]]"
+        "[[Iyatil]]"
       ],
       "tags": [
         "#npc",
@@ -1046,8 +1066,9 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Bodenar]]",
         "[[Revolar]]",
+        "[[Bodenar]]",
+        "[[Ilsh]]",
         "[[Kuma]]"
       ],
       "tags": [
@@ -1060,8 +1081,9 @@
     "000 Arrival": {
       "name": "000 Arrival",
       "type": "session",
-      "status": "inactive",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[Truthkeeper Camp]]",
         "[[High Witness Yeshan]]",
         "[[Adjudicator Peton]]",
@@ -1073,9 +1095,7 @@
         "[[Koloko]]",
         "[[Sila]]",
         "[[Luggan]]",
-        "[[Doug (Guddy)]]",
-        "[[Chip]]",
-        "[[Truthkeepers]]"
+        "[[Doug (Guddy)]]"
       ],
       "tags": [
         "#session",
@@ -1090,8 +1110,9 @@
     "001 First Blood": {
       "name": "001 First Blood",
       "type": "session",
-      "status": "inactive",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[Hearthstone]]",
         "[[Adjudicator Peton]]",
         "[[N'tal]]",
@@ -1100,8 +1121,7 @@
         "[[Revolar]]",
         "[[High Witness Yeshan]]",
         "[[Truthkeeper Camp]]",
-        "[[Heala]]",
-        "[[High Enforcer Aylen]]"
+        "[[Heala]]"
       ],
       "tags": [
         "#session",
@@ -1114,8 +1134,9 @@
     "002 Whitespine": {
       "name": "002 Whitespine",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[Hobbleken]]",
         "[[Stringken]]",
         "[[Fina]]",
@@ -1124,9 +1145,7 @@
         "[[N'tal]]",
         "[[Highlord Sadeas]]",
         "[[Ilsh]]",
-        "[[Highlord Paladar]]",
-        "[[Renna Palir]]",
-        "[[Galeth-son-Thald]]"
+        "[[Highlord Paladar]]"
       ],
       "tags": [
         "#session",
@@ -1138,8 +1157,9 @@
     "003 Yenev and the Axe": {
       "name": "003 Yenev and the Axe",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[Citylord Nilar Yenev]]",
         "[[Stringken]]",
         "[[Highlady Marise Sathir]]",
@@ -1148,8 +1168,7 @@
         "[[Ashusa]]",
         "[[Highlord Paladar]]",
         "[[The Axelsmith]]",
-        "[[Galeth-son-Thald]]",
-        "[[Bit]]"
+        "[[Galeth-son-Thald]]"
       ],
       "tags": [
         "#session",
@@ -1161,8 +1180,9 @@
     "004 The Sathir Estate": {
       "name": "004 The Sathir Estate",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[House Sathir]]",
         "[[Highlady Marise Sathir]]",
         "[[Mikeyel Franzay]]",
@@ -1174,9 +1194,7 @@
         "[[Glys]]",
         "[[006 Dillind and the Temple]]",
         "[[Galeth-son-Thald]]",
-        "[[Fina]]",
-        "[[Undertaker]]",
-        "[[Dalen]]"
+        "[[Fina]]"
       ],
       "tags": [
         "#session",
@@ -1188,15 +1206,17 @@
     "005 Hearthstone": {
       "name": "005 Hearthstone",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[House Sathir|Sathir Estate]]",
         "[[Hearthstone]]",
         "[[Toralin Roshone|Roshones]]",
+        "[[House Sathir]]",
         "[[Amaram]]",
         "[[Iiko]]",
         "[[Stringken]]",
-        "[[Ilsh Thaylen]]",
+        "[[Ilsh]]",
         "[[Lirin]]",
         "[[Hesina]]",
         "[[Galeth-son-Thald]]",
@@ -1206,9 +1226,7 @@
         "[[Renna Palir]]",
         "[[Chip]]",
         "[[Tusa]]",
-        "[[Pafo]]",
-        "[[House Sathir]]",
-        "[[Morrow]]"
+        "[[Pafo]]"
       ],
       "tags": [
         "#session",
@@ -1220,16 +1238,16 @@
     "006 Dillind and the Temple": {
       "name": "006 Dillind and the Temple",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[Chip]]",
         "[[Morrow]]",
         "[[Dillind]]",
         "[[Lod]]",
         "[[Lavrik]]",
         "[[General Spade]]",
-        "[[Iiko]]",
-        "[[Knights of Dusk]]"
+        "[[Iiko]]"
       ],
       "tags": [
         "#session",
@@ -1241,18 +1259,15 @@
     "007 Lavrik and the Soulcaster": {
       "name": "007 Lavrik and the Soulcaster",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[Lavrik]]",
         "[[Ardent Vedelis]]",
         "[[Knights of Dusk]]",
         "[[Iiko]]",
         "[[Lod]]",
-        "[[Fina]]",
-        "[[General Spade]]",
-        "[[N'tal]]",
-        "[[Galeth-son-Thald]]",
-        "[[Kuma]]"
+        "[[Fina]]"
       ],
       "tags": [
         "#session",
@@ -1264,8 +1279,9 @@
     "008 The Envisagers of Talinan": {
       "name": "008 The Envisagers of Talinan",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[Talinan]]",
         "[[Envisagers]]",
         "[[Dillind]]",
@@ -1276,10 +1292,7 @@
         "[[Kholinar]]",
         "[[Ghostbloods]]",
         "[[House Sathir]]",
-        "[[Highlady Marise Sathir]]",
-        "[[House Sathir|Sathir estate]]",
-        "[[Truthkeepers]]",
-        "[[Tien]]"
+        "[[Highlady Marise Sathir]]"
       ],
       "tags": [
         "#session",
@@ -1291,8 +1304,9 @@
     "009 Slavers": {
       "name": "009 Slavers",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[House Sathir]]",
         "[[Revolar]]",
         "[[Hearthstone]]",
@@ -1304,18 +1318,7 @@
         "[[Tusa]]",
         "[[Pafo]]",
         "[[Dillind]]",
-        "[[Renna Palir]]",
-        "[[Amaram]]",
-        "[[Highlady Marise Sathir]]",
-        "[[Lirin]]",
-        "[[Truthkeepers]]",
-        "[[Fina]]",
-        "[[Verdae]]",
-        "[[Toralin Roshone]]",
-        "[[Laral Roshone]]",
-        "[[Chip]]",
-        "[[Karani]]",
-        "[[Cadence]]"
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#session",
@@ -1327,8 +1330,9 @@
     "010 Soulcaster and Shared Employers": {
       "name": "010 Soulcaster and Shared Employers",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[Ashusa]]",
         "[[Truthkeepers]]",
         "[[Galeth-son-Thald]]",
@@ -1338,8 +1342,7 @@
         "[[Hobbleken]]",
         "[[Chip]]",
         "[[Possessed]]",
-        "[[Truthkeeper Camp]]",
-        "[[Stringken]]"
+        "[[Truthkeeper Camp]]"
       ],
       "tags": [
         "#session",
@@ -1351,11 +1354,12 @@
     "011 Promotions and Revolar": {
       "name": "011 Promotions and Revolar",
       "type": "session",
-      "status": "inactive",
+      "status": "completed",
       "links": [
+        "[[01 Truthkeepers Arc]]",
         "[[Adjudicator Peton]]",
         "[[High Enforcer Aylen]]",
-        "[[Morrow]]",
+        "[[1172-01-35 Morrow's Execution]]",
         "[[Truthkeepers]]",
         "[[Possessed]]",
         "[[Cryptics]]",
@@ -1365,12 +1369,10 @@
         "[[Bloodmarks]]",
         "[[Revolar]]",
         "[[Knights of Dusk]]",
+        "[[Morrow]]",
         "[[N'tal]]",
         "[[Doug (Guddy)]]",
-        "[[The Axelsmith]]",
-        "[[The Vamah Archivum]]",
-        "[[Renna Palir]]",
-        "[[Undertaker]]"
+        "[[The Axelsmith]]"
       ],
       "tags": [
         "#session",
@@ -1382,8 +1384,9 @@
     "012 Following Chip": {
       "name": "012 Following Chip",
       "type": "session",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[02 Knights of Dusk Arc]]",
         "[[Chip]]",
         "[[Karani]]",
         "[[Revolar]]",
@@ -1398,13 +1401,10 @@
         "[[Knights of Dusk]]",
         "[[Doug (Guddy)]]",
         "[[Iiko]]",
-        "[[The Stackhouse Slavers]]",
+        "[[1172-02-16 The Stackhouse Slavers]]",
         "[[Bloodmarks]]",
         "[[Falen]]",
-        "[[Kuma]]",
-        "[[Undertaker]]",
-        "[[Ghostbloods]]",
-        "[[Bruckslats]]"
+        "[[Kuma]]"
       ],
       "tags": [
         "#session",
@@ -1417,17 +1417,16 @@
       "type": "session",
       "status": "active",
       "links": [
+        "[[02 Knights of Dusk Arc]]",
         "[[Revolar|Driftwards]]",
         "[[Bloodmarks]]",
         "[[Scarstone Quarter]]",
+        "[[Meeting at the Whitespine]]",
         "[[N'tal]]",
         "[[Chip]]",
         "[[Whitespine's Fang]]",
         "[[Undertaker]]",
-        "[[Bruckslats]]",
-        "[[Knights of Dusk]]",
-        "[[Revolar]]",
-        "[[Sweeper]]"
+        "[[Bruckslats]]"
       ],
       "tags": [
         "#session",
@@ -1445,12 +1444,10 @@
         "[[Revolar]]",
         "[[Grand Justicar Malice]]",
         "[[Arbiter Jalis]]",
-        "[[Highlord Paladar]]",
+        "[[Vamah]]",
         "[[N'tal]]",
         "[[Truthkeepers]]",
-        "[[Ghostbloods]]",
-        "[[The Stackhouse Slavers]]",
-        "[[04 Nurian Gems Arc]]"
+        "[[Ghostbloods]]"
       ],
       "tags": [
         "#faction",
@@ -1465,8 +1462,7 @@
       "status": "active",
       "links": [
         "[[Truthkeepers]]",
-        "[[Possessed]]",
-        "[[High Enforcer Aylen]]"
+        "[[Possessed]]"
       ],
       "tags": [
         "#faction",
@@ -1480,7 +1476,15 @@
       "status": "active",
       "links": [
         "[[Truthkeepers]]",
-        "[[Chip]]"
+        "[[Bloodmarks]]",
+        "[[Chip]]",
+        "[[Helaran]]",
+        "[[Kabsal]]",
+        "[[Karani]]",
+        "[[Shallan Davar]]",
+        "[[Sila]]",
+        "[[Sweeper]]",
+        "[[Undertaker]]"
       ],
       "tags": [
         "#faction",
@@ -1489,40 +1493,22 @@
       ],
       "last_updated": "2026-05-13T23:29:00"
     },
-    "House Sathir": {
-      "name": "House Sathir",
-      "type": "faction",
-      "status": "active",
-      "links": [
-        "[[Sadeas Princedom]]",
-        "[[Stringken]]",
-        "[[Hobbleken]]",
-        "[[Highlord Kethren Sathir]]",
-        "[[Highlady Marise Sathir]]",
-        "[[Shara Sathir]]",
-        "[[Dalen]]",
-        "[[Mikeyel Franzay]]",
-        "[[Citylord Nilar Yenev]]",
-        "[[004 The Sathir Estate]]"
-      ],
-      "tags": [
-        "#faction",
-        "#alethi",
-        "#noble_house"
-      ],
-      "last_updated": "2024-05-19T16:00:00"
-    },
     "Knights of Dusk": {
       "name": "Knights of Dusk",
       "type": "faction",
       "status": "active",
       "links": [
         "[[Revolar]]",
+        "[[1172-02-20 The Cinder Evacuation]]",
         "[[Truthkeepers]]",
         "[[Darkstone Forest]]",
-        "[[The Cinder Evacuation]]",
-        "[[Lila]]",
-        "[[Slipmarket]]"
+        "[[Vamah]]",
+        "[[Bloodmarks]]",
+        "[[Ardent Vedelis]]",
+        "[[General Spade]]",
+        "[[Khria]]",
+        "[[Lavrik]]",
+        "[[Lila]]"
       ],
       "tags": [
         "#faction"
@@ -1535,7 +1521,9 @@
       "status": "active",
       "links": [
         "[[Truthkeepers]]",
-        "[[High Enforcer Aylen]]"
+        "[[High Enforcer Aylen]]",
+        "[[Knights of Dusk]]",
+        "[[Istrum]]"
       ],
       "tags": [
         "#faction"
@@ -1547,9 +1535,7 @@
       "type": "faction",
       "status": "active",
       "links": [
-        "[[Amaram]]",
-        "[[Ghostbloods]]",
-        "[[03 Stormblessed Arc]]"
+        "[[Ghostbloods]]"
       ],
       "tags": [
         "#faction",
@@ -1563,16 +1549,17 @@
       "type": "faction",
       "status": "active",
       "links": [
+        "[[Possessed]]",
         "[[High Witness Yeshan]]",
         "[[Revolar]]",
         "[[Knights of Dusk]]",
         "[[Silent Oath]]",
+        "[[Vamah]]",
         "[[Adjudicator Peton]]",
-        "[[011 Promotions and Revolar]]",
-        "[[001 First Blood]]",
-        "[[010 Soulcaster and Shared Employers]]",
-        "[[Chip]]",
-        "[[Renna Palir]]"
+        "[[High Enforcer Aylen]]",
+        "[[Renna Palir]]",
+        "[[Senny]]",
+        "[[Tahs]]"
       ],
       "tags": [
         "#faction"
@@ -1585,8 +1572,9 @@
       "status": "active",
       "links": [
         "[[Highlord Paladar]]",
-        "[[Ardent Vedelis]]",
-        "[[Devotary of Sincerity]]"
+        "[[Devotary of Sincerity]]",
+        "[[Truthkeepers]]",
+        "[[Jasnah Kholin]]"
       ],
       "tags": [
         "#faction",
@@ -1600,7 +1588,7 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[Fina]]"
+        "[[Revolar]]"
       ],
       "tags": [
         "#location",
@@ -1613,12 +1601,9 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[Jah Keved]]",
         "[[Ghostbloods]]",
-        "[[Bloodmarks]]",
-        "[[Grand Justicar Malice]]",
-        "[[Ilsh]]",
-        "[[Vorn]]",
-        "[[04 Nurian Gems Arc]]"
+        "[[Bloodmarks]]"
       ],
       "tags": [
         "#location",
@@ -1632,10 +1617,8 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[Undertaker]]",
-        "[[Kuma]]",
-        "[[Iiko]]",
-        "[[Revolar]]"
+        "[[Revolar]]",
+        "[[Undertaker]]"
       ],
       "tags": [
         "#location",
@@ -1643,13 +1626,27 @@
       ],
       "last_updated": "2026-05-14T20:00:00"
     },
+    "Cream of the Crem": {
+      "name": "Cream of the Crem",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Cuisine of Roshar]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-19T12:00:00"
+    },
     "Darkstone Forest": {
       "name": "Darkstone Forest",
       "type": "location",
       "status": "active",
       "links": [
-        "[[Knights of Dusk]]",
-        "[[Revolar]]"
+        "[[Revolar]]",
+        "[[Knights of Dusk]]"
       ],
       "tags": [
         "#location",
@@ -1662,9 +1659,8 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[Truthkeepers]]",
-        "[[001 First Blood]]",
-        "[[002 Whitespine]]"
+        "[[Alethkar]]",
+        "[[Truthkeepers]]"
       ],
       "tags": [
         "#location"
@@ -1676,23 +1672,41 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[002 Whitespine]]"
+        "[[Alethkar]]"
       ],
       "tags": [
         "#location"
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "House Sathir": {
+      "name": "House Sathir",
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Alethkar]]",
+        "[[Sadeas Princedom]]",
+        "[[Stringken]]",
+        "[[Hobbleken]]",
+        "[[Highlord Kethren Sathir]]",
+        "[[Highlady Marise Sathir]]",
+        "[[Shara Sathir]]",
+        "[[Dalen]]",
+        "[[Mikeyel Franzay]]",
+        "[[Citylord Nilar Yenev]]"
+      ],
+      "tags": [
+        "#location",
+        "#alethi",
+        "#noble_house"
+      ],
+      "last_updated": "2024-05-19T16:00:00"
+    },
     "Kharbranth": {
       "name": "Kharbranth",
       "type": "location",
       "status": "active",
-      "links": [
-        "[[Jasnah Kholin]]",
-        "[[Kabsal]]",
-        "[[Shallan Davar]]",
-        "[[05 Kharbranth Infiltration Arc]]"
-      ],
+      "links": [],
       "tags": [
         "#location",
         "#city_of_bells"
@@ -1704,6 +1718,7 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[Alethkar]]",
         "[[Darkstone Forest]]",
         "[[Stackhouses]]",
         "[[Lila]]",
@@ -1713,11 +1728,11 @@
         "[[Gemheart Inn]]",
         "[[Chip]]",
         "[[Renna Palir]]",
-        "[[The Cinder Evacuation]]",
+        "[[1172-02-20 The Cinder Evacuation]]",
         "[[The Vamah Archivum]]",
-        "[[Truthkeepers]]",
-        "[[Knights of Dusk]]",
-        "[[Khria]]"
+        "[[Bitter Leaf Apothecary]]",
+        "[[Boundless Bazaar]]",
+        "[[Scarstone Quarter]]"
       ],
       "tags": [
         "#location"
@@ -1729,6 +1744,7 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[Alethkar]]",
         "[[The Axelsmith]]",
         "[[Chip]]",
         "[[Sweeper]]",
@@ -1745,11 +1761,11 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[The Foundry Gambit|Abandoned Industrial Foundry]]",
+        "[[Revolar]]",
+        "[[1172-02-22 The Abandoned Foundry]]",
         "[[Bloodmarks]]",
         "[[Possessed]]",
-        "[[Stackhouses]]",
-        "[[Revolar]]"
+        "[[Stackhouses]]"
       ],
       "tags": [
         "#location",
@@ -1767,7 +1783,7 @@
         "[[Bloodmarks]]",
         "[[Knights of Dusk]]",
         "[[Lila]]",
-        "[[The Stackhouse Slavers]]"
+        "[[1172-02-16 The Stackhouse Slavers]]"
       ],
       "tags": [
         "#location",
@@ -1780,9 +1796,9 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[Alethkar]]",
         "[[Highlord Sadeas]]",
-        "[[Highlord Paladar]]",
-        "[[002 Whitespine]]"
+        "[[Highlord Paladar]]"
       ],
       "tags": [
         "#location"
@@ -1795,10 +1811,7 @@
       "status": "active",
       "links": [
         "[[Revolar]]",
-        "[[Bloodmarks]]",
-        "[[Ghostbloods]]",
-        "[[Truthkeepers]]",
-        "[[Knights of Dusk]]"
+        "[[Bloodmarks]]"
       ],
       "tags": [
         "#location",
@@ -1811,6 +1824,7 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[Alethkar]]",
         "[[Envisagers]]"
       ],
       "tags": [
@@ -1839,11 +1853,11 @@
       "type": "location",
       "status": "active",
       "links": [
+        "[[Alethkar]]",
         "[[Truthkeepers]]",
         "[[Possessed]]",
         "[[High Witness Yeshan]]",
-        "[[Adjudicator Peton]]",
-        "[[High Enforcer Aylen]]"
+        "[[Adjudicator Peton]]"
       ],
       "tags": [
         "#location",
@@ -1856,9 +1870,13 @@
       "type": "hook",
       "status": "active",
       "links": [
-        "[[Ghostbloods]]",
         "[[Truthkeeper Camp]]",
-        "[[N'tal]]",
+        "[[Karani]]",
+        "[[Chip]]",
+        "[[Ghostbloods]]",
+        "[[Doug]]",
+        "[[Sweeper]]",
+        "[[Galeth-son-Thald]]",
         "[[Adjudicator Peton]]"
       ],
       "tags": [
@@ -1883,20 +1901,109 @@
       ],
       "last_updated": "2026-05-15T16:30:00"
     },
+    "Day of Recreance": {
+      "name": "Day of Recreance",
+      "type": "event",
+      "status": "completed",
+      "links": [],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-16T22:27:44"
+    },
+    "Aharietem": {
+      "name": "Aharietem",
+      "type": "event",
+      "status": "completed",
+      "links": [],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-16T19:22:15"
+    },
+    "The Arrival": {
+      "name": "The Arrival",
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[000 Arrival]]",
+        "[[Loid]]",
+        "[[The Candle and the Mirror]]"
+      ],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-16T18:18:32"
+    },
+    "The Shellmite Attack": {
+      "name": "The Shellmite Attack",
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[001 First Blood]]",
+        "[[Hearthstone]]"
+      ],
+      "tags": [
+        "#event",
+        "#placeholder"
+      ],
+      "last_updated": "2026-05-13T23:29:00"
+    },
+    "Morrow' Execution": {
+      "name": "Morrow' Execution",
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[011 Promotions and Revolar]]",
+        "[[High Enforcer Aylen]]",
+        "[[Morrow]]"
+      ],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-16T18:45:50"
+    },
+    "The Stackhouse Slavers": {
+      "name": "The Stackhouse Slavers",
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[012 Following Chip]]",
+        "[[Chip]]",
+        "[[Scarstone Quarter]]",
+        "[[Stackhouses]]",
+        "[[Bloodmarks]]",
+        "[[Kuma]]",
+        "[[Falen]]",
+        "[[Truthkeepers]]",
+        "[[Soulcaster]]",
+        "[[N'tal]]",
+        "[[Knights of Dusk]]",
+        "[[Truthkeepers|Truthkeeper]]",
+        "[[Adjudicator Peton]]"
+      ],
+      "tags": [
+        "#event",
+        "#combat",
+        "#revolar",
+        "#bloodmarks"
+      ],
+      "last_updated": "2026-05-16T12:00:00"
+    },
     "The Cinder Evacuation": {
       "name": "The Cinder Evacuation",
-      "type": "scene",
+      "type": "event",
       "status": "active",
       "links": [
+        "[[013 Shadow War in the Driftwards]]",
         "[[Skyglass District]]",
         "[[Revolar]]",
         "[[Highlord Paladar]]",
         "[[Knights of Dusk]]",
-        "[[Chip]]",
-        "[[02 Knights of Dusk Arc]]"
+        "[[Chip]]"
       ],
       "tags": [
-        "#scene",
+        "#event",
         "#revolar",
         "#investigation",
         "#combat",
@@ -1904,9 +2011,30 @@
       ],
       "last_updated": "2026-05-18T12:00:00"
     },
+    "The Abandoned Foundry": {
+      "name": "The Abandoned Foundry",
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[Scarstone Quarter]]",
+        "[[N'tal]]",
+        "[[Bloodmarks]]",
+        "[[Jory]]",
+        "[[Arbiter Jalis]]",
+        "[[Pyre]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#combat",
+        "#moral_trial",
+        "#chase"
+      ],
+      "last_updated": "2024-05-18T00:00:00"
+    },
     "The Darkstone Siege": {
       "name": "The Darkstone Siege",
-      "type": "scene",
+      "type": "event",
       "status": "active",
       "links": [
         "[[02 Knights of Dusk Arc]]",
@@ -1921,109 +2049,69 @@
         "[[Revolar]]"
       ],
       "tags": [
-        "#scene",
+        "#event",
         "#revolar",
         "#combat",
         "#darkstone_forest"
       ],
       "last_updated": "2026-05-18T12:00:00"
     },
-    "Experimental Steamship": {
-      "name": "Experimental Steamship",
-      "type": "scene",
-      "status": "active",
+    "The Experimental Steamship": {
+      "name": "The Experimental Steamship",
+      "type": "event",
+      "status": "planned",
       "links": [
         "[[Bodenar]]",
         "[[Nurian Gems]]",
         "[[Bloodmarks]]",
         "[[Vorn]]",
         "[[Ilsh]]",
-        "[[Kuma]]",
-        "[[04 Nurian Gems Arc]]"
+        "[[Kuma]]"
       ],
       "tags": [
-        "#scene",
+        "#event",
         "#bodenar",
         "#fabrial"
       ],
       "last_updated": "2026-05-17T12:00:00"
-    },
-    "The Foundry Gambit": {
-      "name": "The Foundry Gambit",
-      "type": "scene",
-      "status": "planned",
-      "links": [
-        "[[Scarstone Quarter]]",
-        "[[N'tal]]",
-        "[[Bloodmarks]]",
-        "[[Jory]]",
-        "[[Arbiter Jalis]]",
-        "[[Pyre]]",
-        "[[Knights of Dusk]]"
-      ],
-      "tags": [
-        "#scene",
-        "#revolar",
-        "#combat",
-        "#moral_trial",
-        "#chase"
-      ],
-      "last_updated": "2024-05-18T00:00:00"
-    },
-    "Shellmite Attack": {
-      "name": "Shellmite Attack",
-      "type": "scene",
-      "status": "inactive",
-      "links": [
-        "[[Hearthstone]]",
-        "[[Truthkeepers]]"
-      ],
-      "tags": [
-        "#scene",
-        "#placeholder"
-      ],
-      "last_updated": "2026-05-13T23:29:00"
-    },
-    "Stackhouse Slavers": {
-      "name": "Stackhouse Slavers",
-      "type": "scene",
-      "status": "active",
-      "links": [
-        "[[Chip]]",
-        "[[Scarstone Quarter]]",
-        "[[Stackhouses]]",
-        "[[Bloodmarks]]",
-        "[[Kuma]]",
-        "[[Falen]]",
-        "[[Truthkeepers]]",
-        "[[Soulcaster]]",
-        "[[N'tal]]",
-        "[[Knights of Dusk]]",
-        "[[Truthkeepers|Truthkeeper]]",
-        "[[Adjudicator Peton]]",
-        "[[012 Following Chip]]"
-      ],
-      "tags": [
-        "#scene",
-        "#combat",
-        "#revolar",
-        "#bloodmarks"
-      ],
-      "last_updated": "2026-05-16T12:00:00"
     },
     "Cremwidow Poison": {
       "name": "Cremwidow Poison",
       "type": "item",
       "status": "active",
       "links": [
-        "[[Fina]]",
-        "[[Karani]]",
-        "[[Ghostbloods]]"
+        "[[Fina]]"
       ],
       "tags": [
         "#item"
       ],
-      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+      "last_updated": "2026-05-17T00:00:00"
+    },
+    "Cuisine of Roshar": {
+      "name": "Cuisine of Roshar",
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Flangria]]"
+      ],
+      "tags": [
+        "#lore",
+        "#culture",
+        "#cuisine"
+      ],
+      "last_updated": "2026-05-19T12:00:00"
+    },
+    "Flora and Fauna": {
+      "name": "Flora and Fauna",
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[KwW8NFI0l-VOu3VGfxH3E|Whitespines]]"
+      ],
+      "tags": [
+        "#location"
+      ],
+      "last_updated": "2026-05-16T22:25:46"
     },
     "Minor NPCs": {
       "name": "Minor NPCs",
@@ -2059,8 +2147,7 @@
       "links": [
         "[[The Experimental Steamship]]",
         "[[Bloodmarks]]",
-        "[[Grand Justicar Malice]]",
-        "[[04 Nurian Gems Arc]]"
+        "[[Grand Justicar Malice]]"
       ],
       "tags": [
         "#lore",
@@ -2094,8 +2181,7 @@
         "[[Cadence]]",
         "[[Mallow]]",
         "[[Kun'ahu]]",
-        "[[Galeth-son-Thald]]",
-        "[[Knights of Dusk]]"
+        "[[Galeth-son-Thald]]"
       ],
       "tags": [
         "#lore",
@@ -2121,6 +2207,18 @@
       ],
       "last_updated": "2024-05-19T12:00:00"
     },
+    "Prophecy of Ten Keys": {
+      "name": "Prophecy of Ten Keys",
+      "type": "lore",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#lore",
+        "#prophecy",
+        "#urithiru"
+      ],
+      "last_updated": "2024-05-19T15:00:00"
+    },
     "Tablet of Eleven Cities": {
       "name": "Tablet of Eleven Cities",
       "type": "lore",
@@ -2137,9 +2235,7 @@
         "[[High Witness Yeshan]]",
         "[[Thaylen City]]",
         "[[Kharbranth]]",
-        "[[Vedenar]]",
-        "[[Iiko]]",
-        "[[008 The Envisagers of Talinan]]"
+        "[[Vedenar]]"
       ],
       "tags": [
         "#lore",
@@ -2160,8 +2256,7 @@
         "[[Grand Justicar Malice]]",
         "[[Bloodmarks]]",
         "[[Kuma]]",
-        "[[Vorn]]",
-        "[[04 Nurian Gems Arc]]"
+        "[[Vorn]]"
       ],
       "tags": [
         "#lore",
@@ -2205,8 +2300,7 @@
       "type": "spren",
       "status": "active",
       "links": [
-        "[[Galeth-son-Thald]]",
-        "[[Dreamwaker]]"
+        "[[Galeth-son-Thald]]"
       ],
       "tags": [
         "#spren",
