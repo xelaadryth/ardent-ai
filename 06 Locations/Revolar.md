@@ -61,6 +61,7 @@ SORT file.name ASC
 - [[Stackhouses]]
 - [[Sun's Zenith]]
 - [[The Vamah Archivum]]
+- [[Whitespine's Fang]]
 
 
 <!-- SerializedQuery END -->
