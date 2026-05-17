@@ -43,11 +43,6 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 <!-- SerializedQuery END -->
 
 # Hooks
-- [[N'tal's Vendetta]]
-- [[The Devotary Call]]
-- [[The Highlord's Greed]]
-- [[New Technology]]
-- [[Tracking the Knights of Dusk]]
 
 <!-- SerializedQuery: LIST FROM "07 Hooks" WHERE status = "active" SORT file.name ASC -->
 - [[N'tal's Vendetta]]
