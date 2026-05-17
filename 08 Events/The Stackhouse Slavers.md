@@ -1,7 +1,7 @@
 ---
 name: The Stackhouse Slavers
 type: event
-status: active
+status: completed
 tags:
   - "#event"
   - "#combat"

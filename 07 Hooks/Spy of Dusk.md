@@ -7,8 +7,7 @@ tags:
   - "#revolar"
 last_updated: 2026-05-15T16:30:00
 ---
-
-# The Secret
+# Description
 When guiding the party to the [[The Vamah Archivum]], [[Renna Palir]] provided them with the necessary secret codewords and the location of the hidden entrance. However, she pointedly omitted a vital piece of information that other [[Truthkeepers]] take for granted: the base is currently compromised by a [[Knights of Dusk]] spy.
 
 # How to Find It

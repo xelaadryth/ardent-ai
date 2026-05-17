@@ -11,10 +11,9 @@ tags:
 last_updated: 2024-05-19T15:00:00
 ---
 
-# Summary
+# Description
 An ancient, weather-worn stone wall carving found within a forgotten temple dedicated to the Radiant orders.
 
-# Details
 The tablet depicts the ten legendary Dawncities, but it features a significant damage-mark or hidden engraving that points to a "secret 11th city" named [[Urithiru]]. The text suggests that this city is currently locked or hidden away from the world.
 
 # Implications

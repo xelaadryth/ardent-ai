@@ -1,0 +1,1 @@
+Can you write a faction page called Vamah about the leaders of Revolar, capital of Vamah Princedom and crosslink the related pages? And do the same for Sadeas Princedom?

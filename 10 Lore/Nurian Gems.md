@@ -17,4 +17,4 @@ Unstable and highly reactive gemstones originating from the world of Mythos. The
 - **Instability:** They are sensitive to Rosharan "atmospheric" investiture, often humming or cracking when highstorms approach.
 
 # History
-The gems are the primary export of the [[Bloodmarks]] syndicate, smuggled from the Horneater Peaks under the direction of [[Grand Justicar Malice]].
+The gems are the source of the recent meteoric rise of the [[Bloodmarks]] syndicate, smuggled from the Horneater Peaks under the direction of [[Grand Justicar Malice]].

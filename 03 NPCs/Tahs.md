@@ -30,9 +30,6 @@ Adopted by a lighteyed mother who "married down" to a darkeyes, Tahs was never t
 # Secrets
 - Her cruelty toward [[Karani]] is a direct reflection of the unloved childhood she experienced after her parents' disappearance.
 
-# Hooks
--
-
 # Connections
 - **[[Renna Palir]]**: Her friend, whom she secretly envies.
 - **[[Karani]]**: Her primary target for bullying.

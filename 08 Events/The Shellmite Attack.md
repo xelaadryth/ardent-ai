@@ -1,7 +1,7 @@
 ---
 name: The Shellmite Attack
 type: event
-status: active
+status: completed
 tags:
   - "#event"
   - "#placeholder"

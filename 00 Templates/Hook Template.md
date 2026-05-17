@@ -7,6 +7,3 @@ tags:
 last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 ---
 # Description
-
-# Connections
-- 

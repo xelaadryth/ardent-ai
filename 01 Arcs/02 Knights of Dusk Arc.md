@@ -41,11 +41,11 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[The Darkstone Siege]]
 
 # Hooks
-- **N'tal's Vendetta:** Uncover the truth behind the ambush that killed the player's family.
 - **[[The Stackhouse Slavers]]:** An attempt to collect a "labor-tithe" resulted in a clash with rogue Truthkeepers in the Stackhouses.
-- **The Devotary Call:** [[Ardent Kaelis]] prompts [[Iiko]] to join a devotary during their investigation of the city.
+- **N'tal's Vendetta:** Uncover the truth behind the ambush that killed the player's family.
+- **The Devotary Call:** [[Ardent Kaelis]] prompts [[Iiko]] to join the [[Devotary of Sincerity]] during their investigation of the city.
 - **The Highlord's Greed:** [[Highlord Paladar]] uses the "Possessed" narrative to cover his territorial expansion.
-- **Uncovering the Spy:** The squad attempts to track the movements of the [[Knights of Dusk]] spy while avoiding the gaze of [[Bloodmarks]] spotters.
+- **Uncovering the Spy:** The squad attempts to track the contacts of the [[Knights of Dusk]] spy while avoiding the gaze of [[Bloodmarks]] spotters.
 - **The Scarstone Sprint:** A high-stakes chase through the dense, debris-filled streets of the [[Scarstone Quarter]] to intercept intelligence before it is handed off.
 - **Confrontation at the Foundry:** The party discovers a covert operation involving the weaponization of fabrials, confirming the [[Bloodmarks]]' intent to dominate the local gem trade.
 
