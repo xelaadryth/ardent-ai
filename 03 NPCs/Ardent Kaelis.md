@@ -6,7 +6,7 @@ tags:
   - "#ardent"
   - "#scholar"
   - "#alethi"
-last_updated: 2026-05-16T12:00:00
+last_updated: 2026-05-20T12:00:00
 faction:
 location: "[[Revolar]]"
 ---
@@ -24,6 +24,7 @@ Located in [[Revolar]], Kaelis has encountered [[Iiko]]. Recognizing their uniqu
 - **Reconstruct Lost History:** Map buried settlements hidden by crem buildup.
 
 # Hooks
+- [[The Devotary Call]]
 - Familiar with the dawncities mentioned in the [[Tablet of Eleven Cities]].
 
 # Connections

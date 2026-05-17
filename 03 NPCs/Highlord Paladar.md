@@ -6,7 +6,7 @@ tags:
   - "#lighteyed"
   - "#alethi"
   - "#highlord"
-last_updated: 2026-05-18T12:00:00
+last_updated: 2026-05-20T12:00:00
 faction: "[[Vamah]]"
 location: "[[Revolar]]"
 ---
@@ -25,6 +25,9 @@ He seized control of Vamah during the absence of other high-ranking nobles. He o
 # Goals
 - **Territorial Expansion:** Move the Vamah borders north into Sadeas lands through sabotage and "protection."
 - **Suppression:** Eradicate the [[Knights of Dusk]] using the [[Truthkeepers]] as his proxy.
+
+# Hooks
+- [[The Highlord's Greed]]
 
 # Secrets
 He uses the "Possessed" as a political tool, allowing the [[Truthkeepers]] to purge his enemies while he profits from the chaos.

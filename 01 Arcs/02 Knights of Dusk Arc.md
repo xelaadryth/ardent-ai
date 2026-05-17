@@ -5,7 +5,7 @@ tags:
   - "#arc"
   - "#revolar"
   - "#rebellion"
-last_updated: 2026-05-18T12:00:00
+last_updated: 2026-05-20T12:00:00
 number: 2
 ---
 # Description
@@ -34,12 +34,6 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 
 # Events
 
-<!-- QueryToSerialize:
-LIST
-FROM "08 Events"
-WHERE status = "active"
-SORT file.name ASC
--->
 <!-- SerializedQuery: LIST FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
 - [[1172-02-20 The Cinder Evacuation]]
 - [[1172-02-22 The Foundry Chase]]
@@ -49,31 +43,24 @@ SORT file.name ASC
 <!-- SerializedQuery END -->
 
 # Hooks
-- **N'tal's Vendetta:** Uncover the truth behind the ambush that killed the player's family.
-- **The Devotary Call:** [[Ardent Kaelis]] prompts [[Iiko]] to join the [[Devotary of Sincerity]] during their investigation of the city.
-- **The Highlord's Greed:** [[Highlord Paladar]] is found to be paid off by the Bloodmarks
-- New Technology: [[Vorn]] is traveling from Kholinar to [[Bodenar]] to complete a new Artifabrial design with mysterious never-before-seen [[Nurian Gems]], reputed to be able to hold more stormlight and produce more output than a regular gemstone, and is excited to talk to talk to [[Kuma]] about it
-- Tracking the Knights of Dusk: There a few leads - following the red laundry in the [[Stackhouses]], tracing the mapmaker shop where [[Khria]] commissioned [[Vedelis]] and [[Lavrik]]'s map and finding out she is traveling disguised as a very short Alethi (although not as short as [[N'tal]]), tracking the markings on the Painrial [[Kuma]] took from [[Vedelis]] which leads to [[Vorn]] reprimanding a scummy artifabrial merchant who sells goods that break too easily and leads to [[Ardent Kaelis]] as being seen with [[Vedelis]] in the past
+- [[N'tal's Vendetta]]
+- [[The Devotary Call]]
+- [[The Highlord's Greed]]
+- [[New Technology]]
+- [[Tracking the Knights of Dusk]]
 
-<!-- QueryToSerialize:
-LIST
-FROM "07 Hooks"
-WHERE status = "active"
-SORT file.name ASC
--->
 <!-- SerializedQuery: LIST FROM "07 Hooks" WHERE status = "active" SORT file.name ASC -->
+- [[N'tal's Vendetta]]
+- [[New Technology]]
 - [[Sila's Allegiance]]
 - [[Spy of Dusk]]
+- [[The Devotary Call]]
+- [[The Highlord's Greed]]
+- [[Tracking the Knights of Dusk]]
 
 
 <!-- SerializedQuery END -->
 # Sessions
-<!-- QueryToSerialize:
-LIST
-FROM "04 Sessions"
-WHERE arc = this.file.link
-SORT file.name ASC
--->
 <!-- SerializedQuery: LIST FROM "04 Sessions" WHERE arc = this.file.link SORT file.name ASC -->
 - [[012 Following Chip]]
 - [[013 Shadow War in the Driftwards]]

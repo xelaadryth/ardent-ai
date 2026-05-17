@@ -6,7 +6,7 @@ tags:
   - "#elsecaller"
   - "#nurian"
   - "#maker"
-last_updated: 2026-05-17T12:00:00
+last_updated: 2026-05-20T12:00:00
 player: Dan
 spren: "[[Viscose]]"
 ---
@@ -29,6 +29,7 @@ Born to a Nurian farming family, Kuma cared more for books and tinkering than fo
 - Investigate the [[Nurian Gems]] and the [[The Experimental Steamship]] in the [[04 Nurian Gems Arc]].
 
 # Hooks
+- [[New Technology]]
 - The mysterious device may be a key to dangerous or valuable knowledge.
 - His parents' research could draw the attention of powerful factions.
 - His work with the Artifabrians may uncover forbidden fabrial techniques.

@@ -1,7 +1,96 @@
 {
   "files": {
-    "<% tp.file.title %>": {
-      "name": "<% tp.file.title %>",
+    "Arc Template": {
+      "type": "arc",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#arc"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "Event Template": {
+      "type": "event",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "Faction Template": {
+      "type": "faction",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#faction"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "Hook Template": {
+      "type": "hook",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#hook"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "Item Template": {
+      "type": "item",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#item"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "Location Template": {
+      "type": "location",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#location"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "Lore Template": {
+      "type": "lore",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#location"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "NPC Template": {
+      "type": "npc",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#npc"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "Player Template": {
+      "type": "player",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#player"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "Session Template": {
+      "type": "session",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#session"
+      ],
+      "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
+    },
+    "Spren Template": {
       "type": "spren",
       "status": "active",
       "links": [],
@@ -11,7 +100,6 @@
       "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
     },
     "01 Truthkeepers Arc": {
-      "name": "01 Truthkeepers Arc",
       "type": "arc",
       "status": "completed",
       "links": [
@@ -47,7 +135,6 @@
       "last_updated": "2026-05-16T12:00:00"
     },
     "02 Knights of Dusk Arc": {
-      "name": "02 Knights of Dusk Arc",
       "type": "arc",
       "status": "active",
       "links": [
@@ -71,11 +158,17 @@
         "[[Ardent Kaelis]]",
         "[[Iiko]]",
         "[[1172-02-20 The Cinder Evacuation]]",
+        "[[1172-02-22 The Foundry Chase]]",
         "[[1172-02-32 The Darkstone Siege]]",
-        "[[1172-02-22 The Abandoned Foundry]]",
-        "[[1172-02-16 The Stackhouse Slavers]]",
         "[[Devotary of Sincerity]]",
-        "[[Scarstone Quarter]]",
+        "[[Vorn]]",
+        "[[Bodenar]]",
+        "[[Nurian Gems]]",
+        "[[Kuma]]",
+        "[[Stackhouses]]",
+        "[[Vedelis]]",
+        "[[Lavrik]]",
+        "[[N'tal]]",
         "[[Sila's Allegiance]]",
         "[[Spy of Dusk]]",
         "[[012 Following Chip]]",
@@ -89,7 +182,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "03 Stormblessed Arc": {
-      "name": "03 Stormblessed Arc",
       "type": "arc",
       "status": "planned",
       "links": [
@@ -110,7 +202,6 @@
       "last_updated": "2026-05-16T16:00:00"
     },
     "04 Nurian Gems Arc": {
-      "name": "04 Nurian Gems Arc",
       "type": "arc",
       "status": "planned",
       "links": [
@@ -136,7 +227,6 @@
       "last_updated": "2026-05-17T12:00:00"
     },
     "05 Kharbranth Infiltration Arc": {
-      "name": "05 Kharbranth Infiltration Arc",
       "type": "arc",
       "status": "planned",
       "links": [
@@ -155,7 +245,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Fina": {
-      "name": "Fina",
       "type": "player",
       "status": "active",
       "links": [
@@ -171,7 +260,6 @@
       "last_updated": "2026-05-14T18:30:00"
     },
     "Galeth-son-Thald": {
-      "name": "Galeth-son-Thald",
       "type": "player",
       "status": "active",
       "links": [
@@ -191,7 +279,6 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "Iiko": {
-      "name": "Iiko",
       "type": "player",
       "status": "active",
       "links": [
@@ -208,7 +295,6 @@
       "last_updated": "2024-05-19T15:00:00"
     },
     "Kuma": {
-      "name": "Kuma",
       "type": "player",
       "status": "active",
       "links": [
@@ -229,7 +315,6 @@
       "last_updated": "2026-05-17T12:00:00"
     },
     "Mallow": {
-      "name": "Mallow",
       "type": "player",
       "status": "active",
       "links": [
@@ -245,14 +330,13 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "N'tal": {
-      "name": "N'tal",
       "type": "player",
       "status": "active",
       "links": [
         "[[Pyre]]",
         "[[Grand Justicar Malice]]",
         "[[Arbiter Jalis]]",
-        "[[1172-02-22 The Abandoned Foundry]]"
+        "[[1172-02-22 The Foundry Chase]]"
       ],
       "tags": [
         "#player",
@@ -263,7 +347,6 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "Adjudicator Peton": {
-      "name": "Adjudicator Peton",
       "type": "npc",
       "status": "active",
       "links": [
@@ -280,7 +363,6 @@
       "last_updated": "2026-05-15T12:00:00"
     },
     "Amaram": {
-      "name": "Amaram",
       "type": "npc",
       "status": "active",
       "links": [
@@ -300,7 +382,6 @@
       "last_updated": "2026-05-16T16:00:00"
     },
     "Arbiter Jalis": {
-      "name": "Arbiter Jalis",
       "type": "npc",
       "status": "active",
       "links": [
@@ -318,7 +399,6 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "Ardent Kaelis": {
-      "name": "Ardent Kaelis",
       "type": "npc",
       "status": "active",
       "links": [
@@ -335,7 +415,6 @@
       "last_updated": "2026-05-16T12:00:00"
     },
     "Ardent Vedelis": {
-      "name": "Ardent Vedelis",
       "type": "npc",
       "status": "inactive",
       "links": [
@@ -358,7 +437,6 @@
       "last_updated": "2026-05-14T18:00:00"
     },
     "Ashusa": {
-      "name": "Ashusa",
       "type": "npc",
       "status": "active",
       "links": [
@@ -374,7 +452,6 @@
       "last_updated": "2026-05-15T12:00:00"
     },
     "Chip": {
-      "name": "Chip",
       "type": "npc",
       "status": "active",
       "links": [
@@ -396,7 +473,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Citylord Nilar Yenev": {
-      "name": "Citylord Nilar Yenev",
       "type": "npc",
       "status": "active",
       "links": [
@@ -421,7 +497,6 @@
       "last_updated": "2026-05-15T12:00:00"
     },
     "Dalen": {
-      "name": "Dalen",
       "type": "npc",
       "status": "active",
       "links": [
@@ -443,7 +518,6 @@
       "last_updated": "2024-05-19T14:00:00"
     },
     "Dillind": {
-      "name": "Dillind",
       "type": "npc",
       "status": "active",
       "links": [
@@ -458,7 +532,6 @@
       "last_updated": "2026-05-14T14:00:00"
     },
     "General Odrin Lesh": {
-      "name": "General Odrin Lesh",
       "type": "npc",
       "status": "active",
       "links": [
@@ -478,7 +551,6 @@
       "last_updated": "2026-05-16T12:00:00"
     },
     "General Spade": {
-      "name": "General Spade",
       "type": "npc",
       "status": "active",
       "links": [
@@ -501,7 +573,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Grand Justicar Malice": {
-      "name": "Grand Justicar Malice",
       "type": "npc",
       "status": "active",
       "links": [
@@ -520,7 +591,6 @@
       "last_updated": "2026-05-17T12:00:00"
     },
     "Helaran": {
-      "name": "Helaran",
       "type": "npc",
       "status": "active",
       "links": [
@@ -538,7 +608,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "High Enforcer Aylen": {
-      "name": "High Enforcer Aylen",
       "type": "npc",
       "status": "active",
       "links": [
@@ -562,7 +631,6 @@
       "last_updated": "2024-05-19T12:00:00"
     },
     "High Witness Yeshan": {
-      "name": "High Witness Yeshan",
       "type": "npc",
       "status": "active",
       "links": [
@@ -579,7 +647,6 @@
       "last_updated": "2024-05-19T12:00:00"
     },
     "Highlady Marise Sathir": {
-      "name": "Highlady Marise Sathir",
       "type": "npc",
       "status": "active",
       "links": [
@@ -597,7 +664,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "Highlord Paladar": {
-      "name": "Highlord Paladar",
       "type": "npc",
       "status": "active",
       "links": [
@@ -619,7 +685,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Ilsh": {
-      "name": "Ilsh",
       "type": "npc",
       "status": "active",
       "links": [
@@ -636,7 +701,6 @@
       "last_updated": "2026-05-16T17:00:00"
     },
     "Istrum": {
-      "name": "Istrum",
       "type": "npc",
       "status": "active",
       "links": [
@@ -654,7 +718,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Jasnah Kholin": {
-      "name": "Jasnah Kholin",
       "type": "npc",
       "status": "active",
       "links": [
@@ -674,7 +737,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Jory": {
-      "name": "Jory",
       "type": "npc",
       "status": "active",
       "links": [
@@ -693,7 +755,6 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "Kabsal": {
-      "name": "Kabsal",
       "type": "npc",
       "status": "active",
       "links": [
@@ -711,7 +772,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Karani": {
-      "name": "Karani",
       "type": "npc",
       "status": "active",
       "links": [
@@ -732,7 +792,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "Khria": {
-      "name": "Khria",
       "type": "npc",
       "status": "active",
       "links": [
@@ -752,7 +811,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Lavrik": {
-      "name": "Lavrik",
       "type": "npc",
       "status": "inactive",
       "links": [
@@ -767,7 +825,6 @@
       "last_updated": "2026-05-14T00:00:00"
     },
     "Lila": {
-      "name": "Lila",
       "type": "npc",
       "status": "active",
       "links": [
@@ -793,7 +850,6 @@
       "last_updated": "2024-05-19T10:00:00"
     },
     "Lirin": {
-      "name": "Lirin",
       "type": "npc",
       "status": "active",
       "links": [
@@ -808,7 +864,6 @@
       "last_updated": "2026-05-13T23:55:00"
     },
     "Mikeyel Franzay": {
-      "name": "Mikeyel Franzay",
       "type": "npc",
       "status": "active",
       "links": [
@@ -825,7 +880,6 @@
       "last_updated": "2026-05-13T23:45:00"
     },
     "Morrow": {
-      "name": "Morrow",
       "type": "npc",
       "status": "inactive",
       "links": [
@@ -845,7 +899,6 @@
       "last_updated": "2026-05-16T15:00:00"
     },
     "Renna Palir": {
-      "name": "Renna Palir",
       "type": "npc",
       "status": "active",
       "links": [
@@ -864,7 +917,6 @@
       "last_updated": "2026-05-13T23:29:00"
     },
     "Senny": {
-      "name": "Senny",
       "type": "npc",
       "status": "active",
       "links": [
@@ -884,7 +936,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "Shallan Davar": {
-      "name": "Shallan Davar",
       "type": "npc",
       "status": "active",
       "links": [
@@ -907,7 +958,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Sila": {
-      "name": "Sila",
       "type": "npc",
       "status": "active",
       "links": [
@@ -927,7 +977,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "Sweeper": {
-      "name": "Sweeper",
       "type": "npc",
       "status": "active",
       "links": [
@@ -949,7 +998,6 @@
       "last_updated": "2026-05-15T16:00:00"
     },
     "Szeth-son-son-Vallano": {
-      "name": "Szeth-son-son-Vallano",
       "type": "npc",
       "status": "active",
       "links": [
@@ -966,7 +1014,6 @@
       "last_updated": "2026-05-17T12:00:00"
     },
     "Tahs": {
-      "name": "Tahs",
       "type": "npc",
       "status": "active",
       "links": [
@@ -984,7 +1031,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "The Axelsmith": {
-      "name": "The Axelsmith",
       "type": "npc",
       "status": "active",
       "links": [
@@ -1001,7 +1047,6 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "Tien": {
-      "name": "Tien",
       "type": "npc",
       "status": "active",
       "links": [
@@ -1023,7 +1068,6 @@
       "last_updated": "2026-05-16T16:00:00"
     },
     "Toralin Roshone": {
-      "name": "Toralin Roshone",
       "type": "npc",
       "status": "active",
       "links": [
@@ -1041,7 +1085,6 @@
       "last_updated": "2026-05-13T23:55:00"
     },
     "Undertaker": {
-      "name": "Undertaker",
       "type": "npc",
       "status": "active",
       "links": [
@@ -1062,7 +1105,6 @@
       "last_updated": "2026-05-15T15:00:00"
     },
     "Vorn": {
-      "name": "Vorn",
       "type": "npc",
       "status": "active",
       "links": [
@@ -1079,7 +1121,6 @@
       "last_updated": "2026-05-16T17:00:00"
     },
     "000 Arrival": {
-      "name": "000 Arrival",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1108,7 +1149,6 @@
       "last_updated": "2026-05-15T17:00:00"
     },
     "001 First Blood": {
-      "name": "001 First Blood",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1132,7 +1172,6 @@
       "last_updated": "2026-05-15T18:00:00"
     },
     "002 Whitespine": {
-      "name": "002 Whitespine",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1155,7 +1194,6 @@
       "last_updated": "2026-05-15T18:00:00"
     },
     "003 Yenev and the Axe": {
-      "name": "003 Yenev and the Axe",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1178,7 +1216,6 @@
       "last_updated": "2024-05-19T16:00:00"
     },
     "004 The Sathir Estate": {
-      "name": "004 The Sathir Estate",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1204,7 +1241,6 @@
       "last_updated": "2024-05-19T16:00:00"
     },
     "005 Hearthstone": {
-      "name": "005 Hearthstone",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1236,7 +1272,6 @@
       "last_updated": "2026-05-15T18:30:00"
     },
     "006 Dillind and the Temple": {
-      "name": "006 Dillind and the Temple",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1257,7 +1292,6 @@
       "last_updated": "2026-05-15T12:00:00"
     },
     "007 Lavrik and the Soulcaster": {
-      "name": "007 Lavrik and the Soulcaster",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1277,7 +1311,6 @@
       "last_updated": "2026-05-15T12:00:00"
     },
     "008 The Envisagers of Talinan": {
-      "name": "008 The Envisagers of Talinan",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1302,7 +1335,6 @@
       "last_updated": "2024-05-19T16:00:00"
     },
     "009 Slavers": {
-      "name": "009 Slavers",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1328,7 +1360,6 @@
       "last_updated": "2024-05-19T16:00:00"
     },
     "010 Soulcaster and Shared Employers": {
-      "name": "010 Soulcaster and Shared Employers",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1352,7 +1383,6 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "011 Promotions and Revolar": {
-      "name": "011 Promotions and Revolar",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1382,7 +1412,6 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "012 Following Chip": {
-      "name": "012 Following Chip",
       "type": "session",
       "status": "completed",
       "links": [
@@ -1413,7 +1442,6 @@
       "last_updated": "2026-05-16T12:00:00"
     },
     "013 Shadow War in the Driftwards": {
-      "name": "013 Shadow War in the Driftwards",
       "type": "session",
       "status": "active",
       "links": [
@@ -1436,7 +1464,6 @@
       "last_updated": "2026-05-15T15:00:00"
     },
     "Bloodmarks": {
-      "name": "Bloodmarks",
       "type": "faction",
       "status": "active",
       "links": [
@@ -1457,7 +1484,6 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "Envisagers": {
-      "name": "Envisagers",
       "type": "faction",
       "status": "active",
       "links": [
@@ -1471,7 +1497,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "Ghostbloods": {
-      "name": "Ghostbloods",
       "type": "faction",
       "status": "active",
       "links": [
@@ -1494,7 +1519,6 @@
       "last_updated": "2026-05-13T23:29:00"
     },
     "Knights of Dusk": {
-      "name": "Knights of Dusk",
       "type": "faction",
       "status": "active",
       "links": [
@@ -1515,8 +1539,33 @@
       ],
       "last_updated": "2026-05-18T12:00:00"
     },
+    "Sadeas": {
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Alethkar]]",
+        "[[House Sathir]]",
+        "[[Highlady Marise Sathir]]",
+        "[[Highlord Kethren Sathir]]",
+        "[[Amaram]]",
+        "[[Tien]]",
+        "[[Vamah]]",
+        "[[Truthkeepers]]",
+        "[[Possessed]]",
+        "[[Knights of Dusk]]",
+        "[[Dalen]]",
+        "[[Dillind]]",
+        "[[Mikeyel Franzay]]",
+        "[[Toralin Roshone]]"
+      ],
+      "tags": [
+        "#faction",
+        "#alethi",
+        "#military"
+      ],
+      "last_updated": "2024-05-20T10:00:00"
+    },
     "Silent Oath": {
-      "name": "Silent Oath",
       "type": "faction",
       "status": "active",
       "links": [
@@ -1531,7 +1580,6 @@
       "last_updated": "2026-05-13T23:33:15"
     },
     "Sons of Honor": {
-      "name": "Sons of Honor",
       "type": "faction",
       "status": "active",
       "links": [
@@ -1545,7 +1593,6 @@
       "last_updated": "2026-05-16T16:00:00"
     },
     "Truthkeepers": {
-      "name": "Truthkeepers",
       "type": "faction",
       "status": "active",
       "links": [
@@ -1566,8 +1613,33 @@
       ],
       "last_updated": "2026-05-15T12:00:00"
     },
+    "Vamah": {
+      "type": "faction",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Highlord Paladar]]",
+        "[[General Spade]]",
+        "[[General Odrin Lesh]]",
+        "[[Sadeas]]",
+        "[[Knights of Dusk]]",
+        "[[Truthkeepers]]",
+        "[[Citylord Nilar Yenev]]",
+        "[[Stringken]]",
+        "[[Ashusa]]",
+        "[[Possessed]]",
+        "[[Bloodmarks]]",
+        "[[House Sathir]]"
+      ],
+      "tags": [
+        "#faction",
+        "#alethi",
+        "#revolar",
+        "#antagonist"
+      ],
+      "last_updated": "2024-05-20T10:00:00"
+    },
     "Veristitalians": {
-      "name": "Veristitalians",
       "type": "faction",
       "status": "active",
       "links": [
@@ -1584,7 +1656,6 @@
       "last_updated": "2026-05-14T18:00:00"
     },
     "Bitter Leaf Apothecary": {
-      "name": "Bitter Leaf Apothecary",
       "type": "location",
       "status": "active",
       "links": [
@@ -1597,7 +1668,6 @@
       "last_updated": "2026-05-14T18:30:00"
     },
     "Bodenar": {
-      "name": "Bodenar",
       "type": "location",
       "status": "active",
       "links": [
@@ -1613,7 +1683,6 @@
       "last_updated": "2026-05-17T12:00:00"
     },
     "Boundless Bazaar": {
-      "name": "Boundless Bazaar",
       "type": "location",
       "status": "active",
       "links": [
@@ -1627,7 +1696,6 @@
       "last_updated": "2026-05-14T20:00:00"
     },
     "Cream of the Crem": {
-      "name": "Cream of the Crem",
       "type": "location",
       "status": "active",
       "links": [
@@ -1641,7 +1709,6 @@
       "last_updated": "2026-05-19T12:00:00"
     },
     "Darkstone Forest": {
-      "name": "Darkstone Forest",
       "type": "location",
       "status": "active",
       "links": [
@@ -1655,7 +1722,6 @@
       "last_updated": "2026-05-15T12:00:00"
     },
     "Hearthstone": {
-      "name": "Hearthstone",
       "type": "location",
       "status": "active",
       "links": [
@@ -1668,7 +1734,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "Hobbleken": {
-      "name": "Hobbleken",
       "type": "location",
       "status": "active",
       "links": [
@@ -1680,7 +1745,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "House Sathir": {
-      "name": "House Sathir",
       "type": "location",
       "status": "active",
       "links": [
@@ -1703,7 +1767,6 @@
       "last_updated": "2024-05-19T16:00:00"
     },
     "Kharbranth": {
-      "name": "Kharbranth",
       "type": "location",
       "status": "active",
       "links": [],
@@ -1714,7 +1777,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Revolar": {
-      "name": "Revolar",
       "type": "location",
       "status": "active",
       "links": [
@@ -1740,7 +1802,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "Salimset": {
-      "name": "Salimset",
       "type": "location",
       "status": "active",
       "links": [
@@ -1757,12 +1818,11 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "Scarstone Quarter": {
-      "name": "Scarstone Quarter",
       "type": "location",
       "status": "active",
       "links": [
         "[[Revolar]]",
-        "[[1172-02-22 The Abandoned Foundry]]",
+        "[[1172-02-22 The Foundry Chase]]",
         "[[Bloodmarks]]",
         "[[Possessed]]",
         "[[Stackhouses]]"
@@ -1774,7 +1834,6 @@
       "last_updated": "2024-05-18T00:00:00"
     },
     "Stackhouses": {
-      "name": "Stackhouses",
       "type": "location",
       "status": "active",
       "links": [
@@ -1792,7 +1851,6 @@
       "last_updated": "2026-05-16T12:00:00"
     },
     "Stringken": {
-      "name": "Stringken",
       "type": "location",
       "status": "active",
       "links": [
@@ -1806,7 +1864,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "Sun's Zenith": {
-      "name": "Sun's Zenith",
       "type": "location",
       "status": "active",
       "links": [
@@ -1820,7 +1877,6 @@
       "last_updated": "2026-05-15T12:00:00"
     },
     "Talinan": {
-      "name": "Talinan",
       "type": "location",
       "status": "active",
       "links": [
@@ -1833,7 +1889,6 @@
       "last_updated": "2026-05-14T14:00:00"
     },
     "The Vamah Archivum": {
-      "name": "The Vamah Archivum",
       "type": "location",
       "status": "active",
       "links": [
@@ -1849,7 +1904,6 @@
       "last_updated": "2026-05-15T12:00:00"
     },
     "Truthkeeper Camp": {
-      "name": "Truthkeeper Camp",
       "type": "location",
       "status": "active",
       "links": [
@@ -1865,8 +1919,20 @@
       ],
       "last_updated": "2026-05-13T23:29:00"
     },
+    "Whitespine's Fang": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Sweeper]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-05-19T12:00:00"
+    },
     "Sila's Allegiance": {
-      "name": "Sila's Allegiance",
       "type": "hook",
       "status": "active",
       "links": [
@@ -1886,7 +1952,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "Spy of Dusk": {
-      "name": "Spy of Dusk",
       "type": "hook",
       "status": "active",
       "links": [
@@ -1901,8 +1966,7 @@
       ],
       "last_updated": "2026-05-15T16:30:00"
     },
-    "Day of Recreance": {
-      "name": "Day of Recreance",
+    "-230-01-01 Day of Recreance": {
       "type": "event",
       "status": "completed",
       "links": [],
@@ -1911,8 +1975,7 @@
       ],
       "last_updated": "2026-05-16T22:27:44"
     },
-    "Aharietem": {
-      "name": "Aharietem",
+    "-3300-01-01 Aharietem": {
       "type": "event",
       "status": "completed",
       "links": [],
@@ -1921,8 +1984,7 @@
       ],
       "last_updated": "2026-05-16T19:22:15"
     },
-    "The Arrival": {
-      "name": "The Arrival",
+    "1172-01-11 The Arrival": {
       "type": "event",
       "status": "completed",
       "links": [
@@ -1935,8 +1997,7 @@
       ],
       "last_updated": "2026-05-16T18:18:32"
     },
-    "The Shellmite Attack": {
-      "name": "The Shellmite Attack",
+    "1172-01-12 The Shellmite Attack": {
       "type": "event",
       "status": "completed",
       "links": [
@@ -1949,8 +2010,7 @@
       ],
       "last_updated": "2026-05-13T23:29:00"
     },
-    "Morrow' Execution": {
-      "name": "Morrow' Execution",
+    "1172-01-35 Morrow's Execution": {
       "type": "event",
       "status": "completed",
       "links": [
@@ -1963,8 +2023,7 @@
       ],
       "last_updated": "2026-05-16T18:45:50"
     },
-    "The Stackhouse Slavers": {
-      "name": "The Stackhouse Slavers",
+    "1172-02-16 The Stackhouse Slavers": {
       "type": "event",
       "status": "completed",
       "links": [
@@ -1990,8 +2049,7 @@
       ],
       "last_updated": "2026-05-16T12:00:00"
     },
-    "The Cinder Evacuation": {
-      "name": "The Cinder Evacuation",
+    "1172-02-20 The Cinder Evacuation": {
       "type": "event",
       "status": "active",
       "links": [
@@ -2011,8 +2069,7 @@
       ],
       "last_updated": "2026-05-18T12:00:00"
     },
-    "The Abandoned Foundry": {
-      "name": "The Abandoned Foundry",
+    "1172-02-22 The Foundry Chase": {
       "type": "event",
       "status": "active",
       "links": [
@@ -2032,8 +2089,7 @@
       ],
       "last_updated": "2024-05-18T00:00:00"
     },
-    "The Darkstone Siege": {
-      "name": "The Darkstone Siege",
+    "1172-02-32 The Darkstone Siege": {
       "type": "event",
       "status": "active",
       "links": [
@@ -2057,7 +2113,6 @@
       "last_updated": "2026-05-18T12:00:00"
     },
     "The Experimental Steamship": {
-      "name": "The Experimental Steamship",
       "type": "event",
       "status": "planned",
       "links": [
@@ -2076,7 +2131,6 @@
       "last_updated": "2026-05-17T12:00:00"
     },
     "Cremwidow Poison": {
-      "name": "Cremwidow Poison",
       "type": "item",
       "status": "active",
       "links": [
@@ -2088,7 +2142,6 @@
       "last_updated": "2026-05-17T00:00:00"
     },
     "Cuisine of Roshar": {
-      "name": "Cuisine of Roshar",
       "type": "lore",
       "status": "active",
       "links": [
@@ -2102,7 +2155,6 @@
       "last_updated": "2026-05-19T12:00:00"
     },
     "Flora and Fauna": {
-      "name": "Flora and Fauna",
       "type": "lore",
       "status": "active",
       "links": [
@@ -2114,7 +2166,6 @@
       "last_updated": "2026-05-16T22:25:46"
     },
     "Minor NPCs": {
-      "name": "Minor NPCs",
       "type": "lore",
       "status": "active",
       "links": [
@@ -2141,7 +2192,6 @@
       "last_updated": "2024-05-19T14:00:00"
     },
     "Nurian Gems": {
-      "name": "Nurian Gems",
       "type": "lore",
       "status": "active",
       "links": [
@@ -2157,7 +2207,6 @@
       "last_updated": "2026-05-17T12:00:00"
     },
     "Orders of the Knights Radiant": {
-      "name": "Orders of the Knights Radiant",
       "type": "lore",
       "status": "active",
       "links": [
@@ -2192,7 +2241,6 @@
       "last_updated": "2024-05-19T12:00:00"
     },
     "Possessed": {
-      "name": "Possessed",
       "type": "lore",
       "status": "active",
       "links": [
@@ -2208,7 +2256,6 @@
       "last_updated": "2024-05-19T12:00:00"
     },
     "Prophecy of Ten Keys": {
-      "name": "Prophecy of Ten Keys",
       "type": "lore",
       "status": "active",
       "links": [],
@@ -2220,7 +2267,6 @@
       "last_updated": "2024-05-19T15:00:00"
     },
     "Tablet of Eleven Cities": {
-      "name": "Tablet of Eleven Cities",
       "type": "lore",
       "status": "active",
       "links": [
@@ -2246,8 +2292,16 @@
       ],
       "last_updated": "2024-05-19T15:00:00"
     },
+    "The Candle and the Mirror": {
+      "type": "lore",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#location"
+      ],
+      "last_updated": "2026-05-16T18:21:53"
+    },
     "The Steamship's Secret": {
-      "name": "The Steamship's Secret",
       "type": "lore",
       "status": "active",
       "links": [
@@ -2266,7 +2320,6 @@
       "last_updated": "2026-05-17T12:00:00"
     },
     "Cadence": {
-      "name": "Cadence",
       "type": "spren",
       "status": "active",
       "links": [
@@ -2281,7 +2334,6 @@
       "last_updated": "2026-05-13T23:35:12"
     },
     "Dreamwaker": {
-      "name": "Dreamwaker",
       "type": "spren",
       "status": "active",
       "links": [
@@ -2296,7 +2348,6 @@
       "last_updated": "2024-05-19T15:00:00"
     },
     "Kun'ahu": {
-      "name": "Kun'ahu",
       "type": "spren",
       "status": "active",
       "links": [
@@ -2310,7 +2361,6 @@
       "last_updated": "2026-05-13T23:29:00"
     },
     "Pyre": {
-      "name": "Pyre",
       "type": "spren",
       "status": "active",
       "links": [
@@ -2325,7 +2375,6 @@
       "last_updated": "2026-05-13T23:29:00"
     },
     "Verdae": {
-      "name": "Verdae",
       "type": "spren",
       "status": "active",
       "links": [
@@ -2339,7 +2388,6 @@
       "last_updated": "2026-05-13T23:29:00"
     },
     "Viscose": {
-      "name": "Viscose",
       "type": "spren",
       "status": "active",
       "links": [

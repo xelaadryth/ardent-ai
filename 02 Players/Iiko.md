@@ -6,7 +6,7 @@ tags:
   - "#truthwatcher"
   - "#nurian"
   - "#envoy"
-last_updated: 2024-05-19T15:00:00
+last_updated: 2026-05-20T12:00:00
 player: Truong
 spren: "[[Dreamwaker]]"
 ---
@@ -27,6 +27,7 @@ As part of their transition into [[Revolar]], Iiko meets [[Ardent Kaelis]], whos
 - **Discover Truth:** Determine if the "Possessed" are truly mad or perceiving deeper truths.
 
 # Hooks
+- [[The Devotary Call]]
 - Their search for cosmic truth could lead to discoveries beyond Roshar.
 
 # Connections
