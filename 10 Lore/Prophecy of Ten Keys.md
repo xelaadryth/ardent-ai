@@ -9,7 +9,7 @@ last_updated: 2024-05-19T15:00:00
 ---
 # Description
 
-A cryptic and epic prophecy delivered to the Mistspren Dreamwaker by another spren named Glys. It outlines the necessity of uniting ten individuals to stave off the Final Desolation.
+A cryptic and epic prophecy delivered to the Mistspren Dreamwaker by another spren named Glys that only the party knows about. It outlines the necessity of uniting ten individuals to stave off the Final Desolation.
 
 ## Details
 
