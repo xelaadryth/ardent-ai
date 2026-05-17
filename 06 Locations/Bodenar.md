@@ -10,13 +10,13 @@ location: "[[Jah Keved]]"
 ---
 
 # Description
-A moderately-sized river city in Jah Keved, located on the northern side of the Horneater Peaks. It serves as a primary hub for merchant vessels traveling the river toward Herdaz and the Tarat Sea.
+A moderately-sized river city in Jah Keved, located on the northeastern side of the Horneater Peaks. It serves as a terminal port for merchant vessels traveling the river toward Herdaz and the Tarat Sea. 
 
 # Atmosphere
-Bustling and mercantile. The city is a forest of masts and tow-lines, filled with the sound of shouting sailors and the lowing of chulls. It has a high concentration of jewelers and treasuries, maintaining standard weights for gemstones.
+Bustling and mercantile. The city is a forest of masts and tow-lines, filled with the sound of shouting sailors and the lowing of chulls. It has a high concentration of jewelers and treasuries, maintaining standard weights for gemstones, as well as artifabrians investigating the use of the waterfalls for power.
 
 # Notable Features
-- **The Towpaths:** Long banks where teams of chulls pull merchant vessels against the river's current using massive tow-lines.
+- **The Towpaths:** Long banks where teams of chulls pull merchant vessels into the city against the river's current using massive tow-lines.
 - **The Jewelers' Quarter:** Famous for its skilled artisans who can Soulcast glass around gems to preserve their value.
 - **The Treasury:** A fortified building where the city's standard weights and measures are kept.
 

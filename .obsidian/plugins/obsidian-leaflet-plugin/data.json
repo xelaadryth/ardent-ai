@@ -3,11 +3,11 @@
     {
       "id": "map-revolar",
       "locked": false,
-      "lastAccessed": 1779037145009,
+      "lastAccessed": 1779040043943,
       "markers": [
         {
           "id": "ID_c90bc95a592b",
-          "type": "default",
+          "type": "District",
           "loc": [
             -810.0625,
             2048
@@ -19,12 +19,12 @@
           "percent": null,
           "description": null,
           "minZoom": null,
-          "maxZoom": null,
+          "maxZoom": 0,
           "tooltip": "hover"
         },
         {
           "id": "ID_6b2b195b386a",
-          "type": "default",
+          "type": "District",
           "loc": [
             -576,
             2056
@@ -39,7 +39,7 @@
           ],
           "description": null,
           "minZoom": null,
-          "maxZoom": null,
+          "maxZoom": 0,
           "tooltip": "hover"
         },
         {
@@ -148,6 +148,26 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca28f968dac8",
+          "type": "Event",
+          "loc": [
+            -904,
+            1092
+          ],
+          "link": "1172-02-20 The Cinder Evacuation",
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.37029501525940994,
+            0.395970214629873
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -159,7 +179,7 @@
     {
       "id": "map-roshar",
       "locked": false,
-      "lastAccessed": 1779037145009,
+      "lastAccessed": 1779040043943,
       "markers": [
         {
           "id": "ID_59bab8184a1a",
@@ -180,7 +200,7 @@
         },
         {
           "id": "ID_aada7a6bcb3a",
-          "type": "default",
+          "type": "Minor",
           "loc": [
             -357.87890625,
             1310
@@ -196,7 +216,7 @@
         },
         {
           "id": "ID_785a2a8b18b9",
-          "type": "default",
+          "type": "Minor",
           "loc": [
             -359,
             1305
@@ -237,14 +257,17 @@
           "id": "ID_18b95879ea2b",
           "type": "Town",
           "loc": [
-            -344.12890625,
-            1317.75
+            -344.25,
+            1317
           ],
           "link": "Salimset",
           "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.75214163335237,
+            0.3825
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -255,14 +278,14 @@
           "type": "Secret",
           "loc": [
             -343.25,
-            1314.75
+            1314.5
           ],
           "link": "Truthkeeper Camp",
           "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.750856653340948,
+            0.7507138777841234,
             0.3813888888888889
           ],
           "description": null,
@@ -277,11 +300,124 @@
             -347.09765625,
             1234.5
           ],
+          "link": "Tomat",
           "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Tomat",
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8aab880a1a58",
+          "type": "Minor",
+          "loc": [
+            -339,
+            1316.75
+          ],
+          "link": "Hobbleken",
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7519988577955454,
+            0.37666666666666665
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb0a5a79dad9",
+          "type": "Minor",
+          "loc": [
+            -334,
+            1318.5
+          ],
+          "link": "Stringken",
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7529982866933181,
+            0.3711111111111111
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29f999fa6b6a",
+          "type": "Building",
+          "loc": [
+            -331.75,
+            1317.25
+          ],
+          "link": "House Sathir",
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7522844089091948,
+            0.3686111111111111
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d89b5afa083b",
+          "type": "Town",
+          "loc": [
+            -437,
+            1205.75
+          ],
+          "link": "Bodenar",
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6886065105653912,
+            0.4855555555555556
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c94b284a8978",
+          "type": "Town",
+          "loc": [
+            -433.84765625,
+            879.5
+          ],
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Khria's Hometown",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79386bfbe8fa",
+          "type": "Secret",
+          "loc": [
+            -440.59765625,
+            1149.75
+          ],
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The Perpendicularity",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -297,7 +433,7 @@
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#a80000",
+    "color": "#ffffff",
     "transform": {
       "size": 6,
       "x": 0,
@@ -358,6 +494,38 @@
       "iconName": "exclamation-triangle",
       "color": "#d7bf1d",
       "alpha": 0.55,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Minor",
+      "iconName": "square",
+      "color": "#a80000",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "District",
+      "iconName": "dot-circle",
+      "color": "#038e01",
+      "alpha": 1,
       "layer": true,
       "transform": {
         "size": 6,
