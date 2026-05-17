@@ -6,7 +6,7 @@ tags:
   - "#ardent"
   - "#scholar"
   - "#alethi"
-last_updated: 2026-05-20T12:00:00
+last_updated: 2026-05-20T13:00:00
 faction:
 location: "[[Revolar]]"
 ---
@@ -29,3 +29,4 @@ Located in [[Revolar]], Kaelis has encountered [[Iiko]]. Recognizing their uniqu
 
 # Connections
 - [[Iiko]]: His potential student and successor.
+- [[Ardent Vedelis]]: His close friend and fellow scholar, whose death he mourns.

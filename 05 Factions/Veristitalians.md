@@ -5,7 +5,7 @@ tags:
   - "#faction"
   - "#scholar"
   - "#devotary"
-last_updated: 2026-05-14T18:00:00
+last_updated: 2026-05-20T13:00:00
 ---
 # Description
 A secretive and scholarly sub-faction within the Vorin Church. Unlike those who study history for religious or political gain, the Veristitalians seek the "truth of what happened," regardless of whether it aligns with current orthodoxies or the desires of powerful lighteyes.
@@ -29,7 +29,6 @@ WHERE faction = this.file.link
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
+- [[Ardent Vedelis]]
 - [[Jasnah Kholin]]
-
-
 <!-- SerializedQuery END -->

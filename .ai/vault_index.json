@@ -160,17 +160,13 @@
         "[[1172-02-20 The Cinder Evacuation]]",
         "[[1172-02-22 The Foundry Chase]]",
         "[[1172-02-32 The Darkstone Siege]]",
-        "[[Devotary of Sincerity]]",
-        "[[Vorn]]",
-        "[[Bodenar]]",
-        "[[Nurian Gems]]",
-        "[[Kuma]]",
-        "[[Stackhouses]]",
-        "[[Vedelis]]",
-        "[[Lavrik]]",
-        "[[N'tal]]",
+        "[[N'tal's Vendetta]]",
+        "[[New Technology]]",
         "[[Sila's Allegiance]]",
         "[[Spy of Dusk]]",
+        "[[The Devotary Call]]",
+        "[[The Highlord's Greed]]",
+        "[[Tracking the Knights of Dusk]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
       ],
@@ -179,7 +175,7 @@
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2026-05-20T12:00:00"
     },
     "03 Stormblessed Arc": {
       "type": "arc",
@@ -284,7 +280,8 @@
       "links": [
         "[[Dreamwaker]]",
         "[[Revolar]]",
-        "[[Ardent Kaelis]]"
+        "[[Ardent Kaelis]]",
+        "[[The Devotary Call]]"
       ],
       "tags": [
         "#player",
@@ -292,7 +289,7 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2024-05-19T15:00:00"
+      "last_updated": "2026-05-20T12:00:00"
     },
     "Kuma": {
       "type": "player",
@@ -303,6 +300,7 @@
         "[[Nurian Gems]]",
         "[[The Experimental Steamship]]",
         "[[04 Nurian Gems Arc]]",
+        "[[New Technology]]",
         "[[Ilsh]]",
         "[[Vorn]]"
       ],
@@ -312,7 +310,7 @@
         "#nurian",
         "#maker"
       ],
-      "last_updated": "2026-05-17T12:00:00"
+      "last_updated": "2026-05-20T12:00:00"
     },
     "Mallow": {
       "type": "player",
@@ -336,7 +334,8 @@
         "[[Pyre]]",
         "[[Grand Justicar Malice]]",
         "[[Arbiter Jalis]]",
-        "[[1172-02-22 The Foundry Chase]]"
+        "[[1172-02-22 The Foundry Chase]]",
+        "[[N'tal's Vendetta]]"
       ],
       "tags": [
         "#player",
@@ -344,7 +343,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2024-05-18T00:00:00"
+      "last_updated": "2026-05-20T12:00:00"
     },
     "Adjudicator Peton": {
       "type": "npc",
@@ -404,6 +403,7 @@
       "links": [
         "[[Revolar]]",
         "[[Iiko]]",
+        "[[The Devotary Call]]",
         "[[Tablet of Eleven Cities]]"
       ],
       "tags": [
@@ -412,7 +412,7 @@
         "#scholar",
         "#alethi"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2026-05-20T12:00:00"
     },
     "Ardent Vedelis": {
       "type": "npc",
@@ -674,6 +674,7 @@
         "[[1172-02-20 The Cinder Evacuation]]",
         "[[Knights of Dusk]]",
         "[[Truthkeepers]]",
+        "[[The Highlord's Greed]]",
         "[[Chip]]"
       ],
       "tags": [
@@ -682,7 +683,7 @@
         "#alethi",
         "#highlord"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2026-05-20T12:00:00"
     },
     "Ilsh": {
       "type": "npc",
@@ -1932,6 +1933,47 @@
       ],
       "last_updated": "2026-05-19T12:00:00"
     },
+    "N'tal's Vendetta": {
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[N'tal]]",
+        "[[Bloodmarks]]",
+        "[[Arbiter Jalis]]",
+        "[[Grand Justicar Malice]]",
+        "[[Driftwards]]",
+        "[[Nurian Gems]]"
+      ],
+      "tags": [
+        "#hook",
+        "#n_tal",
+        "#revenge",
+        "#bloodmarks"
+      ],
+      "last_updated": "2026-05-20T12:00:00"
+    },
+    "New Technology": {
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[Vorn]]",
+        "[[Kuma]]",
+        "[[The Experimental Steamship]]",
+        "[[Bodenar]]",
+        "[[Nurian Gems]]",
+        "[[Stoneweave]]",
+        "[[Revolar]]",
+        "[[Viscose]]",
+        "[[Nurian Gems|Nurian Gem]]"
+      ],
+      "tags": [
+        "#hook",
+        "#kuma",
+        "#nurian_gems",
+        "#fabrial"
+      ],
+      "last_updated": "2026-05-20T12:00:00"
+    },
     "Sila's Allegiance": {
       "type": "hook",
       "status": "active",
@@ -1965,6 +2007,67 @@
         "#revolar"
       ],
       "last_updated": "2026-05-15T16:30:00"
+    },
+    "The Devotary Call": {
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[Ardent Kaelis]]",
+        "[[Iiko]]",
+        "[[Devotary of Sincerity]]",
+        "[[The Vamah Archivum]]",
+        "[[Veristitalians]]",
+        "[[Tablet of Eleven Cities]]"
+      ],
+      "tags": [
+        "#hook",
+        "#iiko",
+        "#devotary_of_sincerity",
+        "#scholar"
+      ],
+      "last_updated": "2026-05-20T12:00:00"
+    },
+    "The Highlord's Greed": {
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[Highlord Paladar]]",
+        "[[Bloodmarks]]",
+        "[[Revolar]]",
+        "[[The Vamah Archivum]]",
+        "[[Sun's Zenith]]",
+        "[[Nomos]]",
+        "[[The Bastion]]",
+        "[[General Odrin Lesh]]"
+      ],
+      "tags": [
+        "#hook",
+        "#corruption",
+        "#highlord_paladar",
+        "#bloodmarks"
+      ],
+      "last_updated": "2026-05-20T12:00:00"
+    },
+    "Tracking the Knights of Dusk": {
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[Stackhouses]]",
+        "[[Truthkeepers]]",
+        "[[Lila]]",
+        "[[Stoneweave]]",
+        "[[Darkstone Forest]]",
+        "[[Kuma]]",
+        "[[Vedelis]]",
+        "[[Stormbristle]]"
+      ],
+      "tags": [
+        "#hook",
+        "#knights_of_dusk",
+        "#khria",
+        "#investigation"
+      ],
+      "last_updated": "2026-05-20T12:00:00"
     },
     "-230-01-01 Day of Recreance": {
       "type": "event",
