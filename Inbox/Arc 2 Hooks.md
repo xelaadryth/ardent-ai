@@ -1,0 +1,1 @@
+Can you generate a hook document for each of the hooks in 02 Knights of Dusk Arc that don't already have their own file, and in each of them describe a few ways the party might notice or find out about the hook? You should update or create related files to supplement the new information.
