@@ -1,5 +1,4 @@
 ---
-name: N'tal
 type: player
 status: active
 tags:
@@ -28,12 +27,12 @@ A Nurian worldhopper posing as an Alethi merchant, N'tal grew up in a family of 
 - Find the Undertaker in Revolar and learn the truth about his family's deaths.
 - Identify the mysterious man found dead alongside his family.
 - Hunt down [[Arbiter Jalis]], the man who participated in his family's slaughter.
-- Face the trial of [[1172-02-22 The Abandoned Foundry]] to manifest his true potential.
+- Face the trial of [[1172-02-22 The Foundry Chase]] to manifest his true potential.
 
 # Hooks
 - The Undertaker may know more than N'tal is prepared to hear.
 - The mystery man could connect his family to a much larger conspiracy.
-- Pyre's destructive tendencies may push N'tal toward dangerous choices during the chase in [[1172-02-22 The Abandoned Foundry]].
+- Pyre's destructive tendencies may push N'tal toward dangerous choices during the chase in [[1172-02-22 The Foundry Chase]].
 
 # Connections
 - [[Pyre]] — His radical and spiteful Ashspren.

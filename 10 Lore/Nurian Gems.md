@@ -1,5 +1,4 @@
 ---
-name: Nurian Gems
 type: lore
 status: active
 tags:

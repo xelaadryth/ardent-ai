@@ -1,5 +1,4 @@
 ---
-name: Talinan
 type: location
 status: active
 tags:

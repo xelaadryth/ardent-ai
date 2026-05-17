@@ -1,5 +1,4 @@
 ---
-name: 012 Following Chip
 type: session
 status: completed
 tags:

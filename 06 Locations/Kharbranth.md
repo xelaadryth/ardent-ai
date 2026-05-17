@@ -1,5 +1,4 @@
 ---
-name: Kharbranth
 type: location
 status: active
 tags:

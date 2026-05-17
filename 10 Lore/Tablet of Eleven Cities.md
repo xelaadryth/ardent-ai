@@ -1,5 +1,4 @@
 ---
-name: Tablet of Eleven Cities
 type: lore
 status: active
 tags:

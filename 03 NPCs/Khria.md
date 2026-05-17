@@ -1,5 +1,4 @@
 ---
-name: Khria
 type: npc
 status: active
 tags:

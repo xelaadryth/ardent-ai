@@ -1,5 +1,4 @@
 ---
-name: Hobbleken
 type: location
 status: active
 tags:

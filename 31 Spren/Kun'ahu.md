@@ -1,5 +1,4 @@
 ---
-name: Kun'ahu
 type: spren
 status: active
 tags:

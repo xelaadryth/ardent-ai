@@ -1,5 +1,4 @@
 ---
-name: 04 Nurian Gems Arc
 type: arc
 status: planned
 tags:

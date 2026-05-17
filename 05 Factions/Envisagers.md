@@ -1,5 +1,4 @@
 ---
-name: Envisagers
 type: faction
 status: active
 tags:

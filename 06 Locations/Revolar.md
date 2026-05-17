@@ -1,5 +1,4 @@
 ---
-name: Revolar
 type: location
 status: active
 tags:
@@ -56,6 +55,7 @@ SORT file.name ASC
 <!-- SerializedQuery: LIST FROM "06 Locations" WHERE location = this.file.link OR location.location = this.file.link SORT file.name ASC -->
 - [[Bitter Leaf Apothecary]]
 - [[Boundless Bazaar]]
+- [[Cream of the Crem]]
 - [[Darkstone Forest]]
 - [[Scarstone Quarter]]
 - [[Stackhouses]]

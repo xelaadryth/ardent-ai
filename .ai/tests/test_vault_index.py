@@ -4,7 +4,6 @@ from pkg.vault import parser
 
 def test_build_index_entry_extracts_frontmatter_links():
     content = """---
-name: Aaron
 type: npc
 tags:
   - "#noble"
@@ -13,11 +12,9 @@ tags:
 
     entry = parser.build_index_entry(content)
 
-    assert "name" in entry
     assert "type" in entry
     assert "links" in entry
     assert "tags" in entry
-    assert entry["name"] == "Aaron"
     assert entry["type"] == "npc"
     assert "[[Town]]" in entry["links"]
     assert "[[Abbey]]" in entry["links"]
@@ -31,7 +28,6 @@ def test_build_index_entry_handles_missing_frontmatter():
 
     entry = parser.build_index_entry(content)
 
-    assert entry["name"] == ""
     assert entry["type"] == ""
     assert entry["links"] == []
     assert entry["tags"] == []
@@ -45,7 +41,6 @@ def test_get_folder_from_type_returns_folder_prefix():
 
 def test_build_index_entry_preserves_last_updated_from_frontmatter():
     content = """---
-name: Aaron
 type: npc
 last_updated: 2023-01-01T00:00:00Z
 ---
@@ -60,7 +55,6 @@ Some content"""
 
 def test_build_index_entry_includes_status_from_frontmatter():
     content = """---
-name: Aaron
 type: npc
 status: active
 tags: ["warrior"]
@@ -70,6 +64,5 @@ Some content here."""
     entry = parser.build_index_entry(content)
 
     assert entry["status"] == "active"
-    assert entry["name"] == "Aaron"
     assert entry["type"] == "npc"
     assert entry["tags"] == ["warrior"]

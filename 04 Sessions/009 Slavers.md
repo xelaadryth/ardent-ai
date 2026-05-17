@@ -1,5 +1,4 @@
 ---
-name: 009 Slavers
 type: session
 status: completed
 tags:

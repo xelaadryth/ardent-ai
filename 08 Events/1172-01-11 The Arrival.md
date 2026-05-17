@@ -1,5 +1,4 @@
 ---
-name: The Arrival
 type: event
 status: completed
 tags:

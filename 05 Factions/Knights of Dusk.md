@@ -1,5 +1,4 @@
 ---
-name: Knights of Dusk
 type: faction
 status: active
 tags:

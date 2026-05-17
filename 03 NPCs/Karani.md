@@ -1,5 +1,4 @@
 ---
-name: Karani
 type: npc
 status: active
 tags:

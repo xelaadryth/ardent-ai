@@ -1,5 +1,4 @@
 ---
-name: Verdae
 type: spren
 status: active
 tags:

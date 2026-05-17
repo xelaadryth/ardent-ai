@@ -1,5 +1,4 @@
 ---
-name: Highlady Marise Sathir
 type: npc
 status: active
 tags:

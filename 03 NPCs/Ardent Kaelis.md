@@ -1,5 +1,4 @@
 ---
-name: Ardent Kaelis
 type: npc
 status: active
 tags:

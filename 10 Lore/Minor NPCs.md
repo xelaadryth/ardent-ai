@@ -1,5 +1,4 @@
 ---
-name: Minor NPCs
 type: lore
 status: active
 tags:

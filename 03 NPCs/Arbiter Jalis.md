@@ -1,5 +1,4 @@
 ---
-name: Arbiter Jalis
 type: npc
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: Ardent Vedelis
 type: npc
 status: inactive
 tags:

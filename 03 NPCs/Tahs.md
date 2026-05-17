@@ -1,5 +1,4 @@
 ---
-name: Tahs
 type: npc
 status: active
 tags:

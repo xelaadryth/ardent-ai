@@ -1,5 +1,4 @@
 ---
-name: Aharietem
 type: event
 status: completed
 tags:

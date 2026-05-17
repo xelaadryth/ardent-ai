@@ -1,5 +1,4 @@
 ---
-name: Vamah
 type: faction
 status: active
 tags:
@@ -41,4 +40,6 @@ SORT file.name ASC
 - [[Citylord Nilar Yenev]]
 - [[General Odrin Lesh]]
 - [[Highlord Paladar]]
+
+
 <!-- SerializedQuery END -->

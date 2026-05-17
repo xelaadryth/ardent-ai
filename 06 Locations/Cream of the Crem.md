@@ -1,5 +1,4 @@
 ---
-name: Cream of the Crem
 type: location
 status: active
 tags:

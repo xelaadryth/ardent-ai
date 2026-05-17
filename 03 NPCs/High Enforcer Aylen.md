@@ -1,5 +1,4 @@
 ---
-name: High Enforcer Aylen
 type: npc
 status: active
 tags:

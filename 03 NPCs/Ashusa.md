@@ -1,5 +1,4 @@
 ---
-name: Ashusa
 type: npc
 status: active
 tags:

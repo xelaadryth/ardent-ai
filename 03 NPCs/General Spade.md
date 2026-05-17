@@ -1,5 +1,4 @@
 ---
-name: General Spade
 type: npc
 status: active
 tags:

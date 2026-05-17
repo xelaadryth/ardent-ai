@@ -1,5 +1,4 @@
 ---
-name: Dalen
 type: npc
 status: active
 tags:

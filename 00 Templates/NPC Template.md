@@ -1,5 +1,4 @@
 ---
-name: <% tp.file.title %>
 type: npc
 status: active
 tags:

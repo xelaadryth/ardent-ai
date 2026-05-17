@@ -1,5 +1,4 @@
 ---
-name: Orders of the Knights Radiant
 type: lore
 status: active
 tags:

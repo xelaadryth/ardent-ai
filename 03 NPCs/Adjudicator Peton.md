@@ -1,5 +1,4 @@
 ---
-name: Adjudicator Peton
 type: npc
 status: active
 tags:

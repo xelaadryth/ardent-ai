@@ -1,5 +1,4 @@
 ---
-name: Lirin
 type: npc
 status: active
 tags:

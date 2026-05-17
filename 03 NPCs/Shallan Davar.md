@@ -1,5 +1,4 @@
 ---
-name: Shallan Davar
 type: npc
 status: active
 tags:

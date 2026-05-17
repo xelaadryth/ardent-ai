@@ -1,5 +1,4 @@
 ---
-name: Sadeas
 type: faction
 status: active
 tags:
@@ -41,4 +40,6 @@ SORT file.name ASC
 - [[Mikeyel Franzay]]
 - [[Tien]]
 - [[Toralin Roshone]]
+
+
 <!-- SerializedQuery END -->

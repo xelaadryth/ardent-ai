@@ -1,5 +1,4 @@
 ---
-name: House Sathir
 type: location
 status: active
 tags:

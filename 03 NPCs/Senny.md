@@ -1,5 +1,4 @@
 ---
-name: Senny
 type: npc
 status: active
 tags:

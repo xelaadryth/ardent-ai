@@ -1,5 +1,4 @@
 ---
-name: Cremwidow Poison
 type: item
 status: active
 tags:

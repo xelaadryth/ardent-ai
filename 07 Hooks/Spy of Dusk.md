@@ -1,5 +1,4 @@
 ---
-name: Spy of Dusk
 type: hook
 status: active
 tags:

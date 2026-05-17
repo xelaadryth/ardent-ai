@@ -1,5 +1,4 @@
 ---
-name: Silent Oath
 type: faction
 status: active
 tags:

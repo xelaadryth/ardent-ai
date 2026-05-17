@@ -1,5 +1,4 @@
 ---
-name: Bloodmarks
 type: faction
 status: active
 tags:

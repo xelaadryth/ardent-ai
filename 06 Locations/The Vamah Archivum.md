@@ -1,5 +1,4 @@
 ---
-name: The Vamah Archivum
 type: location
 status: active
 tags:

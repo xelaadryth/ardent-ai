@@ -1,5 +1,4 @@
 ---
-name: Day of Recreance
 type: event
 status: completed
 tags:

@@ -11,7 +11,7 @@ SORT file.name DESC
 | ------------------------------------------------------------------------------------- | ---------- | --------- |
 | [[The Experimental Steamship]]               | Party      | planned   |
 | [[1172-02-32 The Darkstone Siege]]       | Party      | active    |
-| [[1172-02-22 The Abandoned Foundry]]   | Party      | active    |
+| [[1172-02-22 The Foundry Chase]]           | Party      | active    |
 | [[1172-02-20 The Cinder Evacuation]]   | Party      | active    |
 | [[1172-02-16 The Stackhouse Slavers]] | Party      | completed |
 | [[1172-01-35 Morrow's Execution]]         | Party      | completed |

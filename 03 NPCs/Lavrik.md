@@ -1,5 +1,4 @@
 ---
-name: Lavrik
 type: npc
 status: inactive
 tags:

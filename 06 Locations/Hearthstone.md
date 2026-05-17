@@ -1,5 +1,4 @@
 ---
-name: Hearthstone
 type: location
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: Jasnah Kholin
 type: npc
 status: active
 tags:

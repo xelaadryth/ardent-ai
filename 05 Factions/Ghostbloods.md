@@ -1,5 +1,4 @@
 ---
-name: Ghostbloods
 type: faction
 status: active
 tags:

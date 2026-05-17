@@ -1,5 +1,4 @@
 ---
-name: Mikeyel Franzay
 type: npc
 status: active
 tags:

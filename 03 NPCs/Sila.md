@@ -1,5 +1,4 @@
 ---
-name: Sila
 type: npc
 status: active
 tags:

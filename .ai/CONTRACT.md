@@ -16,7 +16,6 @@ You must return a JSON document describing deterministic file operations to appl
 Every markdown file must contain YAML frontmatter.
 
 Required fields:
-- `name`
 - `type`
 - `status`
 - `tags`
@@ -24,7 +23,6 @@ Required fields:
 
 Rules:
 
-- `name` must match the file title.
 - `type` must match an existing template type.
 - `status` must be `active`, `inactive`, or `planned`.
 - `tags` must be a YAML list of `#camel_case` tags.
@@ -34,7 +32,6 @@ Example:
 
 ```yaml
 ---
-name: Aaron
 type: npc
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: 02 Knights of Dusk Arc
 type: arc
 status: active
 tags:
@@ -34,11 +33,6 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 	- [[Ardent Kaelis]]: An eccentric scholar who takes an interest in [[Iiko]].
 
 # Events
-- **Part 1: The Investigation:** The players track the Knights of Dusk's sabotage of supply lines and discover Spade's Radiant abilities.
-- [[1172-02-20 The Cinder Evacuation]]: A rescue mission at a burning manor that reveals pre-planned arson and the Knights' "terrorist" reputation.
-- **Part 2: The Confrontation:** The Silent Oath arrives to pass judgment on [[General Spade]] and his lieutenant [[Khria]].
-- **Part 3: The Flight:** The players must choose a side or simply survive as the Stone Forest becomes a battlefield, ultimately forcing them to flee [[Revolar]].
-- [[1172-02-32 The Darkstone Siege]]
 
 <!-- QueryToSerialize:
 LIST
@@ -48,7 +42,7 @@ SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
 - [[1172-02-20 The Cinder Evacuation]]
-- [[1172-02-22 The Abandoned Foundry]]
+- [[1172-02-22 The Foundry Chase]]
 - [[1172-02-32 The Darkstone Siege]]
 
 

@@ -1,5 +1,4 @@
 ---
-name: Kabsal
 type: npc
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: 010 Soulcaster and Shared Employers
 type: session
 status: completed
 tags:

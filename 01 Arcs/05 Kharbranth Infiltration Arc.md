@@ -1,5 +1,4 @@
 ---
-name: 05 Kharbranth Infiltration Arc
 type: arc
 status: planned
 tags:

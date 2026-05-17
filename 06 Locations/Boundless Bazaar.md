@@ -1,5 +1,4 @@
 ---
-name: Boundless Bazaar
 type: location
 status: active
 tags:

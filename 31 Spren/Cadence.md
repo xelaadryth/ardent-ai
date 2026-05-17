@@ -1,5 +1,4 @@
 ---
-name: Cadence
 type: spren
 status: active
 tags:

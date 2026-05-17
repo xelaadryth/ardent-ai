@@ -1,5 +1,4 @@
 ---
-name: Vorn
 type: npc
 status: active
 tags:

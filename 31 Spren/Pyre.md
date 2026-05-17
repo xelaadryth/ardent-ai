@@ -1,5 +1,4 @@
 ---
-name: Pyre
 type: spren
 status: active
 tags:

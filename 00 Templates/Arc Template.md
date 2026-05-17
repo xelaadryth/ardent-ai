@@ -1,5 +1,4 @@
 ---
-name: <% tp.file.title %>
 type: arc
 status: active
 tags:

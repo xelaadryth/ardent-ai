@@ -1,5 +1,4 @@
 ---
-name: Truthkeeper Camp
 type: location
 status: active
 tags:

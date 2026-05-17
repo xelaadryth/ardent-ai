@@ -1,5 +1,4 @@
 ---
-name: Truthkeepers
 type: faction
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: The Axelsmith
 type: npc
 status: active
 tags:

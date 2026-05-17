@@ -1,5 +1,4 @@
 ---
-name: Istrum
 type: npc
 status: active
 tags:

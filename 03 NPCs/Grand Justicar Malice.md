@@ -1,5 +1,4 @@
 ---
-name: Grand Justicar Malice
 type: npc
 status: active
 tags:

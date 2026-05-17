@@ -1,5 +1,4 @@
 ---
-name: Lila
 type: npc
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: Helaran
 type: npc
 status: active
 tags:

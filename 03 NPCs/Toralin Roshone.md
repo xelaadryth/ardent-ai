@@ -1,5 +1,4 @@
 ---
-name: Toralin Roshone
 type: npc
 status: active
 tags:

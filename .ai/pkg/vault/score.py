@@ -49,8 +49,7 @@ def score_entry(name: str, entry: dict, terms: list[str], query: str) -> int:
     """
     score = 0
     query_lower = query.lower().strip()
-    entry_name = str(entry.get("name", ""))
-    name_lower = entry_name.lower()
+    name_lower = name.lower()
     entry_type = str(entry.get("type", ""))
     type_lower = entry_type.lower()
     filename_lower = name.lower()

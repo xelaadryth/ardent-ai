@@ -1,5 +1,4 @@
 ---
-name: Fina
 type: player
 status: active
 tags:

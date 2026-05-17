@@ -1,5 +1,4 @@
 ---
-name: Sila's Allegiance
 type: hook
 status: active
 tags:

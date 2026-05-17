@@ -1,5 +1,4 @@
 ---
-name: General Odrin Lesh
 type: npc
 status: active
 tags:

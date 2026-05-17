@@ -1,5 +1,4 @@
 ---
-name: <% tp.file.title %>
 type: hook
 status: active
 tags:

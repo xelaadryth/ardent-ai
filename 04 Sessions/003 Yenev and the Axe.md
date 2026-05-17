@@ -1,5 +1,4 @@
 ---
-name: 003 Yenev and the Axe
 type: session
 status: completed
 tags:

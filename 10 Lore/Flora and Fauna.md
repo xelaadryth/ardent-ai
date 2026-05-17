@@ -1,5 +1,4 @@
 ---
-name: Flora and Fauna
 type: lore
 status: active
 tags:

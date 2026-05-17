@@ -1,5 +1,4 @@
 ---
-name: 004 The Sathir Estate
 type: session
 status: completed
 tags:

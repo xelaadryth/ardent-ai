@@ -1,5 +1,4 @@
 ---
-name: Sons of Honor
 type: faction
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: The Steamship's Secret
 type: lore
 status: active
 tags:

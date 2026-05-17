@@ -1,5 +1,4 @@
 ---
-name: Possessed
 type: lore
 status: active
 tags:

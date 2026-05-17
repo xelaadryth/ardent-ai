@@ -1,5 +1,4 @@
 ---
-name: Stackhouses
 type: location
 status: active
 tags:

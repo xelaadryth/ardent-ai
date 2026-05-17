@@ -1,5 +1,4 @@
 ---
-name: Ilsh
 type: npc
 status: active
 tags:

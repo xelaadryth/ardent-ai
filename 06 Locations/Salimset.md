@@ -1,5 +1,4 @@
 ---
-name: Salimset
 type: location
 status: active
 tags:

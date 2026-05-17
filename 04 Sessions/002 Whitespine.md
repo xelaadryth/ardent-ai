@@ -1,5 +1,4 @@
 ---
-name: 002 Whitespine
 type: session
 status: completed
 tags:

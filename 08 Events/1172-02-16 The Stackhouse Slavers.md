@@ -1,5 +1,4 @@
 ---
-name: The Stackhouse Slavers
 type: event
 status: completed
 tags:

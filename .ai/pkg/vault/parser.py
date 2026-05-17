@@ -68,7 +68,6 @@ def build_index_entry(content: str = "") -> dict:
     frontmatter = parse_frontmatter(content)
     
     # Extract required fields from frontmatter
-    name = frontmatter.get("name", "")
     entry_type = frontmatter.get("type", "")
     tags = frontmatter.get("tags", [])
     status = frontmatter.get("status", "")
@@ -87,7 +86,6 @@ def build_index_entry(content: str = "") -> dict:
         last_updated = last_updated.isoformat()
     
     return {
-        "name": name,
         "type": entry_type,
         "status": status,
         "links": links,

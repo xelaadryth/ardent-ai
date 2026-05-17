@@ -1,5 +1,4 @@
 ---
-name: The Darkstone Siege
 type: event
 status: active
 tags:

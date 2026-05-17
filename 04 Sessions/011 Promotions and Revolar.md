@@ -1,5 +1,4 @@
 ---
-name: 011 Promotions and Revolar
 type: session
 status: completed
 tags:

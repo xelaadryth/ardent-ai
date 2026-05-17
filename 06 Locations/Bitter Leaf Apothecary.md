@@ -1,5 +1,4 @@
 ---
-name: Bitter Leaf Apothecary
 type: location
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: 005 Hearthstone
 type: session
 status: completed
 tags:

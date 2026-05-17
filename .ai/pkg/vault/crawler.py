@@ -54,6 +54,5 @@ def build_index() -> dict:
     for relative_path in crawl_numbered_markdown_files():
         content = load_markdown(str(relative_path))
         entry = build_index_entry(content)
-        if entry.get("name"):
-            index[entry["name"]] = entry
+        index[entry["name"]] = relative_path.stem()
     return index

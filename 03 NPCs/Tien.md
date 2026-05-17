@@ -1,5 +1,4 @@
 ---
-name: Tien
 type: npc
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: Undertaker
 type: npc
 status: active
 tags:

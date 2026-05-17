@@ -1,5 +1,4 @@
 ---
-name: Scarstone Quarter
 type: location
 status: active
 tags:
@@ -12,7 +11,7 @@ location: "[[Revolar]]"
 East part of the city, partially in the Cremfall. Weak ground and unstable foundations, takes the brunt of the storms, in need of repair.
 
 # Notable Features
-- **[[1172-02-22 The Abandoned Foundry]]:** A derelict crem-iron processing facility now used by the [[Bloodmarks]] as a covert transfer point for prisoners and the [[Possessed]].
+- **[[1172-02-22 The Foundry Chase]]:** A derelict crem-iron processing facility now used by the [[Bloodmarks]] as a covert transfer point for prisoners and the [[Possessed]].
 - Barrel Row
 - Crowded Steppe
 - Lowstone Alley

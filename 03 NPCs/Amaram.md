@@ -1,5 +1,4 @@
 ---
-name: Amaram
 type: npc
 status: active
 tags:

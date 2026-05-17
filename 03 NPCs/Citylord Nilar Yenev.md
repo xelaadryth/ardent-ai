@@ -1,5 +1,4 @@
 ---
-name: Citylord Nilar Yenev
 type: npc
 status: active
 tags:

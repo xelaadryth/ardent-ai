@@ -1,5 +1,4 @@
 ---
-name: 03 Stormblessed Arc
 type: arc
 status: planned
 tags:

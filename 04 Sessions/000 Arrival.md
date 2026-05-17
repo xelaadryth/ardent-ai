@@ -1,5 +1,4 @@
 ---
-name: 000 Arrival
 type: session
 status: completed
 tags:

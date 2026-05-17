@@ -1,5 +1,4 @@
 ---
-name: Galeth-son-Thald
 type: player
 status: active
 tags:

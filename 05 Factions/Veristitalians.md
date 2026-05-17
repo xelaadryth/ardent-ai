@@ -1,5 +1,4 @@
 ---
-name: Veristitalians
 type: faction
 status: active
 tags:

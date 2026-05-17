@@ -1,5 +1,4 @@
 ---
-name: Iiko
 type: player
 status: active
 tags:

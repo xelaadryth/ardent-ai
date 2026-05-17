@@ -1,5 +1,4 @@
 ---
-name: Feedback
 type: lore
 status: active
 tags:
@@ -16,7 +15,7 @@ As your Ardent Scribe, I have evaluated the current structure of this vault. Whi
 Currently, locations like [[Stackhouses]] and [[Scarstone Quarter]] are flat entities. I suggest implementing a "Location Parent" field in the YAML frontmatter or a breadcrumb system in the description (e.g., `Part of: [[Revolar]]`). This allows for "Upward" navigation. For instance, the [[Revolar]] page could use a Dataview query to automatically list all locations that claim it as a parent, ensuring that as new districts or shops are added, the city map updates itself automatically.
 
 ### 2. Session-to-Scene Atomicity
-Your session notes (e.g., [[011 Promotions and Revolar]]) are excellent summaries. However, as the campaign grows, finding specific combat encounters or moral trials becomes difficult. Moving complex scenes like [[1172-02-22 The Abandoned Foundry]] or [[1172-02-20 The Cinder Evacuation]] into their own files was a great start. I recommend doing this for all major "set-piece" scenes. This allows me to link a character directly to a specific event (e.g., [[Jory]] -> [[1172-02-22 The Abandoned Foundry]]) without cluttering their page with the entire session's history.
+Your session notes (e.g., [[011 Promotions and Revolar]]) are excellent summaries. However, as the campaign grows, finding specific combat encounters or moral trials becomes difficult. Moving complex scenes like [[1172-02-22 The Foundry Chase]] or [[1172-02-20 The Cinder Evacuation]] into their own files was a great start. I recommend doing this for all major "set-piece" scenes. This allows me to link a character directly to a specific event (e.g., [[Jory]] -> [[1172-02-22 The Foundry Chase]]) without cluttering their page with the entire session's history.
 
 ### 3. Centralized Hook & Rumor Tracking
 Hooks are currently buried within individual NPC and Session files. For a knowledge base to be "efficient," I suggest a centralized `Quest Tracker` or `Active Hooks` document. By using a specific tag (e.g., `#hook/active`), I can automatically aggregate these into a single dashboard. This would allow you to see at a glance that [[N'tal]] has a pending meeting with the [[Undertaker]] without having to check both their pages.

@@ -1,5 +1,4 @@
 ---
-name: Morrow
 type: npc
 status: inactive
 tags:

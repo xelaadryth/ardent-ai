@@ -1,5 +1,4 @@
 ---
-name: Kuma
 type: player
 status: active
 tags:

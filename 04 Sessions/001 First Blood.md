@@ -1,5 +1,4 @@
 ---
-name: 001 First Blood
 type: session
 status: completed
 tags:

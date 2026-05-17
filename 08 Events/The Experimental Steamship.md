@@ -1,5 +1,4 @@
 ---
-name: The Experimental Steamship
 type: event
 status: planned
 tags:

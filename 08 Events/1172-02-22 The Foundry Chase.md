@@ -1,5 +1,4 @@
 ---
-name: The Abandoned Foundry
 type: event
 status: active
 tags:

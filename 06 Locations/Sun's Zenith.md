@@ -1,5 +1,4 @@
 ---
-name: Sun's Zenith
 type: location
 status: active
 tags:

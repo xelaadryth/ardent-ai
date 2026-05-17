@@ -1,5 +1,4 @@
 ---
-name: High Witness Yeshan
 type: npc
 status: active
 tags:

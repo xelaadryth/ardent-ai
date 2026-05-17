@@ -1,5 +1,4 @@
 ---
-name: The Cinder Evacuation
 type: event
 status: active
 tags:

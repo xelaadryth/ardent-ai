@@ -1,5 +1,4 @@
 ---
-name: 007 Lavrik and the Soulcaster
 type: session
 status: completed
 tags:

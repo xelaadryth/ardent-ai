@@ -1,5 +1,4 @@
 ---
-name: Darkstone Forest
 type: location
 status: active
 tags:

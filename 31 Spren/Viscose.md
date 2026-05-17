@@ -1,5 +1,4 @@
 ---
-name: Viscose
 type: spren
 status: active
 tags:

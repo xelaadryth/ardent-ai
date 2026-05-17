@@ -1,5 +1,4 @@
 ---
-name: Szeth-son-son-Vallano
 type: npc
 status: active
 tags:

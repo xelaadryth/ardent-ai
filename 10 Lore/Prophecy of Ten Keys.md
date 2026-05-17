@@ -1,5 +1,4 @@
 ---
-name: Prophecy of Ten Keys
 type: lore
 status: active
 tags:

@@ -1,5 +1,4 @@
 ---
-name: Dillind
 type: npc
 status: active
 tags:

@@ -1,5 +1,4 @@
 --- 
-name: Whitespine's Fang
 type: location
 status: active
 tags:

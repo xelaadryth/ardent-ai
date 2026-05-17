@@ -1,5 +1,4 @@
 ---
-name: Jory
 type: npc
 status: active
 tags:

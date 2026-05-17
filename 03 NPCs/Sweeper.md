@@ -1,5 +1,4 @@
 ---
-name: Sweeper
 type: npc
 status: active
 tags:

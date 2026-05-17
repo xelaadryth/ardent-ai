@@ -1,5 +1,4 @@
 ---
-name: 01 Truthkeepers Arc
 type: arc
 status: completed
 tags:

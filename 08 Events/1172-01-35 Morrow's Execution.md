@@ -1,5 +1,4 @@
 ---
-name: Morrow' Execution
 type: event
 status: completed
 tags:

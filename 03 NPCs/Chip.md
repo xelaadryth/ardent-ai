@@ -1,5 +1,4 @@
 ---
-name: Chip
 type: npc
 status: active
 tags:

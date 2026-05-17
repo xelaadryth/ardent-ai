@@ -1,5 +1,4 @@
 ---
-name: 006 Dillind and the Temple
 type: session
 status: completed
 tags:

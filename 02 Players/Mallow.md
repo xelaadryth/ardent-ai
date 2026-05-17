@@ -1,5 +1,4 @@
 ---
-name: Mallow
 type: player
 status: active
 tags:

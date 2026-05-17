@@ -1,5 +1,4 @@
 ---
-name: Stringken
 type: location
 status: active
 tags:

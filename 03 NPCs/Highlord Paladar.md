@@ -1,5 +1,4 @@
 ---
-name: Highlord Paladar
 type: npc
 status: active
 tags:

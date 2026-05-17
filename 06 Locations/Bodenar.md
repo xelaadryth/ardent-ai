@@ -1,5 +1,4 @@
 ---
-name: Bodenar
 type: location
 status: active
 tags:

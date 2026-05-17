@@ -1,5 +1,4 @@
 ---
-name: Dreamwaker
 type: spren
 status: active
 tags:
