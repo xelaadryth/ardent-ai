@@ -22,7 +22,7 @@ Ojog stands an impressive 6'4" with light blue eyes that allow him to pass easil
 Quiet, disciplined, and burdened by immense guilt. Ojog possesses a deep-seated hesitation to use his medical skills, fearing that his kindness will once again lead to catastrophe. He has fully embraced the cold logic of the [[Truthkeepers]], finding purpose in the rigid enforcement of the law.
 
 # Background
-Back in Nuria, Ojog was a brilliant student of medicine. During a border conflict, he discovered a wounded soldier and, adhering to his oaths, saved the man's life. This act of mercy proved fatal; the soldier was an enemy scout who used the intel gathered during his recovery to exploit the weaknesses in Ojog's village defenses, leading to its total destruction. 
+Back in Nuria, Ojog was a brilliant student of medicine. During a border conflict, he discovered a wounded soldier and, adhering to his oaths but breaking the laws of the town, saved the man's life instead of reporting him. This act of mercy proved fatal; the soldier was an enemy scout who used the intel gathered during his recovery to exploit the weaknesses in Ojog's village defenses, leading to its total destruction. 
 
 Arriving in the [[Truthkeeper Camp]] with [[N'tal]], [[Kuma]], [[Beric Quinn]], and the others, Ojog was separated from the main squad when they were dispatched to [[Hearthstone]]. He integrated quickly into the Alethi ranks, earning the respect of [[Adjudicator Peton]] for his proficiency with dual knives and his clinical approach to neutralizing targets.
 
