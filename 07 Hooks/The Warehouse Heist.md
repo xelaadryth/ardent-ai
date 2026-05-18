@@ -14,7 +14,7 @@ leads:
   - "The Missing Watch: Guard Kael and his partner from the next shift never arrived, suspected [[Knights of Dusk]] sympathizers."
 ---
 # Description
-A well-coordinated robbery of Warehouse 14 in the [[Fieldwards]] has left the [[Vamah Princedom]] administration in [[Revolar]] embarrassed and the [[Truthkeepers]] pressured to find the culprits. The theft of mundane necessities suggests the [[Knights of Dusk]] are not just arming a rebellion, but sustaining a growing population in hiding. Many wagons of common goods passed through the west gate but none were reported matching the description; there could be sympathizers in the Guard.
+A well-coordinated robbery of Warehouse 14 in the [[Shield Ring]] itself has left the [[Vamah Princedom]] administration in [[Revolar]] embarrassed and the [[Truthkeepers]] pressured to find the culprits. The theft of mundane necessities suggests the [[Knights of Dusk]] are not just arming a rebellion, but sustaining a growing population in hiding. Many wagons of common goods passed through the west gate but none were reported matching the description; there could be sympathizers in the Guard.
 
 # Objectives
 - Investigate the breach in the warehouse basement.
