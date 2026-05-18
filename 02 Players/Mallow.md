@@ -6,7 +6,7 @@ tags:
   - "#willshaper"
   - "#purelaker"
   - "#enforcer"
-last_updated: 2026-05-13T23:35:12
+last_updated: 2024-05-22T10:00:00
 player: Audrey
 spren: "[[Cadence]]"
 ---
@@ -29,6 +29,7 @@ Mallow was raised by her sister, [[Khria]], until Khria bonded a spren and was t
 - Protect the forgotten, including orphans, the poor, and the hungry.
 
 # Hooks
+- [[Hook: The Orphans of Tomat]]
 - [[Khria]] may no longer want to be rescued.
 - The Truthkeepers may know more about Khria's fate than they admit.
 - Pom could prove unexpectedly significant in future events.

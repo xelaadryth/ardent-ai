@@ -6,7 +6,7 @@ tags:
   - "#alethi"
   - "#sadeas"
   - "#border_town"
-last_updated: 2024-05-21T09:00:00
+last_updated: 2024-05-22T10:00:00
 location: "[[Alethkar]]"
 ---
 
@@ -27,10 +27,19 @@ Tomat's proximity to the volatile Veden and Reshi borders has transformed it int
 - [[Dillind]]: A young survivor seeking a new life under Tien's protection.
 - [[Helaran]]: A mysterious figure rumored to be stalking the camp.
 
+# Speculative Faction Hooks
+These hooks depend on the party's future allegiances and faction choices:
+- **[[Ghostbloods]] Asset:** Support [[Helaran]] in the assassination of [[Amaram]]. Eliminating the Highlord strikes a blow against the [[Sons of Honor]] and destabilizes the [[Sadeas]] border command.
+- **[[Truthkeepers]] Purge:** [[High Enforcer Aylen]] has identified the "Stormblessed" as a high-priority [[Possessed]] target. The squad is ordered to confirm his abilities and facilitate his "neutralization."
+- **[[Knights of Dusk]] Recruitment:** [[General Spade]] believes [[Tien]] is a natural Radiant who has not yet been corrupted by the [[Silent Oath]]. The rebellion seeks to extract him and his squad before [[Amaram]] can use them as fodder.
+- **[[Bloodmarks]] Sabotage:** Investigate the subordinates selling recruits into slavery. Disrupting this trade harms the syndicate's local revenue and potentially recovers assets for the party.
+
 # Secrets
 - **The Shadow Path:** Beneath the Whispering Stone lies a natural cavern system that leads across the border, used by the [[Bloodmarks]] to move goods undetected. It's tolerated by the military as the whole cavern system is rigged to collapse, and local corrupt leaders monitor it.
 - **Unstable Recruitment:** Some of the youths "recruited" here are actually being sold to [[Bloodmarks]] as slaves by corrupt subordinates within the Sadeas army, as they cannot read the contracts they are signing.
 
 # Hooks
-- **The Stone's Resonance:** [[Viscose]] or [[Dreamwaker]] may be drawn to the Whispering Stone, sensing it is a piece of a larger, broken fabrial or an ancient boundary marker.
-- **Assassination Attempt:** The party might witness [[Helaran]]'s scouting of the camp, forcing them to choose between protecting [[Amaram]] or allowing the assassin to strike.
+- [[Hook: The Orphans of Tomat]]
+- [[Hook: Resonance of the Past]]
+- [[Hook: Helaran's Shadow]]
+- [[Hook: The Stormblessed Investigation]]

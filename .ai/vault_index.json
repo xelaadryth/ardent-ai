@@ -179,6 +179,7 @@
       "links": [
         "[[Tien]]",
         "[[Kaladin]]",
+        "[[Tomat]]",
         "[[Amaram]]",
         "[[Sons of Honor]]",
         "[[Dillind]]",
@@ -191,7 +192,7 @@
         "#stormblessed",
         "#border_skirmish"
       ],
-      "last_updated": "2026-05-16T16:00:00"
+      "last_updated": "2024-05-21T09:00:00"
     },
     "04 Nurian Gems Arc": {
       "type": "arc",
@@ -372,7 +373,8 @@
         "[[Sons of Honor]]",
         "[[Hearthstone]]",
         "[[House Sathir|Sathir Estate]]",
-        "[[Helaran]]"
+        "[[Helaran]]",
+        "[[Tien]]"
       ],
       "tags": [
         "#npc",
@@ -380,7 +382,7 @@
         "#alethi",
         "#sons_of_honor"
       ],
-      "last_updated": "2026-05-16T16:00:00"
+      "last_updated": "2024-05-21T09:00:00"
     },
     "Arbiter Jalis": {
       "type": "npc",
@@ -1061,7 +1063,8 @@
         "[[Truthkeepers]]",
         "[[Ghostbloods]]",
         "[[Dillind]]",
-        "[[Silent Oath]]"
+        "[[Silent Oath]]",
+        "[[Amaram]]"
       ],
       "tags": [
         "#npc",
@@ -1070,7 +1073,7 @@
         "#sadeas_princedom",
         "#stormblessed"
       ],
-      "last_updated": "2026-05-16T16:00:00"
+      "last_updated": "2024-05-21T09:00:00"
     },
     "Toralin Roshone": {
       "type": "npc",
@@ -1911,6 +1914,28 @@
         "#revolar"
       ],
       "last_updated": "2026-05-15T12:00:00"
+    },
+    "Tomat": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Alethkar]]",
+        "[[Sadeas]]",
+        "[[Amaram]]",
+        "[[Tien]]",
+        "[[Dillind]]",
+        "[[Helaran]]",
+        "[[Bloodmarks]]",
+        "[[Viscose]]",
+        "[[Dreamwaker]]"
+      ],
+      "tags": [
+        "#location",
+        "#alethi",
+        "#sadeas",
+        "#border_town"
+      ],
+      "last_updated": "2024-05-21T09:00:00"
     },
     "Truthkeeper Camp": {
       "type": "location",

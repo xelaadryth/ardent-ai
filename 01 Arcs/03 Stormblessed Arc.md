@@ -5,7 +5,7 @@ tags:
   - "#arc"
   - "#stormblessed"
   - "#border_skirmish"
-last_updated: 2024-05-21T09:00:00
+last_updated: 2024-05-22T10:00:00
 number: 3
 ---
 
@@ -33,6 +33,10 @@ A "storm-blessed" soldier named [[Tien]] is making a name for himself in the bru
 - **The Shardblade:** A Shardblade is won in these battles, but its owner is presumed dead, leading to a tragic shift in the regional power balance.
 
 # Hooks
+- [[Hook: The Orphans of Tomat]]
+- [[Hook: Resonance of the Past]]
+- [[Hook: Helaran's Shadow]]
+- [[Hook: The Stormblessed Investigation]]
 - **The Destiny Shift:** Investigate the nature of the bond or destiny passed from [[Kaladin]] to [[Tien]].
 - **Ghostblood Assassin:** Track [[Helaran]]'s progress toward [[Amaram]] through [[Tomat]].
 
