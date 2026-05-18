@@ -5,7 +5,7 @@ tags:
   - "#arc"
   - "#revolar"
   - "#rebellion"
-last_updated: 2026-05-20T15:00:00
+last_updated: 2024-05-24T12:00:00
 number: 2
 ---
 # Description
@@ -15,9 +15,11 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[Truthkeepers]] and [[Silent Oath]]
 	- [[High Enforcer Aylen]]: Waiting in the wings to execute "judgment" on the Radiants leading the insurgency.
 	- [[Istrum]]: The Silent Oath member who will eventually spare the party.
+	- [[Ojog]]: A loyal Nurian enforcer tracking internal dissent.
 - [[Knights of Dusk]]
 	- [[General Spade]]: Dustbringer leader of the Knights of Dusk.
 	- [[Khria]]: Spade's lieutenant and target of the Silent Oath.
+	- [[Beric Quinn]]: A Nurian defector and spy operating within the city.
 - Princedom of Vamah (Revolar's Leaders)
 	- [[Highlord Paladar]]: The corrupt ruler of Vamah.
 	- [[General Odrin Lesh]]: The corrupt general brought to power by Paladar.

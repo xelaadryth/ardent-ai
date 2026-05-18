@@ -7,7 +7,7 @@ tags:
   - "#truthkeeper"
   - "#enforcer"
   - "#assassin"
-last_updated: 2024-05-24T10:00:00
+last_updated: 2024-05-24T12:00:00
 faction: "[[Truthkeepers]]"
 location: "[[Revolar]]"
 ---
@@ -24,7 +24,7 @@ Quiet, disciplined, and burdened by immense guilt. Ojog possesses a deep-seated 
 # Background
 Back in Nuria, Ojog was a brilliant student of medicine. During a border conflict, he discovered a wounded soldier and, adhering to his oaths, saved the man's life. This act of mercy proved fatal; the soldier was an enemy scout who used the intel gathered during his recovery to exploit the weaknesses in Ojog's village defenses, leading to its total destruction. 
 
-Arriving in the [[Truthkeeper Camp]] with [[N'tal]], [[Kuma]], and the others, Ojog was separated from the main squad when they were dispatched to [[Hearthstone]]. He integrated quickly into the Alethi ranks, earning the respect of [[Adjudicator Peton]] for his proficiency with dual knives and his clinical approach to neutralizing targets.
+Arriving in the [[Truthkeeper Camp]] with [[N'tal]], [[Kuma]], [[Beric Quinn]], and the others, Ojog was separated from the main squad when they were dispatched to [[Hearthstone]]. He integrated quickly into the Alethi ranks, earning the respect of [[Adjudicator Peton]] for his proficiency with dual knives and his clinical approach to neutralizing targets.
 
 # Goals
 - **Atonement Through Duty:** Serve the [[Truthkeepers]] with absolute efficiency to make up for his past failure.
@@ -39,4 +39,5 @@ Arriving in the [[Truthkeeper Camp]] with [[N'tal]], [[Kuma]], and the others, O
 - [[Istrum]] — His future mentor and fellow Makabaki Skybreaker.
 - [[N'tal]] — A fellow Nurian survivor.
 - [[Kuma]] — A fellow Nurian survivor.
+- [[Beric Quinn]] — A fellow Nurian who defected to the [[Knights of Dusk]], now making them ideological enemies.
 - [[Adjudicator Peton]] — His direct superior.

@@ -721,7 +721,8 @@
         "[[Silent Oath]]",
         "[[Revolar]]",
         "[[High Enforcer Aylen]]",
-        "[[Knights of Dusk]]"
+        "[[Knights of Dusk]]",
+        "[[Ojog]]"
       ],
       "tags": [
         "#npc",
@@ -729,7 +730,7 @@
         "#skybreaker",
         "#truthkeeper"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2024-05-24T10:00:00"
     },
     "Jasnah Kholin": {
       "type": "npc",
@@ -912,6 +913,29 @@
         "#possessed"
       ],
       "last_updated": "2026-05-16T15:00:00"
+    },
+    "Ojog": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Revolar]]",
+        "[[Truthkeeper Camp]]",
+        "[[N'tal]]",
+        "[[Kuma]]",
+        "[[Hearthstone]]",
+        "[[Adjudicator Peton]]",
+        "[[Istrum]]",
+        "[[Silent Oath]]"
+      ],
+      "tags": [
+        "#npc",
+        "#nurian",
+        "#truthkeeper",
+        "#enforcer",
+        "#assassin"
+      ],
+      "last_updated": "2024-05-24T10:00:00"
     },
     "Renna Palir": {
       "type": "npc",
@@ -1148,9 +1172,12 @@
         "[[High Witness Yeshan]]",
         "[[Adjudicator Peton]]",
         "[[N'tal]]",
+        "[[Kuma]]",
+        "[[Iiko]]",
+        "[[Fina]]",
+        "[[Ojog]]",
         "[[Loid]]",
         "[[High Enforcer Aylen]]",
-        "[[Iiko]]",
         "[[Renna Palir]]",
         "[[Koloko]]",
         "[[Sila]]",
@@ -1165,7 +1192,7 @@
         "#senny",
         "#quartermaster_jola"
       ],
-      "last_updated": "2026-05-15T17:00:00"
+      "last_updated": "2024-05-24T10:00:00"
     },
     "001 First Blood": {
       "type": "session",
@@ -1175,11 +1202,12 @@
         "[[Hearthstone]]",
         "[[Adjudicator Peton]]",
         "[[N'tal]]",
+        "[[Ojog]]",
+        "[[Truthkeeper Camp]]",
         "[[Luggan]]",
         "[[Doug (Guddy)]]",
         "[[Revolar]]",
         "[[High Witness Yeshan]]",
-        "[[Truthkeeper Camp]]",
         "[[Heala]]"
       ],
       "tags": [
@@ -1188,7 +1216,7 @@
         "#Hearthstone",
         "#ShellmiteAttack"
       ],
-      "last_updated": "2026-05-15T18:00:00"
+      "last_updated": "2024-05-24T10:00:00"
     },
     "002 Whitespine": {
       "type": "session",
