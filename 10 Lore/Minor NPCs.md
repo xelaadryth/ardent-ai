@@ -5,7 +5,7 @@ tags:
   - "#lore"
   - "#npc"
   - "#reference"
-last_updated: 2024-05-19T14:00:00
+last_updated: 2024-05-23T10:00:00
 ---
 
 # Overview
@@ -42,3 +42,7 @@ This document serves as a central reference for minor non-player characters enco
 | **Tusa**                    | Nervous Herdazian who flicks sparks. Pafo's cousin.                | [[009 Slavers]]                | [[Hearthstone]]         |
 | **Pafo**                    | Smiling Herdazian who does not speak Alethi.                       | [[009 Slavers]]                | [[Hearthstone]]         |
 | **Lod**                     | Uncertain darkeyes who thinks he'll be sacrificed.                 | [[006 Dillind and the Temple]] | **Dead** (Purged)       |
+| **Kael**                    | Stoic Alethi guard loyal to Vamah. Found unconscious in a crate.   | [[Hook: The Fieldwards Heist]] | [[Revolar]]             |
+| **Merat**                   | Veteran guard who claimed to see a highlord at the heist.          | [[Hook: The Fieldwards Heist]] | [[Revolar]]             |
+| **Teson**                   | Junior scribe with meticulous records of mundane theft.            | [[Hook: The Fieldwards Heist]] | [[Revolar]]             |
+| **Lirael**                  | Senior Alethi scribe; finds the theft of daily goods insulting.    | [[Hook: The Fieldwards Heist]] | [[Revolar]]             |

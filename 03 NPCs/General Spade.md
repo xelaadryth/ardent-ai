@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#dustbringer"
   - "#rebel_leader"
-last_updated: 2026-05-18T12:00:00
+last_updated: 2024-05-23T10:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
@@ -30,6 +30,7 @@ Once a highly respected General in the Vamah military, Spade was ousted through 
 
 # Hooks
 - Vengeance for [[Lavrik]]
+- [[Hook: The Fieldwards Heist]]
 
 # Connections
 - [[Highlord Paladar]]: The man who ruined his career and his city.

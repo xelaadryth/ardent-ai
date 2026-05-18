@@ -185,14 +185,18 @@
         "[[Dillind]]",
         "[[Ghostbloods]]",
         "[[Helaran]]",
-        "[[Silent Oath]]"
+        "[[Silent Oath]]",
+        "[[Hook: The Orphans of Tomat]]",
+        "[[Hook: Resonance of the Past]]",
+        "[[Hook: Helaran's Shadow]]",
+        "[[Hook: The Stormblessed Investigation]]"
       ],
       "tags": [
         "#arc",
         "#stormblessed",
         "#border_skirmish"
       ],
-      "last_updated": "2024-05-21T09:00:00"
+      "last_updated": "2024-05-22T10:00:00"
     },
     "04 Nurian Gems Arc": {
       "type": "arc",
@@ -209,7 +213,7 @@
         "[[Bodenar]]",
         "[[Vorn]]",
         "[[Ilsh]]",
-        "[[The Experimental Steamship]]",
+        "[[1172-03-42 The Experimental Steamship]]",
         "[[The Steamship's Secret]]"
       ],
       "tags": [
@@ -298,8 +302,9 @@
         "[[Viscose]]",
         "[[Revolar]]",
         "[[Nurian Gems]]",
-        "[[The Experimental Steamship]]",
+        "[[1172-03-42 The Experimental Steamship]]",
         "[[04 Nurian Gems Arc]]",
+        "[[Hook: Resonance of the Past]]",
         "[[New Technology]]",
         "[[Ilsh]]",
         "[[Vorn]]"
@@ -310,14 +315,15 @@
         "#nurian",
         "#maker"
       ],
-      "last_updated": "2026-05-20T12:00:00"
+      "last_updated": "2024-05-22T10:00:00"
     },
     "Mallow": {
       "type": "player",
       "status": "active",
       "links": [
         "[[Cadence]]",
-        "[[Khria]]"
+        "[[Khria]]",
+        "[[Hook: The Orphans of Tomat]]"
       ],
       "tags": [
         "#player",
@@ -325,7 +331,7 @@
         "#purelaker",
         "#enforcer"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2024-05-22T10:00:00"
     },
     "N'tal": {
       "type": "player",
@@ -368,7 +374,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Sadeas]]",
+        "[[Sadeas Princedom]]",
         "[[Tomat]]",
         "[[Sons of Honor]]",
         "[[Hearthstone]]",
@@ -421,7 +427,7 @@
     },
     "Ardent Vedelis": {
       "type": "npc",
-      "status": "inactive",
+      "status": "completed",
       "links": [
         "[[Knights of Dusk]]",
         "[[Lavrik]]",
@@ -446,7 +452,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Vamah]]",
+        "[[Vamah Princedom]]",
         "[[Alethkar]]",
         "[[Citylord Nilar Yenev]]",
         "[[Stringken]]"
@@ -482,7 +488,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Vamah]]",
+        "[[Vamah Princedom]]",
         "[[Alethkar]]",
         "[[Stringken]]",
         "[[House Sathir]]",
@@ -506,7 +512,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Sadeas]]",
+        "[[Sadeas Princedom]]",
         "[[Revolar]]",
         "[[House Sathir]]",
         "[[Highlady Marise Sathir]]",
@@ -527,7 +533,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Sadeas]]",
+        "[[Sadeas Princedom]]",
         "[[Tomat]]",
         "[[Tien]]"
       ],
@@ -541,7 +547,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Vamah]]",
+        "[[Vamah Princedom]]",
         "[[Revolar]]",
         "[[Knights of Dusk]]",
         "[[Highlord Paladar]]",
@@ -656,7 +662,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Sadeas]]",
+        "[[Sadeas Princedom]]",
         "[[House Sathir]]",
         "[[Dalen]]"
       ],
@@ -673,7 +679,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Vamah]]",
+        "[[Vamah Princedom]]",
         "[[Revolar]]",
         "[[General Spade]]",
         "[[General Odrin Lesh]]",
@@ -805,8 +811,8 @@
         "[[Knights of Dusk]]",
         "[[Revolar]]",
         "[[Truthkeepers]]",
-        "[[General Spade]]",
-        "[[Mallow]]"
+        "[[Mallow]]",
+        "[[General Spade]]"
       ],
       "tags": [
         "#npc",
@@ -819,7 +825,7 @@
     },
     "Lavrik": {
       "type": "npc",
-      "status": "inactive",
+      "status": "completed",
       "links": [
         "[[Knights of Dusk]]",
         "[[Ardent Vedelis]]"
@@ -874,7 +880,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Sadeas]]",
+        "[[Sadeas Princedom]]",
         "[[House Sathir]]",
         "[[Highlady Marise Sathir]]",
         "[[Dalen]]"
@@ -888,7 +894,7 @@
     },
     "Morrow": {
       "type": "npc",
-      "status": "inactive",
+      "status": "completed",
       "links": [
         "[[Revolar]]",
         "[[Truthkeepers]]",
@@ -1057,7 +1063,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Sadeas]]",
+        "[[Sadeas Princedom]]",
         "[[Tomat]]",
         "[[Kaladin]]",
         "[[Truthkeepers]]",
@@ -1079,7 +1085,7 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Sadeas]]",
+        "[[Sadeas Princedom]]",
         "[[Hearthstone]]",
         "[[Laral Roshone]]",
         "[[Lirin]]",
@@ -1482,7 +1488,7 @@
         "[[Revolar]]",
         "[[Grand Justicar Malice]]",
         "[[Arbiter Jalis]]",
-        "[[Vamah]]",
+        "[[Vamah Princedom]]",
         "[[N'tal]]",
         "[[Truthkeepers]]",
         "[[Ghostbloods]]"
@@ -1537,7 +1543,7 @@
         "[[1172-02-20 The Cinder Evacuation]]",
         "[[Truthkeepers]]",
         "[[Darkstone Forest]]",
-        "[[Vamah]]",
+        "[[Vamah Princedom]]",
         "[[Bloodmarks]]",
         "[[Ardent Vedelis]]",
         "[[General Spade]]",
@@ -1550,7 +1556,7 @@
       ],
       "last_updated": "2026-05-18T12:00:00"
     },
-    "Sadeas": {
+    "Sadeas Princedom": {
       "type": "faction",
       "status": "active",
       "links": [
@@ -1560,7 +1566,7 @@
         "[[Highlord Kethren Sathir]]",
         "[[Amaram]]",
         "[[Tien]]",
-        "[[Vamah]]",
+        "[[Vamah Princedom]]",
         "[[Truthkeepers]]",
         "[[Possessed]]",
         "[[Knights of Dusk]]",
@@ -1612,7 +1618,7 @@
         "[[Revolar]]",
         "[[Knights of Dusk]]",
         "[[Silent Oath]]",
-        "[[Vamah]]",
+        "[[Vamah Princedom]]",
         "[[Adjudicator Peton]]",
         "[[High Enforcer Aylen]]",
         "[[Renna Palir]]",
@@ -1624,7 +1630,7 @@
       ],
       "last_updated": "2026-05-15T12:00:00"
     },
-    "Vamah": {
+    "Vamah Princedom": {
       "type": "faction",
       "status": "active",
       "links": [
@@ -1632,7 +1638,7 @@
         "[[Highlord Paladar]]",
         "[[General Spade]]",
         "[[General Odrin Lesh]]",
-        "[[Sadeas]]",
+        "[[Sadeas Princedom]]",
         "[[Knights of Dusk]]",
         "[[Truthkeepers]]",
         "[[Citylord Nilar Yenev]]",
@@ -1920,14 +1926,20 @@
       "status": "active",
       "links": [
         "[[Alethkar]]",
-        "[[Sadeas]]",
+        "[[Sadeas Princedom]]",
         "[[Amaram]]",
         "[[Tien]]",
         "[[Dillind]]",
         "[[Helaran]]",
-        "[[Bloodmarks]]",
-        "[[Viscose]]",
-        "[[Dreamwaker]]"
+        "[[Ghostbloods]]",
+        "[[Sons of Honor]]",
+        "[[Truthkeepers]]",
+        "[[High Enforcer Aylen]]",
+        "[[Possessed]]",
+        "[[Knights of Dusk]]",
+        "[[General Spade]]",
+        "[[Silent Oath]]",
+        "[[Bloodmarks]]"
       ],
       "tags": [
         "#location",
@@ -1935,7 +1947,7 @@
         "#sadeas",
         "#border_town"
       ],
-      "last_updated": "2024-05-21T09:00:00"
+      "last_updated": "2024-05-22T10:00:00"
     },
     "Truthkeeper Camp": {
       "type": "location",
@@ -1966,6 +1978,24 @@
       ],
       "last_updated": "2026-05-19T12:00:00"
     },
+    "Helaran's Shadow": {
+      "type": "hook",
+      "status": "planned",
+      "links": [
+        "[[Undertaker]]",
+        "[[Tomat]]",
+        "[[Helaran]]",
+        "[[Chip]]",
+        "[[Ghostbloods]]",
+        "[[Amaram]]"
+      ],
+      "tags": [
+        "#hook",
+        "#ghostbloods",
+        "#tomat"
+      ],
+      "last_updated": "2024-05-22T10:00:00"
+    },
     "N'tal's Vendetta": {
       "type": "hook",
       "status": "active",
@@ -1995,7 +2025,7 @@
         "[[Revolar]]",
         "[[Viscose]]",
         "[[Nurian Gem]]",
-        "[[The Experimental Steamship]]",
+        "[[1172-03-42 The Experimental Steamship]]",
         "[[Bodenar]]",
         "[[Nurian Gems]]"
       ],
@@ -2007,16 +2037,32 @@
       ],
       "last_updated": "2026-05-20T12:00:00"
     },
+    "Resonance of the Past": {
+      "type": "hook",
+      "status": "planned",
+      "links": [
+        "[[Vorn]]",
+        "[[Tomat]]",
+        "[[Nurian Gems]]",
+        "[[Viscose]]",
+        "[[Dreamwaker]]",
+        "[[Ardent Kaelis]]",
+        "[[Iiko]]",
+        "[[Kuma]]",
+        "[[Tablet of Eleven Cities]]"
+      ],
+      "tags": [
+        "#hook",
+        "#tomat",
+        "#kuma",
+        "#iiko"
+      ],
+      "last_updated": "2024-05-22T10:00:00"
+    },
     "Sila's Allegiance": {
       "type": "hook",
       "status": "active",
       "links": [
-        "[[Vorn]]",
-        "[[Kuma]]",
-        "[[Stoneweave]]",
-        "[[Revolar]]",
-        "[[Viscose]]",
-        "[[Nurian Gem]]",
         "[[Truthkeeper Camp]]",
         "[[Karani]]",
         "[[Chip]]",
@@ -2032,6 +2078,7 @@
       "type": "hook",
       "status": "active",
       "links": [
+        "[[Scarstone Quarter]]",
         "[[The Vamah Archivum]]",
         "[[Renna Palir]]",
         "[[Truthkeepers]]",
@@ -2083,6 +2130,46 @@
       ],
       "last_updated": "2026-05-20T12:00:00"
     },
+    "The Orphans of Tomat": {
+      "type": "hook",
+      "status": "planned",
+      "links": [
+        "[[House Sathir]]",
+        "[[Dillind]]",
+        "[[Tomat]]",
+        "[[Bloodmarks]]",
+        "[[Highlady Marise Sathir]]",
+        "[[Amaram]]",
+        "[[Envisagers]]",
+        "[[Mallow]]"
+      ],
+      "tags": [
+        "#hook",
+        "#tomat",
+        "#mallow",
+        "#dillind"
+      ],
+      "last_updated": "2024-05-22T10:00:00"
+    },
+    "The Stormblessed Investigation": {
+      "type": "hook",
+      "status": "planned",
+      "links": [
+        "[[Adjudicator Peton]]",
+        "[[Tomat]]",
+        "[[Tien]]",
+        "[[Possessed]]",
+        "[[Istrum]]",
+        "[[Silent Oath]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#hook",
+        "#truthkeepers",
+        "#tomat"
+      ],
+      "last_updated": "2024-05-22T10:00:00"
+    },
     "Tracking the Knights of Dusk": {
       "type": "hook",
       "status": "active",
@@ -2091,10 +2178,13 @@
         "[[Truthkeepers]]",
         "[[Lila]]",
         "[[Stoneweave]]",
-        "[[Darkstone Forest]]",
+        "[[Khria]]",
+        "[[Sadeas Princedom]]",
+        "[[Hearthstone]]",
         "[[Kuma]]",
-        "[[Vedelis]]",
+        "[[Ardent Vedelis]]",
         "[[Stormbristle]]",
+        "[[Darkstone Forest]]",
         "[[Driftwards]]",
         "[[Scarstone Quarter]]",
         "[[Knights of Dusk]]"
@@ -2124,6 +2214,18 @@
         "#event"
       ],
       "last_updated": "2026-05-16T19:22:15"
+    },
+    "1167-01-01 The Vengeance Pact": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[Szeth-son-son-Vallano]]",
+        "[[Shattered Plains]]"
+      ],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-17T21:03:51"
     },
     "1172-01-11 The Arrival": {
       "type": "event",
@@ -2305,7 +2407,7 @@
       ],
       "last_updated": "2026-05-18T12:00:00"
     },
-    "The Experimental Steamship": {
+    "1172-03-42 The Experimental Steamship": {
       "type": "event",
       "status": "planned",
       "links": [
@@ -2388,7 +2490,7 @@
       "type": "lore",
       "status": "active",
       "links": [
-        "[[The Experimental Steamship]]",
+        "[[1172-03-42 The Experimental Steamship]]",
         "[[Bloodmarks]]",
         "[[Grand Justicar Malice]]"
       ],
@@ -2498,7 +2600,7 @@
       "type": "lore",
       "status": "active",
       "links": [
-        "[[The Experimental Steamship]]",
+        "[[1172-03-42 The Experimental Steamship]]",
         "[[Nurian Gems]]",
         "[[Grand Justicar Malice]]",
         "[[Bloodmarks]]",
