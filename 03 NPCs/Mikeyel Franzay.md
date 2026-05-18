@@ -6,7 +6,7 @@ tags:
   - "#alethi"
   - "#guard"
 last_updated: 2026-05-13T23:45:00
-faction: "[[Sadeas]]"
+faction: "[[Sadeas Princedom]]"
 location: "[[House Sathir]]"
 ---
 

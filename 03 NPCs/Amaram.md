@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#sons_of_honor"
 last_updated: 2024-05-21T09:00:00
-faction: "[[Sadeas]]"
+faction: "[[Sadeas Princedom]]"
 location: "[[Tomat]]"
 ---
 

@@ -14,7 +14,7 @@ The ruling authority of the Vamah Princedom, currently centered in the city of [
 
 # Goals
 - **Consolidation of Power:** Systematically replace established military leaders like [[General Spade]] with loyalists like [[General Odrin Lesh]].
-- **Territorial Expansion:** Encroach upon [[Sadeas]] lands in the north, utilizing political instability as a pretext for "protection."
+- **Territorial Expansion:** Encroach upon [[Sadeas Princedom]] lands in the north, utilizing political instability as a pretext for "protection."
 - **Suppression of Dissent:** Eradicate the [[Knights of Dusk]] insurgency through the tactical use of the [[Truthkeepers]].
 
 # Structure
@@ -25,7 +25,7 @@ The ruling authority of the Vamah Princedom, currently centered in the city of [
 # Allies & Rivals
 - [[Truthkeepers]]: Funded as a proxy force to identify and eliminate the [[Possessed]].
 - [[Bloodmarks]]: Infiltrated the city guard to facilitate illicit trade under the noses of the administration.
-- [[Sadeas]]: Political rivals; Vamah currently attempts to sabotage [[House Sathir]] to weaken the Highprince's influence.
+- [[Sadeas Princedom]]: Political rivals; Vamah currently attempts to sabotage [[House Sathir]] to weaken the Highprince's influence.
 - [[Knights of Dusk]]: The primary internal threat to their rule.
 
 # Members

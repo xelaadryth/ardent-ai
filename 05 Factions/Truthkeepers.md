@@ -23,7 +23,7 @@ The Truthkeepers operate with near-total autonomy, shielded by the political cov
 *   **Witnesses**: Investigators responsible for tracking rumors and managing logistics.
 
 # Allies & Rivals
-- [[Vamah]]: Patrons who fund them to cause chaos in Sadeas Princedom.
+- [[Vamah Princedom]]: Patrons who fund them to cause chaos in Sadeas Princedom.
 - [[Knights of Dusk]]: Org they were hired to eliminate.
 
 # Members

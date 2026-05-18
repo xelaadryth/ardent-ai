@@ -14,4 +14,4 @@ leads:
 ---
 
 # Description
-[[Vorn]] is seeking [[Kuma]] to assist with the [[The Experimental Steamship]] project in [[Bodenar]], using the high-output [[Nurian Gems]], after seeing his Bindrial and promising to think about how to solve problems with it binding himself and to find her in [[Bodenar]]. In return for learning, teaches him about harmonic Stormlight control with tuning forks.
+[[Vorn]] is seeking [[Kuma]] to assist with the [[1172-03-42 The Experimental Steamship]] project in [[Bodenar]], using the high-output [[Nurian Gems]], after seeing his Bindrial and promising to think about how to solve problems with it binding himself and to find her in [[Bodenar]]. In return for learning, teaches him about harmonic Stormlight control with tuning forks.

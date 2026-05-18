@@ -8,7 +8,7 @@ tags:
   - "#highlady"
   - "#house_sathir"
 last_updated: 2026-05-13T23:35:12
-faction: "[[Sadeas]]"
+faction: "[[Sadeas Princedom]]"
 location: "[[House Sathir]]"
 ---
 # Description

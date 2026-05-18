@@ -5,7 +5,7 @@ tags:
   - "#npc"
   - "#teenager"
 last_updated: 2026-05-14T14:00:00
-faction: "[[Sadeas]]"
+faction: "[[Sadeas Princedom]]"
 location: "[[Tomat]]"
 ---
 

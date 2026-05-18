@@ -17,11 +17,11 @@ One of the ten Highprincedoms of [[Alethkar]], traditionally known for its milit
 
 # Goals
 - **War of Reckoning:** Provide a steady stream of recruits and resources to the Shattered Plains.
-- **Border Security:** Defend against the predatory incursions of [[Vamah]] and other rival princedoms.
+- **Border Security:** Defend against the predatory incursions of [[Vamah Princedom]] and other rival princedoms.
 - **Order:** Maintain Vorin tradition and stability through a strong military presence.
 
 # Allies & Rivals
-- [[Vamah]]: A persistent rival seeking to exploit the absence of the Highprince to seize border lands.
+- [[Vamah Princedom]]: A persistent rival seeking to exploit the absence of the Highprince to seize border lands.
 - [[Truthkeepers]]: Occasionally cooperate for regional security, though tensions exist regarding jurisdiction over the [[Possessed]].
 - [[Knights of Dusk]]: Viewed as an insurgent threat to the stability of the princedom.
 

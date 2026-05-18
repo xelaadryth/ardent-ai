@@ -27,7 +27,7 @@ The Bloodmarks prioritize profit and power through illicit logistics and intimid
 - **Thugs:** The lowest tier of muscle.
 
 # Allies & Rivals
-- [[Vamah]]: Paid off law enforcement and officials, creating a safe haven for their operations.
+- [[Vamah Princedom]]: Paid off law enforcement and officials, creating a safe haven for their operations.
 - [[N'tal]]: A survivor of a Bloodmark ambush; the faction has earned his deep-seated enmity.
 - [[Truthkeepers]]: Potential uneasy partners; currently, the syndicate is willing to assist them to further their own interests.
 - [[Ghostbloods]]: Primary rivals in the underworld; currently engaged in a shadow war over regional influence and logistics.

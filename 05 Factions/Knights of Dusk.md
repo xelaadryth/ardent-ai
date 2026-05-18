@@ -20,7 +20,7 @@ A clandestine rebel organization based in the urban shadows of [[Revolar]], led 
 The Knights of Dusk operate through military-inspired cells designed to evade detection by the [[Truthkeepers]]. Utilizing a combination of guerrilla tactics, urban sabotage, and newly rediscovered Radiant powers, they have garnered significant support from the impoverished citizens of [[Revolar]]. They maintain a hidden base in the [[Darkstone Forest]].
 
 # Allies & Rivals
-- [[Vamah]]: The current leaders of Revolar and their primary enemy.
+- [[Vamah Princedom]]: The current leaders of Revolar and their primary enemy.
 - [[Truthkeepers]]: Mercenaries recruited to fight against them.
 - [[Bloodmarks]]: Criminals that oppress the poor and are seen as enemies of the peace.
 

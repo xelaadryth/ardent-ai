@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#highlord"
 last_updated: 2026-05-20T12:00:00
-faction: "[[Vamah]]"
+faction: "[[Vamah Princedom]]"
 location: "[[Revolar]]"
 ---
 # Description

@@ -11,10 +11,10 @@ location: "[[Alethkar]]"
 ---
 
 # Overview
-A strategic fortress capital city situated on the western border of the [[Sadeas]] Highprincedom. It is characterized by its mining industry and heavily fortified walls, river access, as well as its strategic position as a recruitment hub for the border wars.
+A strategic fortress capital city situated on the western border of the [[Sadeas Princedom]] Highprincedom. It is characterized by its mining industry and heavily fortified walls, river access, as well as its strategic position as a recruitment hub for the border wars.
 
 # Background
-Tomat's proximity to the volatile Veden and Reshi borders has transformed it into a critical military staging ground. It lies under [[Amaram]]'s regency and has statues and monuments to [[Sadeas]] power. It is built low and squat for defense. It was originally a mining town that relied on ore, timber, and other raw goods, but is also known for exporting fish, such as freshwater carp.
+Tomat's proximity to the volatile Veden and Reshi borders has transformed it into a critical military staging ground. It lies under [[Amaram]]'s regency and has statues and monuments to [[Sadeas Princedom]] power. It is built low and squat for defense. It was originally a mining town that relied on ore, timber, and other raw goods, but is also known for exporting fish, such as freshwater carp.
 
 # Notable Features
 - **The Recruitment Green:** A central, crem-filled square dominated by the Pavilions of [[Amaram]]. This is where the "Trial of the Spear" takes place for new recruits.
@@ -29,7 +29,7 @@ Tomat's proximity to the volatile Veden and Reshi borders has transformed it int
 
 # Speculative Faction Hooks
 These hooks depend on the party's future allegiances and faction choices:
-- **[[Ghostbloods]] Asset:** Support [[Helaran]] in the assassination of [[Amaram]]. Eliminating the Highlord strikes a blow against the [[Sons of Honor]] and destabilizes the [[Sadeas]] border command.
+- **[[Ghostbloods]] Asset:** Support [[Helaran]] in the assassination of [[Amaram]]. Eliminating the Highlord strikes a blow against the [[Sons of Honor]] and destabilizes the [[Sadeas Princedom]] border command.
 - **[[Truthkeepers]] Purge:** [[High Enforcer Aylen]] has identified the "Stormblessed" as a high-priority [[Possessed]] target. The squad is ordered to confirm his abilities and facilitate his "neutralization."
 - **[[Knights of Dusk]] Recruitment:** [[General Spade]] believes [[Tien]] is a natural Radiant who has not yet been corrupted by the [[Silent Oath]]. The rebellion seeks to extract him and his squad before [[Amaram]] can use them as fodder.
 - **[[Bloodmarks]] Sabotage:** Investigate the subordinates selling recruits into slavery. Disrupting this trade harms the syndicate's local revenue and potentially recovers assets for the party.

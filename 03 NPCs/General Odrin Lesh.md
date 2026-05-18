@@ -8,7 +8,7 @@ tags:
   - "#general"
   - "#vamah_military"
 last_updated: 2026-05-16T12:00:00
-faction: "[[Vamah]]"
+faction: "[[Vamah Princedom]]"
 location: "[[Revolar]]"
 ---
 # Description
