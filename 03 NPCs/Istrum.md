@@ -6,7 +6,7 @@ tags:
   - "#makabaki"
   - "#skybreaker"
   - "#truthkeeper"
-last_updated: 2026-05-18T12:00:00
+last_updated: 2024-05-24T10:00:00
 faction: "[[Silent Oath]]"
 location: "[[Revolar]]"
 ---
@@ -25,6 +25,8 @@ She is assigned to monitor the squad and the insurgency in [[Revolar]]. Her doub
 # Goals
 - **Spiritual Growth:** Swear the Third Ideal - Ultimately decides on [[High Enforcer Aylen]] as she turns on the party.
 - **Mercy:** Protect those who are not truly a threat, despite the law's demands.
+- **Tutelage:** Guide [[Ojog]] as he shows immense potential for the Skybreaker path.
 
 # Connections
 - [[High Enforcer Aylen]]: Her mentor and commander.
+- [[Ojog]]: A Truthkeeper Enforcer she is considering for recruitment into the [[Silent Oath]].

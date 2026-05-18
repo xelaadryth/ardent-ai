@@ -573,7 +573,8 @@
         "[[General Odrin Lesh]]",
         "[[Silent Oath]]",
         "[[High Enforcer Aylen]]",
-        "[[Lavrik]]"
+        "[[Lavrik]]",
+        "[[Hook: The Fieldwards Heist]]"
       ],
       "tags": [
         "#npc",
@@ -582,7 +583,7 @@
         "#dustbringer",
         "#rebel_leader"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2024-05-23T10:00:00"
     },
     "Grand Justicar Malice": {
       "type": "npc",
@@ -812,6 +813,7 @@
         "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[Mallow]]",
+        "[[Hook: The Fieldwards Heist]]",
         "[[General Spade]]"
       ],
       "tags": [
@@ -821,7 +823,7 @@
         "#truthwatcher",
         "#rebel"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2024-05-23T10:00:00"
     },
     "Lavrik": {
       "type": "npc",
@@ -1570,10 +1572,13 @@
         "[[Truthkeepers]]",
         "[[Possessed]]",
         "[[Knights of Dusk]]",
-        "[[Dalen]]",
-        "[[Dillind]]",
-        "[[Mikeyel Franzay]]",
-        "[[Toralin Roshone]]"
+        "[[Ardent Kaelis]]",
+        "[[Ilsh]]",
+        "[[Jory]]",
+        "[[Lirin]]",
+        "[[Morrow]]",
+        "[[The Axelsmith]]",
+        "[[Vorn]]"
       ],
       "tags": [
         "#faction",
@@ -1646,7 +1651,14 @@
         "[[Ashusa]]",
         "[[Possessed]]",
         "[[Bloodmarks]]",
-        "[[House Sathir]]"
+        "[[House Sathir]]",
+        "[[Ardent Kaelis]]",
+        "[[Ilsh]]",
+        "[[Jory]]",
+        "[[Lirin]]",
+        "[[Morrow]]",
+        "[[The Axelsmith]]",
+        "[[Vorn]]"
       ],
       "tags": [
         "#faction",
@@ -1804,10 +1816,9 @@
         "[[Lila]]",
         "[[Cream of the Crem]]",
         "[[Whitespine's Fang]]",
+        "[[Hook: The Fieldwards Heist]]",
         "[[Sun's Zenith]]",
         "[[Gemheart Inn]]",
-        "[[Chip]]",
-        "[[Renna Palir]]",
         "[[1172-02-20 The Cinder Evacuation]]",
         "[[The Vamah Archivum]]",
         "[[Bitter Leaf Apothecary]]",
@@ -1817,7 +1828,7 @@
       "tags": [
         "#location"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2024-05-23T10:00:00"
     },
     "Salimset": {
       "type": "location",
@@ -2170,6 +2181,25 @@
       ],
       "last_updated": "2024-05-22T10:00:00"
     },
+    "The Warehouse Heist": {
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[Knights of Dusk]]",
+        "[[Shield Ring]]",
+        "[[Vamah Princedom]]",
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Darkstone Forest]]"
+      ],
+      "tags": [
+        "#hook",
+        "#revolar",
+        "#knights_of_dusk",
+        "#investigation"
+      ],
+      "last_updated": "2024-05-23T10:00:00"
+    },
     "Tracking the Knights of Dusk": {
       "type": "hook",
       "status": "active",
@@ -2217,7 +2247,7 @@
     },
     "1167-01-01 The Vengeance Pact": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Szeth-son-son-Vallano]]",
         "[[Shattered Plains]]"
@@ -2477,14 +2507,16 @@
         "[[Stringken]]",
         "[[House Sathir]]",
         "[[009 Slavers]]",
-        "[[006 Dillind and the Temple]]"
+        "[[006 Dillind and the Temple]]",
+        "[[Hook: The Fieldwards Heist]]",
+        "[[Revolar]]"
       ],
       "tags": [
         "#lore",
         "#npc",
         "#reference"
       ],
-      "last_updated": "2024-05-19T14:00:00"
+      "last_updated": "2024-05-23T10:00:00"
     },
     "Nurian Gems": {
       "type": "lore",
