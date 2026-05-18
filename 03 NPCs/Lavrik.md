@@ -1,6 +1,6 @@
 ---
 type: npc
-status: inactive
+status: completed
 tags:
   - "#npc"
   - "#sergeant"

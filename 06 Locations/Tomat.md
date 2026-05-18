@@ -37,9 +37,3 @@ These hooks depend on the party's future allegiances and faction choices:
 # Secrets
 - **The Shadow Path:** Beneath the Whispering Stone lies a natural cavern system that leads across the border, used by the [[Bloodmarks]] to move goods undetected. It's tolerated by the military as the whole cavern system is rigged to collapse, and local corrupt leaders monitor it.
 - **Unstable Recruitment:** Some of the youths "recruited" here are actually being sold to [[Bloodmarks]] as slaves by corrupt subordinates within the Sadeas army, as they cannot read the contracts they are signing.
-
-# Hooks
-- [[Hook: The Orphans of Tomat]]
-- [[Hook: Resonance of the Past]]
-- [[Hook: Helaran's Shadow]]
-- [[Hook: The Stormblessed Investigation]]

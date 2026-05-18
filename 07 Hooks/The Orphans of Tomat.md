@@ -1,6 +1,6 @@
 ---
 type: hook
-status: active
+status: planned
 tags:
   - "#hook"
   - "#tomat"
@@ -8,7 +8,7 @@ tags:
   - "#dillind"
 last_updated: 2024-05-22T10:00:00
 leads:
-  - "A Letter from Dillind: A messenger from [[House Sathir]] delivers a shakily written note from [[Dillind]], mentioning that he has been drafted into a 'special youth squad' in [[Tomat]] and is scared of the training."
+  - "A Letter from Dillind: A messenger from [[House Sathir]] delivers a spanreed note from [[Dillind]]'s new ladyfriend Garnet, mentioning that he has been drafted into a 'special youth squad' in [[Tomat]] and he overheard is run by the [[Bloodmarks]]."
   - "Highlady Marise's Concern: [[Highlady Marise Sathir]] uses the spanreed to inform the party that [[Amaram]]'s recruitment officers have been taking children from her borders, bypassing her authority to fill the ranks in [[Tomat]]."
   - "Slaver Gossip: Interrogating a [[Bloodmarks]] thug reveals that a shipment of 'unfit recruits' from the [[Tomat]] green is scheduled for transfer to the slave markets soon."
 ---
