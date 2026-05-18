@@ -10,7 +10,7 @@ arc: "[[02 Knights of Dusk Arc]]"
 ---
 
 # Description
-The squad navigates the dangerous streets of the [[Revolar|Driftwards]], where disguised agents of the [[Bloodmarks]] watch from the shadows, and secret meetings in the [[Scarstone Quarter]] threaten to escalate the regional conflict.
+The squad navigates the busy  streets of the [[Revolar|Driftwards]] for information, where disguised agents of the [[Bloodmarks]] and suspicious darkeyed workers watch from the shadows. The seek to participate in the secret meetings in the [[Scarstone Quarter]] which threaten to escalate the regional conflict.
 
 # Events
 - **The Driftwards Watch:** The party navigates the slums, noting the strange behavior of the local beggars who possess an unnatural, purposeful coordination as they move toward the [[Scarstone Quarter]].
