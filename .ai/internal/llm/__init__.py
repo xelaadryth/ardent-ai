@@ -22,7 +22,7 @@ class FileOperation(BaseModel):
         description="The type of file operation to perform."
     )
     name: str = Field(
-        description="The exact page title/name of the file."
+        description="The exact page title/name of the file. No filename restricted symbols like colons, slashes, backslashes, etc."
     )
     content: Optional[str] = Field(
         default=None,
