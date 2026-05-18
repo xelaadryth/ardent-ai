@@ -28,7 +28,7 @@ SORT file.name ASC
 | [[High Enforcer Aylen]]       | [[Revolar]]           | [[Truthkeepers]]         | <ul><li>#npc</li><li>#darkeyed</li><li>#makabaki</li><li>#herald</li><li>#high_enforcer</li></ul>                   |
 | [[High Witness Yeshan]]       | [[Tukkar]]                             | [[Truthkeepers]]         | <ul><li>#npc</li><li>#lighteyed</li><li>#herald</li></ul>                                                           |
 | [[Highlady Marise Sathir]] | [[House Sathir]] | [[Sadeas Princedom]] | <ul><li>#npc</li><li>#lighteyed</li><li>#alethi</li><li>#highlady</li><li>#house_sathir</li></ul>                   |
-| [[Highlord Paladar]]             | [[Revolar]]           | [[Vamah Princedom]]   | <ul><li>#npc</li><li>#lighteyed</li><li>#alethi</li><li>#highlord</li></ul>                                         |
+| [[Highlord Paladar]]             | [[Revolar]]           | [[Vamah]]                                      | <ul><li>#npc</li><li>#lighteyed</li><li>#alethi</li><li>#highlord</li></ul>                                         |
 | [[Ilsh]]                                     | [[Bodenar]]           | \-                                                    | <ul><li>#npc</li><li>#thaylen</li><li>#researcher</li><li>#ardent_imposter</li></ul>                                |
 | [[Istrum]]                                 | [[Revolar]]           | [[Silent Oath]]           | <ul><li>#npc</li><li>#makabaki</li><li>#skybreaker</li><li>#truthkeeper</li></ul>                                   |
 | [[Jasnah Kholin]]                   | [[Kharbranth]]     | [[Veristitalians]]     | <ul><li>#npc</li><li>#lighteyed</li><li>#alethi</li><li>#scholar</li><li>#radiant</li><li>#heretic</li></ul>        |
@@ -39,7 +39,7 @@ SORT file.name ASC
 | [[Lavrik]]                                 | \-                                             | [[Knights of Dusk]]   | <ul><li>#npc</li><li>#sergeant</li><li>#rebel</li></ul>                                                             |
 | [[Lila]]                                     | [[Revolar]]           | [[Knights of Dusk]]   | <ul><li>#npc</li><li>#darkeyed</li><li>#alethi</li><li>#revolar</li><li>#informant</li></ul>                        |
 | [[Lirin]]                                   | [[Hearthstone]]   | \-                                                    | <ul><li>#npc</li><li>#darkeyed</li><li>#surgeon</li></ul>                                                           |
-| [[Mikeyel Franzay]]               | [[House Sathir]] | [[Sadeas Princedom]] | <ul><li>#npc</li><li>#alethi</li><li>#guard</li></ul>                                                               |
+| [[Mikeyel Franzay]]               | [[House Sathir]] | [[Sadeas]]                                    | <ul><li>#npc</li><li>#alethi</li><li>#guard</li></ul>                                                               |
 | [[Morrow]]                                 | \-                                             | \-                                                    | <ul><li>#npc</li><li>#darkeyed</li><li>#alethi</li><li>#merchant</li><li>#possessed</li></ul>                       |
 | [[Renna Palir]]                       | [[Revolar]]           | [[Truthkeepers]]         | <ul><li>#npc</li><li>#lighteyed</li><li>#alethi</li></ul>                                                           |
 | [[Senny]]                                   | [[Revolar]]           | [[Truthkeepers]]         | <ul><li>#npc</li><li>#lighteyed</li><li>#alethi</li><li>#truthkeeper</li></ul>                                      |
@@ -49,12 +49,13 @@ SORT file.name ASC
 | [[Szeth-son-son-Vallano]]   | [[Jah Keved]]                       | [[Diagram]]                                  | <ul><li>#npc</li><li>#shin</li><li>#assassin</li><li>#truthless</li></ul>                                           |
 | [[Tahs]]                                     | [[Revolar]]           | [[Truthkeepers]]         | <ul><li>#npc</li><li>#lighteyed</li><li>#alethi</li><li>#initiate</li></ul>                                         |
 | [[The Axelsmith]]                   | [[Salimset]]         | \-                                                    | <ul><li>#npc</li><li>#darkeyed</li><li>#cartwright</li><li>#salimset</li></ul>                                      |
-| [[Tien]]                                     | [[Tomat]]               | [[Sadeas Princedom]] | <ul><li>#npc</li><li>#alethi</li><li>#soldier</li><li>#sadeas_princedom</li><li>#stormblessed</li></ul>             |
-| [[Toralin Roshone]]               | [[Hearthstone]]   | [[Sadeas Princedom]] | <ul><li>#npc</li><li>#lighteyed</li><li>#alethi</li></ul>                                                           |
+| [[Tien]]                                     | [[Tomat]]               | [[Sadeas]]                                    | <ul><li>#npc</li><li>#alethi</li><li>#soldier</li><li>#sadeas_princedom</li><li>#stormblessed</li></ul>             |
+| [[Toralin Roshone]]               | [[Hearthstone]]   | [[Sadeas]]                                    | <ul><li>#npc</li><li>#lighteyed</li><li>#alethi</li></ul>                                                           |
 | [[Undertaker]]                         | [[Revolar]]           | [[Ghostbloods]]           | <ul><li>#npc</li><li>#thaylen</li><li>#ghostbloods</li><li>#worldhopper</li></ul>                                   |
 | [[Vorn]]                                     | [[Revolar]]           | \-                                                    | <ul><li>#npc</li><li>#thaylen</li><li>#artifabrian</li></ul>                                                        |
 
 
 <!-- SerializedQuery END -->
+
 <!-- SerializedQuery END -->
 

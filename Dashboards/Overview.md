@@ -22,6 +22,7 @@ SORT file.name ASC
 
 
 <!-- SerializedQuery END -->
+
 # Arcs
 <!-- QueryToSerialize:
 TABLE
@@ -41,6 +42,7 @@ SORT file.name ASC
 
 
 <!-- SerializedQuery END -->
+
 # Sessions
 <!-- QueryToSerialize:
 TABLE
@@ -70,3 +72,4 @@ SORT file.name ASC
 
 
 <!-- SerializedQuery END -->
+

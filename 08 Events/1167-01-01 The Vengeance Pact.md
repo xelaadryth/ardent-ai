@@ -1,6 +1,6 @@
 ---
 type: event
-status: active
+status: completed
 tags:
   - "#event"
 last_updated: 2026-05-17T21:03:51

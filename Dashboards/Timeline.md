@@ -9,7 +9,6 @@ SORT file.name DESC
 
 | File                                                                                            | Type       | Status    |
 | ----------------------------------------------------------------------------------------------- | ---------- | --------- |
-| [[1172-03-42 The Experimental Steamship]]   | Party      | planned   |
 | [[1172-02-32 The Darkstone Siege]]                 | Party      | active    |
 | [[1172-02-22 The Foundry Chase]]                     | Party      | active    |
 | [[1172-02-20 The Cinder Evacuation]]             | Party      | active    |
@@ -19,9 +18,9 @@ SORT file.name DESC
 | [[1172-01-35 Morrow's Execution]]                   | Party      | completed |
 | [[1172-01-12 The Shellmite Attack]]               | Party      | completed |
 | [[1172-01-11 The Arrival]]                                 | Party      | completed |
-| [[1167-01-01 The Vengeance Pact]]                   | Historical | active    |
 | [[-3300-01-01 Aharietem]]                                   | Historical | completed |
 | [[-230-01-01 Day of Recreance]]                       | Historical | completed |
 
 
 <!-- SerializedQuery END -->
+

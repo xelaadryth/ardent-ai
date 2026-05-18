@@ -36,10 +36,14 @@ WHERE faction = this.file.link
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
-- [[Ashusa]]
-- [[Citylord Nilar Yenev]]
-- [[General Odrin Lesh]]
-- [[Highlord Paladar]]
+- [[Ardent Kaelis]]
+- [[Ilsh]]
+- [[Jory]]
+- [[Lirin]]
+- [[Morrow]]
+- [[The Axelsmith]]
+- [[Vorn]]
 
 
 <!-- SerializedQuery END -->
+

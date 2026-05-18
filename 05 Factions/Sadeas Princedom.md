@@ -33,13 +33,14 @@ WHERE faction = this.file.link
 SORT file.name ASC
 -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
-- [[Amaram]]
-- [[Dalen]]
-- [[Dillind]]
-- [[Highlady Marise Sathir]]
-- [[Mikeyel Franzay]]
-- [[Tien]]
-- [[Toralin Roshone]]
+- [[Ardent Kaelis]]
+- [[Ilsh]]
+- [[Jory]]
+- [[Lirin]]
+- [[Morrow]]
+- [[The Axelsmith]]
+- [[Vorn]]
 
 
 <!-- SerializedQuery END -->
+
