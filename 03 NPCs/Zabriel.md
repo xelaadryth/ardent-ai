@@ -18,7 +18,7 @@ A desperate merchant in [[Revolar]] who attempted to trade high-value, extra-pla
 A man with a dejected, weary posture, typical of those struggling to survive in the [[Slipmarket]].
 
 # Personality
-Ambitious but fearful. He attempts to sell rare items at exorbitant prices to fund his survival or escape from the city.
+Ambitious but fearful. He attempts to sell rare items at exorbitant prices to fund his survival or escape from the city. Not very good with money; buying the pieces for high prices but unable to find appropriate buyers, ending up selling them for far less than they're worth to try to get out of debt to the [[Bloodmarks]].
 
 # Background
 Zabriel was encountered in the [[Slipmarket]] trying to sell a [[Nurian Gems]] specimen that boasted twice the duration and power output of standard gemstones. Shortly after his interaction with the party, he was seen being escorted away by a [[Bloodmarks]] squad, his stall left abandoned.
@@ -28,5 +28,5 @@ Zabriel was encountered in the [[Slipmarket]] trying to sell a [[Nurian Gems]] s
 - Evade the notice of the syndicates (failed).
 
 # Connections
-- [[Bloodmarks]]: The organization that abducted him for dealing in their restricted gems.
+- [[Bloodmarks]]: The organization that abducted him for dealing in their restricted gems and not paying back his debts.
 - [[Undertaker]]: The Ghostblood leader who has a vested interest in the types of "curiosities" Zabriel sells.
