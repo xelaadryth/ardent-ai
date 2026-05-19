@@ -5,7 +5,7 @@ tags:
   - "#arc"
   - "#revolar"
   - "#rebellion"
-last_updated: 2024-05-25T10:00:00
+last_updated: 2026-05-18T00:00:00
 number: 2
 ---
 # Description
@@ -21,6 +21,7 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[1172-02-16 The Stackhouse Slavers]]
 - [[1172-02-17 Meeting at the Whitespine]]
 - [[1172-02-17 Meeting with the Undertaker]]
+- [[1172-02-18 The Boutique Confrontation]]
 - [[1172-02-19 The Foundry Chase]]
 
 # Sessions

@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#noble"
   - "#lighteyed"
-last_updated: 2024-05-25T10:00:00
+last_updated: 2026-05-18T00:00:00
 player: Shirley
 spren: "[[Verdae]]"
 ---
@@ -31,8 +31,9 @@ Born into a noble family, Fina rejected a marriage alliance with a "nature cult"
 
 # Hooks
 - [[The Highlord's Greed]]
-- Her experiments could attract dangerous attention from secret societies.
+- [[1172-02-18 The Boutique Confrontation]]: Stood up for Renna against a cruel fiancé.
 
 # Connections
 - [[Verdae]] — Her naive and vine-like Cultivationspren.
 - [[N'tal]] — A companion whose family she accidentally ruined in Nuria.
+- [[Renna Palir]]: Kindred spirit protected from a forced marriage.

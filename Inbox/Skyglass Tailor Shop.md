@@ -1,0 +1,1 @@
+I have created the event document for '1172-02-18 The Boutique Confrontation' and a new NPC file for 'Brightlord Juran'. I also updated the files for Renna Palir, Fina, and Iiko to reflect the character developments and bonds established during this event. The '02 Knights of Dusk Arc' has also been updated to include this new encounter.

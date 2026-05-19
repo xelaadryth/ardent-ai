@@ -6,7 +6,7 @@ tags:
   - "#truthwatcher"
   - "#nurian"
   - "#envoy"
-last_updated: 2026-05-20T12:00:00
+last_updated: 2026-05-18T00:00:00
 player: Truong
 spren: "[[Dreamwaker]]"
 ---
@@ -28,8 +28,9 @@ As part of their transition into [[Revolar]], Iiko meets [[Ardent Kaelis]], whos
 
 # Hooks
 - [[The Devotary Call]]
-- Their search for cosmic truth could lead to discoveries beyond Roshar.
+- [[1172-02-18 The Boutique Confrontation]]: Witnessed Renna's protective nature and her past trauma.
 
 # Connections
 - [[Dreamwaker]]: Ancient Mistspren partner.
 - [[Ardent Kaelis]]: Scholar and potential mentor in [[Revolar]].
+- [[Renna Palir]]: Mentor and surrogate older sister.

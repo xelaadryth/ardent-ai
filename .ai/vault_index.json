@@ -160,7 +160,7 @@
         "[[1172-02-16 The Stackhouse Slavers]]",
         "[[1172-02-17 Meeting at the Whitespine]]",
         "[[1172-02-17 Meeting with the Undertaker]]",
-        "[[1172-02-22 The Foundry Chase]]",
+        "[[1172-02-19 The Foundry Chase]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
       ],
@@ -604,7 +604,7 @@
         "[[Silent Oath]]",
         "[[High Enforcer Aylen]]",
         "[[Lavrik]]",
-        "[[The Warehouse Heist]]"
+        "[[The Missing Supplies]]"
       ],
       "tags": [
         "#npc",
@@ -781,15 +781,20 @@
       ],
       "last_updated": "2026-05-18T12:00:00"
     },
-    "Jory": {
+    "Jory Spadis": {
       "type": "npc",
       "status": "active",
       "links": [
         "[[Revolar]]",
         "[[Knights of Dusk]]",
+        "[[General Spade]]",
         "[[Bloodmarks]]",
-        "[[Stackhouses]]",
-        "[[Arbiter Jalis]]"
+        "[[Possessed]]",
+        "[[Arbiter Jalis]]",
+        "[[Beric Quinn]]",
+        "[[N'tal]]",
+        "[[1172-02-19 The Foundry Chase]]",
+        "[[1172-02-28 Allegiance at the Abandoned Docks]]"
       ],
       "tags": [
         "#npc",
@@ -853,7 +858,7 @@
         "[[Lila]]",
         "[[Khria]]",
         "[[Beric Quinn]]",
-        "[[Jory]]"
+        "[[Jory Spadis]]"
       ],
       "tags": [
         "#npc",
@@ -874,7 +879,7 @@
         "[[The Shining Quill]]",
         "[[Hearthstone]]",
         "[[Mallow]]",
-        "[[The Warehouse Heist]]",
+        "[[The Missing Supplies]]",
         "[[General Spade]]"
       ],
       "tags": [
@@ -1699,13 +1704,10 @@
         "[[Truthkeepers]]",
         "[[Possessed]]",
         "[[Knights of Dusk]]",
-        "[[Ardent Kaelis]]",
-        "[[Ilsh]]",
-        "[[Jory]]",
-        "[[Lirin]]",
-        "[[Morrow]]",
-        "[[The Axelsmith]]",
-        "[[Vorn]]"
+        "[[Dalen]]",
+        "[[Dillind]]",
+        "[[Mikeyel Franzay]]",
+        "[[Toralin Roshone]]"
       ],
       "tags": [
         "#faction",
@@ -1778,14 +1780,7 @@
         "[[Ashusa]]",
         "[[Possessed]]",
         "[[Bloodmarks]]",
-        "[[House Sathir]]",
-        "[[Ardent Kaelis]]",
-        "[[Ilsh]]",
-        "[[Jory]]",
-        "[[Lirin]]",
-        "[[Morrow]]",
-        "[[The Axelsmith]]",
-        "[[Vorn]]"
+        "[[House Sathir]]"
       ],
       "tags": [
         "#faction",
@@ -1976,7 +1971,7 @@
       "status": "active",
       "links": [
         "[[Revolar]]",
-        "[[1172-02-22 The Foundry Chase]]",
+        "[[1172-02-19 The Foundry Chase]]",
         "[[Bloodmarks]]",
         "[[Possessed]]",
         "[[Stackhouses]]"
@@ -2251,6 +2246,21 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "Test of Loyalty": {
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[Beric Quinn]]",
+        "[[Renna Palir]]",
+        "[[Stackhouses]]",
+        "[[Knights of Dusk]]",
+        "[[The Missing Supplies]]"
+      ],
+      "tags": [
+        "#hook"
+      ],
+      "last_updated": "2026-05-19T09:38:07"
+    },
     "The Devotary Call": {
       "type": "hook",
       "status": "active",
@@ -2289,61 +2299,7 @@
       ],
       "last_updated": "2026-05-20T12:00:00"
     },
-    "The Orphans of Tomat": {
-      "type": "hook",
-      "status": "planned",
-      "links": [
-        "[[House Sathir]]",
-        "[[Dillind]]",
-        "[[Tomat]]",
-        "[[Bloodmarks]]",
-        "[[Highlady Marise Sathir]]",
-        "[[Amaram]]",
-        "[[Envisagers]]",
-        "[[Mallow]]"
-      ],
-      "tags": [
-        "#hook",
-        "#tomat",
-        "#mallow",
-        "#dillind"
-      ],
-      "last_updated": "2024-05-22T10:00:00"
-    },
-    "The Stable Boy": {
-      "type": "hook",
-      "status": "active",
-      "links": [
-        "[[Jory]]",
-        "[[Bloodmarks]]",
-        "[[Truthkeepers]]",
-        "[[1172-02-22 The Foundry Chase]]"
-      ],
-      "tags": [
-        "#hook"
-      ],
-      "last_updated": "2026-05-18T23:51:49"
-    },
-    "The Stormblessed Investigation": {
-      "type": "hook",
-      "status": "planned",
-      "links": [
-        "[[Adjudicator Peton]]",
-        "[[Tomat]]",
-        "[[Tien]]",
-        "[[Possessed]]",
-        "[[Istrum]]",
-        "[[Silent Oath]]",
-        "[[Truthkeepers]]"
-      ],
-      "tags": [
-        "#hook",
-        "#truthkeepers",
-        "#tomat"
-      ],
-      "last_updated": "2024-05-22T10:00:00"
-    },
-    "The Warehouse Heist": {
+    "The Missing Supplies": {
       "type": "hook",
       "status": "active",
       "links": [
@@ -2365,6 +2321,46 @@
         "#investigation"
       ],
       "last_updated": "2024-05-23T10:00:00"
+    },
+    "The Orphans of Tomat": {
+      "type": "hook",
+      "status": "planned",
+      "links": [
+        "[[House Sathir]]",
+        "[[Dillind]]",
+        "[[Tomat]]",
+        "[[Bloodmarks]]",
+        "[[Highlady Marise Sathir]]",
+        "[[Amaram]]",
+        "[[Envisagers]]",
+        "[[Mallow]]"
+      ],
+      "tags": [
+        "#hook",
+        "#tomat",
+        "#mallow",
+        "#dillind"
+      ],
+      "last_updated": "2024-05-22T10:00:00"
+    },
+    "The Stormblessed Investigation": {
+      "type": "hook",
+      "status": "planned",
+      "links": [
+        "[[Adjudicator Peton]]",
+        "[[Tomat]]",
+        "[[Tien]]",
+        "[[Possessed]]",
+        "[[Istrum]]",
+        "[[Silent Oath]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#hook",
+        "#truthkeepers",
+        "#tomat"
+      ],
+      "last_updated": "2024-05-22T10:00:00"
     },
     "Tracking the Knights of Dusk": {
       "type": "hook",
@@ -2527,36 +2523,17 @@
       ],
       "last_updated": "2026-05-20T15:00:00"
     },
-    "1172-02-20 The Cinder Evacuation": {
-      "type": "event",
-      "status": "active",
-      "links": [
-        "[[Skyglass District]]",
-        "[[Revolar]]",
-        "[[Highlord Paladar]]",
-        "[[Knights of Dusk]]",
-        "[[Chip]]"
-      ],
-      "tags": [
-        "#event",
-        "#revolar",
-        "#investigation",
-        "#combat",
-        "#fire"
-      ],
-      "last_updated": "2026-05-18T12:00:00"
-    },
-    "1172-02-22 The Foundry Chase": {
+    "1172-02-19 The Foundry Chase": {
       "type": "event",
       "status": "active",
       "links": [
         "[[013 Shadow War in the Driftwards]]",
         "[[Scarstone Quarter]]",
-        "[[Bruckslats]]",
+        "[[1172-02-17 Meeting with the Undertaker]]",
         "[[Bloodmarks]]",
         "[[Arbiter Jalis]]",
         "[[N'tal]]",
-        "[[Jory]]"
+        "[[Jory Spadis]]"
       ],
       "tags": [
         "#event",
@@ -2567,13 +2544,36 @@
       ],
       "last_updated": "2026-05-20T15:00:00"
     },
-    "1172-02-28 The Dusk Rebellion Defection": {
+    "1172-02-20 The Cinder Evacuation": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[Skyglass District]]",
+        "[[Revolar]]",
+        "[[Highlord Paladar]]",
+        "[[Knights of Dusk]]",
+        "[[Jory Spadis]]",
+        "[[Chip]]",
+        "[[Beric Quinn]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#investigation",
+        "#combat",
+        "#fire"
+      ],
+      "last_updated": "2026-05-18T12:00:00"
+    },
+    "1172-02-28 Allegiance at the Abandoned Docks": {
       "type": "event",
       "status": "active",
       "links": [
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
-        "[[Jory]]",
+        "[[Jory Spadis]]",
+        "[[General Spade]]",
+        "[[Possessed]]",
         "[[Beric Quinn]]",
         "[[Kaz]]",
         "[[Ojog]]",
@@ -2686,7 +2686,7 @@
         "[[The Shining Quill]]",
         "[[013 Shadow War in the Driftwards]]",
         "[[Revolar]]",
-        "[[The Warehouse Heist]]"
+        "[[The Missing Supplies]]"
       ],
       "tags": [
         "#lore",
