@@ -146,8 +146,10 @@
         "[[Silent Oath]]",
         "[[High Enforcer Aylen]]",
         "[[Istrum]]",
+        "[[Ojog]]",
         "[[General Spade]]",
         "[[Khria]]",
+        "[[Beric Quinn]]",
         "[[Highlord Paladar]]",
         "[[General Odrin Lesh]]",
         "[[Lila]]",
@@ -161,7 +163,7 @@
         "[[Iiko]]",
         "[[1172-02-16 The Stackhouse Slavers]]",
         "[[1172-02-17 Meeting at the Whitespine]]",
-        "[[1172-02-17 Meeting with the Undertaker]]",
+        "[[1172-02-18 Meeting with the Undertaker]]",
         "[[1172-02-22 The Foundry Chase]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
@@ -171,7 +173,7 @@
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2026-05-20T15:00:00"
+      "last_updated": "2024-05-24T12:00:00"
     },
     "03 Stormblessed Arc": {
       "type": "arc",
@@ -462,6 +464,33 @@
         "#alethi"
       ],
       "last_updated": "2026-05-15T12:00:00"
+    },
+    "Beric Quinn": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Knights of Dusk]]",
+        "[[Revolar]]",
+        "[[Truthkeepers|Truthkeeper]]",
+        "[[N'tal]]",
+        "[[Kuma]]",
+        "[[Ojog]]",
+        "[[Truthkeeper Camp]]",
+        "[[Stackhouses]]",
+        "[[General Spade]]",
+        "[[Truthkeepers]]",
+        "[[Adjudicator Peton]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#nurian",
+        "#hunter",
+        "#rebel",
+        "#spy",
+        "#knights_of_dusk"
+      ],
+      "last_updated": "2024-05-24T12:00:00"
     },
     "Chip": {
       "type": "npc",
@@ -923,10 +952,12 @@
         "[[Truthkeeper Camp]]",
         "[[N'tal]]",
         "[[Kuma]]",
+        "[[Beric Quinn]]",
         "[[Hearthstone]]",
         "[[Adjudicator Peton]]",
         "[[Istrum]]",
-        "[[Silent Oath]]"
+        "[[Silent Oath]]",
+        "[[Knights of Dusk]]"
       ],
       "tags": [
         "#npc",
@@ -935,7 +966,7 @@
         "#enforcer",
         "#assassin"
       ],
-      "last_updated": "2024-05-24T10:00:00"
+      "last_updated": "2024-05-24T12:00:00"
     },
     "Renna Palir": {
       "type": "npc",
@@ -1137,7 +1168,7 @@
         "[[Silent Oath]]",
         "[[Chip]]",
         "[[Iyatil]]",
-        "[[1172-02-17 Meeting with the Undertaker]]"
+        "[[1172-02-18 Meeting with the Undertaker]]"
       ],
       "tags": [
         "#npc",
@@ -1487,28 +1518,6 @@
         "#investigation"
       ],
       "last_updated": "2026-05-16T12:00:00"
-    },
-    "013 Shadow War in the Driftwards": {
-      "type": "session",
-      "status": "active",
-      "links": [
-        "[[02 Knights of Dusk Arc]]",
-        "[[Revolar|Driftwards]]",
-        "[[Bloodmarks]]",
-        "[[Scarstone Quarter]]",
-        "[[1172-02-17 Meeting at the Whitespine]]",
-        "[[N'tal]]",
-        "[[Chip]]",
-        "[[Whitespine's Fang]]",
-        "[[Undertaker]]",
-        "[[Bruckslats]]"
-      ],
-      "tags": [
-        "#session",
-        "#investigation",
-        "#stealth"
-      ],
-      "last_updated": "2026-05-20T14:00:00"
     },
     "Bloodmarks": {
       "type": "faction",
@@ -2117,17 +2126,20 @@
       "type": "hook",
       "status": "active",
       "links": [
+        "[[Adjudicator Peton]]",
+        "[[Beric Quinn]]",
         "[[Scarstone Quarter]]",
         "[[The Vamah Archivum]]",
         "[[Renna Palir]]",
         "[[Truthkeepers]]",
-        "[[Knights of Dusk]]"
+        "[[Knights of Dusk]]",
+        "[[Ojog]]"
       ],
       "tags": [
         "#hook",
         "#revolar"
       ],
-      "last_updated": "2026-05-15T16:30:00"
+      "last_updated": "2024-05-24T12:00:00"
     },
     "The Devotary Call": {
       "type": "hook",
@@ -2213,7 +2225,11 @@
       "type": "hook",
       "status": "active",
       "links": [
+        "[[General Odrin Lesh]]",
         "[[Knights of Dusk]]",
+        "[[Adjudicator Peton]]",
+        "[[Renna Palir]]",
+        "[[Beric Quinn]]",
         "[[Shield Ring]]",
         "[[Vamah Princedom]]",
         "[[Revolar]]",
@@ -2378,7 +2394,7 @@
       ],
       "last_updated": "2026-05-20T14:00:00"
     },
-    "1172-02-17 Meeting with the Undertaker": {
+    "1172-02-18 Meeting with the Undertaker": {
       "type": "event",
       "status": "active",
       "links": [

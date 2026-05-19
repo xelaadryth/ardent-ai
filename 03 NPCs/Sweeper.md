@@ -5,26 +5,25 @@ tags:
   - "#npc"
   - "#alethi"
   - "#contact"
-last_updated: 2026-05-15T16:00:00
+last_updated: 2024-05-25T10:00:00
 faction: "[[Ghostbloods]]"
 location: "[[Revolar]]"
 ---
 
 # Description
-A mysterious man with dark brown eyes and short Alethi hair. He is often seen in a hooded coat, talking slowly and softly. He is currently based in [[Revolar]].
+A mysterious man often seen in a hooded coat. He is a local contact for the [[Ghostbloods]] who confirmed he operates under the authority of [[Chip]] and the [[Undertaker]].
 
 # Personality
-He is desperate to find out what happens to the [[Possessed]] and is looking for connections to help. While he tries to be mysterious, he relies heavily on others and isn't used to acting independently. He is a contact for [[Chip]] in Salimset and Hearthstone.
+Desperate to prove his worth, he often acts as a bridge for initiates. He possesses a dramatic flair and recently provided intelligence that the [[Undertaker]] values "trophies" from distant worlds.
 
 # Background
-The Sweeper has heard of the [[Ghostbloods]] and thinks they're the ultimate in cool. While trying to join them, his first task was to infiltrate the [[Truthkeepers]]. As he didn't have confidence to do it himself, he has taken a specific interest in [[N'tal]], attempting to recruit him by offering information on the Truthkeepers' true nature. He accidentally encountered the [[Undertaker]] when trying to join the Ghostbloods through his contact [[Chip]], and that is one of his only pieces of bargaining power to entice [[N'tal]] to give him information.
+He is currently based in [[Revolar]], monitoring the influx of [[Nurian Gems]] and investigating the movements of the [[Bloodmarks]] syndicate.
 
-# Goals & Motivations
-- **Intel Gathering:** He wants to know exactly what the [[Truthkeepers]] do with the "Possessed" they capture.
-- **Impress Chip:** Like a dog, he wants to be told he's a good boy.
+# Goals
+- **Infiltration:** Monitor [[Truthkeepers]] activity for [[Chip]].
+- **Intel Gathering:** Track the trade of [[Nurian Gems]].
 
 # Connections
-- [[N'tal]]: The party member he is currently attempting to flip.
-- [[Chip]]: His superior.
-- [[Undertaker]]: [[Chip]]'s superior in [[Revolar]].
-- [[Sila]]: Sweeper previously hired Sila and Luggan for assassinating [[Guddy]] on [[Chip]]'s orders from the [[Undertaker]].
+- [[N'tal]]: The initiate he is currently vetting.
+- [[Chip]]: His direct superior.
+- [[Undertaker]]: The leader he serves.

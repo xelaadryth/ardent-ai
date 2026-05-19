@@ -1,12 +1,12 @@
 ---
 type: player
 status: active
-tags:
+tags:    
   - "#player"
   - "#willshaper"
   - "#purelaker"
   - "#enforcer"
-last_updated: 2024-05-22T10:00:00
+last_updated: 2024-05-25T10:00:00
 player: Audrey
 spren: "[[Cadence]]"
 ---
@@ -15,26 +15,23 @@ spren: "[[Cadence]]"
 A Purelaker Willshaper seeking atonement for the betrayal that led to her sister's abduction.
 
 # Appearance
-Dark green eyes and black hair. As a Tu Bayla of the Purelake, Mallow wears practical traveling gear suited for long journeys.
+Dark green eyes and black hair. She wears practical traveling gear and always carries **fishing nets** in her backpack, noting that "you never know when you're going to find a spot to fish."
 
 # Personality
-Mallow is deeply protective, especially of her animal companion. Though she once claimed she wanted only to return to the Purelake, she has developed a sense of wonder about the wider world. Beneath her curiosity lies an intense burden of guilt.
+Mallow is deeply protective and possesses a sense of wonder about the wider world. Her pragmatism is rooted in her Purelaker upbringing, evidenced by her constant readiness for opportunistic fishing.
 
 # Background
-Mallow was raised by her sister, [[Khria]], until Khria bonded a spren and was taken by the Truthkeepers. In a moment of panic, Mallow reported what had happened. Wracked with regret, she joined the Truthkeepers as an Enforcer in order to track down her sister and bring her home.
+Mallow joined the [[Truthkeepers]] as an Enforcer to track down her sister, [[Khria]], after reporting her to the authorities in a moment of panic.
 
 # Goals
-- Find [[Khria]] and rescue her from the Truthkeepers or her own instability.
-- Confront and atone for betraying her sister.
-- Protect the forgotten, including orphans, the poor, and the hungry.
+- Find and rescue [[Khria]].
+- Protect the forgotten and the oppressed.
 
 # Hooks
-- [[Hook: The Orphans of Tomat]]
-- [[Khria]] may no longer want to be rescued.
-- The Truthkeepers may know more about Khria's fate than they admit.
-- Pom could prove unexpectedly significant in future events.
+- [[The Orphans of Tomat]]
+- [[Tracking the Knights of Dusk]]
 
 # Connections
-- [[Khria]] — Her sister, a lieutenant in the Knights of Dusk and a Truthwatcher.
-- [[Cadence]] — Her moody and empathetic Lightspren.
+- [[Khria]] — Her sister.
+- [[Cadence]] — Her Lightspren partner.
 - Pom — Her loyal mink companion.
