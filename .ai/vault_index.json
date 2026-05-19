@@ -836,6 +836,34 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "Kaz": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Knights of Dusk]]",
+        "[[Stackhouses]]",
+        "[[Highlord Paladar]]",
+        "[[Revolar]]",
+        "[[Bloodmarks]]",
+        "[[General Spade]]",
+        "[[Scarstone Quarter]]",
+        "[[Slipmarket]]",
+        "[[Shieldring]]",
+        "[[Vamah Princedom]]",
+        "[[Lila]]",
+        "[[Khria]]",
+        "[[Beric Quinn]]",
+        "[[Jory]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#rebel",
+        "#knights_of_dusk"
+      ],
+      "last_updated": "2024-05-26T10:00:00"
+    },
     "Khria": {
       "type": "npc",
       "status": "active",
@@ -1988,13 +2016,15 @@
         "[[Bloodmarks]]",
         "[[Knights of Dusk]]",
         "[[Lila]]",
+        "[[Kaz]]",
+        "[[Falen]]",
         "[[1172-02-16 The Stackhouse Slavers]]"
       ],
       "tags": [
         "#location",
         "#revolar"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2024-05-26T10:00:00"
     },
     "Stringken": {
       "type": "location",
@@ -2653,8 +2683,8 @@
         "[[009 Slavers]]",
         "[[012 Following Chip]]",
         "[[Stackhouses]]",
-        "[[013 Shadow War in the Driftwards]]",
         "[[The Shining Quill]]",
+        "[[013 Shadow War in the Driftwards]]",
         "[[Revolar]]",
         "[[The Warehouse Heist]]"
       ],
@@ -2663,7 +2693,7 @@
         "#npc",
         "#reference"
       ],
-      "last_updated": "2024-05-25T11:00:00"
+      "last_updated": "2024-05-26T10:00:00"
     },
     "Nurian Gems": {
       "type": "lore",
