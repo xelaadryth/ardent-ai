@@ -22,12 +22,10 @@ A melting pot of Alethi, Vedens, Thaylens, and more mysterious travelers. It is 
 
 A merchant named **Zabriel** occasionally deals in rare, fake-sounding items from off-world, such as:
 
-- a bead of a metal called atium for 20,000 marks / 100 emerald broams, incredibly rare!
-    
+- a bead of a metal called atium from Scadrial for 20,000 marks / 100 emerald broams, incredibly rare!
 - "whitesand" from Taldain that is black, for 10,000 marks / 50 emerald broams, but it's a steal!
-    
-- a tiny Nurian diamond broam from Mythos for 2,000 marks / 10 emerald broams, very popular lately and will surely become the next big thing! Looks identical to a regular diamond broam, but it's better!
-    
+- a tiny Nurian diamond broam from Mythos for 10,000 marks / 10 emerald broams, very popular lately and will surely become the next big thing! Looks identical to a regular diamond broam, but it's better!
+- grass from Shinovar for 1000 marks
 
 These are of great interest to the Undertaker, who collects such off-world trinkets.
 

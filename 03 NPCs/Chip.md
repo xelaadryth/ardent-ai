@@ -16,7 +16,7 @@ location: "[[Alethkar]]"
 A Ghostblood spy currently embedded within the [[Truthkeepers]], carefully hiding his true noble lineage and high-ranking status.
 
 # Appearance
-Light blue eyes. He carries a longsword and keeps throwing knives as secondary weapons.
+Light blue eyes, brown hair. He carries a longsword and keeps throwing knives as secondary weapons.
 
 # Personality
 Jovial, chill, and a smirking jokester. He uses humor as a primary tool to deflect attention away from his background and noble upbringing.

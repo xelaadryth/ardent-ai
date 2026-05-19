@@ -3,7 +3,7 @@
     {
       "id": "map-revolar",
       "locked": false,
-      "lastAccessed": 1779036645345,
+      "lastAccessed": 1779163158350,
       "markers": [
         {
           "id": "ID_c90bc95a592b",
@@ -188,6 +188,38 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "always"
+        },
+        {
+          "id": "ID_98f968aa4b0a",
+          "type": "Building",
+          "loc": [
+            -374.203125,
+            1247.25
+          ],
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Bladeshine Inn",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5af82b48695b",
+          "type": "Building",
+          "loc": [
+            -818.59375,
+            1654.5
+          ],
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Shining Quill",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -199,7 +231,7 @@
     {
       "id": "map-roshar",
       "locked": false,
-      "lastAccessed": 1779036645345,
+      "lastAccessed": 1779163158351,
       "markers": [
         {
           "id": "ID_59bab8184a1a",

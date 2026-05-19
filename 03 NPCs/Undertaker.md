@@ -30,5 +30,5 @@ Undertaker is actually **Mraize**, a worldhopper of significant power and influe
 # Connections
 - [[Chip]]: His direct field agent around Revolar.
 - [[Iyatil]]: His supposed "apprentice" who actually uses him to gather information and manipulate events from the shadows.
-- [[N'tal]]: A potential asset whose family tragedy he helped illuminate during the meeting in [[1172-02-17 Meeting with the Undertaker]].
+- [[N'tal]]: A potential asset whose family tragedy he helped illuminate during the meeting in [[1172-02-18 Meeting with the Undertaker]].
 - [[Fina]]: A former proxy whose past negligence he has weaponized to test the squad's loyalty.
