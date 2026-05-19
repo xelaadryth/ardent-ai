@@ -150,17 +150,13 @@
         "[[General Spade]]",
         "[[Khria]]",
         "[[Beric Quinn]]",
-        "[[Highlord Paladar]]",
-        "[[General Odrin Lesh]]",
-        "[[Lila]]",
         "[[Ghostbloods]]",
         "[[Undertaker]]",
         "[[Sweeper]]",
-        "[[Sila]]",
+        "[[Chip]]",
         "[[Bloodmarks]]",
         "[[Arbiter Jalis]]",
-        "[[Ardent Kaelis]]",
-        "[[Iiko]]",
+        "[[Grand Justicar Malice]]",
         "[[1172-02-16 The Stackhouse Slavers]]",
         "[[1172-02-17 Meeting at the Whitespine]]",
         "[[1172-02-18 Meeting with the Undertaker]]",
@@ -173,7 +169,7 @@
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2024-05-24T12:00:00"
+      "last_updated": "2024-05-25T10:00:00"
     },
     "03 Stormblessed Arc": {
       "type": "arc",
@@ -250,7 +246,8 @@
         "[[Verdae]]",
         "[[Bloodmarks]]",
         "[[N'tal]]",
-        "[[Undertaker]]"
+        "[[Undertaker]]",
+        "[[The Highlord's Greed]]"
       ],
       "tags": [
         "#player",
@@ -259,7 +256,7 @@
         "#noble",
         "#lighteyed"
       ],
-      "last_updated": "2026-05-20T15:00:00"
+      "last_updated": "2024-05-25T10:00:00"
     },
     "Galeth-son-Thald": {
       "type": "player",
@@ -324,8 +321,10 @@
       "status": "active",
       "links": [
         "[[Cadence]]",
+        "[[Truthkeepers]]",
         "[[Khria]]",
-        "[[Hook: The Orphans of Tomat]]"
+        "[[The Orphans of Tomat]]",
+        "[[Tracking the Knights of Dusk]]"
       ],
       "tags": [
         "#player",
@@ -333,20 +332,22 @@
         "#purelaker",
         "#enforcer"
       ],
-      "last_updated": "2024-05-22T10:00:00"
+      "last_updated": "2024-05-25T10:00:00"
     },
     "N'tal": {
       "type": "player",
       "status": "active",
       "links": [
         "[[Pyre]]",
-        "[[Ghostbloods]]",
+        "[[Sun's Zenith]]",
+        "[[Slipmarket]]",
         "[[Bloodmarks]]",
+        "[[Undertaker]]",
         "[[Fina]]",
+        "[[Revolar]]",
         "[[Arbiter Jalis]]",
-        "[[1172-02-17 The Foundry Chase]]",
         "[[N'tal's Vendetta]]",
-        "[[Grand Justicar Malice]]"
+        "[[1172-02-17 The Foundry Chase]]"
       ],
       "tags": [
         "#player",
@@ -354,7 +355,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2026-05-20T15:00:00"
+      "last_updated": "2024-05-25T10:00:00"
     },
     "Adjudicator Peton": {
       "type": "npc",
@@ -1052,20 +1053,19 @@
       "links": [
         "[[Ghostbloods]]",
         "[[Revolar]]",
-        "[[Possessed]]",
         "[[Chip]]",
-        "[[Truthkeepers]]",
-        "[[N'tal]]",
         "[[Undertaker]]",
-        "[[Sila]]",
-        "[[Guddy]]"
+        "[[Nurian Gems]]",
+        "[[Bloodmarks]]",
+        "[[Truthkeepers]]",
+        "[[N'tal]]"
       ],
       "tags": [
         "#npc",
         "#alethi",
         "#contact"
       ],
-      "last_updated": "2026-05-15T16:00:00"
+      "last_updated": "2024-05-25T10:00:00"
     },
     "Szeth-son-son-Vallano": {
       "type": "npc",
@@ -1193,6 +1193,24 @@
         "#artifabrian"
       ],
       "last_updated": "2026-05-16T17:00:00"
+    },
+    "Zabriel": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Slipmarket]]",
+        "[[Bloodmarks]]",
+        "[[Nurian Gems]]",
+        "[[Undertaker]]"
+      ],
+      "tags": [
+        "#npc",
+        "#merchant",
+        "#revolar",
+        "#captured"
+      ],
+      "last_updated": "2024-05-25T10:00:00"
     },
     "000 Arrival": {
       "type": "session",
@@ -1518,6 +1536,43 @@
         "#investigation"
       ],
       "last_updated": "2026-05-16T12:00:00"
+    },
+    "013 Shadow War in the Driftwards": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Revolar]]",
+        "[[Ghostbloods]]",
+        "[[Knights of Dusk]]",
+        "[[Nurian Gems]]",
+        "[[Stackhouses]]",
+        "[[Bloodmarks]]",
+        "[[Chip]]",
+        "[[Karani]]",
+        "[[Cream of the Crem]]",
+        "[[Whitespine's Fang]]",
+        "[[Sweeper]]",
+        "[[Undertaker]]",
+        "[[N'tal]]",
+        "[[Middlecrest]]",
+        "[[Sun's Zenith]]",
+        "[[Doug (Guddy)]]",
+        "[[Zabriel]]",
+        "[[Slipmarket]]",
+        "[[Mythos]]",
+        "[[Shinovar]]",
+        "[[Cadence]]",
+        "[[Lowstone Alley]]",
+        "[[Gemheart Inn]]"
+      ],
+      "tags": [
+        "#session",
+        "#investigation",
+        "#revolar",
+        "#ghostbloods"
+      ],
+      "last_updated": "2024-05-25T10:00:00"
     },
     "Bloodmarks": {
       "type": "faction",
@@ -1849,23 +1904,19 @@
       "links": [
         "[[Alethkar]]",
         "[[Darkstone Forest]]",
+        "[[Scarstone Quarter]]",
         "[[Stackhouses]]",
-        "[[Lila]]",
         "[[Cream of the Crem]]",
         "[[Whitespine's Fang]]",
-        "[[Hook: The Fieldwards Heist]]",
         "[[Sun's Zenith]]",
-        "[[Gemheart Inn]]",
-        "[[1172-02-20 The Cinder Evacuation]]",
-        "[[The Vamah Archivum]]",
         "[[Bitter Leaf Apothecary]]",
         "[[Boundless Bazaar]]",
-        "[[Scarstone Quarter]]"
+        "[[The Vamah Archivum]]"
       ],
       "tags": [
         "#location"
       ],
-      "last_updated": "2024-05-23T10:00:00"
+      "last_updated": "2024-05-25T10:00:00"
     },
     "Salimset": {
       "type": "location",
@@ -2553,14 +2604,17 @@
         "[[009 Slavers]]",
         "[[006 Dillind and the Temple]]",
         "[[Hook: The Fieldwards Heist]]",
-        "[[Revolar]]"
+        "[[Revolar]]",
+        "[[013 Shadow War in the Driftwards]]",
+        "[[Stackhouses]]",
+        "[[012 Following Chip]]"
       ],
       "tags": [
         "#lore",
         "#npc",
         "#reference"
       ],
-      "last_updated": "2024-05-23T10:00:00"
+      "last_updated": "2024-05-25T10:00:00"
     },
     "Nurian Gems": {
       "type": "lore",

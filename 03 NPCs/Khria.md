@@ -7,7 +7,7 @@ tags:
   - "#purelaker"
   - "#truthwatcher"
   - "#rebel"
-last_updated: 2024-05-23T10:00:00
+last_updated: 2024-05-25T11:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
@@ -21,7 +21,7 @@ Lean and lithe with sun-tanned skin typical of a Purelaker. She wears practical,
 Possessing a preternatural calm and a sharp logistical mind, always calculating the best path forward during high-stakes situations. While deeply loyal and decisive, she carries a quiet bitterness regarding the circumstances of her capture.
 
 # Background
-Her life changed after spotting a Mistspren in the shallow waters of the Purelake. After her sister mentioned the sighting to townsfolk, Khria was reported to the [[Truthkeepers]] and seized for execution. She was rescued by the [[Knights of Dusk]] during a caravan raid and has since become a key leader in the resistance.
+Her life changed after spotting a Mistspren in the shallow waters of the Purelake. After her sister mentioned the sighting to townsfolk, Khria was reported to the [[Truthkeepers]] and seized for execution. She was rescued by the [[Knights of Dusk]] during a caravan raid and has since become a key leader in the resistance. She recently commissioned a map at [[The Shining Quill]] for an extraction route to [[Hearthstone]].
 
 # Goals
 - **Liberation:** Free the people of Vamah from systemic oppression.
@@ -30,6 +30,7 @@ Her life changed after spotting a Mistspren in the shallow waters of the Purelak
 
 # Hooks
 - [[Hook: The Fieldwards Heist]]
+- **Cartography Trail:** Her commission at [[The Shining Quill]] provides a lead for those tracking the [[Knights of Dusk]].
 
 # Connections
 - [[General Spade]]: Her commander, savior, and fellow rebellion leader.

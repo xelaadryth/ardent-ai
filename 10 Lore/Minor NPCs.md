@@ -5,7 +5,7 @@ tags:
   - "#lore"
   - "#npc"
   - "#reference"
-last_updated: 2024-05-25T10:00:00
+last_updated: 2024-05-25T11:00:00
 ---
 
 # Overview
@@ -47,5 +47,5 @@ This document serves as a central reference for minor non-player characters enco
 | **Teson** | Junior scribe with meticulous records of mundane theft. | [[Hook: The Fieldwards Heist]] | [[Revolar]] |
 | **Lirael** | Senior Alethi scribe; finds the theft of daily goods insulting. | [[Hook: The Fieldwards Heist]] | [[Revolar]] |
 | **Kaz** | Gruff voice; leader of a small rebel cell in the Stackhouses. | [[013 Shadow War in the Driftwards]] | [[Stackhouses]] |
-| **Lady Piri Hadlis** | Elegant mapmaker and owner of The Shining Quill. | [[013 Shadow War in the Driftwards]] | [[Revolar]] |
+| **Lady Piri Hadlis** | Elegant mapmaker and owner of [[The Shining Quill]]. Noticed the gait of Purelakers. | [[013 Shadow War in the Driftwards]] | [[Revolar]] |
 | **Falen** | Resident of the Stackhouses; father of the family rescued from slavers. | [[012 Following Chip]] | [[Stackhouses]] |
