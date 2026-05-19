@@ -34,5 +34,5 @@ As [[Jory]] begins to sink, [[Arbiter Jalis]] retreats toward an upper extractio
 2. **Protection:** Abandon the pursuit to save Jory from the vat. This selfless act triggers [[N'tal]]'s realization of the First Ideal: "Life before death, strength before weakness, journey before destination."
 
 # Outcomes
-- **Speaking the Words:** If [[N'tal]] chooses to save Jory, he manifests full control over Abrasion, allowing him to glide across the slick foundry floor to reach the release mechanism in time. 
+- **Speaking the Words:** If [[N'tal]] chooses to save Jory, he manifests full control over Abrasion, allowing him to glide across the slick foundry floor to reach the release mechanism in time, or destroy the vat to prevent Jory from drowning. 
 - **The Escaped Villain:** By saving Jory, [[Arbiter Jalis]] manages to escape into the [[Scarstone Quarter]], cementing his role as a recurring nemesis linked to N'tal's past.

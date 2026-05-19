@@ -68,7 +68,7 @@ SORT file.name ASC
 | [[010 Soulcaster and Shared Employers]] | [[01 Truthkeepers Arc]]       | completed |
 | [[011 Promotions and Revolar]]                   | [[01 Truthkeepers Arc]]       | completed |
 | [[012 Following Chip]]                                   | [[02 Knights of Dusk Arc]] | completed |
-| [[013 Shadow War in the Driftwards]]       | [[02 Knights of Dusk Arc]] | active    |
+| [[013 Shadow War in the Driftwards]]       | [[02 Knights of Dusk Arc]] | completed |
 
 
 <!-- SerializedQuery END -->

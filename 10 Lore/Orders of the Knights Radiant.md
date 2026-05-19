@@ -12,18 +12,18 @@ last_updated: 2024-05-19T12:00:00
 # Overview
 The Knights Radiant were ten distinct Orders of Surgebinders, ancient protectors of Roshar who bonded with spren to manifest supernatural abilities. Each Order was defined by their unique pairing of two fundamental Surges, their specific Nahel spren bond, and a shared set of moral Oaths centered on the First Ideal: "Life before death, strength before weakness, journey before destination."
 
-| Order | Herald | Surges | Nahel Spren | Gemstone | Attributes |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Windrunners** | Jezrien | Adhesion & Gravitation | Honorspren | Sapphire | Protecting & Leading |
-| **Skybreakers** | [[High Enforcer Aylen]] | Gravitation & Division | Highspren | Smokestone | Justice & Confidence |
-| **Dustbringers** | Chanarach | Division & Abrasion | Ashspren | Ruby | Courage & Obedience |
-| **Edgedancers** | Vedel | Abrasion & Progression | Cultivationspren | Diamond | Loving & Healing |
-| **Truthwatchers** | Pailiah | Progression & Illumination | Mistspren | Emerald | Learned & Giving |
-| **Lightweavers** | Shalash | Illumination & Transformation | Cryptics | Garnet | Creative & Honest |
-| **Elsecallers** | Battar | Transformation & Transportation | Inkspren | Zircon | Wise & Careful |
-| **Willshapers** | Kalak | Transportation & Cohesion | Reachers | Amethyst | Resolute & Builder |
-| **Stonewards** | Talenelat | Cohesion & Tension | Peakspren | Topaz | Dependable & Resolver |
-| **Bondsmiths** | [[High Witness Yeshan]] | Tension & Adhesion | Unique | Heliodor | Guiding & Instructor |
+| Order             | Herald                  | Surges                          | Nahel Spren                            | Cousin Spren        | Gemstone    | Attributes            |
+| :---------------- | :---------------------- | :------------------------------ | :------------------------------------- | :------------------ | :---------- | :-------------------- |
+| **Windrunners**   | Jezrien                 | Adhesion & Gravitation          | Honorspren                             | Windspren           | Sapphire    | Protecting & Leading  |
+| **Skybreakers**   | [[High Enforcer Aylen]] | Gravitation & Division          | Highspren                              | Luckspren (Mandras) | Smoke-stone | Justice & Confidence  |
+| **Dustbringers**  | Chana-rach              | Division & Abrasion             | Ashspren                               | Flamespren          | Ruby        | Courage & Obedience   |
+| **Edgedancers**   | Vedel                   | Abrasion & Progression          | Cultivation-spren                      | Lifespren           | Diamond     | Loving & Healing      |
+| **Truthwatchers** | Pailiah                 | Progression & Illumination      | Mistspren                              | Concentration-spren | Emerald     | Learned & Giving      |
+| **Lightweavers**  | Shalash                 | Illumination & Transformation   | Liespren (Cryptics)                    | Creationspren       | Garnet      | Creative & Honest     |
+| **Elsecallers**   | Battar                  | Transformation & Transportation | Inkspren                               | Logicspren          | Zircon      | Wise & Careful        |
+| **Willshapers**   | Kalak                   | Transportation & Cohesion       | Lightspren (Reachers)                  | Joyspren            | Amethyst    | Resolute & Builder    |
+| **Stonewards**    | Talenelat               | Cohesion & Tension              | Peakspren                              | Bindspren           | Topaz       | Dependable & Resolver |
+| **Bondsmiths**    | [[High Witness Yeshan]] | Tension & Adhesion              | Stormfather<br>Nightwatcher<br>Sibling | -                   | Heliodor    | Guiding & Instructor  |
 
 # The Ten Orders
 

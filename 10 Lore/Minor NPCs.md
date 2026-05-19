@@ -9,11 +9,11 @@ last_updated: 2024-05-25T11:00:00
 ---
 
 # Overview
-This document serves as a central reference for minor non-player characters encountered throughout the campaign who do not currently possess individual documentation.
+This document should be updated constantly as the central reference for minor non-player characters encountered throughout the campaign who do not currently possess individual documents, ordered by their First Appearance with "planned" NPCs last.
 
 # Minor NPC Registry
 
-| Name                        | Description & Characteristics                                                        | Primary Interaction                  | Current Location        |
+| Name                        | Description & Characteristics                                                        | First Appearance                     | Current Location        |
 | :-------------------------- | :----------------------------------------------------------------------------------- | :----------------------------------- | :---------------------- |
 | **Cazo**                    | Friendly spearman, smiling. Desperate to be important.                               | [[000 Arrival]]                      | [[Truthkeeper Camp]]    |
 | **Doug (Guddy)**            | Ghostblood traitor with internal right-arm mark.                                     | [[000 Arrival]]                      | **Dead** (Assassinated) |

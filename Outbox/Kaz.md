@@ -1,0 +1,1 @@
+Write an NPC page and backstory for Kaz, a gruff darkeyed man working for the Knights of Dusk, manning a safehouse in the Stackhouses.

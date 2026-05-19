@@ -8,9 +8,7 @@ tags:
   - "#fabrial"
 last_updated: 2026-05-20T12:00:00
 leads:
-  - "The Invitation: [[Vorn]] approaches [[Kuma]] in the [[Stoneweave]] district after hearing of his repair work, offering him a position as a technician for the upstream trial."
-  - "The Strange Hum: While passing [[Vorn]]'s workshop in [[Revolar]], [[Viscose]] notes that one of the gemstones inside is different because of its clearer superharmonics."
-  - "The Warning: Finding discarded, shattered [[Nurian Gems]] outside a warehouse that glows with an erratic, violet light, suggesting the technology is more dangerous than Vorn admits."
+  - "The Invitation: [[Vorn]] sees [[Kuma]] working with fabrials or buying crafting supplies for fabrial work."
 ---
 
 # Description
