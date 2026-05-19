@@ -25,10 +25,11 @@ As the party enters the noble district of [[Revolar]], they see a massive plume 
 - **The Rescue:** The party must enter the burning structure. Use a "Clock" or rounds to represent the spreading fire. They find three servants pinned under a collapsed marble beam in the kitchens.
 - **The "Professional" Response:** Almost immediately, a highly efficient team of water-bearers and artifabrians arrive outside. They use specialized fabrials to quarantine the fire with unnatural speed, preventing it from spreading to adjacent buildings.
 - **The Suspicion:** As the servants are pulled out, they are terrified—not of the fire, but of being "late." One mutters, "We were supposed to be out by the second bell... the delay, it wasn't our fault!"
+- **The Mysterious Boy**: A lighteyed boy, [[Jory Spadis]], was nearby carrying some spears and helped save some younger kids by levering wreckage away for them.
 
 # Branches
 - **Investigation:** If the party questions the servants or the "emergency responders," they find the responders are actually on the payroll of the [[Knights of Dusk]], acting with suspicious foresight.
-- **Sentimental Value:** While transporting personal possessions, a children's book with high sentimental value to [[Chip]] (Archisal Paladar) was unaccounted for. The servants had gone back to search for it, believing the evacuation was merely for a "cremling extermination crew" that needed to be kept quiet.
+- **Sentimental Value:** While transporting personal possessions, a children's book with high sentimental value to [[Chip]] (Archisal Paladar) was unaccounted for. The servants had gone back to search for it, believing the evacuation was merely for a "cremling extermination crew" (fumigation) led by [[Beric Quinn]] (short, light-green eyes, probably a tenner) that needed to be kept quiet to not cause embarrassment to the [[Highlord Paladar]].
 
 # Outcomes
 - **The Ruined Manor:** The fire is contained in minutes, leaving only the noble's main manor a smoking ruin. 

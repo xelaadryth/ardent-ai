@@ -11,16 +11,16 @@ session:
 ---
 # Description
 
-The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Knights of Dusk]] in a desperate rescue within the Stackhouses. What begins as a covert extraction becomes a public declaration of allegiance, forcing every member of the party to decide what they stand for.
+The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Knights of Dusk]] in a desperate rescue at the abandoned docks in the western Slipmarket. What begins as a covert extraction becomes a public declaration of allegiance, forcing every member of the party to decide what they stand for.
 
 # Events
 
-- **The Boy in the Stackhouses:** The party learns that a teenage boy named [[Jory]], a stablehand from the Fieldwards, is being held by the [[Truthkeepers]] as a suspected Possessed. Jory is no criminal—he is a kind, earnest youth who has recently begun speaking to an “imaginary friend” no one else can see. The party may have met him before: he helped them stable their chulls, ran messages without asking payment, or shyly asked them if they ever heard voices in the wind. His arrest makes the threat personal.
+- **The Boy in the Stackhouses:** The party learns that a teenage boy named [[Jory Spadis]], the hale and hearty but young son of [[General Spade]], is being held by the [[Truthkeepers]] as a suspected [[Possessed]], and when his identity was discovered, is now being used as bait. Jory is no criminal—he is a kind, earnest youth who has recently begun speaking to an “imaginary friend” no one else can see. The party may have met him before: he helped them stable their chulls, ran messages without asking payment, or shyly asked them if they ever heard voices in the wind. His arrest makes the threat personal.
 - **The Rescue Mission:** Acting on information from the [[Knights of Dusk]], the party infiltrates a [[Truthkeepers]] interrogation site near some abandoned warehouses in the empty abandoned western docks of the Slipmarket. Their goal is to extract Jory before he is questioned and executed.
 - **Truthkeeper Reinforcements:** The fight seems too easy at first, but an overwhelming squad of [[Truthkeepers]] enforcers waiting to spring the trap corners them, severely injuring at least one of them. At the darkest moment, arrows streak from the night with ribbons of windspren curling behind them. [[Beric Quinn]] and a small contingent of Knights of Dusk skirmishers, including [[Kaz]], emerge from the rooftops. Beric laughs breathlessly as he lands, faint glowing wisps fading from him.
     
     > “You didn’t think we’d let you have all the fun, did you?”
-- **The Confrontation:** Just as victory seems possible, [[Ojog]] and [[Renna Palir]] arrives with an even larger wave of Truthkeeper archers, on the rooftops; they followed [[Beric Quinn]]'s forces here. Calm and expressionless, he initially assumes the party is carrying out sanctioned orders. When they reveal that they are rescuing [[Jory]] and abandoning the [[Truthkeepers]], the betrayal lands like a physical blow.
+- **The Confrontation:** Just as victory seems possible, [[Ojog]] and [[Renna Palir]] arrives with an even larger wave of Truthkeeper archers, on the rooftops; they followed [[Beric Quinn]]'s forces here. Calm and expressionless, he initially assumes the party is carrying out sanctioned orders. When they reveal that they are rescuing [[Jory Spadis]] and abandoning the [[Truthkeepers]], the betrayal lands like a physical blow.
     
     Ojog does not rage. He seems on the verge of tears.
     
@@ -47,7 +47,7 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 
 # Connections
 
-- [[Jory]]: A frightened but good-hearted stablehand beginning to attract a spren.
+- [[Jory Spadis]]: A frightened but good-hearted stablehand beginning to attract a spren.
 - [[Ojog]]: A former ally whose trust has been irrevocably broken.
 - [[Beric Quinn]]: A heroic Windrunner initiate whose sacrifice cements the party’s new path.
 - [[Renna Palir]]: An ally who reveals her true loyalty through decisive action.

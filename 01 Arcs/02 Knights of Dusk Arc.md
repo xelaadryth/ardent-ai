@@ -21,7 +21,7 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[1172-02-16 The Stackhouse Slavers]]
 - [[1172-02-17 Meeting at the Whitespine]]
 - [[1172-02-17 Meeting with the Undertaker]]
-- [[1172-02-22 The Foundry Chase]]
+- [[1172-02-19 The Foundry Chase]]
 
 # Sessions
 - [[012 Following Chip]]

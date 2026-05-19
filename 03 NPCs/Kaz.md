@@ -37,4 +37,4 @@ Before the rise of [[Highlord Paladar]], Kaz was a respected foreman in the [[Re
 - [[General Spade]]: His commanding officer whom he respects but occasionally argues with regarding tactics.
 - [[Lila]]: A fellow resident and vital informant in his cell.
 - [[Khria]]: Often coordinates with her for extraction routes.
-- [[Beric Quinn]]: Fought alongside him during the rescue of [[Jory]].
+- [[Beric Quinn]]: Fought alongside him during the rescue of [[Jory Spadis]].

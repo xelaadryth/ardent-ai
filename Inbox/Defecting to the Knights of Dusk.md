@@ -1,1 +1,0 @@
-The operations create a new session file outlining the defection scene and update Beric Quinn's file to reflect his tragic sacrifice, cementing the party's shift to the Knights of Dusk.
