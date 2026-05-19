@@ -1,4 +1,4 @@
-from internal.outbox import archive_file, find_outbox_file, load_prompt
+from internal.outbox import archive_file, find_outbox_file, load_outbox_file
 
 
 def test_find_outbox_file_returns_first_matching_file(monkeypatch, tmp_path):
@@ -51,11 +51,11 @@ def test_find_outbox_file_case_insensitive(monkeypatch, tmp_path):
     assert found == request_file
 
 
-def test_load_prompt_appends_extra_prompt(tmp_path):
+def test_load_outbox_file_appends_extra_prompt(tmp_path):
     request_file = tmp_path / "request.md"
     request_file.write_text("Base prompt", encoding="utf-8")
 
-    result = load_prompt(request_file, extra_prompt="More details")
+    result = load_outbox_file(request_file, extra_prompt="More details")
 
     assert "Base prompt" in result
     assert "More details" in result

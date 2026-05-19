@@ -8,8 +8,6 @@ A multi-tool system for managing a Cosmere RPG knowledge base.
 ## TODO:
 - Content organization
 	- Migrate session scenes to their own pages
-- Code changes
-	- Undertext - scribe notes on each page
 
 ## Dev Setup
 

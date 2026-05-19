@@ -26,7 +26,7 @@ def find_outbox_file(file_name=None):
     return files[0]
 
 
-def load_prompt(file_path, extra_prompt=""):
+def load_outbox_file(file_path, extra_prompt=""):
     prompt = file_path.read_text(encoding="utf-8")
 
     if extra_prompt:
