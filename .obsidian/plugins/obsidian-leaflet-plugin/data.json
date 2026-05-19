@@ -3,7 +3,7 @@
     {
       "id": "map-revolar",
       "locked": false,
-      "lastAccessed": 1779163158350,
+      "lastAccessed": 1779171294963,
       "markers": [
         {
           "id": "ID_c90bc95a592b",
@@ -209,14 +209,35 @@
           "id": "ID_5af82b48695b",
           "type": "Building",
           "loc": [
-            -818.59375,
-            1654.5
+            -836,
+            1662
           ],
+          "link": "The Shining Quill",
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5635808748728383,
+            0.3661848445028471
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1918fa0b2a3b",
+          "type": "Building",
+          "loc": [
+            -1346.90625,
+            908.5
+          ],
+          "link": "Scholar's Rest",
           "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": null,
-          "description": "Shining Quill",
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -231,7 +252,7 @@
     {
       "id": "map-roshar",
       "locked": false,
-      "lastAccessed": 1779163158351,
+      "lastAccessed": 1779171294963,
       "markers": [
         {
           "id": "ID_59bab8184a1a",

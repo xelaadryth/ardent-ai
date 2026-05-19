@@ -13,8 +13,8 @@ SORT file.name DESC
 | [[1172-02-32 The Darkstone Siege]]                 | Party      | active    |
 | [[1172-02-22 The Foundry Chase]]                     | Party      | active    |
 | [[1172-02-20 The Cinder Evacuation]]             | Party      | active    |
-| [[1172-02-18 Meeting with the Undertaker]] | Party      | active    |
-| [[1172-02-17 Meeting at the Whitespine]]     | Party      | active    |
+| [[1172-02-17 Meeting with the Undertaker]] | Party      | active    |
+| [[1172-02-17 Meeting at the Whitespine]]     | Party      | completed |
 | [[1172-02-16 The Stackhouse Slavers]]           | Party      | completed |
 | [[1172-01-35 Morrow's Execution]]                   | Party      | completed |
 | [[1172-01-12 The Shellmite Attack]]               | Party      | completed |

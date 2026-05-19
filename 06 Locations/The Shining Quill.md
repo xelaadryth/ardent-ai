@@ -11,7 +11,7 @@ location: "[[Revolar]]"
 ---
 
 # Overview
-A premier mapmaking and calligraphy shop located in the commercial heart of [[Revolar]], [[Middlecrest]]. Owned and operated by [[Lady Piri Hadlis]], the shop is known for its exquisite detail and high-quality vellum.
+A premier mapmaking and calligraphy shop located in the middle-class heart of [[Revolar]], [[Middlecrest]]. Owned and operated by [[Lady Piri Hadlis]], the shop is known for its exquisite detail and high-quality vellum.
 
 # Atmosphere
 The shop is quiet and meticulously organized, smelling of ink, parchment, and beeswax. Large drafting tables dominate the center of the room, lit by high-grade, steady-burning spheres. Rolls of maps are stored in vertical cubbies that line the walls from floor to ceiling.

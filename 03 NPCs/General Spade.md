@@ -30,7 +30,7 @@ Once a highly respected General in the Vamah military, Spade was ousted through 
 
 # Hooks
 - Vengeance for [[Lavrik]]
-- [[Hook: The Fieldwards Heist]]
+- [[The Warehouse Heist]]
 
 # Connections
 - [[Highlord Paladar]]: The man who ruined his career and his city.

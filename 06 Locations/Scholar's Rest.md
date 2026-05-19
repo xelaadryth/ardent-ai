@@ -25,7 +25,7 @@ Unlike the modern and sterile [[The Vamah Archivum]], Scholar's Rest is cozy, di
 - Primarily Ardents from the nearby Devotaries, such as [[Ardent Kaelis]].
 
 # Secrets
-Because the library is seen as "Ardent business" and largely ignored by the [[Vamah Princedom]] officials, it houses several rare texts on spren categorization that have escaped the censorship found in [[The Vamah Archivum]].
+Because the library is seen as "Ardent business" and largely ignored by the [[Vamah Princedom]] officials, some of their books still have undertext that have escaped the stricter censorship found in [[The Vamah Archivum]].
 
 # Connections
 - [[Ardent Kaelis]]: A frequent visitor and scholar at this location.

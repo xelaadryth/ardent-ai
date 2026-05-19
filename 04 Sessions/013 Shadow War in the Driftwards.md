@@ -15,7 +15,7 @@ The squad deepens their investigation into the factions of [[Revolar]], uncoveri
 
 # Events
 - **Safehouse Negotiation:** At a [[Knights of Dusk]] safehouse in the [[Stackhouses]], the party speaks with **Kaz**, the gruff leader of a local cell. They confirm the safehouse is protecting the family saved from the [[Bloodmarks]].
-- **Shadow Alliances:** The party meets [[Chip]] and [[Karani]] at [[Cream of the Crem]]. They move to [[Whitespine's Fang]] to meet [[Sweeper]], who confirms he reports to [[Chip]] and the [[Undertaker]]. [[Sweeper]] is investigating the influx of [[Nurian Gems]] and the syndicate's motives.
+- **Shadow Alliances:** The party meets [[Chip]] and [[Karani]] at [[Cream of the Crem]]. [[Chip]] reveals his [[Ghostbloods]] tattoo. At the [[Whitespine's Fang]] the party meets [[Sweeper]], who confirms he reports to [[Chip]] and the [[Undertaker]]. [[Sweeper]] is investigating the influx of [[Nurian Gems]] and the syndicate's motives.
 - **The Mapmaker:** [[N'tal]] and [[Mallow]] visit [[The Shining Quill]] in [[Middlecrest]]. They purchase a detailed map of [[Revolar]] and receive a tip about an Alethi woman with a Purelaker gait who commissioned a route to [[Hearthstone]].
 - **The Merchant of Curios:** The party encounters [[Zabriel]], a merchant attempting to sell illicit goods, including a high-output [[Nurian Gems]] specimen. He is later seen being forcibly escorted away by [[Bloodmarks]] agents in the [[Slipmarket]].
 - **Scholarly Inquiry:** The squad visits the [[Scholar's Rest]] library in the [[Devotary Ward]]. They research the cultures of [[Mythos]], [[Shinovar]], **Taldain**, and **Scadrial**. They also study spren categorization, learning the distinction between nature-spren and emotion-spren.

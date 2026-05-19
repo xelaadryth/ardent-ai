@@ -29,7 +29,7 @@ Born to a Nurian farming family, Kuma cared more for books and tinkering than fo
 - Investigate the [[Nurian Gems]] and the [[1172-03-42 The Experimental Steamship]] in the [[04 Nurian Gems Arc]].
 
 # Hooks
-- [[Hook: Resonance of the Past]]
+- [[Resonance of the Past]]
 - [[New Technology]]
 - The mysterious device may be a key to dangerous or valuable knowledge.
 - His parents' research could draw the attention of powerful factions.

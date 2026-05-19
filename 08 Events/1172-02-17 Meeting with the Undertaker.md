@@ -22,6 +22,9 @@ The Undertaker reveals he has the original contracts for the Nurian gem mine dis
 # The Revelation
 The Undertaker points out that while the Bloodmarks used violence, they acted under a "legal" transfer authorized by the Nurian royal family. He slides the contract across the table, revealing the elegant but hurried signature of an Alethi proxy: [[Fina]]. It becomes clear that Fina’s past negligence in signing documents without reading them provided the legal cover for the Bloodmarks to slaughter N'tal's kin and steal their mine.
 
+# Requests
+- Acquire rare and valuable objects; Shin grass is common, he's interested in a Nurian gem sample. Also interested in [[Zabriel]]'s sources ([[Bodenar]]).
+
 # Outcomes
 - **Fractured Trust:** The relationship between [[N'tal]] and [[Fina]] is severely strained by the revelation of her role in his family's tragedy.
 - **Direct Pursuit:** The Undertaker provides the current location of [[Arbiter Jalis]], the man who carried out the raid, noting he is currently moving a high-value asset near the [[Stackhouses]].
