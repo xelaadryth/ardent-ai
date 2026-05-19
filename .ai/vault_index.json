@@ -159,7 +159,7 @@
         "[[Grand Justicar Malice]]",
         "[[1172-02-16 The Stackhouse Slavers]]",
         "[[1172-02-17 Meeting at the Whitespine]]",
-        "[[1172-02-18 Meeting with the Undertaker]]",
+        "[[1172-02-17 Meeting with the Undertaker]]",
         "[[1172-02-22 The Foundry Chase]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
@@ -184,10 +184,10 @@
         "[[Ghostbloods]]",
         "[[Helaran]]",
         "[[Silent Oath]]",
-        "[[Hook: The Orphans of Tomat]]",
-        "[[Hook: Resonance of the Past]]",
-        "[[Hook: Helaran's Shadow]]",
-        "[[Hook: The Stormblessed Investigation]]"
+        "[[The Orphans of Tomat]]",
+        "[[Resonance of the Past]]",
+        "[[Helaran's Shadow]]",
+        "[[The Stormblessed Investigation]]"
       ],
       "tags": [
         "#arc",
@@ -303,7 +303,7 @@
         "[[Nurian Gems]]",
         "[[1172-03-42 The Experimental Steamship]]",
         "[[04 Nurian Gems Arc]]",
-        "[[Hook: Resonance of the Past]]",
+        "[[Resonance of the Past]]",
         "[[New Technology]]",
         "[[Ilsh]]",
         "[[Vorn]]"
@@ -323,8 +323,11 @@
         "[[Cadence]]",
         "[[Truthkeepers]]",
         "[[Khria]]",
+        "[[Revolar]]",
+        "[[The Shining Quill]]",
         "[[The Orphans of Tomat]]",
-        "[[Tracking the Knights of Dusk]]"
+        "[[Tracking the Knights of Dusk]]",
+        "[[Lady Piri Hadlis]]"
       ],
       "tags": [
         "#player",
@@ -332,7 +335,7 @@
         "#purelaker",
         "#enforcer"
       ],
-      "last_updated": "2024-05-25T10:00:00"
+      "last_updated": "2024-05-25T11:00:00"
     },
     "N'tal": {
       "type": "player",
@@ -604,7 +607,7 @@
         "[[Silent Oath]]",
         "[[High Enforcer Aylen]]",
         "[[Lavrik]]",
-        "[[Hook: The Fieldwards Heist]]"
+        "[[The Warehouse Heist]]"
       ],
       "tags": [
         "#npc",
@@ -843,8 +846,10 @@
         "[[Knights of Dusk]]",
         "[[Revolar]]",
         "[[Truthkeepers]]",
+        "[[The Shining Quill]]",
+        "[[Hearthstone]]",
         "[[Mallow]]",
-        "[[Hook: The Fieldwards Heist]]",
+        "[[The Warehouse Heist]]",
         "[[General Spade]]"
       ],
       "tags": [
@@ -854,7 +859,7 @@
         "#truthwatcher",
         "#rebel"
       ],
-      "last_updated": "2024-05-23T10:00:00"
+      "last_updated": "2024-05-25T11:00:00"
     },
     "Lavrik": {
       "type": "npc",
@@ -1168,7 +1173,7 @@
         "[[Silent Oath]]",
         "[[Chip]]",
         "[[Iyatil]]",
-        "[[1172-02-18 Meeting with the Undertaker]]"
+        "[[1172-02-17 Meeting with the Undertaker]]"
       ],
       "tags": [
         "#npc",
@@ -1555,16 +1560,21 @@
         "[[Sweeper]]",
         "[[Undertaker]]",
         "[[N'tal]]",
+        "[[Mallow]]",
+        "[[The Shining Quill]]",
         "[[Middlecrest]]",
-        "[[Sun's Zenith]]",
-        "[[Doug (Guddy)]]",
+        "[[Hearthstone]]",
         "[[Zabriel]]",
         "[[Slipmarket]]",
+        "[[Scholar's Rest]]",
+        "[[Devotary Ward]]",
         "[[Mythos]]",
         "[[Shinovar]]",
         "[[Cadence]]",
         "[[Lowstone Alley]]",
-        "[[Gemheart Inn]]"
+        "[[Gemheart Inn]]",
+        "[[Sun's Zenith]]",
+        "[[Khria]]"
       ],
       "tags": [
         "#session",
@@ -1572,7 +1582,7 @@
         "#revolar",
         "#ghostbloods"
       ],
-      "last_updated": "2024-05-25T10:00:00"
+      "last_updated": "2024-05-25T11:00:00"
     },
     "Bloodmarks": {
       "type": "faction",
@@ -1908,7 +1918,9 @@
         "[[Stackhouses]]",
         "[[Cream of the Crem]]",
         "[[Whitespine's Fang]]",
+        "[[Scholar's Rest]]",
         "[[Sun's Zenith]]",
+        "[[The Shining Quill]]",
         "[[Bitter Leaf Apothecary]]",
         "[[Boundless Bazaar]]",
         "[[The Vamah Archivum]]"
@@ -1916,7 +1928,7 @@
       "tags": [
         "#location"
       ],
-      "last_updated": "2024-05-25T10:00:00"
+      "last_updated": "2024-05-25T11:00:00"
     },
     "Salimset": {
       "type": "location",
@@ -1949,6 +1961,26 @@
         "#revolar"
       ],
       "last_updated": "2024-05-18T00:00:00"
+    },
+    "Scholar's Rest": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Devotary Ward]]",
+        "[[The Vamah Archivum]]",
+        "[[Ardent Kaelis]]",
+        "[[Vamah Princedom]]",
+        "[[Iiko]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar",
+        "#devotary_ward",
+        "#library",
+        "#ardentia"
+      ],
+      "last_updated": "2024-05-25T11:00:00"
     },
     "Stackhouses": {
       "type": "location",
@@ -2004,6 +2036,29 @@
         "#location"
       ],
       "last_updated": "2026-05-14T14:00:00"
+    },
+    "The Shining Quill": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Middlecrest]]",
+        "[[Lady Piri Hadlis]]",
+        "[[Vamah Princedom]]",
+        "[[Alethkar]]",
+        "[[Tracking the Knights of Dusk]]",
+        "[[Mallow]]",
+        "[[Khria]]",
+        "[[Sadeas Princedom]]",
+        "[[Hearthstone]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar",
+        "#middlecrest",
+        "#mapmaking"
+      ],
+      "last_updated": "2024-05-25T11:00:00"
     },
     "The Vamah Archivum": {
       "type": "location",
@@ -2123,10 +2178,9 @@
         "[[Stoneweave]]",
         "[[Revolar]]",
         "[[Viscose]]",
-        "[[Nurian Gem]]",
+        "[[Nurian Gems]]",
         "[[1172-03-42 The Experimental Steamship]]",
-        "[[Bodenar]]",
-        "[[Nurian Gems]]"
+        "[[Bodenar]]"
       ],
       "tags": [
         "#hook",
@@ -2162,6 +2216,7 @@
       "type": "hook",
       "status": "active",
       "links": [
+        "[[Sila]]",
         "[[Truthkeeper Camp]]",
         "[[Karani]]",
         "[[Chip]]",
@@ -2172,25 +2227,6 @@
         "#placeholder"
       ],
       "last_updated": "2026-05-13T23:35:12"
-    },
-    "Spy of Dusk": {
-      "type": "hook",
-      "status": "active",
-      "links": [
-        "[[Adjudicator Peton]]",
-        "[[Beric Quinn]]",
-        "[[Scarstone Quarter]]",
-        "[[The Vamah Archivum]]",
-        "[[Renna Palir]]",
-        "[[Truthkeepers]]",
-        "[[Knights of Dusk]]",
-        "[[Ojog]]"
-      ],
-      "tags": [
-        "#hook",
-        "#revolar"
-      ],
-      "last_updated": "2024-05-24T12:00:00"
     },
     "The Devotary Call": {
       "type": "hook",
@@ -2297,22 +2333,15 @@
     },
     "Tracking the Knights of Dusk": {
       "type": "hook",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Stackhouses]]",
         "[[Truthkeepers]]",
         "[[Lila]]",
-        "[[Stoneweave]]",
-        "[[Khria]]",
+        "[[Lady Piri Hadlis]]",
+        "[[The Shining Quill]]",
         "[[Sadeas Princedom]]",
-        "[[Hearthstone]]",
-        "[[Kuma]]",
-        "[[Ardent Vedelis]]",
-        "[[Stormbristle]]",
-        "[[Darkstone Forest]]",
-        "[[Driftwards]]",
-        "[[Scarstone Quarter]]",
-        "[[Knights of Dusk]]"
+        "[[Hearthstone]]"
       ],
       "tags": [
         "#hook",
@@ -2320,7 +2349,7 @@
         "#khria",
         "#investigation"
       ],
-      "last_updated": "2026-05-20T12:00:00"
+      "last_updated": "2024-05-25T11:00:00"
     },
     "-230-01-01 Day of Recreance": {
       "type": "event",
@@ -2419,23 +2448,15 @@
     },
     "1172-02-17 Meeting at the Whitespine": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[013 Shadow War in the Driftwards]]",
-        "[[Whitespine's Fang]]",
         "[[N'tal]]",
+        "[[Sweeper]]",
         "[[Undertaker]]",
         "[[Chip]]",
-        "[[Sweeper]]",
-        "[[Ghostbloods]]",
-        "[[Scarstone Quarter]]",
-        "[[1172-02-16 The Stackhouse Slavers]]",
-        "[[Bruckslats]]",
-        "[[Bloodmarks]]",
-        "[[Nurian Gems]]",
-        "[[Driftwards]]",
-        "[[Truthkeepers]]",
-        "[[Senny]]"
+        "[[Undetaker]]",
+        "[[Ghostbloods]]"
       ],
       "tags": [
         "#event",
@@ -2445,7 +2466,7 @@
       ],
       "last_updated": "2026-05-20T14:00:00"
     },
-    "1172-02-18 Meeting with the Undertaker": {
+    "1172-02-17 Meeting with the Undertaker": {
       "type": "event",
       "status": "active",
       "links": [
@@ -2457,6 +2478,8 @@
         "[[N'tal]]",
         "[[Fina]]",
         "[[Bloodmarks]]",
+        "[[Zabriel]]",
+        "[[Bodenar]]",
         "[[Arbiter Jalis]]",
         "[[Stackhouses]]",
         "[[1172-02-17 The Foundry Chase]]"
@@ -2591,30 +2614,31 @@
       "links": [
         "[[000 Arrival]]",
         "[[Truthkeeper Camp]]",
-        "[[001 First Blood]]",
         "[[Salimset]]",
+        "[[001 First Blood]]",
         "[[002 Whitespine]]",
         "[[Hobbleken]]",
-        "[[005 Hearthstone]]",
-        "[[Hearthstone]]",
-        "[[004 The Sathir Estate]]",
         "[[003 Yenev and the Axe]]",
         "[[Stringken]]",
+        "[[004 The Sathir Estate]]",
         "[[House Sathir]]",
-        "[[009 Slavers]]",
+        "[[005 Hearthstone]]",
+        "[[Hearthstone]]",
         "[[006 Dillind and the Temple]]",
-        "[[Hook: The Fieldwards Heist]]",
-        "[[Revolar]]",
-        "[[013 Shadow War in the Driftwards]]",
+        "[[009 Slavers]]",
+        "[[012 Following Chip]]",
         "[[Stackhouses]]",
-        "[[012 Following Chip]]"
+        "[[013 Shadow War in the Driftwards]]",
+        "[[The Shining Quill]]",
+        "[[Revolar]]",
+        "[[The Warehouse Heist]]"
       ],
       "tags": [
         "#lore",
         "#npc",
         "#reference"
       ],
-      "last_updated": "2024-05-25T10:00:00"
+      "last_updated": "2024-05-25T11:00:00"
     },
     "Nurian Gems": {
       "type": "lore",
