@@ -5,7 +5,7 @@ tags:
   - "#lore"
   - "#npc"
   - "#reference"
-last_updated: 2024-05-25T11:00:00
+last_updated: 2024-05-26T10:00:00
 ---
 
 # Overview
@@ -42,7 +42,6 @@ This document should be updated constantly as the central reference for minor no
 | **Pafo**                    | Smiling Herdazian who does not speak Alethi.                                         | [[009 Slavers]]                      | [[Hearthstone]]         |
 | **Tusa**                    | Nervous Herdazian who flicks sparks. Pafo's cousin.                                  | [[009 Slavers]]                      | [[Hearthstone]]         |
 | **Falen**                   | Resident of the Stackhouses; father of the family rescued from slavers.              | [[012 Following Chip]]               | [[Stackhouses]]         |
-| **Kaz**                     | Gruff voice; leader of a small rebel cell in the Stackhouses.                        | [[013 Shadow War in the Driftwards]] | [[Stackhouses]]         |
 | **Lady Piri Hadlis**        | Elegant mapmaker and owner of [[The Shining Quill]]. Noticed the gait of Purelakers. | [[013 Shadow War in the Driftwards]] | [[Revolar]]             |
 | **Kael**                    | Guard noticed missing, suspected Knights of Dusk sympathizer.                        | [[The Warehouse Heist]]              | [[Revolar]]             |
 | **Lirsi**                   | Senior Alethi scribe; finds the theft of daily goods insulting.                      | [[The Warehouse Heist]]              | [[Revolar]]             |

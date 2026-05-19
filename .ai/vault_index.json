@@ -479,11 +479,7 @@
         "[[N'tal]]",
         "[[Kuma]]",
         "[[Ojog]]",
-        "[[Truthkeeper Camp]]",
-        "[[Stackhouses]]",
-        "[[General Spade]]",
-        "[[Truthkeepers]]",
-        "[[Adjudicator Peton]]"
+        "[[General Spade]]"
       ],
       "tags": [
         "#npc",
@@ -492,9 +488,10 @@
         "#hunter",
         "#rebel",
         "#spy",
-        "#knights_of_dusk"
+        "#knights_of_dusk",
+        "#radiant"
       ],
-      "last_updated": "2024-05-24T12:00:00"
+      "last_updated": "2026-05-25T12:00:00"
     },
     "Chip": {
       "type": "npc",
@@ -2154,7 +2151,6 @@
       "type": "hook",
       "status": "active",
       "links": [
-        "[[Driftwards]]",
         "[[N'tal]]",
         "[[Arbiter Jalis]]",
         "[[Nurian Gems]]",
@@ -2175,12 +2171,9 @@
       "links": [
         "[[Vorn]]",
         "[[Kuma]]",
-        "[[Stoneweave]]",
-        "[[Revolar]]",
-        "[[Viscose]]",
-        "[[Nurian Gems]]",
         "[[1172-03-42 The Experimental Steamship]]",
-        "[[Bodenar]]"
+        "[[Bodenar]]",
+        "[[Nurian Gems]]"
       ],
       "tags": [
         "#hook",
@@ -2233,11 +2226,9 @@
       "status": "active",
       "links": [
         "[[Ardent Kaelis]]",
-        "[[Iiko]]",
-        "[[Devotary of Sincerity]]",
         "[[The Vamah Archivum]]",
-        "[[Veristitalians]]",
-        "[[Tablet of Eleven Cities]]"
+        "[[Iiko]]",
+        "[[Devotary of Sincerity]]"
       ],
       "tags": [
         "#hook",
@@ -2288,6 +2279,20 @@
         "#dillind"
       ],
       "last_updated": "2024-05-22T10:00:00"
+    },
+    "The Stable Boy": {
+      "type": "hook",
+      "status": "active",
+      "links": [
+        "[[Jory]]",
+        "[[Bloodmarks]]",
+        "[[Truthkeepers]]",
+        "[[1172-02-22 The Foundry Chase]]"
+      ],
+      "tags": [
+        "#hook"
+      ],
+      "last_updated": "2026-05-18T23:51:49"
     },
     "The Stormblessed Investigation": {
       "type": "hook",
@@ -2531,6 +2536,26 @@
         "#chase"
       ],
       "last_updated": "2026-05-20T15:00:00"
+    },
+    "1172-02-28 The Dusk Rebellion Defection": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[Jory]]",
+        "[[Beric Quinn]]",
+        "[[Kaz]]",
+        "[[Ojog]]",
+        "[[Renna Palir]]",
+        "[[Darkstone Forest]]"
+      ],
+      "tags": [
+        "#session",
+        "#revolar",
+        "#betrayal"
+      ],
+      "last_updated": "2026-05-25T12:00:00"
     },
     "1172-02-32 The Darkstone Siege": {
       "type": "event",

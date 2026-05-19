@@ -4,7 +4,7 @@ status: active
 tags:
   - "#location"
   - "#revolar"
-last_updated: 2026-05-16T12:00:00
+last_updated: 2024-05-26T10:00:00
 location: "[[Scarstone Quarter]]"
 ---
 
@@ -26,6 +26,8 @@ The air is thick with the smell of cooking fires and damp earth. It is a place o
 
 Mostly the working class of Revolar, many of whom are deeply in debt to the Vamah Princedom or the [[Bloodmarks]]. Sympathy for the [[Knights of Dusk]] runs high here.
 - [[Lila]]: A resident and laundry worker who acts as an informant.
+- [[Kaz]]: The gruff leader of the local [[Knights of Dusk]] cell.
+- [[Falen]]: Head of a family rescued from [[Bloodmarks]] debt collectors.
 
 # Secrets
 
