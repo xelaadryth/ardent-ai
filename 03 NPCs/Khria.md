@@ -30,9 +30,12 @@ Her life changed after spotting a Mistspren in the shallow waters of the Purelak
 - They came for me, the Truthkeepers that visited, ran away from the town to evade them when our neighbors pointed me out
 - Spent weeks hunted, they dragged me away, calling me a Possessed, and then I see you running around with them, what was I to think
 - [[General Spade]] had a raid on the caravan, saved me
+- They're hunting me, not you. Just leave, leave all of this and go back and live a peaceful life. You're not wanted here.
+- We're fighting a losing battle here. But it's not about the destination. Be free, live your own life, don't live tied down by me like I was tied down by you.
 - (didn't want to go back and bring risk to sister)
 - (watched Mallow a few times but couldn't work up the courage to risk finding out if she's actually with them or not)
-- You wouldn't do that, but I couldn't bear the thought of if I was wrong
+- (I wanted to be a good role model to you but I didn't feel like I was enough, you were so resourceful and I didn't know what to do)
+- (I knew you wouldn't do it on purpose, but I couldn't bear the thought of if I was wrong)
 
 # Goals
 - **Liberation:** Free the people of Vamah from systemic oppression.
