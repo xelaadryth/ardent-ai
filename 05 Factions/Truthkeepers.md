@@ -37,6 +37,7 @@ SORT file.name ASC
 - [[Adjudicator Peton]]
 - [[High Enforcer Aylen]]
 - [[High Witness Yeshan]]
+- [[Ojog]]
 - [[Renna Palir]]
 - [[Senny]]
 - [[Tahs]]
