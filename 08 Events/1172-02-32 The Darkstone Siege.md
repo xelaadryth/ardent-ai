@@ -13,28 +13,39 @@ session:
 ---
 
 # Description
-The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The [[Truthkeepers]], led by [[Adjudicator Peton]], discover the insurgency's hidden base within the [[Darkstone Forest]]. The party must coordinate a desperate defense alongside [[General Spade]] and [[Khria]] before the arrival of [[High Enforcer Aylen]] turns the siege into a slaughter.
+The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The Vamah Guard, led by [[General Odrin Lesh]], march with the mercenary [[Truthkeepers]] led by [[Adjudicator Peton]] to assault the insurgency's hidden base within the [[Darkstone Forest]]. They are later joined by thugs from the [[Bloodmarks]]. The party must coordinate a desperate defense alongside [[General Spade]] and [[Khria]] before the arrival of [[High Enforcer Aylen]] turns the siege into a slaughter.
 
 # Setup
 The [[Truthkeepers]] have bypassed the "wind-path" using intelligence provided by the [[Bloodmarks]]. The [[Knights of Dusk]] base is surrounded. The party is stationed at the forward barricades near the [[Stormbristle Groves]].
 
 # Key Mechanics & Objectives
-- **Strategic Support for [[General Spade]]:** The General is a powerhouse of Division, but he is being suppressed by [[Truthkeepers]] specialized "Dampening Nets." The party must navigate the [[Stormbristle Groves]] to eliminate the net-layers and free Spade to collapse the massive crem-pillars onto the incoming [[Truthkeepers]] heavy infantry.
-- **Renna's Protection:** [[Renna Palir]] utilizes her knowledge of [[Truthkeepers]] logistics to misdirect incoming squads. During a pivotal moment, a [[Truthkeepers]] elite sharpshooter targets [[Iiko]]; Renna must be protected or assisted as she intercepts the threat, proving her resolve to her surrogate sibling.
-- **The Breach:** [[Adjudicator Peton]] and [[Ojog]] lead a frontal assault on the main stone structure. The party must choose whether to engage their former mentor [[Ojog]] or focus on delaying the breach.
+- **Strategic Support for [[General Spade]]:** The General is a powerhouse of Division, dropping trees to slow and block the armored Guard, but he is being suppressed by [[Truthkeepers]] from the sides tossing nets on him and peppering him with arrows, wasting his Stormlight. The party must navigate the [[Stormbristle Groves]] to eliminate the net-throwers and free Spade to collapse the massive crem-pillars onto the incoming [[Truthkeepers]] heavy infantry and cavalry.
+- **Renna's Light:** [[Renna Palir]] resupplies the players with Stormlight and gives them intel on new enemy tactical positions; archers, cavalry, fire, Shardbearer, etc. As light is drained, areas grow dark and light again, the battle flashing and fading.
+- **The Breach:** [[Adjudicator Peton]] and [[Ojog]] lead a frontal assault on the main stone structure with oil lamps, tossing them into the Stormbristles and setting them ablaze. The party must choose whether to engage their former friend [[Ojog]] or focus on delaying the breach.
+- **Evacuation**: The party must help [[General Spade]] escape within the time limit, but he insists on buying time to evacuate the women and children and saving groups of soldiers before he will leave. "We **must** help them. Journey before destination, Radiant."
 
-# Participants
-- [[General Spade]]: Defensive lead.
-- [[Khria]]: Tactical coordination.
-- [[Renna Palir]]: Support and protection of [[Iiko]].
-- [[Adjudicator Peton]]: [[Truthkeepers]] commander.
-- [[Ojog]]: Frontline [[Truthkeepers]] Enforcer.
-- [[High Enforcer Aylen]]: The final judge.
-- [[Istrum]]: Witness to the end.
+Ideas:
+- General Spade slowed by poison arrows and nets, out of Stormlight
+	- Kill the net throwers/archers
+	- Destroy/cut the nets
+	- Cure the poison slowing/immobilizing/stunning him
+	- Bring him more spheres
+- [[Adjudicator Peton]] draws a Shardblade, revealing the real reason he was promoted. Apologizes, but once he becomes higher rank he'll try to fix the system from within. For now, the ends justify the means.
+	- Delay or defeat him as he lays waste to everyone
+	- If he falls, Ojog picks up his blade, dual wielding with his longsword
+- Fires everywhere, threatening everyone including the evacuating civilians
+	- Put out or use the fires offensive/defensively
+- Bloodmark thugs that are here to loot and slaughter for fun pop out in ambush (N'tal and Fina are fast enough, Mallow/Kuma maybe)
+	- Protect civilians
+- A contingent of the Guard start stabbing their allies in the back, revealed to be Khria's group as her Illumination wears off and they scatter
+	- Protect them
+- The [[Silent Oath]] arrives from the skies, decimating the Knights of Dusk. Aylen zooms by in a cloud of dust, and then incinerates a 5x5 cube to ash. [[General Spade]] yells for everyone to run. Next turn, [[High Enforcer Aylen]] easily dispatches him and starts mowing through everyone else, untouchable.
+	- Division: One action -> 4d12 Division at 100 ft range (spark sending through the ground)
+		- Time seems to stop; a chain of earth crumbles and X crumbles to ash
+	- Gout of Flame: 2 actions -> 4d12 division in a 25 ft cube at 100 ft range
+		- The earth itself burns and the whole area crumbles to ash
+	- "Be proud. Your sacrifice will prevent the Desolations from returning."
 
-# The Slaughter
-When the reinforcement timer expires, the air turns unnaturally cold. [[High Enforcer Aylen]] (Nale) descends. He ignores the party, focusing entirely on [[General Spade]]. 
-- **The Judgment:** Aylen summons his gold-glowing Shardblade and executes [[General Spade]] with clinical precision. 
 - **The Rout:** With their leader fallen, the [[Knights of Dusk]] scatter. [[Truthkeepers]] and [[Silent Oath]] units begin a systematic purge of the survivors.
 
 # Outcomes
