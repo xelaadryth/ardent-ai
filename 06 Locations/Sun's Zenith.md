@@ -16,6 +16,11 @@ High-End Inn & Tavern in the Middlecrest District of [[Revolar]]. It serves as a
 - Perpetual "No Vacancy" sign at the desk
 - Discreet, well-dressed "merchants" occupying every corner table
 
+# Call and Answer
+- I'm looking for the suns
+- What suns, we're at the top here already. // You've got the wrong place
+- The suns without honor
+
 # Atmosphere
 - **First Impression**: A stately three-story stone building with a gleaming sun embossed in brass over the entrance. Inside, the air smells of expensive sandalwood and fine wine. The lighting is warm and bright, provided by high-grade spheres in crystal lanterns. Soft conversation and the clink of quality silverware create a veneer of professional prosperity.
 - **Mood**: Exclusive, Professional, Vigilant
