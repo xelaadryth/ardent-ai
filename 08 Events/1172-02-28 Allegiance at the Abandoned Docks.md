@@ -28,21 +28,22 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
     
     Ojog sadly orders his agents to kill them all without mercy. He gives the order to fire, and a devastating wave of arrows tears through the party. More archer reinforcements arrive every turn.
     
-- **Renna’s Choice:** A low rumbling comes from above, in the darkness, a line of heavy barrels tumbles down, straight into...the archers, scattering them and buying the party precious time, as well as definitively revealing her allegiance to the Knights of Dusk.
+- **Renna’s Choice:** A low rumbling comes from above, in the darkness, a line of heavy barrels tumbles down, straight into...the archers, scattering them and buying the party precious time, as well as definitively revealing her allegiance to the Knights of Dusk. Renna runs to the party as Beric covers her.
     
 - **Beric’s Last Stand:** As the party tries to escape together, Beric tries to keep them down with covering fire, but a shaft has pierced the bone of his leg.
     
-    Beric grins and nocks another arrow.
+    Beric grins anyway and nocks another arrow.
     
-    > “Go! I’ll be your shield.”
+    > “Don't worry about me, I’ll be your shield. I know what I'm doing.”
     
-    Beric unleashes a spectacular defense:
-    
-    - With one foot, he jumps to the top of the warehouse, dodging arrows and trailing windspren.
+    Beric flings his spheres out and drains them all, but instead of healing himself:    
+    - He soars to the top of the warehouse, dodging arrows and trailing windspren.
     - Windspren spiral around his arrows like streamers.
-    - As the enemy unleashes a truly deadly and devastating volley to finish off the party, Beric pulls all the arrows to him with a reverse lashing, pincushioning him, but prevents the arrows from reaching the rest of the party as he clings to life as long as he can.
+    - As the enemy unleashes a truly deadly and devastating volley from all directions to finish off the party, Beric pulls all the arrows to him with a reverse lashing, pincushioning him, but prevents the arrows from reaching the rest of the party as he clings to life as long as he can.
+
+> "Journey before destination!"
     
-- **The Escape:** The party escapes into the night with Jory and Renna while the light fades behind them. Beric's sacrifice becomes a defining moment for the Knights of Dusk; a lighteyes and Truthkeeper dying for the cause.
+- **The Escape:** The party escapes into the night with Jory and Renna while the light fades behind them. Beric's martyrdom becomes a defining moment for the Knights of Dusk; a lighteyes and Truthkeeper dying for the cause.
 - **The Aftermath:** Safe in the [[Darkstone Forest]] hideout, Jory reveals that the “voice” he hears is a small, anxious spren that warned him of danger. His survival confirms the Truthkeepers are killing nascent Radiants. The party is welcomed fully into the Knights of Dusk, but the cost of that choice weighs heavily.
 
 # Connections
