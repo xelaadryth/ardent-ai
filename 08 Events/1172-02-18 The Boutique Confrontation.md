@@ -25,7 +25,7 @@ Juran steps forward, looking at her with cold, calculating eyes.
 > 
 ### Phase 2: Shaming Her Grief
 Renna trembles, but tries to hold her ground, keeping herself between Juran and Iiko.
-> **Renna:** *"I'm not going back, Juran. I never wanted this marriage. After... after Aneer passed, I wanted to find a way to actually **help** people. I won't be a pawn in some game."*
+> **Renna:** *"I'm not going back, Juran. I never wanted this marriage. After... after Anner passed, I wanted to find a way to actually **help** people. I won't be a pawn in some game."*
 > 
 Juran lets out a sharp, mocking laugh.
 
