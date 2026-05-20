@@ -40,9 +40,9 @@ Ideas:
 - A contingent of the Guard start stabbing their allies in the back, revealed to be Khria's group as her Illumination wears off and they scatter
 	- Protect them
 - The [[Silent Oath]] arrives from the skies, decimating the Knights of Dusk. Aylen zooms by in a cloud of dust, and then incinerates a 5x5 cube to ash. [[General Spade]] yells for everyone to run. Next turn, [[High Enforcer Aylen]] easily dispatches him and starts mowing through everyone else, untouchable.
-	- Division: One action -> 4d12 Division at 100 ft range (spark sending through the ground)
+	- Division: One action -> 4d12+10 at 100 ft range (spark sending through the ground)
 		- Time seems to stop; a chain of earth crumbles and X crumbles to ash
-	- Gout of Flame: 2 actions -> 4d12 division in a 25 ft cube at 100 ft range
+	- Gout of Flame: 2 actions -> 4d12+10 division in a 25 ft cube at 100 ft range
 		- The earth itself burns and the whole area crumbles to ash
 	- "Be proud. Your sacrifice will prevent the Desolations from returning."
 
