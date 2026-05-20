@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#dustbringer"
   - "#rebel_leader"
-last_updated: 2024-05-23T10:00:00
+last_updated: 2024-05-29T10:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
@@ -28,9 +28,11 @@ Once a highly respected General in the Vamah military, Spade was ousted through 
 - **Help the People**: Protect civilians when possible and try to do the right thing
 - **Protection:** Protect other surgebinders from the judgment of the [[Silent Oath]] and [[High Enforcer Aylen]]
 
+# Events
+- [[1172-02-18 The Missing Supplies]]: Utilized Division to breach Warehouse 14 for supplies.
+
 # Hooks
 - Vengeance for [[Lavrik]]
-- [[The Missing Supplies]]
 
 # Connections
 - [[Highlord Paladar]]: The man who ruined his career and his city.

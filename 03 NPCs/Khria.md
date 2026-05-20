@@ -7,7 +7,7 @@ tags:
   - "#purelaker"
   - "#truthwatcher"
   - "#rebel"
-last_updated: 2024-05-25T11:00:00
+last_updated: 2024-05-29T10:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
@@ -28,8 +28,10 @@ Her life changed after spotting a Mistspren in the shallow waters of the Purelak
 - **Restoration:** Bring back the Knights Radiant to Roshar.
 - **Reconciliation:** Safely reunite with or protect her sister, [[Mallow]], despite the "betrayal" that led to her capture.
 
+# Events
+- [[1172-02-18 The Missing Supplies]]: Infiltrated Warehouse 14 disguised as [[General Odrin Lesh]].
+
 # Hooks
-- [[The Missing Supplies]]
 - **Cartography Trail:** Her commission at [[The Shining Quill]] provides a lead for those tracking the [[Knights of Dusk]].
 
 # Connections

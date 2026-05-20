@@ -3,7 +3,7 @@ type: faction
 status: active
 tags:
   - "#faction"
-last_updated: 2026-05-18T12:00:00
+last_updated: 2024-05-29T10:00:00
 ---
 # Description
 A clandestine rebel organization based in the urban shadows of [[Revolar]], led by emerging Knights Radiant. They represent the growing resistance against the established order of the princedoms. While they view themselves as freedom fighters, the current regime labels them as "terrorists" due to their use of urban sabotage and arson.
@@ -13,7 +13,7 @@ A clandestine rebel organization based in the urban shadows of [[Revolar]], led 
 - **Leadership Transition:** Successfully install General Spade as the new authority.
 - **Refound the Knights Radiant:** Establish a modern foundation for the ancient order.
 - **Infrastructure Seizure:** Execute a major offensive to take control of key city assets.
-- **Economic Sabotage:** Target corrupt nobles' estates, such as seen in [[1172-02-20 The Cinder Evacuation]], to drain resources and damage their public image.
+- **Economic Sabotage:** Target corrupt nobles' estates, such as seen in [[1172-02-20 The Cinder Evacuation]], and mundane supply hubs like [[1172-02-18 The Missing Supplies]], to drain resources and damage their public image.
 
 # Structure
 
@@ -40,4 +40,3 @@ SORT file.name ASC
 
 
 <!-- SerializedQuery END -->
-

@@ -918,12 +918,13 @@
       "status": "active",
       "links": [
         "[[Ghostbloods]]",
-        "[[Revolar]]",
+        "[[The Prismatic Palette]]",
         "[[Doug (Guddy)]]",
         "[[Truthkeeper Camp]]",
         "[[Bloodmarks]]",
         "[[Truthkeepers]]",
-        "[[Middlecrest]]",
+        "[[Revolar]]",
+        "[[Stoneweave]]",
         "[[Cremwidow Poison]]",
         "[[Flora and Fauna]]",
         "[[Undertaker]]",
@@ -938,7 +939,7 @@
         "#criminal_mastermind",
         "#poisoner"
       ],
-      "last_updated": "2024-05-27T10:00:00"
+      "last_updated": "2024-05-28T10:00:00"
     },
     "Lavrik": {
       "type": "npc",
@@ -1252,7 +1253,8 @@
         "[[Silent Oath]]",
         "[[Chip]]",
         "[[Iyatil]]",
-        "[[1172-02-17 Meeting with the Undertaker]]"
+        "[[1172-02-17 Meeting with the Undertaker]]",
+        "[[The Prismatic Palette]]"
       ],
       "tags": [
         "#npc",
@@ -1260,7 +1262,7 @@
         "#ghostbloods",
         "#worldhopper"
       ],
-      "last_updated": "2026-05-20T15:00:00"
+      "last_updated": "2024-05-28T10:00:00"
     },
     "Vorn": {
       "type": "npc",
@@ -1991,6 +1993,7 @@
         "[[Scholar's Rest]]",
         "[[Sun's Zenith]]",
         "[[The Shining Quill]]",
+        "[[The Prismatic Palette]]",
         "[[Bitter Leaf Apothecary]]",
         "[[Boundless Bazaar]]",
         "[[The Vamah Archivum]]"
@@ -1998,7 +2001,7 @@
       "tags": [
         "#location"
       ],
-      "last_updated": "2024-05-25T11:00:00"
+      "last_updated": "2024-05-28T10:00:00"
     },
     "Salimset": {
       "type": "location",
@@ -2108,6 +2111,25 @@
         "#location"
       ],
       "last_updated": "2026-05-14T14:00:00"
+    },
+    "The Prismatic Palette": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Tomat]]",
+        "[[Ghostbloods]]",
+        "[[Koloko]]",
+        "[[Cremwidow Poison]]",
+        "[[Sila]]",
+        "[[Undertaker]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar",
+        "#stoneweave",
+        "#ghostbloods"
+      ],
+      "last_updated": "2024-05-28T10:00:00"
     },
     "The Shining Quill": {
       "type": "location",
@@ -2279,24 +2301,6 @@
         "#iiko"
       ],
       "last_updated": "2024-05-22T10:00:00"
-    },
-    "Sila's Allegiance": {
-      "type": "hook",
-      "status": "active",
-      "links": [
-        "[[Sila]]",
-        "[[Truthkeeper Camp]]",
-        "[[Karani]]",
-        "[[Chip]]",
-        "[[Ghostbloods]]",
-        "[[Koloko]]",
-        "[[Sweeper]]"
-      ],
-      "tags": [
-        "#hook",
-        "#placeholder"
-      ],
-      "last_updated": "2026-05-13T23:35:12"
     },
     "Test of Loyalty": {
       "type": "hook",

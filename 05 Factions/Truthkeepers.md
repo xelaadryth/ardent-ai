@@ -3,7 +3,7 @@ type: faction
 status: active
 tags:
   - "#faction"
-last_updated: 2026-05-15T12:00:00
+last_updated: 2024-05-29T10:00:00
 ---
 # Description
 A secretive, militant organization that operates under the conviction that they alone understand the existential threat posed by the [[Possessed]]. They provide a front for more dangerous entities while maintaining a firm grip on local politics and security.
@@ -13,7 +13,7 @@ The Truthkeepers operate with near-total autonomy, shielded by the political cov
 # Goals
 - **Neutralization:** Identify and "neutralize" individuals showing signs of Surgebinding or mental instability.
 - **Logistical Control:** Secure [[Revolar]] and fortify supply lines for militant Sadeas groups coming from the Vamah Princedom.
-- **Suppression:** Actively hunt down and dismantle the [[Knights of Dusk]] to ensure regional stability.
+- **Suppression:** Actively hunt down and dismantle the [[Knights of Dusk]] to ensure regional stability, including investigating internal breaches such as [[1172-02-18 The Missing Supplies]].
 
 # Structure
 *   **[[Silent Oath]]**: The secret power at the apex, directing the organization's most lethal activities.
@@ -43,4 +43,3 @@ SORT file.name ASC
 
 
 <!-- SerializedQuery END -->
-

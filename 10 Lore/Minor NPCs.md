@@ -5,7 +5,7 @@ tags:
   - "#lore"
   - "#npc"
   - "#reference"
-last_updated: 2024-05-26T10:00:00
+last_updated: 2024-05-29T10:00:00
 ---
 
 # Overview
@@ -35,7 +35,7 @@ This document should be updated constantly as the central reference for minor no
 | **Nip**                     | Nasally thug with facial scars. Former associate of the Axe.                         | [[003 Yenev and the Axe]]            | [[Stringken]]           |
 | **Highlord Kethren Sathir** | Tired early-30s noble. Marise's husband.                                             | [[004 The Sathir Estate]]            | Shattered Plains        |
 | **Ibsol**                   | Shaved-headed Ardent; rubs his pate and beard often.                                 | [[004 The Sathir Estate]]            | [[House Sathir]]        |
-| **Lumi**                    | Homely, nurturing house manager who feeds everyone.                                  | [[004 The Sathir Estate]]            | [[House Sathir]]        |
+| **Lumi**                    | Homely, nurturing house manager who feeds everyone.                                   | [[004 The Sathir Estate]]            | [[House Sathir]]        |
 | **Shara Sathir**            | Shy 7-year-old with pale green eyes. Obedient daughter.                              | [[004 The Sathir Estate]]            | [[House Sathir]]        |
 | **Rhilon**                  | People-pleasing shopkeep; provided info on Morrow.                                   | [[005 Hearthstone]]                  | [[Hearthstone]]         |
 | **Lod**                     | Uncertain darkeyes who thinks he'll be sacrificed.                                   | [[006 Dillind and the Temple]]       | **Dead** (Purged)       |
@@ -43,8 +43,8 @@ This document should be updated constantly as the central reference for minor no
 | **Tusa**                    | Nervous Herdazian who flicks sparks. Pafo's cousin.                                  | [[009 Slavers]]                      | [[Hearthstone]]         |
 | **Falen**                   | Resident of the Stackhouses; father of the family rescued from slavers.              | [[012 Following Chip]]               | [[Stackhouses]]         |
 | **Lady Piri Hadlis**        | Elegant mapmaker and owner of [[The Shining Quill]]. Noticed the gait of Purelakers. | [[013 Shadow War in the Driftwards]] | [[Revolar]]             |
-| **Kael**                    | Guard noticed missing, suspected Knights of Dusk sympathizer.                        | [[The Missing Supplies]]              | [[Revolar]]             |
-| **Lirsi**                   | Senior Alethi scribe; finds the theft of daily goods insulting.                      | [[The Missing Supplies]]              | [[Revolar]]             |
-| **Merat**                   | Veteran guard who claimed to see a highlord at the heist.                            | [[The Missing Supplies]]              | [[Revolar]]             |
-| **Tessa**                   | Junior scribe with meticulous records of mundane theft.                              | [[The Missing Supplies]]              | [[Revolar]]             |
+| **Kael**                    | Guard noticed missing, suspected Knights of Dusk sympathizer.                        | [[1172-02-18 The Missing Supplies]]  | [[Revolar]]             |
+| **Lirsi**                   | Senior Alethi scribe; finds the theft of daily goods insulting.                      | [[1172-02-18 The Missing Supplies]]  | [[Revolar]]             |
+| **Merat**                   | Veteran guard who claimed to see a highlord at the heist.                            | [[1172-02-18 The Missing Supplies]]  | [[Revolar]]             |
+| **Tessa**                   | Junior scribe with meticulous records of mundane theft.                              | [[1172-02-18 The Missing Supplies]]  | [[Revolar]]             |
 | **Adjudicator Milara**      | Mid-40s with a low rasping voice; constantly bored.                                  | planned                              | [[Truthkeeper Camp]]    |

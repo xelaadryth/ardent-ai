@@ -3,7 +3,7 @@ type: location
 status: active
 tags:
   - "#location"
-last_updated: 2024-05-28T10:00:00
+last_updated: 2024-05-29T10:00:00
 location: "[[Alethkar]]"
 ---
 
@@ -50,3 +50,4 @@ A major urban center and the intended destination for the squad's transfer. It s
 - [[The Shining Quill]]
 - [[The Vamah Archivum]]
 - [[Whitespine's Fang]]
+- [[1172-02-18 The Missing Supplies]] (Warehouse 14)
