@@ -913,6 +913,33 @@
       ],
       "last_updated": "2024-05-25T11:00:00"
     },
+    "Koloko": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Ghostbloods]]",
+        "[[Revolar]]",
+        "[[Doug (Guddy)]]",
+        "[[Truthkeeper Camp]]",
+        "[[Bloodmarks]]",
+        "[[Truthkeepers]]",
+        "[[Middlecrest]]",
+        "[[Cremwidow Poison]]",
+        "[[Flora and Fauna]]",
+        "[[Undertaker]]",
+        "[[Sila]]",
+        "[[N'tal]]",
+        "[[Kuma]]"
+      ],
+      "tags": [
+        "#npc",
+        "#nurian",
+        "#ghostbloods",
+        "#criminal_mastermind",
+        "#poisoner"
+      ],
+      "last_updated": "2024-05-27T10:00:00"
+    },
     "Lavrik": {
       "type": "npc",
       "status": "completed",
@@ -1090,6 +1117,7 @@
       "links": [
         "[[Ghostbloods]]",
         "[[Revolar]]",
+        "[[Koloko]]",
         "[[Chip]]",
         "[[Karani]]",
         "[[Adjudicator Peton]]"
@@ -1101,7 +1129,7 @@
         "#ghostbloods",
         "#mercenary"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2024-05-27T10:00:00"
     },
     "Sweeper": {
       "type": "npc",
@@ -1678,6 +1706,7 @@
         "[[Helaran]]",
         "[[Kabsal]]",
         "[[Karani]]",
+        "[[Koloko]]",
         "[[Shallan Davar]]",
         "[[Sila]]",
         "[[Sweeper]]",
@@ -1688,7 +1717,7 @@
         "#secret-society",
         "#espionage"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2024-05-27T10:00:00"
     },
     "Knights of Dusk": {
       "type": "faction",

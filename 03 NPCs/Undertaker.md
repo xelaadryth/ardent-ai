@@ -6,7 +6,7 @@ tags:
   - "#thaylen"
   - "#ghostbloods"
   - "#worldhopper"
-last_updated: 2026-05-20T15:00:00
+last_updated: 2024-05-28T10:00:00
 faction: "[[Ghostbloods]]"
 location: "[[Revolar]]"
 ---
@@ -32,3 +32,4 @@ Undertaker is actually **Mraize**, a worldhopper of significant power and influe
 - [[Iyatil]]: His supposed "apprentice" who actually uses him to gather information and manipulate events from the shadows.
 - [[N'tal]]: A potential asset whose family tragedy he helped illuminate during the meeting in [[1172-02-17 Meeting with the Undertaker]].
 - [[Fina]]: A former proxy whose past negligence he has weaponized to test the squad's loyalty.
+- [[The Prismatic Palette]]: His new designated meeting spot for squad briefings.

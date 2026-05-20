@@ -3,7 +3,7 @@ type: location
 status: active
 tags:
   - "#location"
-last_updated: 2024-05-25T11:00:00
+last_updated: 2024-05-28T10:00:00
 location: "[[Alethkar]]"
 ---
 
@@ -30,7 +30,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 - **Middlecrest**: Commercial heart. Location of **The Shining Quill** (map shop) and [[Sun's Zenith]].
 	- **[[The Shining Quill]]**: Mapmaking shop run by Lady Piri Hadlis.
 - **Skyglass District**: Western lighteyed manors.
-- **Stoneweave**: Southern artisan district.
+- **Stoneweave**: Southern artisan district. Home to [[The Prismatic Palette]].
 - **Scholar's Rest**: Located within the **Guilds District** (North); contains the largest public library.
 
 ## Heart
@@ -46,6 +46,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 - [[Scholar's Rest]]
 - [[Stackhouses]]
 - [[Sun's Zenith]]
+- [[The Prismatic Palette]]
 - [[The Shining Quill]]
 - [[The Vamah Archivum]]
 - [[Whitespine's Fang]]
