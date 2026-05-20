@@ -26,11 +26,7 @@ As part of their transition into [[Revolar]], Iiko meets [[Ardent Kaelis]], whos
 - **Devotary Path:** Join a devotary as prompted by [[Ardent Kaelis]].
 - **Discover Truth:** Determine if the "Possessed" are truly mad or perceiving deeper truths.
 
-# Hooks
-- [[The Devotary Call]]
-- [[1172-02-18 The Boutique Confrontation]]: Witnessed Renna's protective nature and her past trauma.
-
 # Connections
 - [[Dreamwaker]]: Ancient Mistspren partner.
 - [[Ardent Kaelis]]: Scholar and potential mentor in [[Revolar]].
-- [[Renna Palir]]: Mentor and surrogate older sister.
+- [[Renna Palir]]: They like her, but not sure if it's familial, friendly, or romantic.

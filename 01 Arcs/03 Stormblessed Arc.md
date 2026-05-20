@@ -12,6 +12,10 @@ number: 3
 # Description
 A "storm-blessed" soldier named [[Tien]] is making a name for himself in the brutal border skirmishes of Alethkar and Jah Keved. He is a survivor who seems to defy death at every turn, drawing the attention of both the Heralds and the Radiants. In this timeline, he was saved by [[Kaladin]] during a sacrifice that passed on the destiny of the Stormblessed.
 
+# Why Tomat
+- Tomat is the closest place with a large library not desecrated by the Truthkeepers, unlike Kholinar which has even larger Truthkeeper presence
+- Traveling to Bodenar directly is difficult, not safe to cross the border unless with Alethi forces, Ghostbloods have ardent and merchant contacts in [[Tomat]] that can help get everyone across the border; supplies, disguises, spot in a caravan: [[Kabsal]]
+
 # Key Locations
 - [[Tomat]]: The primary staging ground for the arc's events.
 

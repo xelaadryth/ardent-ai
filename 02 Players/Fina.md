@@ -29,10 +29,6 @@ Born into a noble family, Fina rejected a marriage alliance with a "nature cult"
 - Uncover the deepest secrets of the Cosmere.
 - Atone for the collateral damage caused by her past administrative negligence.
 
-# Hooks
-- [[The Highlord's Greed]]
-- [[1172-02-18 The Boutique Confrontation]]: Stood up for Renna against a cruel fiancé.
-
 # Connections
 - [[Verdae]] — Her naive and vine-like Cultivationspren.
 - [[N'tal]] — A companion whose family she accidentally ruined in Nuria.

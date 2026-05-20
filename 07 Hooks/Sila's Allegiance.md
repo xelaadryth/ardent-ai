@@ -10,3 +10,7 @@ leads:
 ---
 # Description
 [[Sila]] was sentenced to work hard labor in the [[Truthkeeper Camp]] but was soon liberated by [[Karani]] at [[Chip]]'s behest, and was brought officially into the fold of the [[Ghostbloods]].
+
+Other Ghostbloods that the party will recognize:
+- [[Koloko]]
+- [[Sweeper]]
