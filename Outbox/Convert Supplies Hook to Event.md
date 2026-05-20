@@ -1,0 +1,1 @@
+Convert the Missing Supplies hook to an event that takes place on 1172-02-18.

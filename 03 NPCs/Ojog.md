@@ -16,7 +16,7 @@ location: "[[Revolar]]"
 A towering and lethal Truthkeeper Enforcer who arrived on Roshar alongside the other Nurians. While originally trained in the arts of healing, he has repurposed his anatomical knowledge to become a clinical and efficient executioner.
 
 # Appearance
-Ojog stands an impressive 6'4" with light blue eyes that allow him to pass easily as an Alethi lighteyes of significant standing. He typically wears the reinforced dark grey robes of a Truthkeeper Enforcer, carrying dual long-knives at his belt.
+Ojog stands an impressive 6'4" with light blue eyes that allow him to pass easily as an Alethi lighteyes of significant standing. He typically wears the reinforced dark grey robes of a Truthkeeper Enforcer, carrying a longsword at his belt. He left his knife behind with his scalpels; he follows the sword now. No more hiding/disloyalty is tolerated.
 
 # Personality
 Quiet, disciplined, and burdened by immense guilt. Ojog possesses a deep-seated hesitation to use his medical skills, fearing that his kindness will once again lead to catastrophe. He has fully embraced the cold logic of the [[Truthkeepers]], finding purpose in the rigid enforcement of the law.
@@ -24,7 +24,7 @@ Quiet, disciplined, and burdened by immense guilt. Ojog possesses a deep-seated 
 # Background
 Back in Nuria, Ojog was a brilliant student of medicine. During a border conflict, he discovered a wounded soldier and, adhering to his oaths but breaking the laws of the town, saved the man's life instead of reporting him. This act of mercy proved fatal; the soldier was an enemy scout who used the intel gathered during his recovery to exploit the weaknesses in Ojog's village defenses, leading to its total destruction. 
 
-Arriving in the [[Truthkeeper Camp]] with [[N'tal]], [[Kuma]], [[Beric Quinn]], and the others, Ojog was separated from the main squad when they were dispatched to [[Hearthstone]]. He integrated quickly into the Alethi ranks, earning the respect of [[Adjudicator Peton]] for his proficiency with dual knives and his clinical approach to neutralizing targets.
+Arriving in the [[Truthkeeper Camp]] with [[N'tal]], [[Kuma]], [[Beric Quinn]], and the others, Ojog was separated from the main squad when they were dispatched to [[Hearthstone]]. He integrated quickly into the Alethi ranks, earning the respect of [[Adjudicator Peton]] for his proficiency with dual knives and his clinical approach to neutralizing targets, but he has switched to the longsword to change himself.
 
 # Goals
 - **Atonement Through Duty:** Serve the [[Truthkeepers]] with absolute efficiency to make up for his past failure.
