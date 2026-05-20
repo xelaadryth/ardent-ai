@@ -6,37 +6,37 @@ tags:
   - "#revolar"
   - "#combat"
   - "#darkstone_forest"
-last_updated: 2026-05-18T12:00:00
+  - "#final_confrontation"
+last_updated: 2024-05-29T11:00:00
 fc-category: Party
 session:
 ---
 
 # Description
-The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The squad is cornered in an abandoned lodge within the [[Darkstone Forest]], forced to hold out against the full might of the [[Knights of Dusk]] until reinforcements arrive.
+The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The [[Truthkeepers]], led by [[Adjudicator Peton]], discover the insurgency's hidden base within the [[Darkstone Forest]]. The party must coordinate a desperate defense alongside [[General Spade]] and [[Khria]] before the arrival of [[High Enforcer Aylen]] turns the siege into a slaughter.
 
 # Setup
-Outmatched and pursued by a large war-band of the [[Knights of Dusk]] within the [[Darkstone Forest]], the party has taken refuge in a sturdy, abandoned stone lodge. They have sent an emergency spanreed message for help, but they must hold the line until reinforcements arrive.
+The [[Truthkeepers]] have bypassed the "wind-path" using intelligence provided by the [[Bloodmarks]]. The [[Knights of Dusk]] base is surrounded. The party is stationed at the forward barricades near the [[Stormbristle Groves]].
 
-# Environment & Hazards
-- **The Stone Lodge:** A two-story structure with thick walls but several windows and a weak rear door.
-- **Defensive Prep:** The party has 2 rounds to barricade doors, move furniture, or set traps before the first wave hits.
-- **Reinforcement Timer:** Reinforcements from the [[Truthkeepers]] or [[Silent Oath]] will arrive in 5 rounds.
+# Key Mechanics & Objectives
+- **Strategic Support for [[General Spade]]:** The General is a powerhouse of Division, but he is being suppressed by [[Truthkeepers]] specialized "Dampening Nets." The party must navigate the [[Stormbristle Groves]] to eliminate the net-layers and free Spade to collapse the massive crem-pillars onto the incoming [[Truthkeepers]] heavy infantry.
+- **Renna's Protection:** [[Renna Palir]] utilizes her knowledge of [[Truthkeepers]] logistics to misdirect incoming squads. During a pivotal moment, a [[Truthkeepers]] elite sharpshooter targets [[Iiko]]; Renna must be protected or assisted as she intercepts the threat, proving her resolve to her surrogate sibling.
+- **The Breach:** [[Adjudicator Peton]] and [[Ojog]] lead a frontal assault on the main stone structure. The party must choose whether to engage their former mentor [[Ojog]] or focus on delaying the breach.
 
 # Participants
-- **[[Knights of Dusk]] Forces:**
-  - Wave 1: 4 Skirmishers forcing the windows.
-  - Wave 2: 2 Heavies with a ram targeting the front door, supported by 2 Archers in the treeline.
-  - Wave 3: A "Dusk Caller" (Officer) who attempts to negotiate a surrender before the final push.
-- **The Commanders:**
-  - [[General Spade]]: Arrives Round 3 to cut new entrances with Abrasion/Division.
-  - [[Khria]]: Arrives Round 4 to lead a precision breach team.
-- **Reinforcements:**
-  - [[Adjudicator Peton]] / [[Silent Oath]] units (Arrive Round 5).
-  - [[Istrum]]: Overseeing the Silent Oath intervention.
+- [[General Spade]]: Defensive lead.
+- [[Khria]]: Tactical coordination.
+- [[Renna Palir]]: Support and protection of [[Iiko]].
+- [[Adjudicator Peton]]: [[Truthkeepers]] commander.
+- [[Ojog]]: Frontline [[Truthkeepers]] Enforcer.
+- [[High Enforcer Aylen]]: The final judge.
+- [[Istrum]]: Witness to the end.
 
-# Tactics
-The [[Knights of Dusk]] use the forest's gloom for cover, darting in to test the defenses. Starting Round 3, [[General Spade]] uses his Radiant abilities to systematically dismantle the lodge's structural integrity. Starting Round 4, [[Khria]] utilizes illusions to mask the approach of the final breach team.
+# The Slaughter
+When the reinforcement timer expires, the air turns unnaturally cold. [[High Enforcer Aylen]] (Nale) descends. He ignores the party, focusing entirely on [[General Spade]]. 
+- **The Judgment:** Aylen summons his gold-glowing Shardblade and executes [[General Spade]] with clinical precision. 
+- **The Rout:** With their leader fallen, the [[Knights of Dusk]] scatter. [[Truthkeepers]] and [[Silent Oath]] units begin a systematic purge of the survivors.
 
-# Resolution
-- **The Cleansing:** Regardless of the party's success in holding the lodge, the arrival of the [[Silent Oath]] results in a clinical and total elimination of the [[Knights of Dusk]] survivors. 
-- **The Mercy:** In the chaotic aftermath of the purge, [[Istrum]] assists the party in bypassing the Silent Oath's perimeter, allowing them to escape [[Revolar]] and flee the slaughter.
+# Outcomes
+- **The Loophole of Mercy:** As the party attempts to flee using their nascent Radiant powers, they are cornered by [[Istrum]]. Recognizing their potential and the lack of a specific warrant for their execution in the immediate chaos, she chooses inaction, allowing them to vanish into the deeper [[Darkstone Forest]].
+- **The Fall of Revolar's Hope:** The insurgency is broken, and the [[Vamah Princedom]] solidifies its control over the city.

@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#dustbringer"
   - "#rebel_leader"
-last_updated: 2024-05-29T10:00:00
+last_updated: 2024-05-29T11:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
@@ -30,6 +30,7 @@ Once a highly respected General in the Vamah military, Spade was ousted through 
 
 # Events
 - [[1172-02-18 The Missing Supplies]]: Utilized Division to breach Warehouse 14 for supplies.
+- [[1172-02-32 The Darkstone Siege]]: Slain by [[High Enforcer Aylen]] while defending the insurgency base.
 
 # Hooks
 - Vengeance for [[Lavrik]]
@@ -38,3 +39,4 @@ Once a highly respected General in the Vamah military, Spade was ousted through 
 - [[Highlord Paladar]]: The man who ruined his career and his city.
 - [[General Odrin Lesh]]: His successor and bitter rival.
 - [[Lavrik]]: A childhood friend and key ally and strategist in the rebellion.
+- [[High Enforcer Aylen]]: His executioner.
