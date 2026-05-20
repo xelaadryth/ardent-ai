@@ -160,6 +160,7 @@
         "[[1172-02-16 The Stackhouse Slavers]]",
         "[[1172-02-17 Meeting at the Whitespine]]",
         "[[1172-02-17 Meeting with the Undertaker]]",
+        "[[1172-02-18 The Boutique Confrontation]]",
         "[[1172-02-19 The Foundry Chase]]",
         "[[012 Following Chip]]",
         "[[013 Shadow War in the Driftwards]]"
@@ -169,7 +170,7 @@
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2024-05-25T10:00:00"
+      "last_updated": "2026-05-18T00:00:00"
     },
     "03 Stormblessed Arc": {
       "type": "arc",
@@ -178,6 +179,7 @@
         "[[Tien]]",
         "[[Kaladin]]",
         "[[Tomat]]",
+        "[[Kabsal]]",
         "[[Amaram]]",
         "[[Sons of Honor]]",
         "[[Dillind]]",
@@ -247,7 +249,7 @@
         "[[Bloodmarks]]",
         "[[N'tal]]",
         "[[Undertaker]]",
-        "[[The Highlord's Greed]]"
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#player",
@@ -256,7 +258,7 @@
         "#noble",
         "#lighteyed"
       ],
-      "last_updated": "2024-05-25T10:00:00"
+      "last_updated": "2026-05-18T00:00:00"
     },
     "Galeth-son-Thald": {
       "type": "player",
@@ -284,7 +286,7 @@
         "[[Dreamwaker]]",
         "[[Revolar]]",
         "[[Ardent Kaelis]]",
-        "[[The Devotary Call]]"
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#player",
@@ -292,7 +294,7 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2026-05-20T12:00:00"
+      "last_updated": "2026-05-18T00:00:00"
     },
     "Kuma": {
       "type": "player",
@@ -492,6 +494,26 @@
         "#radiant"
       ],
       "last_updated": "2026-05-25T12:00:00"
+    },
+    "Brightlord Juran": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Vamah Princedom]]",
+        "[[Revolar]]",
+        "[[Skyglass District]]",
+        "[[Renna Palir]]",
+        "[[Truthkeepers]]",
+        "[[Fina]]",
+        "[[Highlord Paladar]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#antagonist"
+      ],
+      "last_updated": "2026-05-18T00:00:00"
     },
     "Chip": {
       "type": "npc",
@@ -1010,9 +1032,8 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Revolar]]",
+        "[[Brightlord Juran]]",
         "[[Iiko]]",
-        "[[Spy of Dusk]]",
-        "[[Knights of Dusk]]",
         "[[Chip]]"
       ],
       "tags": [
@@ -1020,7 +1041,7 @@
         "#lighteyed",
         "#alethi"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-05-18T00:00:00"
     },
     "Senny": {
       "type": "npc",
@@ -2238,7 +2259,9 @@
         "[[Truthkeeper Camp]]",
         "[[Karani]]",
         "[[Chip]]",
-        "[[Ghostbloods]]"
+        "[[Ghostbloods]]",
+        "[[Koloko]]",
+        "[[Sweeper]]"
       ],
       "tags": [
         "#hook",
@@ -2253,6 +2276,7 @@
         "[[Beric Quinn]]",
         "[[Renna Palir]]",
         "[[Stackhouses]]",
+        "[[The Vamah Archivum]]",
         "[[Knights of Dusk]]",
         "[[The Missing Supplies]]"
       ],
@@ -2509,11 +2533,13 @@
         "[[N'tal]]",
         "[[Fina]]",
         "[[Bloodmarks]]",
+        "[[Arbiter Jalis]]",
+        "[[Possessed]]",
+        "[[Truthkeepers]]",
+        "[[Nurian Gems]]",
         "[[Zabriel]]",
         "[[Bodenar]]",
-        "[[Arbiter Jalis]]",
-        "[[Stackhouses]]",
-        "[[1172-02-17 The Foundry Chase]]"
+        "[[1172-02-19 The Foundry Chase]]"
       ],
       "tags": [
         "#event",
@@ -2522,6 +2548,21 @@
         "#revelation"
       ],
       "last_updated": "2026-05-20T15:00:00"
+    },
+    "1172-02-18 The Boutique Confrontation": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[1172-02-20 The Cinder Evacuation]]",
+        "[[Brightlord Juran]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#rp",
+        "#skyglass_district"
+      ],
+      "last_updated": "2026-05-18T00:00:00"
     },
     "1172-02-19 The Foundry Chase": {
       "type": "event",

@@ -5,7 +5,7 @@ tags:
   - "#faction"
   - "#secret-society"
   - "#espionage"
-last_updated: 2026-05-13T23:29:00
+last_updated: 2024-05-27T10:00:00
 ---
 # Description
 A secretive and highly organized faction that deals in secrets, Investiture, and large-scale political manipulation. They operate primarily from the shadows, utilizing a network of autonomous cells to achieve their ends.
@@ -34,6 +34,7 @@ SORT file.name ASC
 - [[Helaran]]
 - [[Kabsal]]
 - [[Karani]]
+- [[Koloko]]
 - [[Shallan Davar]]
 - [[Sila]]
 - [[Sweeper]]
