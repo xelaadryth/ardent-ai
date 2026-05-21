@@ -18,13 +18,13 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[Bloodmarks]]: [[Arbiter Jalis]], [[Grand Justicar Malice]].
 
 # Events
-- [[1172-02-16 The Stackhouse Slavers]]
-- [[1172-02-17 Meeting at the Whitespine]]
-- [[1172-02-17 Meeting with the Undertaker]]
-- [[1172-02-18 The Missing Supplies]]
-- [[1172-02-18 The Boutique Confrontation]]
-- [[1172-02-19 The Foundry Chase]]
+- [[The Stackhouse Slavers]]
+- [[Meeting at the Whitespine]]
+- [[Meeting with the Undertaker]]
+- [[The Missing Supplies]]
+- [[The Boutique Confrontation]]
+- [[The Foundry Chase]]
 
 # Sessions
 - [[012 Following Chip]]
-- [[013 Shadow War in the Driftwards]]
+- [[013 Tilting Loyalties]]

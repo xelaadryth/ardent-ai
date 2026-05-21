@@ -21,7 +21,7 @@ Ojog stands an impressive 6'4" with light blue eyes that allow him to pass easil
 Quiet, disciplined, and burdened by immense guilt. He has fully embraced the cold logic of the [[Truthkeepers]], finding purpose in the rigid enforcement of the law. His sense of betrayal by his former companions drives his clinical focus on duty.
 
 # Background
-Separated from the main squad early in their service, Ojog became a favorite of [[Adjudicator Peton]]. After the party's defection during [[1172-02-28 Allegiance at the Abandoned Docks]], he took the betrayal personally, viewing it as a repeat of the misplaced mercy that destroyed his village in Nuria.
+Separated from the main squad early in their service, Ojog became a favorite of [[Adjudicator Peton]]. After the party's defection during [[Allegiance at the Abandoned Docks]], he took the betrayal personally, viewing it as a repeat of the misplaced mercy that destroyed his village in Nuria.
 
 # Goals
 - **Atonement Through Duty:** Serve the [[Truthkeepers]] with absolute efficiency to make up for his past failure.
@@ -29,8 +29,8 @@ Separated from the main squad early in their service, Ojog became a favorite of 
 - **Enforce the Silent Oath:** Act as the primary watchdog for internal dissent within the organization.
 
 # Events
-- [[1172-02-28 Allegiance at the Abandoned Docks]]: Confronted the party during their defection; ordered their execution.
-- [[1172-02-32 The Darkstone Siege]]: Led the breach of the [[Knights of Dusk]] base.
+- [[Allegiance at the Abandoned Docks]]: Confronted the party during their defection; ordered their execution.
+- [[The Darkstone Siege]]: Led the breach of the [[Knights of Dusk]] base.
 
 # Connections
 - [[Istrum]] — His mentor and fellow Makabaki Skybreaker.

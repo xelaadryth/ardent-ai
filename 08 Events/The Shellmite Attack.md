@@ -6,6 +6,7 @@ tags:
   - "#placeholder"
 last_updated: 2026-05-13T23:29:00
 fc-category: Party
+fc-date: 1172-01-12
 session: "[[001 First Blood]]"
 ---
 # Description

@@ -73,7 +73,7 @@ The district is defined by its unique infrastructure: stalls that fold down and 
 
 #### Sources
 [^1]: [[0045-Revolar]]
-[^2]: [[1172-02-28 Allegiance at the Abandoned Docks]]
+[^2]: [[Allegiance at the Abandoned Docks]]
 [^3]: [[Boundless Bazaar]]
 [^4]: [[Zabriel]]
 [^5]: [[Lila]]

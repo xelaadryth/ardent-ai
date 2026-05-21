@@ -13,7 +13,7 @@ Unstable and highly reactive gemstones originating from the world of Mythos. The
 
 # Properties
 - **Batteries**: Hold stormlight twice as long as regular gemstones.
-- **High Output:** Nurian gems can power complex mechanisms like the [[1172-03-42 The Experimental Steamship]] more efficiently.
+- **High Output:** Nurian gems can power complex mechanisms like the [[The Experimental Steamship]] more efficiently.
 - **Instability:** They are sensitive to Rosharan "atmospheric" investiture, often humming or cracking when highstorms approach.
 
 # History

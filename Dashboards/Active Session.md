@@ -1,17 +1,17 @@
 Current Arc: [[02 Knights of Dusk Arc]]
-Current Session: [[013 Shadow War in the Driftwards]]
+Current Session: [[013 Tilting Loyalties]]
 
 # TODO
 - Bruckslats
-	- [[1172-02-17 Meeting with the Undertaker]]
+	- [[Meeting with the Undertaker]]
 - Gemheart Inn
 	- Glyph at the Gemheart Inn: [[Test of Loyalty]]
 - [[The Vamah Archivum]] / Truthkeeper area / anywhere
 	- Meet [[Beric Quinn]] somewhere: [[Test of Loyalty]]
 - Shield Ring/Skyglass District
 	- Introduce Jory in the Shield Ring
-	- [[1172-02-18 The Boutique Confrontation]]
-	- [[1172-02-20 The Cinder Evacuation]]
+	- [[The Boutique Confrontation]]
+	- [[The Cinder Evacuation]]
 - Slipmarket
 	- [[Vorn]] sees [[Kuma]] buying fabrials and raw materials: [[New Technology]]
 - Any library
@@ -24,15 +24,19 @@ Current Session: [[013 Shadow War in the Driftwards]]
 	- [[Beric Quinn]]/[[Kaz]] from the [[Knights of Dusk]] comes in to help
 # Upcoming Events
 
-<!-- QueryToSerialize: LIST FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
-<!-- SerializedQuery: LIST FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
-- [[1172-02-17 Meeting with the Undertaker]]
-- [[1172-02-18 The Boutique Confrontation]]
-- [[1172-02-19 The Foundry Chase]]
-- [[1172-02-20 The Cinder Evacuation]]
-- [[1172-02-21 Sister Reunion]]
-- [[1172-02-28 Allegiance at the Abandoned Docks]]
-- [[1172-02-32 The Darkstone Siege]]
+<!-- QueryToSerialize: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
+<!-- SerializedQuery: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
+
+| File                                                                                  | Date       |
+| ------------------------------------------------------------------------------------- | ---------- |
+| [[Allegiance at the Abandoned Docks]] | 1172-02-28 |
+| [[Meeting with the Undertaker]]             | 1172-02-17 |
+| [[Sister Reunion]]                                       | 1172-02-21 |
+| [[The Boutique Confrontation]]               | 1172-02-18 |
+| [[The Cinder Evacuation]]                         | 1172-02-20 |
+| [[The Darkstone Siege]]                             | 1172-02-32 |
+| [[The Foundry Chase]]                                 | 1172-02-19 |
+| [[The Missing Supplies]]                           | 1172-02-18 |
 
 
 <!-- SerializedQuery END -->

@@ -26,9 +26,9 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 # Events
 <!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
-- [[1172-01-11 The Arrival]]
-- [[1172-01-12 The Shellmite Attack]]
-- [[1172-01-35 Morrow's Execution]]
+- [[Morrow's Execution]]
+- [[The Shellmite Attack]]
+- [[Nurian Arrival]]
 
 
 <!-- SerializedQuery END -->

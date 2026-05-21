@@ -8,6 +8,7 @@ tags:
   - "#bloodmarks"
 last_updated: 2026-05-16T12:00:00
 fc-category: Party
+fc-date: 1172-02-16
 session: "[[012 Following Chip]]"
 ---
 # Description

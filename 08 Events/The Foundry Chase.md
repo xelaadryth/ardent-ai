@@ -9,11 +9,12 @@ tags:
   - "#chase"
 last_updated: 2026-05-20T15:00:00
 fc-category: Party
-session: "[[013 Shadow War in the Driftwards]]"
+fc-date: 1172-02-19
+session: "[[013 Tilting Loyalties]]"
 ---
 
 # Overview
-A high-stakes pursuit through the winding, industrial alleys of the [[Scarstone Quarter]] that culminates in a moral crucible within a derelict crem-processing facility. This event follows soon after the [[1172-02-17 Meeting with the Undertaker]].
+A high-stakes pursuit through the winding, industrial alleys of the [[Scarstone Quarter]] that culminates in a moral crucible within a derelict crem-processing facility. This event follows soon after the [[Meeting with the Undertaker]].
 
 # Setup
 The party identifies a [[Bloodmarks]] transport team led by [[Arbiter Jalis]]—the man [[N'tal]] just learned participated in his family's slaughter. Jalis is moving a high-value "asset," the fledgling Radiant [[Jory Spadis]]. The pursuit begins as a high-speed chase across the rickety scaffolding of the industrial alleys in the Cremling Quarter. Jalis uses the neighborhood's unstable architecture to delay the party, leading them toward a "killing box" in an abandoned crem-iron foundry.

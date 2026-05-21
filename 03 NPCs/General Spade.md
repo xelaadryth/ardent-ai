@@ -29,8 +29,8 @@ Once a highly respected General in the Vamah military, Spade was ousted through 
 - **Protection:** Protect other surgebinders from the judgment of the [[Silent Oath]] and [[High Enforcer Aylen]]
 
 # Events
-- [[1172-02-18 The Missing Supplies]]: Utilized Division to breach Warehouse 14 for supplies.
-- [[1172-02-32 The Darkstone Siege]]: Slain by [[High Enforcer Aylen]] while defending the insurgency base.
+- [[The Missing Supplies]]: Utilized Division to breach Warehouse 14 for supplies.
+- [[The Darkstone Siege]]: Slain by [[High Enforcer Aylen]] while defending the insurgency base.
 
 # Hooks
 - Vengeance for [[Lavrik]]

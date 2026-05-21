@@ -1,25 +1,25 @@
-<!-- QueryToSerialize: TABLE fc-category AS "Type", status AS "Status" FROM "08 Events" SORT file.name DESC -->
-<!-- SerializedQuery: TABLE fc-category AS "Type", status AS "Status" FROM "08 Events" SORT file.name DESC -->
+<!-- QueryToSerialize: TABLE file.frontmatter["fc-date"] AS "Date", fc-category AS "Type", status AS "Status" FROM "08 Events" OR "41 History" SORT file.frontmatter["fc-date"] DESC -->
+<!-- SerializedQuery: TABLE file.frontmatter["fc-date"] AS "Date", fc-category AS "Type", status AS "Status" FROM "08 Events" OR "41 History" SORT file.frontmatter["fc-date"] DESC -->
 
-| File                                                                                                        | Type       | Status    |
-| ----------------------------------------------------------------------------------------------------------- | ---------- | --------- |
-| [[1172-03-42 The Experimental Steamship]]               | Party      | planned   |
-| [[1172-02-32 The Darkstone Siege]]                             | Party      | active    |
-| [[1172-02-28 Allegiance at the Abandoned Docks]] | Party      | active    |
-| [[1172-02-21 Sister Reunion]]                                       | Party      | active    |
-| [[1172-02-20 The Cinder Evacuation]]                         | Party      | active    |
-| [[1172-02-19 The Foundry Chase]]                                 | Party      | active    |
-| [[1172-02-18 The Missing Supplies]]                           | Party      | completed |
-| [[1172-02-18 The Boutique Confrontation]]               | Party      | active    |
-| [[1172-02-17 Meeting with the Undertaker]]             | Party      | active    |
-| [[1172-02-17 Meeting at the Whitespine]]                 | Party      | completed |
-| [[1172-02-16 The Stackhouse Slavers]]                       | Party      | completed |
-| [[1172-01-35 Morrow's Execution]]                               | Party      | completed |
-| [[1172-01-12 The Shellmite Attack]]                           | Party      | completed |
-| [[1172-01-11 The Arrival]]                                             | Party      | completed |
-| [[1167-01-01 The Vengeance Pact]]                               | Historical | completed |
-| [[-3300-01-01 Aharietem]]                                               | Historical | completed |
-| [[-230-01-01 Day of Recreance]]                                   | Historical | completed |
+| File                                                                                  | Date        | Type       | Status    |
+| ------------------------------------------------------------------------------------- | ----------- | ---------- | --------- |
+| [[The Experimental Steamship]]               | 1172-03-42  | Party      | planned   |
+| [[The Darkstone Siege]]                             | 1172-02-32  | Party      | active    |
+| [[Allegiance at the Abandoned Docks]] | 1172-02-28  | Party      | active    |
+| [[Sister Reunion]]                                       | 1172-02-21  | Party      | active    |
+| [[The Cinder Evacuation]]                         | 1172-02-20  | Party      | active    |
+| [[The Foundry Chase]]                                 | 1172-02-19  | Party      | active    |
+| [[The Missing Supplies]]                           | 1172-02-18  | Party      | active    |
+| [[The Boutique Confrontation]]               | 1172-02-18  | Party      | active    |
+| [[Meeting with the Undertaker]]             | 1172-02-17  | Party      | active    |
+| [[Meeting at the Whitespine]]                 | 1172-02-17  | Party      | completed |
+| [[The Stackhouse Slavers]]                       | 1172-02-16  | Party      | completed |
+| [[Morrow's Execution]]                               | 1172-01-35  | Party      | completed |
+| [[The Shellmite Attack]]                           | 1172-01-12  | Party      | completed |
+| [[Nurian Arrival]]                                       | 1172-01-11  | Party      | completed |
+| [[The Vengeance Pact]]                              | 1167-01-01  | Historical | completed |
+| [[Aharietiam]]                                              | -3300-01-01 | Historical | completed |
+| [[Day of Recreance]]                                  | -230-01-01  | Historical | completed |
 
 
 <!-- SerializedQuery END -->

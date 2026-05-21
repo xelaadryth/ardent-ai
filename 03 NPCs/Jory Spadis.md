@@ -31,5 +31,5 @@ Recruited by the [[Knights of Dusk]] after he was discovered whispering to himse
 # Connections
 - [[Knights of Dusk]]: The organization that attempted to protect him.
 - [[Arbiter Jalis]]: His captor.
-- [[N'tal]]: His future savior during [[1172-02-19 The Foundry Chase]].
-- [[Beric Quinn]]: His future savior during [[1172-02-28 Allegiance at the Abandoned Docks]].
+- [[N'tal]]: His future savior during [[The Foundry Chase]].
+- [[Beric Quinn]]: His future savior during [[Allegiance at the Abandoned Docks]].

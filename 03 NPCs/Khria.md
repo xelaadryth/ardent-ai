@@ -29,7 +29,7 @@ Her life changed after spotting a Mistspren in the shallow waters of the Purelak
 - **Reconciliation:** Safely reunite with or protect her sister, [[Mallow]], despite the "betrayal" that led to her capture.
 
 # Events
-- [[1172-02-18 The Missing Supplies]]: Infiltrated Warehouse 14 disguised as [[General Odrin Lesh]].
+- [[The Missing Supplies]]: Infiltrated Warehouse 14 disguised as [[General Odrin Lesh]].
 
 # Hooks
 - **Cartography Trail:** Her commission at [[The Shining Quill]] provides a lead for those tracking the [[Knights of Dusk]].

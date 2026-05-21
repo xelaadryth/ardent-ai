@@ -5,6 +5,7 @@ tags:
   - "#event"
 last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 fc-category: Party
+fc-date:
 session:
 ---
 # Description

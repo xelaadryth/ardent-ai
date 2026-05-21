@@ -5,6 +5,7 @@ tags:
   - "#event"
 last_updated: 2026-05-16T18:45:50
 fc-category: Party
+fc-date: 1172-01-35
 session: "[[011 Promotions and Revolar]]"
 ---
 # Description

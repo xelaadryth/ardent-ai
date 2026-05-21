@@ -15,4 +15,4 @@ leads:
 ---
 
 # Description
-[[Vorn]] is seeking [[Kuma]] to assist with the [[1172-03-42 The Experimental Steamship]] project in [[Tomat]], using the high-output [[Nurian Gems]]. This involves resolving stabilization issues with his Bindrial designs and investigating harmonic Stormlight control. Successful cooperation leads to a passage aboard the vessel to [[Bodenar]].
+[[Vorn]] is seeking [[Kuma]] to assist with the [[The Experimental Steamship]] project in [[Tomat]], using the high-output [[Nurian Gems]]. This involves resolving stabilization issues with his Bindrial designs and investigating harmonic Stormlight control. Successful cooperation leads to a passage aboard the vessel to [[Bodenar]].

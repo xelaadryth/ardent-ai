@@ -7,6 +7,8 @@ tags:
   - "#fabrial"
 last_updated: 2024-05-30T12:00:00
 fc-category: Party
+fc-date: 1172-03-42
+session:
 ---
 
 # Description

@@ -20,7 +20,7 @@ She wears her black hair in a short, practical crop and carries herself with mil
 Law-abiding and disciplined, but possesses a compassionate heart. She is a legalist who searches for "loopholes of mercy," attempting to interpret the strict letter of the law in ways that preserve life when it does not conflict with the higher mission.
 
 # Background
-Assigned to monitor the squad and the insurgency in [[Revolar]]. During [[1172-02-32 The Darkstone Siege]], she witnessed the slaughter of the [[Knights of Dusk]]. In a moment of internal conflict, she interpreted the law's lack of a specific death warrant for the party as a valid reason for inaction, effectively sparing them as they escaped.
+Assigned to monitor the squad and the insurgency in [[Revolar]]. During [[The Darkstone Siege]], she witnessed the slaughter of the [[Knights of Dusk]]. In a moment of internal conflict, she interpreted the law's lack of a specific death warrant for the party as a valid reason for inaction, effectively sparing them as they escaped.
 
 # Goals
 - **Spiritual Growth:** Swear the Third Ideal - Ultimately decides on [[High Enforcer Aylen]] as her guiding law.

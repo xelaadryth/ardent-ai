@@ -1,6 +1,6 @@
 # Players
 
-<!-- QueryToSerialize: TABLE player AS "Player", link(spren) AS "Spren", link(spren).order AS "Order" status AS "Status" FROM "02 Players" SORT file.name ASC -->
+<!-- QueryToSerialize: TABLE player AS "Player", link(spren) AS "Spren", link(spren).order AS "Order", status AS "Status" FROM "02 Players" SORT file.name ASC -->
 <!-- SerializedQuery: TABLE player AS "Player", link(spren) AS "Spren", link(spren).order AS "Order", status AS "Status" FROM "02 Players" SORT file.name ASC -->
 
 | File                                                 | Player  | Spren                                  | Order        | Status |
@@ -31,27 +31,25 @@
 <!-- SerializedQuery END -->
 
 # Sessions
-<!-- QueryToSerialize: TABLE link(arc) AS "Arc", status AS "Status" FROM "04 Sessions" SORT file.name ASC -->
--->
-<!-- SerializedQuery: TABLE link(arc) AS "Arc", status AS "Status" FROM "04 Sessions" SORT file.name ASC -->
+<!-- QueryToSerialize: TABLE link(arc) AS "Arc", status AS "Status" FROM "04 Sessions" SORT file.name DESC -->
+<!-- SerializedQuery: TABLE link(arc) AS "Arc", status AS "Status" FROM "04 Sessions" SORT file.name DESC -->
 
 | File                                                                                        | Arc                                                           | Status    |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------- |
-| [[000 Arrival]]                                                 | [[01 Truthkeepers Arc]]       | completed |
-| [[001 First Blood]]                                         | [[01 Truthkeepers Arc]]       | completed |
-| [[002 Whitespine]]                                           | [[01 Truthkeepers Arc]]       | completed |
-| [[003 Yenev and the Axe]]                             | [[01 Truthkeepers Arc]]       | completed |
-| [[004 The Sathir Estate]]                             | [[01 Truthkeepers Arc]]       | completed |
-| [[005 Hearthstone]]                                         | [[01 Truthkeepers Arc]]       | completed |
-| [[006 Dillind and the Temple]]                   | [[01 Truthkeepers Arc]]       | completed |
-| [[007 Lavrik and the Soulcaster]]             | [[01 Truthkeepers Arc]]       | completed |
-| [[008 The Envisagers of Talinan]]             | [[01 Truthkeepers Arc]]       | completed |
-| [[009 Slavers]]                                                 | [[01 Truthkeepers Arc]]       | completed |
-| [[010 Soulcaster and Shared Employers]] | [[01 Truthkeepers Arc]]       | completed |
-| [[011 Promotions and Revolar]]                   | [[01 Truthkeepers Arc]]       | completed |
+| [[013 Tilting Loyalties]]                             | [[02 Knights of Dusk Arc]] | completed |
 | [[012 Following Chip]]                                   | [[02 Knights of Dusk Arc]] | completed |
-| [[013 Shadow War in the Driftwards]]       | [[02 Knights of Dusk Arc]] | completed |
+| [[011 Promotions and Revolar]]                   | [[01 Truthkeepers Arc]]       | completed |
+| [[010 Soulcaster and Shared Employers]] | [[01 Truthkeepers Arc]]       | completed |
+| [[009 Slavers]]                                                 | [[01 Truthkeepers Arc]]       | completed |
+| [[008 The Envisagers of Talinan]]             | [[01 Truthkeepers Arc]]       | completed |
+| [[007 Lavrik and the Soulcaster]]             | [[01 Truthkeepers Arc]]       | completed |
+| [[006 Dillind and the Temple]]                   | [[01 Truthkeepers Arc]]       | completed |
+| [[005 Hearthstone]]                                         | [[01 Truthkeepers Arc]]       | completed |
+| [[004 The Sathir Estate]]                             | [[01 Truthkeepers Arc]]       | completed |
+| [[003 Yenev and the Axe]]                             | [[01 Truthkeepers Arc]]       | completed |
+| [[002 Whitespine]]                                           | [[01 Truthkeepers Arc]]       | completed |
+| [[001 First Blood]]                                         | [[01 Truthkeepers Arc]]       | completed |
+| [[000 Arrival]]                                                 | [[01 Truthkeepers Arc]]       | completed |
 
 
 <!-- SerializedQuery END -->
-

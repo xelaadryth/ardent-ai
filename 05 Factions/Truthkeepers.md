@@ -13,7 +13,7 @@ The Truthkeepers operate with near-total autonomy, shielded by the political cov
 # Goals
 - **Neutralization:** Identify and "neutralize" individuals showing signs of Surgebinding or mental instability.
 - **Logistical Control:** Secure [[Revolar]] and fortify supply lines for militant Sadeas groups coming from the Vamah Princedom.
-- **Suppression:** Actively hunt down and dismantle the [[Knights of Dusk]] to ensure regional stability, including investigating internal breaches such as [[1172-02-18 The Missing Supplies]].
+- **Suppression:** Actively hunt down and dismantle the [[Knights of Dusk]] to ensure regional stability, including investigating internal breaches such as [[The Missing Supplies]].
 
 # Structure
 *   **[[Silent Oath]]**: The secret power at the apex, directing the organization's most lethal activities.

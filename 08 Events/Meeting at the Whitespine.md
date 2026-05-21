@@ -8,7 +8,8 @@ tags:
   - "#investigation"
 last_updated: 2026-05-20T14:00:00
 fc-category: Party
-session: "[[013 Shadow War in the Driftwards]]"
+fc-date: 1172-02-17
+session: "[[013 Tilting Loyalties]]"
 ---
 
 # Overview

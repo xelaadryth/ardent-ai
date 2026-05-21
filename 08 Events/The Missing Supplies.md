@@ -1,6 +1,6 @@
 ---
 type: event
-status: completed
+status: active
 tags:
   - "#event"
   - "#revolar"
@@ -8,7 +8,8 @@ tags:
   - "#investigation"
 last_updated: 2024-05-29T10:00:00
 fc-category: Party
-session: "[[013 Shadow War in the Driftwards]]"
+fc-date: 1172-02-18
+session: "[[013 Tilting Loyalties]]"
 ---
 # Description
 A well-coordinated robbery of Warehouse 14 in the [[Shield Ring]] itself has left the [[Vamah Princedom]] administration in [[Revolar]] embarrassed and the [[Truthkeepers]] pressured to find the culprits. The theft of mundane necessities suggests the [[Knights of Dusk]] are not just arming a rebellion, but sustaining a growing population in hiding.

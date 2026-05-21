@@ -5,6 +5,7 @@ tags:
   - "#event"
 last_updated: 2026-05-16T18:18:32
 fc-category: Party
+fc-date: 1172-01-11
 session: "[[000 Arrival]]"
 ---
 # Description
