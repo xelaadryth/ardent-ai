@@ -113,6 +113,7 @@ Vault entry types map to numbered folders:
 - item: 09 Items
 - lore: 10 Lore
 - spren: 31 Spren
+- history: 41 History
 
 ### Error Handling
 All entry points use `internal/workflow_integration.handle_workflow_error()` for consistent error output and exit codes.

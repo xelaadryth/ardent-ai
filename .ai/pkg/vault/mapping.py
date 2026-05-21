@@ -27,7 +27,8 @@ def get_folder_prefix_for_type(entry_type: str) -> str:
         "event": "08 Events",
         "item": "09 Items",
         "lore": "10 Lore",
-        "spren": "31 Spren"
+        "spren": "31 Spren",
+        "history": "41 History"
     }
     return type_to_prefix.get(entry_type, "")
 
