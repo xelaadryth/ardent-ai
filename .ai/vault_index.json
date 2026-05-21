@@ -627,6 +627,7 @@
         "[[Silent Oath]]",
         "[[High Enforcer Aylen]]",
         "[[1172-02-18 The Missing Supplies]]",
+        "[[1172-02-32 The Darkstone Siege]]",
         "[[Lavrik]]"
       ],
       "tags": [
@@ -636,7 +637,7 @@
         "#dustbringer",
         "#rebel_leader"
       ],
-      "last_updated": "2024-05-29T10:00:00"
+      "last_updated": "2024-05-29T11:00:00"
     },
     "Grand Justicar Malice": {
       "type": "npc",
@@ -774,6 +775,7 @@
         "[[Silent Oath]]",
         "[[Revolar]]",
         "[[High Enforcer Aylen]]",
+        "[[1172-02-32 The Darkstone Siege]]",
         "[[Knights of Dusk]]",
         "[[Ojog]]"
       ],
@@ -783,7 +785,7 @@
         "#skybreaker",
         "#truthkeeper"
       ],
-      "last_updated": "2024-05-24T10:00:00"
+      "last_updated": "2024-05-29T11:00:00"
     },
     "Jasnah Kholin": {
       "type": "npc",
@@ -898,10 +900,10 @@
       "links": [
         "[[Knights of Dusk]]",
         "[[Revolar]]",
+        "[[Mallow]]",
         "[[Truthkeepers]]",
         "[[The Shining Quill]]",
         "[[Hearthstone]]",
-        "[[Mallow]]",
         "[[1172-02-18 The Missing Supplies]]",
         "[[General Odrin Lesh]]",
         "[[General Spade]]"
@@ -1037,15 +1039,13 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Revolar]]",
-        "[[Truthkeeper Camp]]",
-        "[[N'tal]]",
-        "[[Kuma]]",
-        "[[Beric Quinn]]",
-        "[[Hearthstone]]",
         "[[Adjudicator Peton]]",
+        "[[1172-02-28 Allegiance at the Abandoned Docks]]",
+        "[[1172-02-32 The Darkstone Siege]]",
+        "[[Knights of Dusk]]",
         "[[Istrum]]",
-        "[[Silent Oath]]",
-        "[[Knights of Dusk]]"
+        "[[N'tal]]",
+        "[[Kuma]]"
       ],
       "tags": [
         "#npc",
@@ -1054,24 +1054,30 @@
         "#enforcer",
         "#assassin"
       ],
-      "last_updated": "2024-05-24T12:00:00"
+      "last_updated": "2024-05-29T11:00:00"
     },
     "Renna Palir": {
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
         "[[Revolar]]",
+        "[[Truthkeepers]]",
         "[[Brightlord Juran]]",
+        "[[1172-02-28 Allegiance at the Abandoned Docks]]",
         "[[Iiko]]",
-        "[[Chip]]"
+        "[[1172-02-18 The Boutique Confrontation]]",
+        "[[Jory Spadis]]",
+        "[[1172-02-32 The Darkstone Siege]]",
+        "[[Chip]]",
+        "[[General Spade]]"
       ],
       "tags": [
         "#npc",
         "#lighteyed",
         "#alethi"
       ],
-      "last_updated": "2026-05-18T00:00:00"
+      "last_updated": "2024-05-29T11:00:00"
     },
     "Senny": {
       "type": "npc",
@@ -1740,7 +1746,8 @@
         "[[Kaz]]",
         "[[Khria]]",
         "[[Lavrik]]",
-        "[[Lila]]"
+        "[[Lila]]",
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#faction"
@@ -1814,7 +1821,6 @@
         "[[Adjudicator Peton]]",
         "[[High Enforcer Aylen]]",
         "[[Ojog]]",
-        "[[Renna Palir]]",
         "[[Senny]]",
         "[[Tahs]]"
       ],
@@ -1839,7 +1845,8 @@
         "[[Ashusa]]",
         "[[Possessed]]",
         "[[Bloodmarks]]",
-        "[[House Sathir]]"
+        "[[House Sathir]]",
+        "[[Brightlord Juran]]"
       ],
       "tags": [
         "#faction",
@@ -1856,7 +1863,6 @@
         "[[Highlord Paladar]]",
         "[[Devotary of Sincerity]]",
         "[[Truthkeepers]]",
-        "[[Ardent Vedelis]]",
         "[[Jasnah Kholin]]"
       ],
       "tags": [
@@ -2000,11 +2006,9 @@
         "[[Scholar's Rest]]",
         "[[Sun's Zenith]]",
         "[[The Shining Quill]]",
-        "[[The Prismatic Palette]]",
         "[[Bitter Leaf Apothecary]]",
         "[[Boundless Bazaar]]",
-        "[[The Vamah Archivum]]",
-        "[[1172-02-18 The Missing Supplies]]"
+        "[[The Vamah Archivum]]"
       ],
       "tags": [
         "#location"
@@ -2067,8 +2071,8 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[Scarstone Quarter]]",
         "[[Revolar]]",
+        "[[Scarstone Quarter]]",
         "[[Bloodmarks]]",
         "[[Knights of Dusk]]",
         "[[Lila]]",
@@ -2316,10 +2320,12 @@
       "links": [
         "[[Beric Quinn]]",
         "[[Renna Palir]]",
+        "[[Gemheart Inn]]",
         "[[Stackhouses]]",
         "[[The Vamah Archivum]]",
         "[[Knights of Dusk]]",
-        "[[The Missing Supplies]]"
+        "[[Shield Ring]]",
+        "[[1172-02-18 The Missing Supplies]]"
       ],
       "tags": [
         "#hook"
@@ -2330,8 +2336,9 @@
       "type": "hook",
       "status": "active",
       "links": [
+        "[[Vamah Archivum]]",
+        "[[Devotary Ward]]",
         "[[Ardent Kaelis]]",
-        "[[The Vamah Archivum]]",
         "[[Iiko]]",
         "[[Devotary of Sincerity]]"
       ],
@@ -2654,6 +2661,21 @@
       ],
       "last_updated": "2026-05-18T12:00:00"
     },
+    "1172-02-21 Sister Reunion": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[Khria]]",
+        "[[Mallow]]",
+        "[[Knights of Dusk]]",
+        "[[Silent Oath]]",
+        "[[General Spade]]"
+      ],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-20T11:01:20"
+    },
     "1172-02-28 Allegiance at the Abandoned Docks": {
       "type": "event",
       "status": "active",
@@ -2670,7 +2692,7 @@
         "[[Darkstone Forest]]"
       ],
       "tags": [
-        "#session",
+        "#event",
         "#revolar",
         "#betrayal"
       ],
@@ -2681,23 +2703,30 @@
       "status": "active",
       "links": [
         "[[02 Knights of Dusk Arc]]",
-        "[[Darkstone Forest]]",
-        "[[Knights of Dusk]]",
+        "[[General Odrin Lesh]]",
         "[[Truthkeepers]]",
-        "[[Silent Oath]]",
+        "[[Adjudicator Peton]]",
+        "[[Darkstone Forest]]",
+        "[[Bloodmarks]]",
         "[[General Spade]]",
         "[[Khria]]",
-        "[[Adjudicator Peton]]",
+        "[[High Enforcer Aylen]]",
+        "[[Knights of Dusk]]",
+        "[[Stormbristle Groves]]",
+        "[[Renna Palir]]",
+        "[[Ojog]]",
+        "[[Silent Oath]]",
         "[[Istrum]]",
-        "[[Revolar]]"
+        "[[Vamah Princedom]]"
       ],
       "tags": [
         "#event",
         "#revolar",
         "#combat",
-        "#darkstone_forest"
+        "#darkstone_forest",
+        "#final_confrontation"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2024-05-29T11:00:00"
     },
     "1172-03-42 The Experimental Steamship": {
       "type": "event",

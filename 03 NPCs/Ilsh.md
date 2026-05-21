@@ -6,32 +6,24 @@ tags:
   - "#thaylen"
   - "#researcher"
   - "#ardent_imposter"
-last_updated: 2026-05-16T17:00:00
-faction:
-location: "[[Bodenar]]"
+last_updated: 2024-05-30T12:00:00
+faction: ""
+location: "[[Tomat]]"
 ---
 
 # Description
-An older Thaylen man in his 60s who is a passionate, if manic, spren researcher. He currently masquerades as an Ardent to gain access to libraries and facilitate his studies.
-
-# Appearance
-He has iconic, very long white eyebrows and dark blue eyes. He has thinning brown hair and wears the humble robes of an ardent.
+A manic Thaylen spren researcher masquerading as an Ardent. He is currently assisting with the steamship demonstration in [[Tomat]].
 
 # Personality
-Exuberant and easily excitable, especially when it comes to "unknown spren." He is a scholar at heart, driven by a manic curiosity about spren and their applications. He speaks with a fragmented Thaylen accent, using many consonants and frequently exclaiming, "By the Passions!"
+Exuberant and easily excitable regarding "unknown spren." Driven by a manic curiosity about spren applications in advanced fabrials.
 
 # Background
-A spren researcher from Thaylenah, Ilsh is traveling across Roshar seeking rare spren types. After failing to find horizonspren, he has set his sights on the fabrial expo in [[Bodenar]] and is involved with the experimental steamship project.
+Traveling across Roshar studying rare spren. He was recruited by [[Vorn]] for the project in [[Tomat]]. He plans to travel to [[Bodenar]] aboard the ship to continue his studies at the fabrial expo.
 
 # Goals
-- **Spren Research:** Obsessed with finding and studying rare spren for use in advanced fabrials.
-- **The Bodenar Demonstration:** Serving as a researcher for the experimental steamship project.
-- **Covert Scholasticism:** Using his "Ardent" status to bypass restrictions on literacy and lore access.
-
-# Hooks
-- **Experimental Steamship:** He is slated to be present at the experimental steamship demonstration.
-- His status as an Ardent is a complete fabrication used to explain his literacy and scholarly pursuits.
+- Observe the interactions between [[Nurian Gems]] and spren in [[Tomat]].
+- Maintain his Ardent disguise to access the libraries in [[Bodenar]].
 
 # Connections
-- [[Kuma]]: An acquaintance who has discussed spren and fabrials with him.
-- [[Vorn]]: Artifabrian recruiting skilled spren researchers.
+- [[Kuma]]: Fellow tinkerer.
+- [[Vorn]]: Professional collaborator.

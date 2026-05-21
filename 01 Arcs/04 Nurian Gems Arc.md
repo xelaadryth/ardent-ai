@@ -5,39 +5,25 @@ tags:
   - "#arc"
   - "#jah_keved"
   - "#nurian_gems"
-last_updated: 2026-05-17T12:00:00
+last_updated: 2024-05-30T12:00:00
 number: 4
 ---
 
 # Description
-The party travels to Jah Keved to uncover the origin of the unstable [[Nurian Gems]]. This journey is fueled by the Nurian party members' curiosity about their own world, [[N'tal]]'s thirst for revenge against the [[Bloodmarks]], and [[Kuma]]'s obsession with crafting and artifabrials. However, they arrive in a nation gripped by paranoia as [[Szeth-son-son-Vallano]] the Assassin in White begins his slaughter of Veden highprinces.
+The party witnesses the experimental steamship test in [[Tomat]] before traveling downstream to [[Bodenar]] to uncover the origin of unstable [[Nurian Gems]]. This journey involves [[N'tal]]'s revenge against [[Grand Justicar Malice]] and [[Kuma]]'s research into artifabrials, all while Jah Keved is destabilized by [[Szeth-son-son-Vallano]].
 
 # Key Players
-- [[Ghostbloods]]
-	- [[N'tal]]: Seeking the Grand Justicar of the Bloodmarks responsible for his family's murder.
-	- [[Undertaker]]: Directing the [[Ghostbloods]] to investigate the highprince assassinations.
-- [[Bloodmarks]]
-	- [[Grand Justicar Malice]]: A high-ranking Bloodmark official in [[Bodenar]] who controls the Nurian gem trade.
-- Scholars
-	- [[Vorn]]: Leader of the Thaylen steamship project.
-	- [[Ilsh]]: A spren researcher recruited to help with the project.
-	- [[Kuma]]: Focused on the artifabrial demonstration and the Thaylen steamship project.
-- Other
-	- [[Szeth-son-son-Vallano]]: The phantom threat whose actions cast suspicion on all Shin "outsiders".
-
-# Stakes
-- **N'tal's Vengeance**: Failure to navigate the politics of [[Bodenar]] could result in [[N'tal]] being branded a criminal by the very people he seeks to kill.
-- **Technological Stability**: If the steamship's Nurian core is sabotaged or fails, it could trigger a disaster that destroys the [[Bodenar]] docks.
-- **Political Collapse**: The death of the highprinces threatens to plunge Jah Keved into a civil war that would disrupt [[Ghostbloods]] trade and research.
+- [[N'tal]]: Seeking the Bloodmark Grand Justicar.
+- [[Kuma]]: Focused on the steamship core and artifabrial physics.
+- [[Grand Justicar Malice]]: Antagonist in [[Bodenar]].
+- [[Vorn]]: Technical lead in [[Tomat]].
 
 # Progression
-- **The Journey West**: Navigating the Alethi border into Jah Keved, where the party's "outsider" status makes them prime suspects for harboring the Assassin in White.
-- **The Bodenar Arrival**: Meeting with the engineers and witnessing the preparations for the [[1172-03-42 The Experimental Steamship]] and [[The Steamship's Secret]].
-- **The Bloodmark Infiltration**: [[N'tal]] tracks the Nurian gem shipments back to the Grand Justicar's estate.
-- **The Trial and the Trap**: As the steamship begins its run, [[Grand Justicar Malice]] moves to eliminate the "meddling worldhoppers," while rumors of a nearby highprince's death send the city into lockdown.
-- **The Perpendicularity:** Investigate the syndicate's operations in the Horneater Peaks.
+- **Act 1: The Tomat Demonstration:** Witnessing the [[1172-03-42 The Experimental Steamship]] test in the Tomat harbor.
+- **Act 2: The Voyage West:** Riding the steamship from [[Tomat]] to [[Bodenar]] through hostile borderlands.
+- **Act 3: The Bodenar Hub:** Infiltrating the Bloodmark gemstone exchange in [[Bodenar]].
+- **Act 4: The Perpendicularity:** Tracking shipments back to the Horneater Peaks.
 
-# Events
-<!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
-# Sessions
-<!-- QueryToSerialize: LIST FROM "04 Sessions" WHERE arc = this.file.link SORT file.name ASC -->
+# Stakes
+- **Technological Disaster:** Failure of the steamship core in Tomat or during transit.
+- **Civil War:** The political collapse of Jah Keved due to the assassinations.

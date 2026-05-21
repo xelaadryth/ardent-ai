@@ -5,10 +5,13 @@ tags:
   - "#hook"
   - "#ghostbloods"
   - "#tomat"
-last_updated: 2024-05-22T10:00:00
+last_updated: 2024-05-30T12:00:00
+summary: "Tracking the Ghostblood assassin Helaran as he prepares to eliminate Amaram in Tomat."
+priority: 0
 leads:
-  - "The Undertaker's Directive: [[Undertaker]] provides the party with a sealed cylinder to be delivered to an operative in [[Tomat]], noting that 'the hunter' ([[Helaran]]) requires local support to breach the inner sanctum of the fortress."
-  - "Identifying the Assassin: [[Chip]] recognizes the description of a mysterious figure stalking [[Tomat]] as a high-level [[Ghostbloods]] wetwork agent and suggests the party should ensure his mission succeeds to earn favor."
+  - "A sealed cylinder delivered by the Undertaker."
+  - "Chip's identification of a mysterious figure in Tomat."
 ---
+
 # Description
-[[Helaran]] is in [[Tomat]] to assassinate [[Amaram]]. This hook draws the party toward the fortress to either assist the Ghostblood agent or witness the political fallout of his attempt.
+[[Helaran]] is in [[Tomat]] to assassinate [[Amaram]]. This hook draws the party toward the fortress to either assist the Ghostblood agent or witness the political fallout of his attempt. It serves as a test of loyalty to the [[Ghostbloods]] and puts them in direct conflict with the Highlord of the [[Sons of Honor]].

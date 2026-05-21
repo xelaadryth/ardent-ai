@@ -5,24 +5,24 @@ tags:
   - "#location"
   - "#jah_keved"
   - "#trading_hub"
-last_updated: 2026-05-17T12:00:00
+last_updated: 2024-05-30T12:00:00
 location: "[[Jah Keved]]"
 ---
 
 # Description
-A moderately-sized river city in Jah Keved, located on the northeastern side of the Horneater Peaks. It serves as a terminal port for merchant vessels traveling the river toward Herdaz and the Tarat Sea. 
+A major river city in Jah Keved and the terminal destination for the experimental steamship voyage from [[Tomat]]. It is the primary hub for the distribution of [[Nurian Gems]] throughout the western kingdoms.
 
 # Atmosphere
-Bustling and mercantile. The city is a forest of masts and tow-lines, filled with the sound of shouting sailors and the lowing of chulls. It has a high concentration of jewelers and treasuries, maintaining standard weights for gemstones, as well as artifabrians investigating the use of the waterfalls for power.
+Bustling and mercantile. The city is defined by high-stakes gemstone trade and the influence of the [[Bloodmarks]]. Paranoia is high due to the recent assassinations by the Assassin in White.
 
 # Notable Features
-- **The Towpaths:** Long banks where teams of chulls pull merchant vessels into the city against the river's current using massive tow-lines.
-- **The Jewelers' Quarter:** Famous for its skilled artisans who can Soulcast glass around gems to preserve their value.
-- **The Treasury:** A fortified building where the city's standard weights and measures are kept.
+- **The Bloodmark Exchange:** A heavily guarded district where Nurian gems from the Horneater Peaks are processed.
+- **The Jewelers' Quarter:** Famous for artisans who Soulcast glass around gems.
+- **The Towpaths:** Banks where chulls pull vessels against the river current.
 
 # Inhabitants
-- **The Veilmaster (Istratsi):** A powerful figure who oversees the city's shipping and sphere trade. He acts as the Demanding Benefactor for the experimental steamship project.
-- **Merchant Princes:** Wealthy individuals who control the various shipping lines and artifabrian workshops.
+- **The Veilmaster:** Benefactor for shipping and sphere trade.
+- [[Grand Justicar Malice]]: High-ranking Bloodmark overseeing gem operations.
 
 # Secrets
-Bodenar is a primary hub for the trade of counterfeit spheres traveling west into Alethkar. The Veilmaster is rumored to have connections to both the [[Ghostbloods]] and the [[Bloodmarks]].
+Bodenar is the clearinghouse for gems arriving via a Perpendicularity in the Horneater Peaks. The city's wealth is built on this monopoly, managed by the [[Bloodmarks]].

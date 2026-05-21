@@ -3,17 +3,16 @@ type: event
 status: planned
 tags:
   - "#event"
-  - "#bodenar"
+  - "#tomatt"
   - "#fabrial"
-last_updated: 2026-05-17T12:00:00
+last_updated: 2024-05-30T12:00:00
 fc-category: Party
-session:
 ---
 
 # Description
-A high-intensity demonstration in the harbor of [[Bodenar]] featuring a Thaylen-designed vessel powered by a [[Nurian Gems]] core. The squad is tasked with providing security against potential [[Bloodmarks]] sabotage while observing the artifact's performance.
+A high-intensity demonstration in the harbor of [[Tomat]] featuring a Thaylen-designed vessel powered by a [[Nurian Gems]] core. The squad provides security against [[Bloodmarks]] sabotage before embarking on the vessel's maiden voyage to [[Bodenar]].
 
 # Notable Figures
 - [[Vorn]]: Technical lead.
 - [[Ilsh]]: Spren researcher.
-- [[Kuma]]: Observer and secondary technician.
+- [[Kuma]]: Technical observer.
