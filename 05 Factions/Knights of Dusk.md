@@ -25,12 +25,7 @@ The Knights of Dusk operate through military-inspired cells designed to evade de
 - [[Bloodmarks]]: Criminals that oppress the poor and are seen as enemies of the peace.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 - [[Ardent Vedelis]]
 - [[Beric Quinn]]
@@ -39,6 +34,7 @@ SORT file.name ASC
 - [[Khria]]
 - [[Lavrik]]
 - [[Lila]]
+- [[Renna Palir]]
 
 
 <!-- SerializedQuery END -->

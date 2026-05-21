@@ -1,14 +1,6 @@
 # Players
 
-<!-- QueryToSerialize:
-TABLE
-player AS "Player",
-link(spren) AS "Spren",
-link(spren).order AS "Order",
-status AS "Status"
-FROM "02 Players"
-SORT file.name ASC
--->
+<!-- QueryToSerialize: TABLE player AS "Player", link(spren) AS "Spren", link(spren).order AS "Order" status AS "Status" FROM "02 Players" SORT file.name ASC -->
 <!-- SerializedQuery: TABLE player AS "Player", link(spren) AS "Spren", link(spren).order AS "Order", status AS "Status" FROM "02 Players" SORT file.name ASC -->
 
 | File                                                 | Player  | Spren                                  | Order        | Status |
@@ -24,12 +16,7 @@ SORT file.name ASC
 <!-- SerializedQuery END -->
 
 # Arcs
-<!-- QueryToSerialize:
-TABLE
-status AS "Status"
-FROM "01 Arcs"
-SORT file.name ASC
--->
+<!-- QueryToSerialize: TABLE status AS "Status" FROM "01 Arcs" SORT file.name ASC -->
 <!-- SerializedQuery: TABLE status AS "Status" FROM "01 Arcs" SORT file.name ASC -->
 
 | File                                                                          | Status    |
@@ -44,12 +31,7 @@ SORT file.name ASC
 <!-- SerializedQuery END -->
 
 # Sessions
-<!-- QueryToSerialize:
-TABLE
-link(arc) AS "Arc",
-status AS "Status"
-FROM "04 Sessions"
-SORT file.name ASC
+<!-- QueryToSerialize: TABLE link(arc) AS "Arc", status AS "Status" FROM "04 Sessions" SORT file.name ASC -->
 -->
 <!-- SerializedQuery: TABLE link(arc) AS "Arc", status AS "Status" FROM "04 Sessions" SORT file.name ASC -->
 

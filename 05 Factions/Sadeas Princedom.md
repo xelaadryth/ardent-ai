@@ -26,12 +26,7 @@ One of the ten Highprincedoms of [[Alethkar]], traditionally known for its milit
 - [[Knights of Dusk]]: Viewed as an insurgent threat to the stability of the princedom.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 - [[Amaram]]
 - [[Dalen]]

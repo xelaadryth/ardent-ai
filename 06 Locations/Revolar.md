@@ -30,7 +30,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 - **Middlecrest**: Commercial heart. Location of **The Shining Quill** (map shop) and [[Sun's Zenith]].
 	- **[[The Shining Quill]]**: Mapmaking shop run by Lady Piri Hadlis.
 - **Skyglass District**: Western lighteyed manors.
-- **Stoneweave**: Southern artisan district. Home to [[The Prismatic Palette]].
+- **Stoneweave**: Southern artisan district.
 - **Scholar's Rest**: Located within the **Guilds District** (North); contains the largest public library.
 
 ## Heart
@@ -38,6 +38,8 @@ A major urban center and the intended destination for the squad's transfer. It s
 - **The Shieldring**: Guard barracks.
 
 # Sublocations
+<!-- QueryToSerialize: LIST FROM "06 Locations" WHERE link(location) = this.file.link SORT file.name ASC -->
+<!-- SerializedQuery: LIST FROM "06 Locations" WHERE link(location) = this.file.link SORT file.name ASC -->
 - [[Bitter Leaf Apothecary]]
 - [[Boundless Bazaar]]
 - [[Cream of the Crem]]
@@ -46,8 +48,9 @@ A major urban center and the intended destination for the squad's transfer. It s
 - [[Scholar's Rest]]
 - [[Stackhouses]]
 - [[Sun's Zenith]]
-- [[The Prismatic Palette]]
 - [[The Shining Quill]]
 - [[The Vamah Archivum]]
 - [[Whitespine's Fang]]
-- [[1172-02-18 The Missing Supplies]] (Warehouse 14)
+
+
+<!-- SerializedQuery END -->

@@ -22,13 +22,9 @@ They believe that history must be recorded accurately to prevent the cyclical er
 - [[Truthkeepers]]: Enemies who manipulate history to serve their own agenda.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
-- [[Ardent Vedelis]]
 - [[Jasnah Kholin]]
+
+
 <!-- SerializedQuery END -->

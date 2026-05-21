@@ -27,18 +27,12 @@ The Truthkeepers operate with near-total autonomy, shielded by the political cov
 - [[Knights of Dusk]]: Org they were hired to eliminate.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 - [[Adjudicator Peton]]
 - [[High Enforcer Aylen]]
 - [[High Witness Yeshan]]
 - [[Ojog]]
-- [[Renna Palir]]
 - [[Senny]]
 - [[Tahs]]
 

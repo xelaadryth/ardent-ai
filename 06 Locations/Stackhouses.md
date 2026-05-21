@@ -5,7 +5,7 @@ tags:
   - "#location"
   - "#revolar"
 last_updated: 2024-05-26T10:00:00
-location: "[[Scarstone Quarter]]"
+location: "[[Revolar]]"
 ---
 
 # Overview

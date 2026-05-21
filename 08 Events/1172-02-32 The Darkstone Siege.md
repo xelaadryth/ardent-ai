@@ -30,9 +30,9 @@ Ideas:
 	- Destroy/cut the nets
 	- Cure the poison slowing/immobilizing/stunning him
 	- Bring him more spheres
-- [[Adjudicator Peton]] draws a Shardblade, revealing the real reason he was promoted. Apologizes, but once he becomes higher rank he'll try to fix the system from within. For now, the ends justify the means.
+- [[Adjudicator Peton]] draws a Shardblade, revealing the real reason he was promoted. "My apologies, but I must rise higher if I'm to improve the dark methods of the Truthkeepers from within." For now, the ends justify the means.
 	- Delay or defeat him as he lays waste to everyone
-	- If he falls, Ojog picks up his blade, dual wielding with his longsword
+	- If he falls, [[Ojog]] picks up his blade, dual wielding with his shortspear
 - Fires everywhere, threatening everyone including the evacuating civilians
 	- Put out or use the fires offensive/defensively
 - Bloodmark thugs that are here to loot and slaughter for fun pop out in ambush (N'tal and Fina are fast enough, Mallow/Kuma maybe)

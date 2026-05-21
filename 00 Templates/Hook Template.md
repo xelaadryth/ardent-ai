@@ -5,5 +5,7 @@ tags:
   - "#hook"
 last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 leads:
+priority:
+summary:
 ---
 # Description

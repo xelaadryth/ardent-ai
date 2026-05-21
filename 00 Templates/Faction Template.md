@@ -14,9 +14,4 @@ last_updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ss") %>
 # Allies & Rivals
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->

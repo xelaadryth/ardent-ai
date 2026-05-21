@@ -33,9 +33,4 @@ The party is ordered by the [[Ghostbloods]] to infiltrate the city of [[Kharbran
 <!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
 
 # Sessions
-<!-- QueryToSerialize:
-LIST
-FROM "04 Sessions"
-WHERE arc = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "04 Sessions" WHERE arc = this.file.link SORT file.name ASC -->

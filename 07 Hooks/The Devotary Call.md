@@ -8,7 +8,10 @@ tags:
   - "#scholar"
 last_updated: 2026-05-20T12:00:00
 leads:
-  - "Library Encounters: Finding [[Ardent Kaelis]] in [[The Vamah Archivum]]"
+  - Finding an open book on a table in the [[Vamah Archivum]].
+  - Conversation about lost cities or banned material that could get them in trouble overheard in the [[Devotary Ward]] or an inn.
+priority: 10
+summary: The party finds a book Ardent Kaelis leaves undertext in, and he accuses them of modifying the books.
 ---
 
 # Description

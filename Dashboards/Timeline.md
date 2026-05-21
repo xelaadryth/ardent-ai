@@ -1,10 +1,4 @@
-<!-- QueryToSerialize:
-TABLE
-fc-category AS "Type",
-status AS "Status"
-FROM "08 Events"
-SORT file.name DESC
--->
+<!-- QueryToSerialize: TABLE fc-category AS "Type", status AS "Status" FROM "08 Events" SORT file.name DESC -->
 <!-- SerializedQuery: TABLE fc-category AS "Type", status AS "Status" FROM "08 Events" SORT file.name DESC -->
 
 | File                                                                                                        | Type       | Status    |
@@ -12,8 +6,11 @@ SORT file.name DESC
 | [[1172-03-42 The Experimental Steamship]]               | Party      | planned   |
 | [[1172-02-32 The Darkstone Siege]]                             | Party      | active    |
 | [[1172-02-28 Allegiance at the Abandoned Docks]] | Party      | active    |
+| [[1172-02-21 Sister Reunion]]                                       | Party      | active    |
 | [[1172-02-20 The Cinder Evacuation]]                         | Party      | active    |
 | [[1172-02-19 The Foundry Chase]]                                 | Party      | active    |
+| [[1172-02-18 The Missing Supplies]]                           | Party      | completed |
+| [[1172-02-18 The Boutique Confrontation]]               | Party      | active    |
 | [[1172-02-17 Meeting with the Undertaker]]             | Party      | active    |
 | [[1172-02-17 Meeting at the Whitespine]]                 | Party      | completed |
 | [[1172-02-16 The Stackhouse Slavers]]                       | Party      | completed |

@@ -8,7 +8,10 @@ tags:
   - "#fabrial"
 last_updated: 2026-05-20T12:00:00
 leads:
-  - "The Invitation: [[Vorn]] sees [[Kuma]] working with fabrials or buying crafting supplies for fabrial work."
+  - Kuma is shopping for materials in the Slipmarket.
+  - Kuma is researching or buying fabrials, or researching spren.
+priority: 15
+summary: Vorn finds the party and informs them of the groundbreaking gem research in Tomat.
 ---
 
 # Description

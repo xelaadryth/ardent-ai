@@ -25,9 +25,4 @@ They operate in small, isolated cells hidden in plain sight within rural farming
 - [[Truthkeepers]]: Primary rivals; the faction was hunted to near-extinction by them.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->

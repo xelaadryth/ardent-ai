@@ -29,14 +29,10 @@ The ruling authority of the Vamah Princedom, currently centered in the city of [
 - [[Knights of Dusk]]: The primary internal threat to their rule.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 - [[Ashusa]]
+- [[Brightlord Juran]]
 - [[Citylord Nilar Yenev]]
 - [[General Odrin Lesh]]
 - [[Highlord Paladar]]

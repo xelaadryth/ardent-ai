@@ -8,6 +8,7 @@
     "links": "multitext",
     "last_updated": "datetime",
     "fc-date": "text",
-    "leads": "multitext"
+    "leads": "multitext",
+    "priority": "number"
   }
 }

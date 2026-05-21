@@ -19,12 +19,7 @@ In reality, the Silent Oath is composed of members of the Skybreaker order. They
 - [[Knights of Dusk]]: Ideologically opposed, viewing them as worthy sacrifices to prevent the return of the Desolations.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 - [[Istrum]]
 

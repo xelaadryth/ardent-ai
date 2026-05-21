@@ -19,9 +19,4 @@ A secret society within the Alethi nobility and the Vorin Church. They believe t
 - [[Ghostbloods]]: Rivals who often find their interests at odds.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->

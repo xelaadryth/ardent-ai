@@ -2,7 +2,7 @@
 type: event
 status: active
 tags:
-  - "#session"
+  - "#event"
   - "#revolar"
   - "#betrayal"
 last_updated: 2026-05-25T12:00:00

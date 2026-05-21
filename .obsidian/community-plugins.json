@@ -5,5 +5,8 @@
   "quickadd",
   "calendarium",
   "obsidian-leaflet-plugin",
-  "dataview-serializer"
+  "dataview-serializer",
+  "obsidian-5e-statblocks",
+  "obsidian-dice-roller",
+  "copilot"
 ]

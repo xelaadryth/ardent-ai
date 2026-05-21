@@ -23,12 +23,7 @@ The Ghostbloods are known for their shadow operations and control over black mar
 - [[Truthkeepers]]: Potential allies; the faction may see them as a useful tool for their goals.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 - [[Chip]]
 - [[Helaran]]

@@ -33,12 +33,7 @@ The Bloodmarks prioritize profit and power through illicit logistics and intimid
 - [[Ghostbloods]]: Primary rivals in the underworld; currently engaged in a shadow war over regional influence and logistics.
 
 # Members
-<!-- QueryToSerialize:
-LIST
-FROM "03 NPCs"
-WHERE faction = this.file.link
-SORT file.name ASC
--->
+<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 - [[Arbiter Jalis]]
 - [[Grand Justicar Malice]]

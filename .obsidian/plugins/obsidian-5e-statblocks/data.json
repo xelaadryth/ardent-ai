@@ -1,0 +1,2192 @@
+{
+  "monsters": [],
+  "defaultLayouts": {
+    "daggerheart-environment": {
+      "blocks": [
+        {
+          "type": "group",
+          "id": "9beb08f99a5a",
+          "properties": [],
+          "nested": [
+            {
+              "type": "heading",
+              "id": "89998949fb0b",
+              "properties": [
+                "name"
+              ],
+              "size": 1,
+              "fallback": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "982ba9097959",
+              "properties": [
+                "tier"
+              ],
+              "fallback": "",
+              "callback": "return monster.tier + \" \" + monster.type;",
+              "conditioned": true,
+              "display": "Tier"
+            },
+            {
+              "type": "text",
+              "id": "a8196bebf98a",
+              "properties": [
+                "description"
+              ],
+              "text": "",
+              "fallback": "-",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "a8988bca599a",
+              "properties": [
+                "impulses"
+              ],
+              "fallback": "-",
+              "display": "Impulses:",
+              "conditioned": true
+            },
+            {
+              "type": "group",
+              "id": "c90a4a79fb0b",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "ab385a3b1869",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "781b3bdbd86b",
+                      "properties": [
+                        "difficulty"
+                      ],
+                      "fallback": "-",
+                      "display": "Difficulty:",
+                      "conditioned": true
+                    }
+                  ]
+                },
+                {
+                  "type": "inline",
+                  "id": "694abb2acaf9",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "58a80a396ba9",
+                      "properties": [
+                        "potential_adversaries"
+                      ],
+                      "fallback": "-",
+                      "display": "Potential Adversaries:",
+                      "conditioned": true
+                    }
+                  ],
+                  "hasRule": true
+                }
+              ],
+              "hasRule": false
+            },
+            {
+              "type": "traits",
+              "id": "eb590bb8cb9b",
+              "properties": [
+                "feats"
+              ],
+              "fallback": "-",
+              "heading": "Features",
+              "conditioned": true,
+              "headingProp": false,
+              "callback": "return property.text;"
+            }
+          ],
+          "heading": "",
+          "cls": "daggerheart-environment"
+        }
+      ],
+      "id": "daggerheart-environment",
+      "name": "Daggerheart Environment",
+      "edited": false,
+      "removed": true
+    },
+    "daggerheart-card": {
+      "blocks": [
+        {
+          "type": "group",
+          "id": "fae98b382b8b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "488aea38d9a9",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "javascript",
+                  "id": "685908eb3b9a",
+                  "conditioned": false,
+                  "code": "const ribbonBlock = document.createElement(\"div\");\nribbonBlock.classList.add(\"daggerheart-card-ribbon\");\n\nconst levelBlock = document.createElement(\"div\");\nlevelBlock.classList.add(\"card-level\");\n\nconst levelText = document.createElement(\"span\");\nlevelText.innerHTML = monster.level;\n\nlevelBlock.append(levelText);\n\nconst domainBlock = document.createElement(\"div\");\ndomainBlock.classList.add(\"card-domain\");\ndomainBlock.classList.add(monster.domain);\n\nconst domainText = document.createElement(\"span\");\ndomainText.innerText = monster.domain;\ndomainBlock.append(domainText)\n\nribbonBlock.append(levelBlock);\nribbonBlock.append(domainBlock);\n\nconsole.log(monster);\n\nreturn ribbonBlock;"
+                },
+                {
+                  "type": "group",
+                  "id": "7b59baf8aa08",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "094b19aabb38",
+                      "properties": [
+                        "recall"
+                      ],
+                      "fallback": "-",
+                      "conditioned": true
+                    }
+                  ]
+                }
+              ],
+              "conditioned": false
+            },
+            {
+              "type": "image",
+              "id": "9a0baa691af9",
+              "properties": [
+                "image"
+              ],
+              "fallback": "-"
+            },
+            {
+              "type": "group",
+              "id": "995ac80a7b5a",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "javascript",
+                  "id": "cb3a08baabfb",
+                  "conditioned": false,
+                  "code": "const headingBlock = document.createElement(\"div\");\nheadingBlock.classList.add(\"daggerheart-heading\");\n\nconst typeBlock = document.createElement(\"div\");\ntypeBlock.classList.add(\"card-type\");\ntypeBlock.classList.add(monster.domain);\n\nconst typeText = document.createElement(\"span\");\ntypeText.innerText = monster.type;\ntypeBlock.append(typeText)\n\nheadingBlock.append(typeBlock);\n\nreturn headingBlock;"
+                }
+              ],
+              "hasRule": false
+            },
+            {
+              "type": "group",
+              "id": "098a5a785abb",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "heading",
+                  "id": "3b8bb868c818",
+                  "properties": [
+                    "name"
+                  ],
+                  "size": 1,
+                  "fallback": "Card Name"
+                }
+              ],
+              "hasRule": false
+            },
+            {
+              "type": "group",
+              "id": "cbbaeab91a3b",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "281afa3a39d9",
+                  "properties": [
+                    "text"
+                  ],
+                  "fallback": "-"
+                }
+              ]
+            }
+          ],
+          "cls": "daggerheart-card"
+        }
+      ],
+      "id": "daggerheart-card",
+      "name": "Daggerheart Card",
+      "edited": false,
+      "removed": true
+    },
+    "daggerheart-adversary": {
+      "blocks": [
+        {
+          "type": "group",
+          "id": "ebba4bf9d878",
+          "properties": [],
+          "nested": [
+            {
+              "type": "heading",
+              "id": "89998949fb0b",
+              "properties": [
+                "name"
+              ],
+              "size": 1,
+              "fallback": "-",
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "7ba8a9d9d968",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "982ba9097959",
+              "properties": [
+                "tier"
+              ],
+              "fallback": "",
+              "callback": "return monster.tier + \" \" + monster.type;",
+              "conditioned": true,
+              "display": "Tier"
+            }
+          ],
+          "cls": "daggerheart-adversary-tier"
+        },
+        {
+          "type": "group",
+          "id": "48780938f9a8",
+          "properties": [],
+          "nested": [
+            {
+              "type": "text",
+              "id": "a8196bebf98a",
+              "properties": [
+                "description"
+              ],
+              "text": "",
+              "fallback": "-",
+              "conditioned": true
+            }
+          ],
+          "heading": "",
+          "cls": "daggerheart-adversary-description"
+        },
+        {
+          "type": "group",
+          "id": "eb5b3a8a9ac9",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "a8988bca599a",
+              "properties": [
+                "motives_and_tactics"
+              ],
+              "fallback": "-",
+              "display": "Motives & Tactics:"
+            }
+          ],
+          "hasRule": true,
+          "cls": "daggerheart-adversary-motives"
+        },
+        {
+          "type": "group",
+          "id": "c90a4a79fb0b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "ab385a3b1869",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "781b3bdbd86b",
+                  "properties": [
+                    "difficulty"
+                  ],
+                  "fallback": "-",
+                  "display": "Difficulty:",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "5ae888f87b98",
+                  "properties": [
+                    "thresholds"
+                  ],
+                  "fallback": "-",
+                  "display": "Thresholds"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "694abb2acaf9",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "58a80a396ba9",
+                  "properties": [
+                    "atk"
+                  ],
+                  "fallback": "-",
+                  "display": "ATK:"
+                },
+                {
+                  "type": "property",
+                  "id": "cb48eb0918aa",
+                  "properties": [
+                    "attack"
+                  ],
+                  "fallback": "-",
+                  "display": "Attack:",
+                  "callback": "return monster.attack + \" - \" + monster.range + \" - \" + monster.damage;"
+                }
+              ],
+              "hasRule": true
+            },
+            {
+              "type": "property",
+              "id": "0a99fa7a9b3b",
+              "properties": [
+                "experience"
+              ],
+              "fallback": "-",
+              "display": "Experience:",
+              "conditioned": true
+            }
+          ],
+          "hasRule": false
+        },
+        {
+          "type": "traits",
+          "id": "eb590bb8cb9b",
+          "properties": [
+            "feats"
+          ],
+          "fallback": "-",
+          "heading": "Features",
+          "conditioned": true,
+          "headingProp": false,
+          "callback": "return property.text;"
+        },
+        {
+          "type": "javascript",
+          "id": "38898abb38db",
+          "conditioned": false,
+          "code": "const getStatLine = () => {\n    const statLine = document.createElement(\"div\");\n    const statClass = `${monster.name.replace(/[^a-zA-Z0-9]/g,'-').toLowerCase()}-block`;\n    statLine.classList.add(\"adversary-block\");\n    statLine.classList.add(statClass);\n\n    let numBlocks = monster.qty ? monster.qty : 1;\n\n    for (let i = 1; i <= numBlocks; i++) {\n        let adversaryBlock = document.createElement(\"div\");\n        let adversaryClass = `${monster.name.replace(/[^a-zA-Z0-9]/g,'-').toLowerCase()}-block`;\n        adversaryBlock.classList.add(\"stat-line\");\n        adversaryBlock.classList.add(adversaryClass);\n\n        // add adversary name/number\n        adversaryBlock.append(getAdversaryNameBlock(monster.name, i));\n        \n        // add hp title\n        adversaryBlock.append(document.createElement(\"br\"));\n        adversaryBlock.append(getStatNameBlock(\"HP\", monster.hp));\n\n        // for each hp make checkbox\n        for (let h = 0; h < monster.hp; h++) {\n            adversaryBlock.append(getCheckboxValueBlock(\"hp\", h));\n        }\n        \n        // add stress title\n        adversaryBlock.append(document.createElement(\"br\"));\n        adversaryBlock.append(getStatNameBlock(\"stress\", monster.stress));\n\n        // for each stress make checkbox\n        for (let s = 0; s < monster.stress; s++) {\n            adversaryBlock.append(getCheckboxValueBlock(\"stress\", s));\n        }\n\n        statLine.append(adversaryBlock);\n    }\n    \n    return statLine;\n}\n\nconst getCheckboxValueBlock = (type, val) => {\n    const checkbox = document.createElement(\"input\");\n    checkbox.type = \"checkbox\";\n    checkbox.classList.add(`${type}-${val}`);\n    checkbox.classList.add(\"stat-value\");\n    checkbox.onclick = () => {\n        console.log(\"Invoke script to save data\");\n    };\n    return checkbox;\n}\n\nconst getStatNameBlock = (statName, val) => {\n    const statNameBlock = document.createElement(\"span\");\n    statNameBlock.classList.add(\"stat-name\");\n    statNameBlock.innerText = `${statName.toUpperCase()} (${val}): `;\n    return statNameBlock;\n}\n\nconst getAdversaryNameBlock = (adversaryName, num) => {\n    const adversaryNameBlock = document.createElement(\"span\");\n    adversaryNameBlock.classList.add(\"adversary-name\");\n    adversaryNameBlock.innerText = `${adversaryName.toUpperCase()} #${num}: `;\n    return adversaryNameBlock;\n}\n\nconst statFullBlock = document.createElement(\"div\");\nstatFullBlock.classList.add(\"stat-block\");\nstatFullBlock.append(getStatLine());\n\nreturn statFullBlock;\n"
+        }
+      ],
+      "id": "daggerheart-adversary",
+      "name": "Daggerheart Adversary",
+      "edited": false,
+      "removed": true
+    },
+    "basic-bnb-familiar-layout": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "aabbab5bb92a",
+          "properties": [],
+          "nested": [
+            {
+              "type": "image",
+              "id": "a80b9a1a791b",
+              "properties": [
+                "Token"
+              ],
+              "fallback": "-",
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "inline",
+          "id": "19788a293819",
+          "properties": [],
+          "nested": [
+            {
+              "type": "heading",
+              "id": "bb98085bdbab",
+              "properties": [
+                "Name"
+              ],
+              "fallback": "Unknown",
+              "conditioned": false,
+              "size": 1
+            },
+            {
+              "type": "property",
+              "id": "f97b886ba819",
+              "properties": [
+                "Type"
+              ],
+              "fallback": "Unknown",
+              "display": "",
+              "conditioned": true,
+              "markdown": true,
+              "dice": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "c81968abe80b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "4809ea49d92a",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "48f93a487988",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "4dc7e12b6c6c",
+                      "properties": [
+                        "MovementType"
+                      ],
+                      "fallback": "-",
+                      "display": " ",
+                      "conditioned": true,
+                      "callback": "const Move = monster.MovementType;\nconst Types = ['move', 'flight', 'swim', 'burrow', 'teleport', 'leap', 'hover', 'climb',];\nconst Symbols = ['⭇', '󡔂', '󡔄', '󡔆', '󡔃', '󡔁', '󡔀', '󡔅',];\n\nlet Output = '';\nfor (let i = 0; i < Types.length; i++) {\n  for (let j = 0; j <= 10; j++) {\n    if (Move.includes(`${Types[i]} ${j}`)) {\n      Output += `${Symbols[i]} ${j} Square${j > 1 ? 's' : ''}\\n`;\n    }\n  }\n}\n\nreturn Output.trim();",
+                      "markdown": false,
+                      "hasRule": false
+                    },
+                    {
+                      "type": "inline",
+                      "id": "294ad96ad9ba",
+                      "properties": [],
+                      "nested": [
+                        {
+                          "type": "property",
+                          "id": "4a3beb0948e9",
+                          "properties": [
+                            "Health"
+                          ],
+                          "fallback": "-",
+                          "display": "Health:",
+                          "conditioned": true
+                        },
+                        {
+                          "type": "property",
+                          "id": "7ac8d84999bb",
+                          "properties": [
+                            "Regen"
+                          ],
+                          "fallback": "-",
+                          "display": "HP Regen:",
+                          "conditioned": true,
+                          "dice": true
+                        },
+                        {
+                          "type": "property",
+                          "id": "ea8b1b5bfb4a",
+                          "properties": [
+                            "Shield"
+                          ],
+                          "fallback": "",
+                          "display": "Shield:",
+                          "conditioned": true
+                        },
+                        {
+                          "type": "property",
+                          "id": "596b79ab7b6a",
+                          "properties": [
+                            "Charge"
+                          ],
+                          "fallback": "-",
+                          "display": "SH Charge:",
+                          "conditioned": true,
+                          "dice": true
+                        },
+                        {
+                          "type": "property",
+                          "id": "f8aa6b4a396a",
+                          "properties": [
+                            "Armor"
+                          ],
+                          "fallback": "-",
+                          "display": "Armor:",
+                          "conditioned": true
+                        },
+                        {
+                          "type": "property",
+                          "id": "8a2a6a691918",
+                          "properties": [
+                            "Repair"
+                          ],
+                          "fallback": "-",
+                          "display": "AR Repair:",
+                          "conditioned": true,
+                          "dice": true
+                        },
+                        {
+                          "type": "property",
+                          "id": "2b5b9b0b689b",
+                          "properties": [
+                            "Traits"
+                          ],
+                          "fallback": "-",
+                          "conditioned": true,
+                          "display": "Traits:"
+                        }
+                      ],
+                      "cls": "familiar-tams"
+                    }
+                  ],
+                  "cls": ""
+                }
+              ],
+              "hasRule": false,
+              "cls": "move-shat"
+            },
+            {
+              "type": "table",
+              "id": "cb4bdb99abdb",
+              "properties": [
+                "Abilityscore"
+              ],
+              "headers": [
+                "ACC",
+                "DMG",
+                "SPD",
+                "MST"
+              ],
+              "calculate": false,
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true
+            },
+            {
+              "type": "property",
+              "id": "494b58086a5a",
+              "properties": [
+                "Damage"
+              ],
+              "fallback": "-",
+              "display": "Damage:",
+              "conditioned": true,
+              "dice": true,
+              "hasRule": true
+            }
+          ],
+          "hasRule": false,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "eaa94ab86ba9",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "3a4a88da394a",
+              "properties": [
+                "Weapon"
+              ],
+              "fallback": "N/A",
+              "markdown": true,
+              "display": "Weapon:",
+              "dice": true,
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "5a8b7b08b8ca",
+              "properties": [
+                "Special"
+              ],
+              "fallback": "N/A",
+              "display": "Special:",
+              "markdown": true,
+              "hasRule": false,
+              "dice": true,
+              "conditioned": true
+            },
+            {
+              "type": "traits",
+              "id": "b9da9b7a6958",
+              "properties": [
+                "SuperSpecial"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "799ada4bc8c9",
+          "properties": [],
+          "nested": [
+            {
+              "type": "table",
+              "id": "5a2bdb7819b8",
+              "properties": [
+                "Hit-Crit"
+              ],
+              "headers": [
+                "2-7",
+                "8-15",
+                "16+"
+              ],
+              "calculate": false,
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true
+            },
+            {
+              "type": "traits",
+              "id": "ea68aaba0819",
+              "properties": [
+                "Actions"
+              ],
+              "fallback": "-",
+              "heading": "Actions",
+              "conditioned": true,
+              "markdown": true,
+              "dice": true
+            },
+            {
+              "type": "traits",
+              "id": "d979ba0a69da",
+              "properties": [
+                "Skills"
+              ],
+              "fallback": "-",
+              "headingProp": false,
+              "heading": "Skills",
+              "conditioned": true,
+              "markdown": true,
+              "dice": true
+            }
+          ],
+          "conditioned": false,
+          "hasRule": true
+        },
+        {
+          "type": "image",
+          "id": "999b68298919",
+          "properties": [
+            "Image"
+          ],
+          "fallback": "-",
+          "conditioned": true
+        }
+      ],
+      "id": "basic-bnb-familiar-layout",
+      "name": "Basic BnB Familiar Layout",
+      "edited": false,
+      "removed": true
+    },
+    "basic-bnb-bestiary-layout": {
+      "blocks": [
+        {
+          "type": "group",
+          "id": "0a58d8280a7b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "image",
+              "id": "48db7bfb6809",
+              "properties": [
+                "Token"
+              ],
+              "fallback": "-",
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "b8e9ea5a5b68",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "7a3a6b3ad9d9",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "heading",
+                  "id": "0a982a598818",
+                  "properties": [
+                    "Name"
+                  ],
+                  "size": 1,
+                  "fallback": "-"
+                },
+                {
+                  "type": "property",
+                  "id": "cb1a28885afb",
+                  "properties": [
+                    "Type"
+                  ],
+                  "fallback": "Unknown.",
+                  "conditioned": false,
+                  "display": " "
+                }
+              ]
+            },
+            {
+              "type": "subheading",
+              "id": "4b3848590a48",
+              "properties": [
+                "TitleOfMob",
+                "FlavorText",
+                "TypeOfBoss"
+              ],
+              "separator": " , ",
+              "fallback": "-",
+              "conditioned": true
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "fb98fb48f93a",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "3898c8ea0bf9",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "a8980a09e92a",
+                  "properties": [
+                    "BadassRank"
+                  ],
+                  "fallback": " ",
+                  "conditioned": false,
+                  "display": " "
+                },
+                {
+                  "type": "property",
+                  "id": "c83a18fb2ac9",
+                  "properties": [
+                    "MovementType"
+                  ],
+                  "fallback": " ",
+                  "display": " ",
+                  "callback": "const Move = monster.MovementType;\nconst Types = ['move', 'flight', 'swim', 'burrow', 'teleport', 'leap', 'hover', 'climb',];\nconst Symbols = ['⭇', '󡔂', '󡔄', '󡔆', '󡔃', '󡔁', '󡔀', '󡔅',];\n\nlet Output = '';\nfor (let i = 0; i < Types.length; i++) {\n  for (let j = 0; j <= 10; j++) {\n    if (Move.includes(`${Types[i]} ${j}`)) {\n      Output += `${Symbols[i]} ${j} Square${j > 1 ? 's' : ''}\\n`;\n    }\n  }\n}\n\nreturn Output.trim();"
+                },
+                {
+                  "type": "inline",
+                  "id": "59e8dad80b6b",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "d8d98b8b6bfa",
+                      "properties": [
+                        "Health"
+                      ],
+                      "fallback": "Dead",
+                      "conditioned": true,
+                      "display": "Health:"
+                    },
+                    {
+                      "type": "property",
+                      "id": "c969ebe85aca",
+                      "properties": [
+                        "Shield"
+                      ],
+                      "fallback": "N/A",
+                      "display": "Shield:",
+                      "conditioned": true
+                    },
+                    {
+                      "type": "property",
+                      "id": "b95a6a68e89b",
+                      "properties": [
+                        "Armor"
+                      ],
+                      "fallback": "N/A",
+                      "conditioned": true,
+                      "display": "Armor:"
+                    },
+                    {
+                      "type": "property",
+                      "id": "cb4a68db0ad8",
+                      "properties": [
+                        "Traits"
+                      ],
+                      "fallback": "N/A",
+                      "display": "Traits:",
+                      "conditioned": true,
+                      "markdown": true
+                    }
+                  ],
+                  "cls": "shat"
+                }
+              ],
+              "cls": "bomshat"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "2a99795abbb8",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "1a4aaa3b78e9",
+              "properties": [
+                "Weapon"
+              ],
+              "fallback": "N/A",
+              "conditioned": false,
+              "dice": true,
+              "display": "Weapon:"
+            },
+            {
+              "type": "property",
+              "id": "4a8b3ae86bb8",
+              "properties": [
+                "Special"
+              ],
+              "fallback": "-",
+              "display": "Special:",
+              "dice": true,
+              "markdown": true
+            },
+            {
+              "type": "property",
+              "id": "d85b69696908",
+              "properties": [
+                "SuperSpecial"
+              ],
+              "fallback": "-",
+              "display": "Additional Effects:",
+              "conditioned": true,
+              "markdown": true,
+              "dice": true,
+              "hasRule": true
+            }
+          ],
+          "hasRule": false
+        },
+        {
+          "type": "group",
+          "id": "8ae89989a83b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "traits",
+              "id": "cb28b8484afa",
+              "properties": [
+                "Actions"
+              ],
+              "fallback": "-",
+              "heading": "Actions",
+              "conditioned": true,
+              "hasRule": false,
+              "markdown": true,
+              "dice": true
+            },
+            {
+              "type": "traits",
+              "id": "5beae9c80838",
+              "properties": [
+                "Mayhem"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "heading": "󡔱 Mayhem",
+              "dice": true,
+              "markdown": true
+            },
+            {
+              "type": "traits",
+              "id": "ea6b78db3b59",
+              "properties": [
+                "Loot"
+              ],
+              "fallback": "-",
+              "heading": "Loot",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true
+            }
+          ],
+          "hasRule": false,
+          "cls": ""
+        },
+        {
+          "type": "group",
+          "id": "283a2b39ca3a",
+          "properties": [],
+          "nested": [
+            {
+              "type": "text",
+              "id": "8a78b8393819",
+              "properties": [
+                "Image"
+              ],
+              "text": null,
+              "fallback": "-",
+              "heading": "",
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "2b09ea3958fa",
+              "properties": [
+                "Image"
+              ],
+              "fallback": "-",
+              "conditioned": true
+            }
+          ],
+          "cls": "biggies"
+        }
+      ],
+      "id": "basic-bnb-bestiary-layout",
+      "name": "Basic BnB Bestiary Layout",
+      "edited": false,
+      "removed": true
+    },
+    "basic-13th-age-monster-block": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "2a9b58ba0ab8",
+          "properties": [],
+          "nested": [
+            {
+              "type": "heading",
+              "id": "c89a2ae859f8",
+              "properties": [
+                "name"
+              ],
+              "size": 1,
+              "fallback": "Creature"
+            },
+            {
+              "type": "image",
+              "id": "e83a48f858b8",
+              "properties": [
+                "image"
+              ],
+              "fallback": "TILE ART",
+              "conditioned": true,
+              "hasRule": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "fabb0b884838",
+          "properties": [],
+          "nested": [
+            {
+              "type": "text",
+              "id": "5b7bc86b6919",
+              "properties": [
+                "flavor_text"
+              ],
+              "text": null,
+              "fallback": "-",
+              "conditioned": true,
+              "markdown": true,
+              "hasRule": false
+            }
+          ],
+          "cls": "flavor-text",
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "1a6999887a69",
+          "properties": [],
+          "nested": [
+            {
+              "type": "javascript",
+              "id": "d958f898e9fa",
+              "conditioned": false,
+              "code": "var base_string = `${monster.level} level ${monster.role}`;\n\nif (monster.size) {\n    base_string = `${monster.size} ${base_string}`;\n}\n\nconst monster_strength = document.createElement(\"p\");\nmonster_strength.innerHTML = base_string;\nmonster_strength.classList.add(\"monster-strength\");\n\nif (monster.type) {\n    const type = `[${monster.type}]`;\n    const type_block = document.createElement(\"span\");\n    type_block.classList.add(\"type\");\n    type_block.innerText = type;\n\n    monster_strength.append(type_block)\n}\n\nreturn monster_strength;"
+            },
+            {
+              "type": "property",
+              "id": "780809c90898",
+              "properties": [
+                "initiative"
+              ],
+              "fallback": "+0",
+              "display": "Initiative: ",
+              "markdown": true
+            },
+            {
+              "type": "property",
+              "id": "88eb4a6aea0b",
+              "properties": [
+                "vulnerability"
+              ],
+              "fallback": "-",
+              "display": "Vulnerability: ",
+              "conditioned": true,
+              "markdown": true
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "999bb81b7aab",
+          "properties": [],
+          "nested": [
+            {
+              "type": "traits",
+              "id": "996ab9d9a86a",
+              "properties": [
+                "actions"
+              ],
+              "fallback": "-",
+              "markdown": true,
+              "hasRule": true
+            },
+            {
+              "type": "traits",
+              "id": "69ca5b7a3898",
+              "properties": [
+                "traits"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "markdown": true,
+              "hasRule": true
+            },
+            {
+              "type": "traits",
+              "id": "c8794b580948",
+              "properties": [
+                "triggered_actions"
+              ],
+              "fallback": "-",
+              "headingProp": false,
+              "heading": "Triggered Abilities",
+              "conditioned": true,
+              "markdown": true,
+              "hasRule": true
+            },
+            {
+              "type": "traits",
+              "id": "aa1a3a2abb19",
+              "properties": [
+                "nastier_traits"
+              ],
+              "fallback": "-",
+              "headingProp": false,
+              "heading": "Nastier Specials",
+              "conditioned": true,
+              "subheadingText": "",
+              "markdown": true,
+              "hasRule": true
+            }
+          ],
+          "hasRule": false,
+          "cls": "abilities"
+        },
+        {
+          "type": "group",
+          "id": "8a7969a96a48",
+          "properties": [],
+          "nested": [
+            {
+              "type": "javascript",
+              "id": "f99b8b1bf908",
+              "conditioned": false,
+              "code": "const getStatLine = (statName, statValue) => {\n    const statLine = document.createElement(\"div\");\n    const statClass = `${statName.toLowerCase()}-block`;\n    statLine.classList.add(\"defense-line\");\n    statLine.classList.add(statClass);\n\n    const statNameBlock = document.createElement(\"span\");\n    statNameBlock.classList.add(\"defense-name\");\n    statNameBlock.innerText = statName.toUpperCase();\n\n    const statValueBlock = document.createElement(\"span\");\n    statValueBlock.classList.add(\"defense-value\");\n\n    if (statName === \"HP\" && monster.mook !== undefined) {\n        statValue = `${statValue} (mook)`;\n    }\n\n    statValueBlock.innerText = statValue;\n\n    statLine.append(statNameBlock);\n    statLine.append(statValueBlock);\n\n    return statLine;\n}\n\nconst statFullBlock = document.createElement(\"div\");\nstatFullBlock.classList.add(\"defense-block\");\nstatFullBlock.append(getStatLine(\"AC\", monster.ac));\nstatFullBlock.append(getStatLine(\"PD\", monster.pd));\nstatFullBlock.append(getStatLine(\"MD\", monster.md));\nstatFullBlock.append(getStatLine(\"HP\", monster.hp));\n\nreturn statFullBlock;\n"
+            },
+            {
+              "type": "property",
+              "id": "6aa9684a08db",
+              "properties": [
+                "mook"
+              ],
+              "fallback": "-",
+              "display": "Mook",
+              "conditioned": true,
+              "callback": "return `Kill one _${monster.name}_ for every ${monster.hp} damage dealt to the mob`",
+              "markdown": true
+            }
+          ],
+          "cls": "monster-stats"
+        },
+        {
+          "type": "group",
+          "id": "a96bcabad818",
+          "properties": [],
+          "nested": [
+            {
+              "type": "text",
+              "id": "4a0b6a59385a",
+              "properties": [
+                "description"
+              ],
+              "text": null,
+              "conditioned": true,
+              "fallback": "-",
+              "markdown": true
+            }
+          ],
+          "cls": "monster-description"
+        }
+      ],
+      "name": "Basic 13th Age Monster Layout",
+      "id": "basic-13th-age-monster-block",
+      "removed": true
+    },
+    "b8ab3ae89a0a": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "e9b8483aeafa",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "2b596a6919fb",
+              "properties": [
+                "name"
+              ],
+              "fallback": "-",
+              "markdown": true,
+              "dice": false,
+              "conditioned": true,
+              "display": " "
+            },
+            {
+              "type": "ifelse",
+              "id": "badbdb298988",
+              "conditions": [
+                {
+                  "nested": [
+                    {
+                      "type": "group",
+                      "id": "990a4a988ae8",
+                      "properties": [],
+                      "nested": [
+                        {
+                          "type": "inline",
+                          "id": "499aea6a9aca",
+                          "properties": [],
+                          "nested": [
+                            {
+                              "type": "action",
+                              "id": "8a6a7a499b78",
+                              "icon": "sword",
+                              "callback": "(async() => {\n  if (!InitiativeTracker.plugin.view) {\n    await InitiativeTracker.plugin.addTrackerView();\n  }\n  InitiativeTracker.newEncounter({\n    roll: true,\n    creatures: [monster]\n  });\n  if (InitiativeTracker.plugin.view) {\n    InitiativeTracker.plugin\n      .app\n      .workspace\n      .revealLeaf(InitiativeTracker.plugin.view.leaf);\n  }\n})();"
+                            },
+                            {
+                              "type": "action",
+                              "id": "fbea380b09b9",
+                              "icon": "plus-with-circle",
+                              "callback": "(async() => {\n  if (!InitiativeTracker.plugin.view) {\n    await InitiativeTracker.plugin.addTrackerView();\n  }\n  InitiativeTracker.addCreatures([monster]);\n  if (InitiativeTracker.plugin.view) {\n    InitiativeTracker.plugin\n      .app\n      .workspace\n      .revealLeaf(InitiativeTracker.plugin.view.leaf);\n  }\n})();"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "condition": "return plugin.app.plugins.enabledPlugins.has(\"initiative-tracker\");\n"
+                }
+              ]
+            },
+            {
+              "type": "property",
+              "id": "98389a48f808",
+              "properties": [
+                "level"
+              ],
+              "fallback": "-",
+              "display": " ",
+              "conditioned": true,
+              "markdown": true,
+              "dice": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "4b3a6809a938",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "0979a989583a",
+              "properties": [],
+              "fallback": "-",
+              "callback": "const traits = []\nif (monster.rarity && monster.rarity.toLowerCase() !== \"common\") {\n  traits.push(`<span class=\"rarity ${monster.rarity.toLowerCase()}\">${monster.rarity}</span>`);\n}\n\nif (monster.alignment) {\n  traits.push(`<span class=alignment>${monster.alignment}</span>`);\n}\nif (monster.size) {\n  traits.push(`<span class=size>${monster.size}</span>`);\n}\n\nif (monster.traits) {\n  traits.push(...monster.traits);\n}\n\nreturn traits ? (\"- \" + traits.join(\"\\n- \")) : \"\";",
+              "conditioned": true,
+              "display": ""
+            }
+          ],
+          "hasRule": true,
+          "cls": "pf2e-traits"
+        },
+        {
+          "type": "group",
+          "id": "5999ea79ca3b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "881859197838",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "4ad9f92ab8f8",
+                  "properties": [
+                    "modifier"
+                  ],
+                  "fallback": "-",
+                  "display": "Perception",
+                  "conditioned": false,
+                  "dice": false,
+                  "diceCallback": "const num = (property < 0 ? \"-\" : \"+\") + Math.abs(property);\nreturn [num, \" (\", { text: \"1d20\"+num }, \")\"];",
+                  "callback": "return (monster.modifier < 0 ? \"-\" : \"+\") + Math.abs(monster.modifier);"
+                },
+                {
+                  "type": "property",
+                  "id": "8bd82998dadb",
+                  "properties": [
+                    "senses"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": ""
+                }
+              ],
+              "cls": "oneline",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ba28f9384918",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-",
+              "display": "Language",
+              "conditioned": true,
+              "markdown": true
+            },
+            {
+              "type": "saves",
+              "id": "6a2b78099b0b",
+              "properties": [
+                "skills"
+              ],
+              "fallback": "-",
+              "display": "Skills",
+              "conditioned": true,
+              "dice": true,
+              "callback": "const keys = [...Object.keys(property)];\nconst name = keys.shift();\n\nif (name === \"note\") {\n  return {note: property.note};\n}\n\nvar note;\nvar stats = [];\nfor (const key of keys) {\n  if (key === \"note\") {\n    note = property[key];\n  } else {\n    const sign = property[key] < 0 ? \"-\" : \"+\";\n    const num = Math.abs(property[key]);\n    stats.push(`(${sign}${num} ${key})`);\n  }\n}\n\nif (stats.length == 0 && !note) {\n  return property;\n}\n\nstats.unshift(\n  (property[name] < 0 ? \"-\" : \"+\") +\n  Math.abs(property[name]));\nconst parts = [stats.join(\" \")];\nif (note) {\n  parts.push(note);\n}\nreturn {[name]: parts.join(\", \")};"
+            },
+            {
+              "type": "saves",
+              "id": "b82b0a1a9969",
+              "properties": [
+                "attributes"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "display": ""
+            },
+            {
+              "type": "property",
+              "id": "1b6a98ba4888",
+              "properties": [
+                "items"
+              ],
+              "fallback": "-",
+              "display": "Items",
+              "conditioned": true
+            },
+            {
+              "type": "traits",
+              "id": "e96ba9d8a80a",
+              "properties": [
+                "abilities_top"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "heading": "  ",
+              "hasRule": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "faaa08993a98",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "3a5ab84a2b89",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "cb6a7809aa2b",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "6b0b0bda0a7a",
+                      "properties": [
+                        "ac"
+                      ],
+                      "fallback": "-",
+                      "display": "AC"
+                    },
+                    {
+                      "type": "property",
+                      "id": "0908aaab3b1b",
+                      "properties": [
+                        "acNote"
+                      ],
+                      "fallback": "-",
+                      "conditioned": true,
+                      "display": ""
+                    }
+                  ],
+                  "cls": "withnote",
+                  "conditioned": true
+                },
+                {
+                  "type": "saves",
+                  "id": "9999386a58ea",
+                  "properties": [
+                    "saves"
+                  ],
+                  "fallback": "-",
+                  "dice": true,
+                  "display": "",
+                  "conditioned": true,
+                  "callback": "const keys = [...Object.keys(property)];\nconst name = keys.shift();\n\nif (name === \"note\") {\n  return {note: property.note};\n}\n\nvar note;\nvar stats = [];\nfor (const key of keys) {\n  if (key === \"note\") {\n    note = property[key];\n  } else {\n    const sign = property[key] < 0 ? \"-\" : \"+\";\n    const num = Math.abs(property[key]);\n    stats.push(`(${sign}${num} ${key})`);\n  }\n}\n\nif (stats.length == 0 && !note) {\n  return property;\n}\n\nstats.unshift(\n  (property[name] < 0 ? \"-\" : \"+\") +\n  Math.abs(property[name]));\nconst parts = [stats.join(\" \")];\nif (note) {\n  parts.push(note);\n}\nreturn {[name]: parts.join(\", \")};"
+                }
+              ],
+              "cls": "oneline",
+              "conditioned": true
+            },
+            {
+              "type": "inline",
+              "id": "ea29d9ea5aa8",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "39584be95ae9",
+                  "properties": [],
+                  "nested": [
+                    {
+                      "type": "property",
+                      "id": "bb6989092939",
+                      "properties": [
+                        "hp"
+                      ],
+                      "fallback": "-",
+                      "display": "HP"
+                    },
+                    {
+                      "type": "property",
+                      "id": "b9fa1a89c8d9",
+                      "properties": [
+                        "hpNote"
+                      ],
+                      "fallback": "-",
+                      "doNotAddClass": false,
+                      "conditioned": true,
+                      "display": ""
+                    }
+                  ],
+                  "cls": "withnote",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "4bbaa9380a9b",
+                  "properties": [
+                    "hardness"
+                  ],
+                  "fallback": "-",
+                  "display": "Hardness",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "0a8ac8d96bba",
+                  "properties": [
+                    "immunities"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": "Immunities"
+                },
+                {
+                  "type": "property",
+                  "id": "78689b6b6b79",
+                  "properties": [
+                    "weaknesses"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": "Weaknesses"
+                },
+                {
+                  "type": "property",
+                  "id": "8b7a3b89fa59",
+                  "properties": [
+                    "resistances"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": "Resistances"
+                }
+              ],
+              "cls": "oneline",
+              "conditioned": true
+            },
+            {
+              "type": "traits",
+              "id": "ca2bf968987b",
+              "properties": [
+                "abilities_mid"
+              ],
+              "fallback": "-",
+              "heading": "",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "hasRule": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "cbeabaf93b58",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "0b4809ba0b29",
+              "properties": [
+                "speed"
+              ],
+              "fallback": "-",
+              "display": "Speed",
+              "conditioned": true,
+              "markdown": true,
+              "dice": false
+            },
+            {
+              "type": "traits",
+              "id": "882bc9aa0898",
+              "properties": [
+                "attacks"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "headingProp": false,
+              "heading": "",
+              "callback": "var s = \"\";\nif (property.bonus) {\n  s += (property.bonus < 0 ? \"-\" : \"+\") + Math.abs(property.bonus);\n}\nif (property.desc) {\n  s += \" \" + property.desc\n}\nif (property.damage) {\n  s += \", __Damage__ \" + property.damage\n}\nreturn s"
+            },
+            {
+              "type": "traits",
+              "id": "faeafb7b6b1b",
+              "properties": [
+                "spellcasting"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true
+            },
+            {
+              "type": "traits",
+              "id": "aacb399a3b58",
+              "properties": [
+                "abilities_bot"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "hasRule": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "text",
+          "id": "1b195a894b58",
+          "properties": [
+            "token"
+          ],
+          "text": null,
+          "fallback": "",
+          "heading": "Show to Players",
+          "conditioned": true,
+          "markdown": true
+        },
+        {
+          "type": "image",
+          "id": "1bba89582b29",
+          "properties": [
+            "token"
+          ],
+          "fallback": "",
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "property",
+          "id": "88e97a485b79",
+          "properties": [
+            "sourcebook"
+          ],
+          "fallback": "-",
+          "conditioned": true,
+          "markdown": true,
+          "dice": false,
+          "display": " Source:"
+        }
+      ],
+      "name": "Pathfinder 2e Creature Layout",
+      "id": "b8ab3ae89a0a",
+      "diceParsing": [
+        {
+          "regex": "(\\s|^)(\\d+d\\d+(?:\\s*[+-]\\s*\\d+)?)(\\W|$)",
+          "parser": "const [, before, text, after] = matches;\nreturn [before + text, \" (\", { text }, \")\", after];",
+          "id": "4a79397b896a",
+          "desc": "1d6+10"
+        },
+        {
+          "regex": "(^|\\s)([+-]\\d+)(\\W|$)(?!status|bonus)",
+          "parser": "let [, before, bonus, after] = matches;\nreturn [\n  before + bonus,\n  \" (\", { text: \"1d20\" + bonus }, \")\",\n  after\n];",
+          "id": "8bb8fbbb0869",
+          "desc": "+15"
+        }
+      ],
+      "edited": true,
+      "removed": true
+    },
+    "path-2e-block": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "e9b8483aeafa",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "2b596a6919fb",
+              "properties": [
+                "name"
+              ],
+              "fallback": "-",
+              "markdown": true,
+              "dice": false,
+              "conditioned": true,
+              "display": " "
+            },
+            {
+              "type": "property",
+              "id": "98389a48f808",
+              "properties": [
+                "level"
+              ],
+              "fallback": "-",
+              "display": " ",
+              "conditioned": true,
+              "markdown": true,
+              "dice": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "4b3a6809a938",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "289a4b787968",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "694a3888b859",
+                  "properties": [
+                    "rare_01"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "590a88988ae8",
+                  "properties": [
+                    "rare_02"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "9a9be808699a",
+                  "properties": [
+                    "rare_03"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "2988db1a685a",
+                  "properties": [
+                    "rare_04"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "ba891ba8cbeb",
+                  "properties": [
+                    "alignment"
+                  ],
+                  "fallback": " ",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "ebf9883938a8",
+                  "properties": [
+                    "size"
+                  ],
+                  "fallback": " ",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "dabaf9e9fb68",
+                  "properties": [
+                    "trait_01"
+                  ],
+                  "fallback": " ",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "e81a6aeadbf9",
+                  "properties": [
+                    "trait_02"
+                  ],
+                  "fallback": " ",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "fa7919caabbb",
+                  "properties": [
+                    "trait_03"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": " ",
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "58c9c8580b68",
+                  "properties": [
+                    "trait_04"
+                  ],
+                  "fallback": "-",
+                  "conditioned": true,
+                  "display": " ",
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "da894a7b8849",
+                  "properties": [
+                    "trait_05"
+                  ],
+                  "fallback": "-",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "fb6b4b6bab49",
+                  "properties": [
+                    "trait_06"
+                  ],
+                  "fallback": "-",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                },
+                {
+                  "type": "property",
+                  "id": "480a5bfafb88",
+                  "properties": [
+                    "trait_07"
+                  ],
+                  "fallback": "-",
+                  "display": " ",
+                  "conditioned": true,
+                  "markdown": true
+                }
+              ],
+              "hasRule": true,
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "5999ea79ca3b",
+          "properties": [],
+          "nested": [
+            {
+              "type": "traits",
+              "id": "9a9af9fbe959",
+              "properties": [
+                "perception"
+              ],
+              "fallback": "-",
+              "heading": " ",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "headingProp": true
+            },
+            {
+              "type": "property",
+              "id": "ba28f9384918",
+              "properties": [
+                "languages"
+              ],
+              "fallback": "-",
+              "display": "Language",
+              "conditioned": true,
+              "markdown": true
+            },
+            {
+              "type": "traits",
+              "id": "a8f8187b89fb",
+              "properties": [
+                "skills"
+              ],
+              "fallback": "-",
+              "markdown": true,
+              "dice": true,
+              "conditioned": true,
+              "heading": " "
+            },
+            {
+              "type": "table",
+              "id": "b82b0a1a9969",
+              "properties": [
+                "abilityMods"
+              ],
+              "headers": [
+                "Str",
+                "Dex",
+                "Con",
+                "Int",
+                "Wis",
+                "Cha"
+              ],
+              "calculate": false,
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true
+            },
+            {
+              "type": "traits",
+              "id": "e96ba9d8a80a",
+              "properties": [
+                "abilities_top"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "heading": "  ",
+              "hasRule": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "faaa08993a98",
+          "properties": [],
+          "nested": [
+            {
+              "type": "traits",
+              "id": "68ca69891bea",
+              "properties": [
+                "armorclass"
+              ],
+              "fallback": "-",
+              "heading": "",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true
+            },
+            {
+              "type": "traits",
+              "id": "9b1998e9a8da",
+              "properties": [
+                "health"
+              ],
+              "fallback": "-",
+              "heading": "",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true
+            },
+            {
+              "type": "traits",
+              "id": "ca2bf968987b",
+              "properties": [
+                "abilities_mid"
+              ],
+              "fallback": "-",
+              "heading": "",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "hasRule": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "cbeabaf93b58",
+          "properties": [],
+          "nested": [
+            {
+              "type": "property",
+              "id": "0b4809ba0b29",
+              "properties": [
+                "speed"
+              ],
+              "fallback": "-",
+              "display": "Speed",
+              "conditioned": true,
+              "markdown": true,
+              "dice": false
+            },
+            {
+              "type": "traits",
+              "id": "882bc9aa0898",
+              "properties": [
+                "attacks"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "headingProp": false,
+              "heading": ""
+            },
+            {
+              "type": "traits",
+              "id": "6919b8996939",
+              "properties": [
+                "spellcasting"
+              ],
+              "fallback": "-",
+              "heading": " ",
+              "markdown": true,
+              "dice": true,
+              "conditioned": true
+            },
+            {
+              "type": "traits",
+              "id": "aacb399a3b58",
+              "properties": [
+                "abilities_bot"
+              ],
+              "fallback": "-",
+              "conditioned": true,
+              "dice": true,
+              "markdown": true,
+              "hasRule": false
+            }
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "text",
+          "id": "1b195a894b58",
+          "properties": [
+            "token"
+          ],
+          "text": null,
+          "fallback": "",
+          "heading": "Show to Players",
+          "conditioned": true,
+          "markdown": true
+        },
+        {
+          "type": "image",
+          "id": "1bba89582b29",
+          "properties": [
+            "token"
+          ],
+          "fallback": "",
+          "conditioned": true,
+          "hasRule": true
+        },
+        {
+          "type": "property",
+          "id": "88e97a485b79",
+          "properties": [
+            "sourcebook"
+          ],
+          "fallback": "-",
+          "conditioned": true,
+          "markdown": true,
+          "dice": false,
+          "display": " Source:"
+        }
+      ],
+      "name": "Basic Pathfinder 2e Layout",
+      "id": "path-2e-block",
+      "version": 2,
+      "diceParsing": [
+        {
+          "regex": "\\((\\d+d\\d+(?:\\s*[+-]\\s*\\d+)?)\\)",
+          "parser": "const [, text] = matches;\nreturn [\"(\", { text }, \")\"];",
+          "id": "b9988b799a5a",
+          "desc": "(1d8+3)"
+        },
+        {
+          "regex": "(\\w+?) ([+-])(\\d+)",
+          "parser": "let [, initial, sign, number] = matches;\nlet mult = 1;\nif (sign === \"-\") {\n    mult = -1;\n}\nlet text;\nif (!isNaN(Number(number))) {\n    text = `1d20+${mult * Number(number)}`;\n}\nreturn [original, \" (\", { text }, \")\"];",
+          "id": "4a8bfa4b7b9a",
+          "desc": "longsword +15"
+        }
+      ],
+      "removed": true
+    },
+    "basic-fate-core-layout": {
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "0b2a7a6a9b4a",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "38e9d9394819",
+              "properties": [
+                "name",
+                "description",
+                "aspects",
+                "temporaryAspects"
+              ],
+              "nested": [
+                {
+                  "type": "heading",
+                  "id": "caf88ab91af9",
+                  "properties": [
+                    "name"
+                  ],
+                  "conditioned": true,
+                  "size": 1
+                },
+                {
+                  "type": "text",
+                  "id": "5a0a083819e8",
+                  "properties": [
+                    "description"
+                  ],
+                  "conditioned": true,
+                  "markdown": true,
+                  "text": null,
+                  "dice": false
+                },
+                {
+                  "type": "text",
+                  "id": "4aaadbda7b4a",
+                  "properties": [
+                    "aspects"
+                  ],
+                  "markdown": true,
+                  "text": null,
+                  "dice": false,
+                  "conditioned": true,
+                  "heading": "Aspects"
+                },
+                {
+                  "type": "text",
+                  "id": "8aab38f88ab9",
+                  "properties": [
+                    "temporaryAspects"
+                  ],
+                  "markdown": true,
+                  "text": null,
+                  "dice": false,
+                  "conditioned": true,
+                  "heading": "Temporary Aspects"
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "497a9a6b3a99",
+              "properties": [
+                "image"
+              ],
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "id": "f9c9c86ad81a",
+          "properties": [
+            "stress"
+          ],
+          "headers": [
+            "Physical",
+            "Mental"
+          ],
+          "calculate": false,
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "286b284b984b",
+          "properties": [
+            "consequences"
+          ],
+          "conditioned": true,
+          "heading": "Consequences"
+        },
+        {
+          "type": "traits",
+          "id": "6b39291a38a9",
+          "properties": [
+            "skills"
+          ],
+          "conditioned": true,
+          "hasRule": false,
+          "heading": "Skills"
+        },
+        {
+          "type": "traits",
+          "id": "0a3bd87a0bb9",
+          "properties": [
+            "stunts"
+          ],
+          "markdown": true,
+          "dice": false,
+          "conditioned": true,
+          "heading": "Stunts"
+        },
+        {
+          "type": "traits",
+          "id": "4b3a59791a2a",
+          "properties": [
+            "items"
+          ],
+          "heading": "Items",
+          "conditioned": true,
+          "markdown": true,
+          "dice": false
+        },
+        {
+          "type": "traits",
+          "id": "9ac8d84bb9ca",
+          "properties": [
+            "extras"
+          ],
+          "heading": "Extras",
+          "conditioned": true,
+          "markdown": true,
+          "dice": false
+        }
+      ],
+      "id": "basic-fate-core-layout",
+      "name": "Basic Fate Core Layout",
+      "edited": false,
+      "removed": true
+    }
+  },
+  "layouts": [],
+  "default": "basic-5e-layout",
+  "useDice": true,
+  "renderDice": false,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": true,
+  "tryToRenderLinks": true,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}
