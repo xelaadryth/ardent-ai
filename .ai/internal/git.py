@@ -5,7 +5,6 @@ Provides standardized functions for output formatting, commit message compositio
 and error handling across all entry points.
 """
 
-import sys
 from typing import Optional
 
 

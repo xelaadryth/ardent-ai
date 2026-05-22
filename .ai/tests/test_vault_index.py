@@ -1,5 +1,5 @@
-from pkg.vault import mapping
-from pkg.vault import parser
+from internal.vault import mapping
+from internal.vault import parser
 
 
 def test_build_index_entry_extracts_frontmatter_links():
@@ -42,7 +42,7 @@ def test_get_folder_from_type_returns_folder_prefix():
 def test_build_index_entry_preserves_last_updated_from_frontmatter():
     content = """---
 type: npc
-last_updated: 2023-01-01T00:00:00Z
+last_updated: 2023-01-01T00:00:00
 ---
 Some content"""
 
@@ -50,7 +50,7 @@ Some content"""
 
     assert "last_updated" in entry
     # YAML parses timestamps as datetime objects, but we convert them to ISO strings
-    assert entry["last_updated"] == "2023-01-01T00:00:00+00:00"
+    assert entry["last_updated"] == "2023-01-01T00:00:00"
 
 
 def test_build_index_entry_includes_status_from_frontmatter():

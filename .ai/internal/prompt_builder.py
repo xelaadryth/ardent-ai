@@ -1,5 +1,5 @@
-from pkg.vault.file_io import AI_FOLDER, read_file
-from pkg.vault.retrieval import retrieve_vault_context
+from internal.vault.file import AI_FOLDER, read_file
+from internal.vault.retrieval import retrieve_vault_context
 
 
 def load_soul():

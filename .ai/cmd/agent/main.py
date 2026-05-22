@@ -10,8 +10,8 @@ from internal.outbox import archive_file, find_outbox_file, load_outbox_file
 from internal.llm import generate_content
 from internal.response_parser import apply_response
 from internal.prompt_builder import build_system_prompt
-from internal.workflow_integration import compose_commit_message, print_workflow_output
-from pkg.vault.io import load_vault_index
+from internal.git import compose_commit_message, print_workflow_output
+from internal.vault.index import load_vault_index
 
 
 def run_agent(file_name=None, extra_prompt="") -> Tuple[str, Optional[str]]:

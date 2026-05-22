@@ -4,9 +4,9 @@ Vault index parsing operations.
 Handles parsing frontmatter from markdown files and building index entries.
 """
 
-import re
-import yaml
+import re   
 from datetime import datetime
+from internal.frontmatter import parse_frontmatter
 
 
 def extract_wikilinks(content: str) -> list[str]:
@@ -33,26 +33,6 @@ def extract_wikilinks(content: str) -> list[str]:
             seen.add(key)
 
     return normalized
-
-
-def parse_frontmatter(content: str) -> dict:
-    """
-    Parse YAML frontmatter from markdown content.
-    
-    Args:
-        content: Markdown content string.
-    
-    Returns:
-        Dictionary containing the parsed frontmatter, or empty dict if none found.
-    """
-    frontmatter_match = re.match(r'^---\n(.*?)\n---\n', content, re.DOTALL)
-    if not frontmatter_match:
-        return {}
-    
-    try:
-        return yaml.safe_load(frontmatter_match.group(1)) or {}
-    except yaml.YAMLError:
-        return {}
 
 
 def build_index_entry(content: str = "") -> dict:

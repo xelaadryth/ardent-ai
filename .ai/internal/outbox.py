@@ -1,4 +1,4 @@
-from pkg.vault.file_io import VAULT_ROOT
+from internal.vault.file import VAULT_ROOT
 
 OUTBOX_DIR = VAULT_ROOT / "Outbox"
 ARCHIVE_DIR = VAULT_ROOT / "Archive"

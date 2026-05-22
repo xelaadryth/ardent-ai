@@ -4,9 +4,9 @@ import sys
 ai_dir = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(ai_dir))
 
-from internal.workflow_integration import compose_commit_message, print_workflow_output
-from pkg.vault.crawler import build_index
-from pkg.vault.io import save_vault_index
+from internal.git import compose_commit_message, print_workflow_output
+from internal.vault.crawler import build_index
+from internal.vault.index import save_vault_index
 
 
 def main():

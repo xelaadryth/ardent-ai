@@ -10,7 +10,7 @@ This is an Obsidian vault management system with AI-powered content generation. 
 - `main.py` - AI agent workflow entry point (processes Outbox requests)
 - `reindex.py` - Deterministic vault reindexing (no LLM calls)
 
-Both entry points use `workflow_integration.py` for standardized output formatting and error handling.
+Both entry points use `git.py` for standardized output formatting and error handling.
 
 ### Core Modules
 
@@ -23,11 +23,11 @@ Both entry points use `workflow_integration.py` for standardized output formatti
 - `internal/llm.py` - LLM client initialization and configuration
 - `internal/prompt_builder.py` - Prompt construction for AI interactions
 - `internal/response_parser.py` - Response frontmatter parsing and actual file editing
-- `internal/workflow_integration.py` - Standardized output formatting and error handling
+- `internal/git.py` - Standardized output formatting and error handling
 
 **Obsidian Vault**
 - `pkg/vault/crawler.py` - File crawling and index building from disk
-- `pkg/vault/file_io.py` - File I/O operations (read, write, load_markdown)
+- `pkg/vault/file.py` - File I/O operations (read, write, load_markdown)
 - `pkg/vault/io.py` - Vault index I/O (load_vault_index, save_vault_index)
 - `pkg/vault/mapping.py` - Type-to-folder mapping for vault organization
 - `pkg/vault/parser.py` - Frontmatter parsing and index entry building
@@ -41,16 +41,16 @@ Both entry points use `workflow_integration.py` for standardized output formatti
 ## Important Patterns
 
 ### Path Resolution
-**CRITICAL:** Never use `Path(__file__).parent` to calculate paths to the vault root or .ai folder. Always use the centralized constants from `vault.file_io`:
+**CRITICAL:** Never use `Path(__file__).parent` to calculate paths to the vault root or .ai folder. Always use the centralized constants from `vault.file`:
 
 - `VAULT_ROOT` - The repository root (parent of the .ai folder)
 - `AI_FOLDER` - The .ai folder where scripts and index live
 
-These are defined in `vault/file_io.py` and exported from the vault module. Using `.parent` calculations leads to fragile code that breaks when scripts run from different working directories (e.g., GitHub Actions vs local development).
+These are defined in `vault/file.py` and exported from the vault module. Using `.parent` calculations leads to fragile code that breaks when scripts run from different working directories (e.g., GitHub Actions vs local development).
 
 **Example:**
 ```python
-from vault import AI_FOLDER, VAULT_ROOT
+from internal.vault import AI_FOLDER, VAULT_ROOT
 
 # Correct
 soul_path = AI_FOLDER / "SOUL.md"
@@ -68,7 +68,7 @@ REQUEST_FILENAME=<filename>
 COMMIT_MESSAGE=<message>
 ```
 
-This is handled by `internal/workflow_integration.print_workflow_output()`.
+This is handled by `internal/git.print_workflow_output()`.
 
 ### Vault Index System
 - `vault_index.json` tracks all markdown files with frontmatter
@@ -88,7 +88,7 @@ This is handled by `internal/workflow_integration.print_workflow_output()`.
 
 ### Testing
 - Uses pytest with monkeypatch for mocking
-- Tests patch `vault.io.VAULT_ROOT` for file system isolation
+- Tests patch `vault.index.VAULT_ROOT` for file system isolation
 - Run with: `uv run pytest tests -q`
 
 ## Development Notes

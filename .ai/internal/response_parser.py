@@ -1,34 +1,10 @@
 import json
 import os
 import re
-import yaml
 from datetime import datetime, timezone
-from pkg.vault.file_io import write_file
-from pkg.vault.mapping import get_filepath_from_name
-
-
-def parse_frontmatter(content: str) -> dict:
-    lines = content.split('\n')
-    if lines and lines[0].strip() == '---':
-        for i, line in enumerate(lines[1:], 1):
-            if line.strip() == '---':
-                frontmatter_str = '\n'.join(lines[1:i])
-                try:
-                    # Use a custom loader that doesn't parse dates
-                    class NoDatesSafeLoader(yaml.SafeLoader):
-                        pass
-
-                    # Disable timestamp resolution
-                    NoDatesSafeLoader.yaml_implicit_resolvers = {
-                        k: [r for r in v if r[0] != 'tag:yaml.org,2002:timestamp']
-                        for k, v in yaml.SafeLoader.yaml_implicit_resolvers.items()
-                    }
-
-                    return yaml.load(frontmatter_str, Loader=NoDatesSafeLoader) or {}
-                except yaml.YAMLError:
-                    return {}
-    return {}
-
+from internal.frontmatter import parse_frontmatter
+from internal.vault.file import write_file
+from internal.vault.mapping import get_filepath_from_name
 
 def parse_json_output(output: str) -> dict:
     output = output.strip()
@@ -50,10 +26,6 @@ def parse_json_output(output: str) -> dict:
         if not match:
             raise
         return json.loads(match.group(0), strict=False)
-
-
-def now_timestamp() -> str:
-    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace('+00:00', 'Z')
 
 
 def apply_operations(operations: list[dict], current_index: dict):
@@ -118,7 +90,7 @@ def apply_response(output: str, current_index: dict, request_stem: str = None):
 
         # Save response to Inbox folder if request_stem is provided
         if request_stem:
-            from pkg.vault.file_io import VAULT_ROOT
+            from internal.vault.file import VAULT_ROOT
             inbox_dir = VAULT_ROOT / "Inbox"
             inbox_dir.mkdir(exist_ok=True)
             response_file = inbox_dir / f"{request_stem}.md"

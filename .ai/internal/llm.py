@@ -1,4 +1,3 @@
-from pkg.config import MODELS
 from google.api_core.exceptions import ResourceExhausted, ServiceUnavailable
 from google import genai
 from google.genai import types
@@ -8,6 +7,13 @@ import os
 import time
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+
+MODELS = [
+    "gemini-3-flash-preview",
+    "gemini-3.1-flash-lite",
+    # "gemini-2.5-flash",
+    # "gemini-2.5-flash-lite",
+]
 
 RETRYABLE_ERRORS = (
     ServiceUnavailable,   # 503

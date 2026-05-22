@@ -4,9 +4,9 @@ Vault context retrieval operations.
 Handles retrieving relevant vault context based on queries and scoring entries.
 """
 
-from .file_io import load_markdown
-from .io import load_vault_index
-from .mapping import get_filepath_from_name
+from internal.vault.file import load_markdown
+from internal.vault.index import load_vault_index
+from internal.vault.mapping import get_filepath_from_name
 
 
 def retrieve_vault_context(limit: int) -> str:

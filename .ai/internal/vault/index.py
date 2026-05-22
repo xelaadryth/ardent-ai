@@ -7,7 +7,7 @@ Handles loading and saving the vault index file.
 import json
 from pathlib import Path
 
-from .file_io import AI_FOLDER
+from internal.vault.file import AI_FOLDER
 
 
 def get_index_file() -> Path:
