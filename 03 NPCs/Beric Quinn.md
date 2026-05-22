@@ -10,7 +10,7 @@ tags:
   - "#spy"
   - "#knights_of_dusk"
   - "#radiant"
-last_updated: 2026-05-25T12:00:00
+last_updated: 2024-05-31T12:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
@@ -25,7 +25,7 @@ Beric stands 5'10" with light green eyes and medium-length brown hair. Despite h
 Beric was driven by a deep-seated hatred for the noble class. He was an egalitarian who believed that destiny was not dictated by the color of one's eyes but by individual action and community support.
 
 # Background
-Originally a hunter for his village in Nuria, Beric arrived on Roshar alongside the other Nurians ([[N'tal]], [[Kuma]], and [[Ojog]]). After witnessing the Truthkeepers' cruelty, he defected to the [[Knights of Dusk]] to act as an internal spy. He died protecting the party and a rescued youth during the transition to the rebellion.
+Originally a hunter for his village in Nuria, Beric arrived on Roshar alongside the other Nurians. After witnessing the Truthkeepers' cruelty, he defected to the [[Knights of Dusk]] to act as an internal spy. During his mission in [[Revolar]], he worked closely with [[Dahmian]] to monitor [[Truthkeepers|Truthkeeper]] activity. He died protecting the party and a rescued youth during the transition to the rebellion.
 
 # Hooks
 - **The Sacrifice:** His death remains a rallying point for the remaining squad members.
@@ -34,3 +34,4 @@ Originally a hunter for his village in Nuria, Beric arrived on Roshar alongside 
 - [[Ojog]]: His ideological enemy.
 - [[Knights of Dusk]]: The organization he died serving.
 - [[General Spade]]: His former commander.
+- [[Dahmian]]: His partner in the [[Revolar]] espionage mission.

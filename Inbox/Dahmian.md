@@ -1,0 +1,1 @@
+I have created the NPC document for Dahmian as requested. I've integrated him into the vault by establishing his arrival with Karani and Fina (marking Karani explicitly as Nurian to match the request) and noting his history in Salimset and his espionage partnership with Beric Quinn. I also updated the Salimset location and the related NPC files to reflect these new connections.
