@@ -2666,40 +2666,56 @@
               "calculate": false,
               "hasRule": false
             }
-          ]
+          ],
+          "hasRule": true
+        },
+        {
+          "type": "group",
+          "id": "2b490a1ada59",
+          "properties": [],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "0a987ae9fae8",
+              "properties": [],
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "health",
+                  "properties": [
+                    "health"
+                  ],
+                  "display": "Health",
+                  "fallback": "0"
+                },
+                {
+                  "type": "property",
+                  "id": "785b99c9c948",
+                  "properties": [
+                    "focus"
+                  ],
+                  "fallback": "-",
+                  "display": "Focus"
+                },
+                {
+                  "type": "property",
+                  "id": "investiture",
+                  "properties": [
+                    "investiture"
+                  ],
+                  "display": "Investiture",
+                  "fallback": "-"
+                }
+              ]
+            }
+          ],
+          "hasRule": false
         },
         {
           "type": "group",
           "id": "statistics-group",
           "heading": "Statistics",
           "nested": [
-            {
-              "type": "property",
-              "id": "health",
-              "properties": [
-                "health"
-              ],
-              "display": "Health",
-              "fallback": "0"
-            },
-            {
-              "type": "property",
-              "id": "focus",
-              "properties": [
-                "focus"
-              ],
-              "display": "Focus",
-              "fallback": "0"
-            },
-            {
-              "type": "property",
-              "id": "investiture",
-              "properties": [
-                "investiture"
-              ],
-              "display": "Investiture",
-              "fallback": "-"
-            },
             {
               "type": "property",
               "id": "deflect",

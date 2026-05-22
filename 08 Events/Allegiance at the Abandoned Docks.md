@@ -18,16 +18,17 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 
 - **The Boy in the Stackhouses:** The party learns that a teenage boy named [[Jory Spadis]], the hale and hearty but young son of [[General Spade]], is being held by the [[Truthkeepers]] as a suspected [[Possessed]], and when his identity was discovered, is now being used as bait. Jory is no criminal—he is a kind, earnest youth who has recently begun speaking to an “imaginary friend” no one else can see. The party may have met him before: he helped them stable their chulls, ran messages without asking payment, or shyly asked them if they ever heard voices in the wind. His arrest makes the threat personal.
 - **The Rescue Mission:** Acting on information from the [[Knights of Dusk]], the party infiltrates a [[Truthkeepers]] interrogation site near some abandoned warehouses in the empty abandoned western docks of the Slipmarket. Their goal is to extract Jory before he is questioned and executed.
-- **Truthkeeper Reinforcements:** The fight seems too easy at first, but an overwhelming squad of [[Truthkeepers]] enforcers waiting to spring the trap corners them, severely injuring at least one of them. At the darkest moment, arrows streak from the night with ribbons of windspren curling behind them. [[Beric Quinn]] and a small contingent of Knights of Dusk skirmishers, including [[Kaz]], emerge from the rooftops. Beric laughs breathlessly as he lands, faint glowing wisps fading from him.
-    
-    > “You didn’t think we’d let you have all the fun, did you?”
-- **The Confrontation:** Just as victory seems possible, [[Ojog]] and [[Renna Palir]] arrives with an even larger wave of Truthkeeper archers, on the rooftops; they followed [[Beric Quinn]]'s forces here. Calm and expressionless, he initially assumes the party is carrying out sanctioned orders. When they reveal that they are rescuing [[Jory Spadis]] and abandoning the [[Truthkeepers]], the betrayal lands like a physical blow.
+- **Truthkeeper Reinforcements:** Just as victory seems possible, [[Ojog]] and [[Renna Palir]] arrives with a large wave of Truthkeeper archers on the rooftops, surrounding the party. Calm and expressionless, he initially assumes the party is carrying out sanctioned orders. When they reveal that they are rescuing [[Jory Spadis]] and abandoning the [[Truthkeepers]], the betrayal lands like a physical blow.
     
     Ojog does not rage. He seems on the verge of tears.
     
     > “I vouched for your loyalty. But I was betrayed. Again, not again!”
     
     Ojog sadly orders his agents to kill them all without mercy. He gives the order to fire, and a devastating wave of arrows tears through the party. More archer reinforcements arrive every turn.
+
+- **Knights of Dusk Reinforcements:** Now completely surrounded, the party is in dire straits. At the darkest moment, arrows streak from the night with ribbons of windspren curling behind them. [[Beric Quinn]] and a small contingent of Knights of Dusk skirmishers, including [[Kaz]], emerge and cut a path out of the encirclement on the far side of [[Ojog]]. Beric laughs breathlessly as he lands, faint glowing wisps fading from him.
+    
+    > “You didn’t think we’d let you have all the fun, did you?”
     
 - **Renna’s Choice:** A low rumbling comes from above, in the darkness, a line of heavy barrels tumbles down, straight into...the archers, scattering them and buying the party precious time, as well as definitively revealing her allegiance to the Knights of Dusk. Renna runs to the party as Beric covers her.
     
@@ -40,9 +41,13 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
     Beric flings his spheres out and drains them all, but instead of healing himself:    
     - He soars to the top of the warehouse, dodging arrows and trailing windspren.
     - Windspren spiral around his arrows like streamers.
-    - As the enemy unleashes a truly deadly and devastating volley from all directions to finish off the party, Beric pulls all the arrows to him with a reverse lashing, pincushioning him, but prevents the arrows from reaching the rest of the party as he clings to life as long as he can.
+    - He gracefully dodges all the arrows coming at him.
 
-> "Journey before destination!"
+> "Ignore the distraction, don't let them get away!"
+
+As the enemy unleashes a truly deadly and devastating volley from all directions to finish off the party, arcing over Beric, he pulls all the arrows to him with a strong reverse lashing, pincushioning him, but prevents the arrows from reaching the rest of the party as he clings to life as long as he can.
+
+> "Journey... before destination"
     
 - **The Escape:** The party escapes into the night with Jory and Renna while the light fades behind them. Beric's martyrdom becomes a defining moment for the Knights of Dusk; a lighteyes and Truthkeeper dying for the cause.
 - **The Aftermath:** Safe in the [[Darkstone Forest]] hideout, Jory reveals that the “voice” he hears is a small, anxious spren that warned him of danger. His survival confirms the Truthkeepers are killing nascent Radiants. The party is welcomed fully into the Knights of Dusk, but the cost of that choice weighs heavily.
