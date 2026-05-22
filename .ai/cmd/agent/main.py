@@ -10,7 +10,7 @@ from internal.outbox import archive_file, find_outbox_file, load_outbox_file
 from internal.llm import generate_content
 from internal.response_parser import apply_response
 from internal.prompt_builder import build_system_prompt
-from internal.workflow_integration import compose_commit_message, handle_workflow_error, print_workflow_output
+from internal.workflow_integration import compose_commit_message, print_workflow_output
 from pkg.vault.io import load_vault_index
 
 
@@ -47,14 +47,11 @@ def run_agent(file_name=None, extra_prompt="") -> Tuple[str, Optional[str]]:
 
 
 def main():
-    try:
-        file_name = os.environ.get("REQUEST_INPUT")
-        extra_prompt = os.environ.get("EXTRA_PROMPT", "")
-        _output, request_name = run_agent(file_name=file_name, extra_prompt=extra_prompt)
-        commit_message = compose_commit_message(request_name, "update")
-        print_workflow_output(request_name, commit_message)
-    except Exception as e:
-        handle_workflow_error(e, "AI agent")
+    file_name = os.environ.get("REQUEST_INPUT")
+    extra_prompt = os.environ.get("EXTRA_PROMPT", "")
+    _output, request_name = run_agent(file_name=file_name, extra_prompt=extra_prompt)
+    commit_message = compose_commit_message(request_name, "update")
+    print_workflow_output(request_name, commit_message)
 
 
 if __name__ == "__main__":

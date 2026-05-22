@@ -4,7 +4,7 @@ import sys
 ai_dir = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(ai_dir))
 
-from internal.workflow_integration import compose_commit_message, handle_workflow_error, print_workflow_output
+from internal.workflow_integration import compose_commit_message, print_workflow_output
 from pkg.vault.crawler import build_index
 from pkg.vault.io import save_vault_index
 
@@ -12,21 +12,17 @@ from pkg.vault.io import save_vault_index
 def main():
     print("Starting deterministic vault reindex...")
     
-    try:
-        # Build index from all markdown files
-        index = build_index()
-        if not index:
-            raise ValueError("No valid markdown files with frontmatter found!")
-        
-        # Save the new index
-        save_vault_index({"files": index})
-        
-        print(f"Successfully reindexed {len(index)} files")
-        commit_message = compose_commit_message(None, "Reindex: Updated vault index from frontmatter")
-        print_workflow_output(commit_message=commit_message)
-        
-    except Exception as exc:
-        handle_workflow_error(exc, "Reindex")
+    # Build index from all markdown files
+    index = build_index()
+    if not index:
+        raise ValueError("No valid markdown files with frontmatter found!")
+    
+    # Save the new index
+    save_vault_index({"files": index})
+    
+    print(f"Successfully reindexed {len(index)} files")
+    commit_message = compose_commit_message(None, "Reindex: Updated vault index from frontmatter")
+    print_workflow_output(commit_message=commit_message)
 
 
 if __name__ == '__main__':

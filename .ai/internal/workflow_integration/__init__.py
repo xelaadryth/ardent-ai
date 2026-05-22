@@ -37,15 +37,3 @@ def compose_commit_message(request_name: Optional[str], operation_type: str = "u
     if request_name:
         return f"Ardent AI {operation_type}: {request_name}"
     return f"Ardent AI {operation_type}"
-
-
-def handle_workflow_error(error: Exception, operation_name: str) -> None:
-    """
-    Handle workflow errors with standardized output and exit codes.
-    
-    Args:
-        error: The exception that occurred
-        operation_name: Name of the operation that failed (for logging)
-    """
-    print(f"ERROR: {operation_name} failed: {error}", file=sys.stderr)
-    sys.exit(1)
