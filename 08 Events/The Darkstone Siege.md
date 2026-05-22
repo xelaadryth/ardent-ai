@@ -48,6 +48,11 @@ Ideas:
 	- "Be proud. Your sacrifice will prevent the Desolations from returning."
 
 - **The Rout:** With their leader fallen, the [[Knights of Dusk]] scatter. [[Truthkeepers]] and [[Silent Oath]] units begin a systematic purge of the survivors.
+# Statblocks
+```statblock
+layout: Cosmere
+monster: Ojog
+```
 
 # Outcomes
 - **The Loophole of Mercy:** As the party attempts to flee using their nascent Radiant powers, they are cornered by [[Istrum]]. Recognizing their potential and the lack of a specific warrant for their execution in the immediate chaos, she chooses inaction, allowing them to vanish into the deeper [[Darkstone Forest]].

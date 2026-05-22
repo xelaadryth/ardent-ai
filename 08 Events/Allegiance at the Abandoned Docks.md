@@ -47,6 +47,12 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 - **The Escape:** The party escapes into the night with Jory and Renna while the light fades behind them. Beric's martyrdom becomes a defining moment for the Knights of Dusk; a lighteyes and Truthkeeper dying for the cause.
 - **The Aftermath:** Safe in the [[Darkstone Forest]] hideout, Jory reveals that the “voice” he hears is a small, anxious spren that warned him of danger. His survival confirms the Truthkeepers are killing nascent Radiants. The party is welcomed fully into the Knights of Dusk, but the cost of that choice weighs heavily.
 
+# Statblocks
+```statblock
+layout: Cosmere
+monster: Ojog
+```
+
 # Connections
 
 - [[Jory Spadis]]: A frightened but good-hearted stablehand beginning to attract a spren.

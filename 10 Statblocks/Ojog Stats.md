@@ -2,54 +2,52 @@
 statblock: true
 layout: Cosmere
 name: Ojog
-scale: Medium Truthkeeper Enforcer
+scale: Tier 1 Rival - Medium Human
 stats:
-  - 4
-  - 3
-  - 4
-  - 3
-  - 4
-  - 2
+  - "1"
+  - "4"
+  - "2"
+  - "3"
+  - "2"
+  - "2"
 defenses:
-  - 15
-  - 13
-  - 14
-health: 78
-focus: 6
-investiture: Low
+  - "15"
+  - "15"
+  - "14"
+health: 36
+focus: 5
+investiture: "4"
 deflect: 2
 movement: 30 ft.
 senses: Passive Awareness 15
 languages: Alethi, Nurian
-p_skills: Athletics +7, Melee Weapons +8, Intimidation +5
-c_skills: Investigation +5, Medicine +7, Tactics +5
-s_skills: Discipline +7, Resolve +6
+p_skills: Agility +6, Athletics +3, Heavy Weaponry +3, Light Weaponry +6
+c_skills: Discipline +5, Lore +5, Medicine +5
+s_skills: Deception + 4, Perception +4
 features:
-  - name: Anatomical Precision
-    desc: Ojog deals an additional 1d6 damage against wounded enemies.
-  - name: Coordinated Enforcement
-    desc: Once per round when an ally damages a creature, Ojog may move up to half his speed toward that creature without provoking opportunity attacks.
-  - name: Truthkeeper Discipline
+  - name: "Surgeon's Precision"
+    desc: "When Ojog successfully Strikes a wounded enemy, he may deal an extra 1d6 damage."
+  - name: "Truthkeeper Discipline"
     desc: Ojog has advantage on saves against fear and emotional manipulation.
-  - name: Battlefield Surgeon
-    desc: As a bonus action, Ojog may stabilize an adjacent ally or grant them 5 temporary health.
+  - name: "Battlefield Surgeon"
+    desc: As a free action, Ojog may spend 1 focus to heal an ally 1d8+6 life.
 actions:
-  - name: Reinforced Shortspear
-    desc: "+8 to hit, reach 10 ft., one target. Hit: 2d8 + 4 piercing damage."
-  - name: Precision Thrust
-    desc: "+8 to hit, one target. Hit: 2d6 + 4 piercing damage, and the target's movement speed is reduced by 10 ft. until the end of its next turn."
-  - name: Shield Bash
-    desc: "+6 to hit. Hit: 1d8 + 3 bludgeoning damage, and the target must succeed on a Physical Defense save (DC 14) or be knocked prone."
-  - name: Suppress the Weak (Recharge 5-6)
-    desc: Up to three enemies within 20 ft. must succeed on a Spiritual Defense save (DC 14) or become frightened until the end of their next turn.
+  - name: "Strike: Shortspear"
+    desc: "Attack +6, reach 5 ft., one target. Graze: 3 (1d6) keen damage. Hit: 1d8 + 6 keen damage."
+  - name: "Haft Strike"
+    desc: "Attack +6, reach 5 ft., one target. Graze: 2 (1d4) impact damage. Hit: 1d4 + 6 impact damage and apply Exhausted 1 until end of combat."
+  - name: "Strike: Shardblade"
+    desc: "Attack +4, reach 5 ft., one target. Graze: 9 (2d8) spirit damage. Hit: 2d8 + 4 spirit damage. Injury table 16+ temporary injury until end of day, 1-15 permanent injury, 0 death."
 reactions:
-  - name: Defensive Counter
-    desc: When a creature within reach misses Ojog with a melee attack, Ojog may immediately make a Reinforced Shortspear attack against them.
+  - name: "Help the Wounded"
+    desc: When an ally is injured, Ojog may immediately move half speed towards them without provoking opportunity attacks.
+  - name: "Stand Your Ground"
+    desc: Ojog can use his shortspear to Brace in reaction to an attack.
 plot_die:
-  - name: Opportunity
-    desc: Ojog spots an opening in the enemy formation. One allied creature gains advantage on their next attack.
-  - name: Complication
-    desc: Memories of Nuria briefly distract Ojog, granting advantage on the next social check against him.
+  - name: "Opportunity"
+    desc: Ojog loses faith in his allies and can no longer use his Battlefield Surgeon feature.
+  - name: "Complication"
+    desc: Ojog gains faith in his allies and recovers 1 focus.
 type: statblock
 npc: "[[Ojog]]"
 ---
