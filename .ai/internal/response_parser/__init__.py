@@ -14,7 +14,17 @@ def parse_frontmatter(content: str) -> dict:
             if line.strip() == '---':
                 frontmatter_str = '\n'.join(lines[1:i])
                 try:
-                    return yaml.safe_load(frontmatter_str) or {}
+                    # Use a custom loader that doesn't parse dates
+                    class NoDatesSafeLoader(yaml.SafeLoader):
+                        pass
+
+                    # Disable timestamp resolution
+                    NoDatesSafeLoader.yaml_implicit_resolvers = {
+                        k: [r for r in v if r[0] != 'tag:yaml.org,2002:timestamp']
+                        for k, v in yaml.SafeLoader.yaml_implicit_resolvers.items()
+                    }
+
+                    return yaml.load(frontmatter_str, Loader=NoDatesSafeLoader) or {}
                 except yaml.YAMLError:
                     return {}
     return {}
