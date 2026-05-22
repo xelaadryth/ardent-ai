@@ -9,6 +9,10 @@
     "last_updated": "datetime",
     "fc-date": "text",
     "leads": "multitext",
-    "priority": "number"
+    "priority": "number",
+    "statblock": "checkbox",
+    "stats": "text",
+    "focus": "number",
+    "health": "number"
   }
 }
