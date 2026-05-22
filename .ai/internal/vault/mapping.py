@@ -26,7 +26,8 @@ def get_folder_prefix_for_type(entry_type: str) -> str:
         "hook": "07 Hooks",
         "event": "08 Events",
         "item": "09 Items",
-        "lore": "10 Lore",
+        "statblock": "10 Statblocks",
+        "lore": "11 Lore",
         "spren": "31 Spren",
         "history": "41 History"
     }

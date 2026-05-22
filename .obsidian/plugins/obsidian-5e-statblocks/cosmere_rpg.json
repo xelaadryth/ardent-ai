@@ -1,0 +1,218 @@
+{
+  "name": "Cosmere",
+  "id": "cosmere",
+  "blocks": [
+    {
+      "type": "group",
+      "id": "header-group",
+      "heading": "",
+      "nested": [
+        {
+          "type": "heading",
+          "id": "name",
+          "properties": ["name"],
+          "size": 1,
+          "fallback": "Unnamed Creature"
+        },
+        {
+          "type": "text",
+          "id": "scale",
+          "properties": ["scale"],
+          "fallback": "Unknown"
+        },
+        {
+          "type": "image",
+          "id": "image",
+          "properties": ["image"],
+          "fallback": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "attributes-group",
+      "heading": "Attributes",
+      "nested": [
+        {
+          "type": "table",
+          "id": "stats-table",
+          "properties": ["stats"],
+          "headers": [
+            "Str",
+            "Spd",
+            "Int",
+            "Wil",
+            "Awa",
+            "Pre"
+          ],
+          "fallback": "-",
+          "calculate": false,
+          "hasRule": false
+        },
+        {
+          "type": "table",
+          "id": "defense-table",
+          "properties": ["defenses"],
+          "headers": [
+            "Physical",
+            "Cognitive",
+            "Spiritual"
+          ],
+          "fallback": "-",
+          "calculate": false,
+          "hasRule": false
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "statistics-group",
+      "heading": "Statistics",
+      "nested": [
+        {
+          "type": "property",
+          "id": "health",
+          "properties": ["health"],
+          "display": "Health",
+          "fallback": "0"
+        },
+        {
+          "type": "property",
+          "id": "focus",
+          "properties": ["focus"],
+          "display": "Focus",
+          "fallback": "0"
+        },
+        {
+          "type": "property",
+          "id": "investiture",
+          "properties": ["investiture"],
+          "display": "Investiture",
+          "fallback": "-"
+        },
+        {
+          "type": "property",
+          "id": "deflect",
+          "properties": ["deflect"],
+          "display": "Deflect",
+          "fallback": "0"
+        },
+        {
+          "type": "property",
+          "id": "movement",
+          "properties": ["movement"],
+          "display": "Movement",
+          "fallback": "30 ft."
+        },
+        {
+          "type": "property",
+          "id": "senses",
+          "properties": ["senses"],
+          "display": "Senses",
+          "fallback": "Normal"
+        },
+        {
+          "type": "property",
+          "id": "immunities",
+          "properties": ["immunities"],
+          "display": "Immunities",
+          "fallback": "None"
+        },
+        {
+          "type": "property",
+          "id": "p-skills",
+          "properties": ["p_skills"],
+          "display": "Physical Skills",
+          "fallback": "-"
+        },
+        {
+          "type": "property",
+          "id": "c-skills",
+          "properties": ["c_skills"],
+          "display": "Cognitive Skills",
+          "fallback": "-"
+        },
+        {
+          "type": "property",
+          "id": "s-skills",
+          "properties": ["s_skills"],
+          "display": "Spiritual Skills",
+          "fallback": "-"
+        },
+        {
+          "type": "property",
+          "id": "surge-skills",
+          "properties": ["surge_skills"],
+          "display": "Surge Skills",
+          "fallback": "-"
+        },
+        {
+          "type": "property",
+          "id": "languages",
+          "properties": ["languages"],
+          "display": "Languages",
+          "fallback": "Common"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "features-group",
+      "heading": "Features",
+      "nested": [
+        {
+          "type": "traits",
+          "id": "features",
+          "properties": ["features"],
+          "fallback": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "actions-group",
+      "heading": "Actions",
+      "nested": [
+        {
+          "type": "traits",
+          "id": "actions",
+          "properties": ["actions"],
+          "fallback": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "reactions-group",
+      "heading": "Reactions",
+      "nested": [
+        {
+          "type": "traits",
+          "id": "reactions",
+          "properties": ["reactions"],
+          "fallback": ""
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "id": "plotdie-group",
+      "heading": "Opportunities & Complications",
+      "nested": [
+        {
+          "type": "traits",
+          "id": "plot-die",
+          "properties": ["plot_die"],
+          "fallback": ""
+        }
+      ]
+    }
+  ],
+  "cssProperties": {
+    "backgroundColor": "#ffffff",
+    "primaryColor": "#000000",
+    "propertyNameFontWeight": "bold",
+    "traitsNameFontStyle": "italic",
+    "barColor": "#1e00ff"
+  }
+}

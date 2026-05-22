@@ -2594,56 +2594,48 @@
   "layouts": [
     {
       "name": "Cosmere",
+      "id": "baca39bb29d8",
       "blocks": [
         {
-          "type": "inline",
-          "id": "7808186a1989",
-          "properties": [],
+          "type": "group",
+          "id": "header-group",
+          "heading": "",
           "nested": [
             {
-              "type": "group",
-              "id": "8bd91a18d8bb",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "heading",
-                  "id": "e979cb090a9a",
-                  "properties": [
-                    "name"
-                  ],
-                  "size": 1,
-                  "fallback": "-"
-                },
-                {
-                  "type": "text",
-                  "id": "bb9bfa6b98f9",
-                  "properties": [
-                    "scale"
-                  ],
-                  "text": null,
-                  "fallback": "-"
-                }
-              ]
+              "type": "heading",
+              "id": "name",
+              "properties": [
+                "name"
+              ],
+              "size": 1,
+              "fallback": "Unnamed Creature"
+            },
+            {
+              "type": "text",
+              "id": "scale",
+              "properties": [
+                "scale"
+              ],
+              "fallback": "Unknown"
             },
             {
               "type": "image",
-              "id": "bba9ca98d9f8",
+              "id": "image",
               "properties": [
                 "image"
               ],
-              "fallback": "-",
-              "conditioned": true
+              "fallback": ""
             }
           ]
         },
         {
           "type": "group",
-          "id": "897afbfa78bb",
-          "properties": [],
+          "id": "attributes-group",
+          "heading": "Attributes",
           "nested": [
             {
               "type": "table",
-              "id": "384b99988a08",
+              "id": "stats-table",
               "properties": [
                 "stats"
               ],
@@ -2655,232 +2647,203 @@
                 "Awa",
                 "Pre"
               ],
-              "calculate": false,
               "fallback": "-",
+              "calculate": false,
               "hasRule": false
             },
             {
               "type": "table",
-              "id": "d82a3ba94b8a",
+              "id": "defense-table",
               "properties": [
                 "defenses"
               ],
               "headers": [
-                "Physical Defense",
-                "Cognitive Defense",
-                "Spiritual Defense"
+                "Physical",
+                "Cognitive",
+                "Spiritual"
               ],
-              "calculate": false,
               "fallback": "-",
+              "calculate": false,
               "hasRule": false
             }
-          ],
-          "heading": "Attributes"
+          ]
         },
         {
           "type": "group",
-          "id": "f9f918aaaa3a",
-          "properties": [],
+          "id": "statistics-group",
+          "heading": "Statistics",
           "nested": [
             {
-              "type": "inline",
-              "id": "29fbf9eb6928",
-              "properties": [],
-              "nested": [
-                {
-                  "type": "property",
-                  "id": "f82a2ae9e808",
-                  "properties": [
-                    "health"
-                  ],
-                  "fallback": "-",
-                  "display": "Health:"
-                },
-                {
-                  "type": "property",
-                  "id": "59083839687a",
-                  "properties": [
-                    "focus"
-                  ],
-                  "fallback": "-",
-                  "display": "Focus:"
-                },
-                {
-                  "type": "property",
-                  "id": "dbc8891b4a49",
-                  "properties": [
-                    "investiture"
-                  ],
-                  "fallback": "-",
-                  "display": "Investiture:",
-                  "conditioned": true
-                }
-              ]
+              "type": "property",
+              "id": "health",
+              "properties": [
+                "health"
+              ],
+              "display": "Health",
+              "fallback": "0"
             },
             {
               "type": "property",
-              "id": "6bdb299a79b8",
+              "id": "focus",
+              "properties": [
+                "focus"
+              ],
+              "display": "Focus",
+              "fallback": "0"
+            },
+            {
+              "type": "property",
+              "id": "investiture",
+              "properties": [
+                "investiture"
+              ],
+              "display": "Investiture",
+              "fallback": "-"
+            },
+            {
+              "type": "property",
+              "id": "deflect",
               "properties": [
                 "deflect"
               ],
-              "fallback": "-",
-              "display": "Deflect:",
-              "conditioned": true
+              "display": "Deflect",
+              "fallback": "0"
             },
             {
               "type": "property",
-              "id": "9b788aa8cb38",
+              "id": "movement",
               "properties": [
                 "movement"
               ],
-              "fallback": "-",
-              "display": "Movement: "
+              "display": "Movement",
+              "fallback": "30 ft."
             },
             {
               "type": "property",
-              "id": "5a383b5a48fb",
+              "id": "senses",
               "properties": [
                 "senses"
               ],
-              "fallback": "-",
-              "display": "Senses:"
+              "display": "Senses",
+              "fallback": "Normal"
             },
             {
               "type": "property",
-              "id": "bbbb19e90b38",
+              "id": "immunities",
               "properties": [
                 "immunities"
               ],
-              "fallback": "-",
-              "display": "Immunities:",
-              "conditioned": true
+              "display": "Immunities",
+              "fallback": "None"
             },
             {
               "type": "property",
-              "id": "e9bbf9bb2b79",
+              "id": "p-skills",
               "properties": [
                 "p_skills"
               ],
-              "fallback": "-",
-              "display": "Physical Skills:",
-              "conditioned": true
+              "display": "Physical Skills",
+              "fallback": "-"
             },
             {
               "type": "property",
-              "id": "093abb3b3b59",
+              "id": "c-skills",
               "properties": [
                 "c_skills"
               ],
-              "fallback": "-",
-              "display": "Cognitive Skills:",
-              "conditioned": true
+              "display": "Cognitive Skills",
+              "fallback": "-"
             },
             {
               "type": "property",
-              "id": "bb9bfb9829e8",
+              "id": "s-skills",
               "properties": [
                 "s_skills"
               ],
-              "fallback": "-",
-              "display": "Spiritual Skills:",
-              "conditioned": true
+              "display": "Spiritual Skills",
+              "fallback": "-"
             },
             {
               "type": "property",
-              "id": "88ebbaa9e9ca",
+              "id": "surge-skills",
               "properties": [
                 "surge_skills"
               ],
-              "fallback": "-",
-              "display": "Surge Skills:",
-              "conditioned": true
+              "display": "Surge Skills",
+              "fallback": "-"
             },
             {
               "type": "property",
-              "id": "ba69abd97808",
+              "id": "languages",
               "properties": [
                 "languages"
               ],
-              "fallback": "-",
-              "display": "Languages:"
+              "display": "Languages",
+              "fallback": "Common"
             }
-          ],
-          "heading": "Statistics"
+          ]
         },
         {
           "type": "group",
-          "id": "2839e8888a8a",
-          "properties": [],
+          "id": "features-group",
+          "heading": "Features",
           "nested": [
             {
               "type": "traits",
-              "id": "eadbe9ab79e8",
+              "id": "features",
               "properties": [
                 "features"
               ],
-              "fallback": "-",
-              "conditioned": true
+              "fallback": ""
             }
-          ],
-          "heading": "Features",
-          "conditioned": true
+          ]
         },
         {
           "type": "group",
-          "id": "fa88f9eaba38",
-          "properties": [],
+          "id": "actions-group",
+          "heading": "Actions",
           "nested": [
             {
               "type": "traits",
-              "id": "a9b9585a8948",
+              "id": "actions",
               "properties": [
                 "actions"
               ],
-              "fallback": "-",
-              "conditioned": true
+              "fallback": ""
             }
-          ],
-          "heading": "Actions",
-          "conditioned": true
+          ]
         },
         {
           "type": "group",
-          "id": "288a3b88e98a",
-          "properties": [],
+          "id": "reactions-group",
+          "heading": "Reactions",
           "nested": [
             {
               "type": "traits",
-              "id": "5ba9f8d85bf8",
+              "id": "reactions",
               "properties": [
                 "reactions"
               ],
-              "fallback": "-",
-              "conditioned": true
+              "fallback": ""
             }
-          ],
-          "heading": "Reactions",
-          "conditioned": true
+          ]
         },
         {
           "type": "group",
-          "id": "e879e8280919",
-          "properties": [],
+          "id": "plotdie-group",
+          "heading": "Opportunities & Complications",
           "nested": [
             {
               "type": "traits",
-              "id": "b88bc90ac8e8",
+              "id": "plot-die",
               "properties": [
                 "plot_die"
               ],
-              "fallback": "-",
-              "conditioned": true
+              "fallback": ""
             }
-          ],
-          "heading": "Opportunities & Complications",
-          "conditioned": true
+          ]
         }
       ],
-      "id": "e8ea998bba0a",
       "cssProperties": {
         "backgroundColor": "#ffffff",
         "primaryColor": "#000000",
@@ -2891,7 +2854,7 @@
       "diceParsing": []
     }
   ],
-  "default": "e8ea998bba0a",
+  "default": "baca39bb29d8",
   "useDice": true,
   "renderDice": false,
   "export": true,
@@ -2901,8 +2864,10 @@
     "minor": 10,
     "patch": 3
   },
-  "paths": [],
-  "autoParse": false,
+  "paths": [
+    "10 Statblocks"
+  ],
+  "autoParse": true,
   "disableSRD": true,
   "tryToRenderLinks": true,
   "debug": false,

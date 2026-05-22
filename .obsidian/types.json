@@ -11,8 +11,10 @@
     "leads": "multitext",
     "priority": "number",
     "statblock": "checkbox",
-    "stats": "text",
+    "stats": "multitext",
     "focus": "number",
-    "health": "number"
+    "health": "number",
+    "npc": "text",
+    "defenses": "multitext"
   }
 }

@@ -111,6 +111,7 @@ Vault entry types map to numbered folders:
 - hook: 07 Hooks
 - event: 08 Events
 - item: 09 Items
-- lore: 10 Lore
+- item: 10 Statblocks
+- lore: 11 Lore
 - spren: 31 Spren
 - history: 41 History

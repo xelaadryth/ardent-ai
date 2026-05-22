@@ -10,7 +10,7 @@ number: 4
 ---
 
 # Description
-The party witnesses the experimental steamship test in [[Tomat]] before traveling downstream to [[Bodenar]] to uncover the origin of unstable [[Nurian Gems]]. This journey involves [[N'tal]]'s revenge against [[Grand Justicar Malice]] and [[Kuma]]'s research into artifabrials, all while Jah Keved is destabilized by [[Szeth-son-son-Vallano]].
+The party witnesses the experimental steamship test in [[Tomat]] before traveling downstream to [[Bodenar]] to uncover the origin of unstable [[Nurian Gems]]. This journey involves [[N'tal]]'s revenge against [[Grand Justicar Malice]] and [[Kuma]]'s research into artifabrials, all while Jah Keved is destabilized by [[03 NPCs/Szeth-son-son-Vallano]].
 
 # Key Players
 - [[N'tal]]: Seeking the Bloodmark Grand Justicar.

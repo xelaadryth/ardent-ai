@@ -10,4 +10,4 @@ session:
 ---
 # Description
 
-The assassination of King Gavilar by the [[Szeth-son-son-Vallano]] led to the 10 highprinces swearing to fight the War of Reckoning against the Parshendi at the [[Shattered Plains]].
+The assassination of King Gavilar by the [[03 NPCs/Szeth-son-son-Vallano]] led to the 10 highprinces swearing to fight the War of Reckoning against the Parshendi at the [[Shattered Plains]].
