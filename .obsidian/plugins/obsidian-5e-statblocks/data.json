@@ -2855,7 +2855,7 @@
     }
   ],
   "default": "baca39bb29d8",
-  "useDice": true,
+  "useDice": false,
   "renderDice": false,
   "export": true,
   "showAdvanced": true,
