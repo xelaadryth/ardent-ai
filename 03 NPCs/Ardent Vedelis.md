@@ -8,12 +8,11 @@ tags:
   - "#veristitalian"
   - "#alethi"
   - "#soulcaster"
-last_updated: 2026-05-20T13:00:00
-faction: "[[Knights of Dusk]]"
-location:
+  - "#devotary_of_sincerity"
+last_updated: 2024-05-31T14:00:00
 ---
 # Description
-A dedicated Ardent of Vamah who sought to preserve historical truth. Trained in the ancient art of Soulcasting, he was a close ally of [[Lavrik]] and a member of the [[Devotary of Sincerity]].
+A dedicated Ardent of Vamah who sought to preserve historical truth. Trained in the ancient art of Soulcasting, he was a close ally of [[Lavrik]] and a member of the [[Vorin Devotaries|Devotary of Sincerity]].
 
 # Appearance
 Vedelis wore the humble grey robes of the Ardentia, though his hands were often stained with the ink of a scholar and the dust of ancient ruins.

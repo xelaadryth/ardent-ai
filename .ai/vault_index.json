@@ -108,6 +108,13 @@
       ],
       "last_updated": "<% tp.date.now(\"YYYY-MM-DDTHH:mm:ss\") %>"
     },
+    "Statblock Template": {
+      "type": "statblock",
+      "status": "",
+      "links": [],
+      "tags": [],
+      "last_updated": ""
+    },
     "01 Truthkeepers Arc": {
       "type": "arc",
       "status": "completed",
@@ -218,7 +225,7 @@
         "[[N'tal]]",
         "[[Grand Justicar Malice]]",
         "[[Kuma]]",
-        "[[Szeth-son-son-Vallano]]",
+        "[[03 NPCs/Szeth-son-son-Vallano]]",
         "[[Vorn]]",
         "[[The Experimental Steamship]]"
       ],
@@ -252,6 +259,9 @@
       "status": "active",
       "links": [
         "[[Verdae]]",
+        "[[Truthkeeper Camp]]",
+        "[[Dahmian]]",
+        "[[Karani]]",
         "[[Bloodmarks]]",
         "[[N'tal]]",
         "[[Undertaker]]",
@@ -264,14 +274,14 @@
         "#noble",
         "#lighteyed"
       ],
-      "last_updated": "2026-05-18T00:00:00"
+      "last_updated": "2024-05-31T12:00:00"
     },
     "Galeth-son-Thald": {
       "type": "player",
       "status": "active",
       "links": [
         "[[Kun'ahu]]",
-        "[[Szeth-son-son-Vallano]]",
+        "[[03 NPCs/Szeth-son-son-Vallano]]",
         "[[The Axelsmith]]",
         "[[Neturo]]"
       ],
@@ -369,7 +379,8 @@
       "status": "active",
       "links": [
         "[[Truthkeepers]]",
-        "[[Revolar]]"
+        "[[Revolar]]",
+        "[[Ojog]]"
       ],
       "tags": [
         "#npc",
@@ -480,8 +491,7 @@
         "[[Knights of Dusk]]",
         "[[Revolar]]",
         "[[Truthkeepers|Truthkeeper]]",
-        "[[N'tal]]",
-        "[[Kuma]]",
+        "[[Dahmian]]",
         "[[Ojog]]",
         "[[General Spade]]"
       ],
@@ -495,7 +505,7 @@
         "#knights_of_dusk",
         "#radiant"
       ],
-      "last_updated": "2026-05-25T12:00:00"
+      "last_updated": "2024-05-31T12:00:00"
     },
     "Brightlord Juran": {
       "type": "npc",
@@ -561,6 +571,32 @@
         "#bit"
       ],
       "last_updated": "2026-05-15T12:00:00"
+    },
+    "Dahmian": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Revolar]]",
+        "[[Knights of Dusk]]",
+        "[[Truthkeeper Camp]]",
+        "[[Karani]]",
+        "[[Fina]]",
+        "[[Salimset]]",
+        "[[Possessed]]",
+        "[[Adjudicator Peton]]",
+        "[[Beric Quinn]]",
+        "[[The Darkstone Siege]]"
+      ],
+      "tags": [
+        "#npc",
+        "#nurian",
+        "#mercenary",
+        "#enforcer",
+        "#spy",
+        "#foodie"
+      ],
+      "last_updated": "2024-05-31T12:00:00"
     },
     "Dalen": {
       "type": "npc",
@@ -855,19 +891,23 @@
       "links": [
         "[[Ghostbloods]]",
         "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Truthkeeper Camp]]",
+        "[[Dahmian]]",
+        "[[Fina]]",
         "[[Sila]]",
         "[[Chip]]",
         "[[Tahs]]",
-        "[[Fina]]"
+        "[[Ghostbloods|Ghostblood]]"
       ],
       "tags": [
         "#npc",
+        "#nurian",
         "#darkeyed",
-        "#alethi",
         "#worldhopper",
         "#ghostbloods"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2024-05-31T12:00:00"
     },
     "Kaz": {
       "type": "npc",
@@ -2029,12 +2069,14 @@
         "[[Chip]]",
         "[[Sweeper]]",
         "[[Morrow]]",
-        "[[Truthkeepers]]"
+        "[[Truthkeepers]]",
+        "[[Dahmian]]",
+        "[[Possessed]]"
       ],
       "tags": [
         "#location"
       ],
-      "last_updated": "2024-05-18T00:00:00"
+      "last_updated": "2024-05-31T12:00:00"
     },
     "Scarstone Quarter": {
       "type": "location",
@@ -2411,10 +2453,10 @@
         "[[Jory Spadis]]",
         "[[General Spade]]",
         "[[Possessed]]",
-        "[[Beric Quinn]]",
-        "[[Kaz]]",
         "[[Ojog]]",
         "[[Renna Palir]]",
+        "[[Beric Quinn]]",
+        "[[Kaz]]",
         "[[Darkstone Forest]]"
       ],
       "tags": [
@@ -2688,6 +2730,17 @@
       ],
       "last_updated": "2026-05-16T12:00:00"
     },
+    "Veden Civil War": {
+      "type": "event",
+      "status": "planned",
+      "links": [
+        "[[Szeth-son-son-Vallano]]"
+      ],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-16T19:22:15"
+    },
     "Cremwidow Poison": {
       "type": "item",
       "status": "active",
@@ -2698,6 +2751,24 @@
         "#item"
       ],
       "last_updated": "2026-05-17T00:00:00"
+    },
+    "Beric Quinn Stats": {
+      "type": "statblock",
+      "status": "",
+      "links": [
+        "[[Beric Quinn]]"
+      ],
+      "tags": [],
+      "last_updated": ""
+    },
+    "Ojog Stats": {
+      "type": "statblock",
+      "status": "",
+      "links": [
+        "[[Ojog]]"
+      ],
+      "tags": [],
+      "last_updated": ""
     },
     "Cuisine of Roshar": {
       "type": "lore",
@@ -2982,11 +3053,29 @@
       ],
       "last_updated": "2026-05-16T22:27:44"
     },
+    "Fall of the Hierocracy": {
+      "type": "event",
+      "status": "completed",
+      "links": [],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-17T21:03:51"
+    },
+    "Human Arrival": {
+      "type": "event",
+      "status": "completed",
+      "links": [],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-16T19:22:15"
+    },
     "The Vengeance Pact": {
       "type": "event",
       "status": "completed",
       "links": [
-        "[[Szeth-son-son-Vallano]]",
+        "[[03 NPCs/Szeth-son-son-Vallano]]",
         "[[Shattered Plains]]"
       ],
       "tags": [

@@ -6,18 +6,17 @@ tags:
   - "#ardent"
   - "#scholar"
   - "#alethi"
-last_updated: 2026-05-20T13:00:00
-faction:
-location: "[[Revolar]]"
+  - "#devotary_of_sincerity"
+last_updated: 2024-05-31T14:00:00
 ---
 # Description
 An older, eccentric Ardent with a shaved head and the standard grey robes of his order. He specializes in geology and ancient history, seeking truth in the physical layers of the world.
 
 # Personality
-Kaelis has little patience for social posturing but becomes intensely engaged when discussing the physical history of the world. He belongs to the Devotary of Sincerity.
+Kaelis has little patience for social posturing but becomes intensely engaged when discussing the physical history of the world. He belongs to the [[Vorin Devotaries|Devotary of Sincerity]].
 
 # Background
-Located in [[Revolar]], Kaelis has encountered [[Iiko]]. Recognizing their unique discipline and chaotic potential, he is attempting to guide them toward a formal devotary to ground their research. Of the devotaries, the Devotary of Sincerity is very willing to let their ardents engage in field research, especially with Kaelis's recommendation. Bright-ardent Amott trusts Kaelis.
+Located in [[Revolar]], Kaelis has encountered [[Iiko]]. Recognizing their unique discipline and chaotic potential, he is attempting to guide them toward a formal devotary to ground their research. Of the [[Vorin Devotaries]], the Devotary of Sincerity is very willing to let their ardents engage in field research, especially with Kaelis's recommendation. Bright-ardent Amott trusts Kaelis.
 
 # Goals
 - **Mentor Iiko:** Prompt [[Iiko]] to join a devotary and follow the path of a scholar.
