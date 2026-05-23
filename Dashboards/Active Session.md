@@ -24,19 +24,19 @@ Current Session: [[013 Tilting Loyalties]]
 	- [[Beric Quinn]]/[[Kaz]] from the [[Knights of Dusk]] comes in to help
 # Upcoming Events
 
-<!-- QueryToSerialize: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
-<!-- SerializedQuery: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.name ASC -->
+<!-- QueryToSerialize: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
+<!-- SerializedQuery: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
 
 | File                                                                                  | Date       |
 | ------------------------------------------------------------------------------------- | ---------- |
-| [[Allegiance at the Abandoned Docks]] | 1172-02-28 |
 | [[Meeting with the Undertaker]]             | 1172-02-17 |
-| [[Sister Reunion]]                                       | 1172-02-21 |
 | [[The Boutique Confrontation]]               | 1172-02-18 |
-| [[The Cinder Evacuation]]                         | 1172-02-20 |
-| [[The Darkstone Siege]]                             | 1172-02-32 |
-| [[The Foundry Chase]]                                 | 1172-02-19 |
 | [[The Missing Supplies]]                           | 1172-02-18 |
+| [[The Foundry Chase]]                                 | 1172-02-19 |
+| [[The Cinder Evacuation]]                         | 1172-02-20 |
+| [[Sister Reunion]]                                       | 1172-02-21 |
+| [[Allegiance at the Abandoned Docks]] | 1172-02-28 |
+| [[The Darkstone Siege]]                             | 1172-02-32 |
 
 
 <!-- SerializedQuery END -->
