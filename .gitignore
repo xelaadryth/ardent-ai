@@ -11,3 +11,6 @@
 
 # GitHub Action temp file after running pipeline.py
 output.txt
+
+# Copilot conversations
+copilot/
