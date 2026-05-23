@@ -1,1 +1,0 @@
-I have created the 'Vorin Devotaries' lore document, detailing the primary devotaries, the concept of Callings and Glories, and clarifying the position of the Veristitalians as requested. I've also updated Iiko, Ardent Kaelis, and Ardent Vedelis to reflect their affiliations with the Devotary of Sincerity.
