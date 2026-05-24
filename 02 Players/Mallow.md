@@ -23,6 +23,19 @@ Mallow is deeply protective and possesses a sense of wonder about the wider worl
 # Background
 Mallow joined the [[Truthkeepers]] as an Enforcer to track down her sister, [[Khria]], after reporting her to the authorities in a moment of panic. While in [[Revolar]], her distinctive gait was recognized at [[The Shining Quill]], leading to a breakthrough in her search.
 
+# First Ideal
+
+> Life before death.
+
+Life is freedom, the absence of choices is when you're truly dead.
+
+> Strength before weakness.
+
+Strength is having choices, the ability to affect the world around you. Weakness is lacking agency; it is the agency of the strong to be able to empower the weak.
+
+> Journey before destination.
+
+Freedom is not a destination, it is a never ending path that will be constantly oppressed, but also can constantly be enjoyed. The freedom to choose your journey.
 # Goals
 - Find and rescue [[Khria]].
 - Protect the forgotten and the oppressed.

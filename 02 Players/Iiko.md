@@ -22,6 +22,20 @@ A whirlwind of enthusiasm and relentless curiosity. Iiko is lively, brilliant, a
 # Background
 As part of their transition into [[Revolar]], Iiko meets [[Ardent Kaelis]], whose eccentric approach to objective truth through geology and history deeply resonates with them. They are currently weighing a call to join the [[Vorin Devotaries|Devotary of Sincerity]].
 
+# First Ideal
+
+> Life before death.
+
+By the Almighty's tenth name, have a little bit of self-preservation instinct.
+
+> Strength before weakness.
+
+To know strength, you must know truth. The truth of the past reshapes who is strong and weak. Sharing that truth and knowledge is strength, whereas keeping it away from everyone is weakness.
+
+> Journey before destination.
+
+Learning is a never-ending journey, there's always another secret. Contentment in the pursuit of learning is more important than if you ever find the Spiritual Realm. But just so ya know, yeah it does exist.
+
 # Goals
 - **Devotary Path:** Join a devotary as prompted by [[Ardent Kaelis]].
 - **Discover Truth:** Determine if the "Possessed" are truly mad or perceiving deeper truths.

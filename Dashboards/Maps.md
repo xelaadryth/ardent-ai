@@ -14,5 +14,6 @@ image: [[Map of Roshar.png]]
 defaultZoom: 0
 minZoom: -1
 maxZoom: 2
+scale: 8
 unit: miles
 ```
