@@ -20,7 +20,7 @@ Veden features with red hair and pale skin, paired with cold, light grey eyes. H
 Malice is the embodiment of "the law as a weapon." He views people as assets or obstacles and has no qualms about using extreme violence to maintain order. He possesses a cosmic perspective, making him patient and exceptionally dangerous.
 
 # Background
-One of the four Grand Justicars of the [[Bloodmarks]], Malice has spent decades consolidating power in [[Bodenar]]. He discovered the existence of a Perpendicularity and the secrets of the Cognitive Realm, which he used to fuel the growth of the [[Bloodmarks]] as his personal shadow-army. He orchestrated the sabotage of the [[Ghostbloods]] gem deal, ordering the ambush that resulted in the death of [[N'tal]]'s family.
+One of the four Grand Justicars of the [[Bloodmarks]], Temeret Malice has spent decades consolidating power in [[Bodenar]]. He discovered the existence of a Perpendicularity and the secrets of the Cognitive Realm, which he used to fuel the growth of the [[Bloodmarks]] as his personal shadow-army. He orchestrated the sabotage of the [[Ghostbloods]] gem deal, ordering the ambush that resulted in the death of [[N'tal]]'s family.
 
 # Goals
 - **Monopoly on Worldhopping:** Seek to be the sole gatekeeper of the Perpendicularity in the Horneater Peaks.

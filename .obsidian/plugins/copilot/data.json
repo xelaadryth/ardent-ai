@@ -25,7 +25,7 @@
   "githubCopilotTokenExpiresAt": 0,
   "defaultChainType": "vault_qa",
   "defaultModelKey": "gemini-3.1-flash-lite|google",
-  "embeddingModelKey": "openai/text-embedding-3-small|openrouterai",
+  "embeddingModelKey": "gemini-embedding-001|google",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -42,13 +42,13 @@
   "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot/copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
-  "qaExclusions": "copilot",
+  "qaExclusions": "copilot,Images,Archive,Dashboards",
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
   "enableIndexSync": true,
   "debug": false,
-  "maxSourceChunks": 30,
+  "maxSourceChunks": 128,
   "enableInlineCitations": true,
   "groqApiKey": "",
   "activeModels": [
@@ -106,8 +106,8 @@
       "isBuiltIn": true,
       "projectEnabled": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -117,8 +117,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -129,8 +129,8 @@
       "isBuiltIn": true,
       "projectEnabled": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -162,8 +162,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -257,8 +257,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -268,8 +268,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -279,8 +279,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -451,7 +451,7 @@
   "showSuggestedPrompts": true,
   "showRelevantNotes": true,
   "numPartitions": 1,
-  "lexicalSearchRamLimit": 100,
+  "lexicalSearchRamLimit": 500,
   "promptUsageTimestamps": {},
   "promptSortStrategy": "timestamp",
   "chatHistorySortStrategy": "recent",
@@ -464,7 +464,7 @@
   "passMarkdownImages": true,
   "enableAutonomousAgent": true,
   "enableCustomPromptTemplating": true,
-  "enableSemanticSearchV3": false,
+  "enableSemanticSearchV3": true,
   "enableSelfHostMode": false,
   "enableMiyo": false,
   "miyoSearchAll": false,
