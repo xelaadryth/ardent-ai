@@ -6,7 +6,7 @@ tags:
   - "#dustbringer"
   - "#nurian"
   - "#merchant"
-last_updated: 2024-05-25T10:00:00
+last_updated: 2026-06-01T12:00:00
 player: Ryan
 spren: "[[Pyre]]"
 ---
@@ -25,7 +25,7 @@ Dark hazel eyes and short dark brown hair. At 4'10", he is remarkably short for 
 Distrustful and cautious, valuing patience and self-control to keep [[Pyre]] in check.
 
 # Background
-N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. He recently learned from the [[Undertaker]] that [[Fina]] signed the legal papers that authorized the syndicate's takeover.'
+N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. He recently learned from the [[Undertaker]] that [[Fina]] signed the [[Aelwood Contract]] that authorized the syndicate's takeover.
 
 # First Ideal
 
@@ -42,7 +42,6 @@ True strength is discipline. Don't let weaknesses such as rage or sympathy impai
 Your choice here determines the journey you will walk; the path of vengeance or salvation.
 
 # Goals
-- Find the [[Undertaker]] in [[Revolar]] and learn the truth about his family (Completed).
 - Hunt down [[Arbiter Jalis]].
 
 # Hooks

@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#noble"
   - "#lighteyed"
-last_updated: 2024-05-31T12:00:00
+last_updated: 2026-06-01T12:00:00
 player: Shirley
 spren: "[[Verdae]]"
 ---
@@ -22,7 +22,7 @@ Light brown eyes and light brown hair. Stands 5'7" with the poise of an Alethi n
 A complex mix of grace and pragmatic ruthlessness. Cold and efficient when protecting her interests, yet driven by the Edgedancer oath to remember the forgotten.
 
 # Background
-Born into a noble family, Fina rejected a marriage alliance with a "nature cult" and fled through the Cognitive Realm. She arrived at the [[Truthkeeper Camp]] in a wagon alongside the Nurians [[Dahmian]] and [[Karani]]. Her historical negligence in signing administrative documents without reading them enabled the [[Bloodmarks]] to seize [[N'tal]]'s family assets, a fact recently revealed by the [[Undertaker]].
+Born into a noble family, Fina rejected a marriage alliance with a "nature cult" and fled through the Cognitive Realm. She arrived at the [[Truthkeeper Camp]] in a wagon alongside the Nurians [[Dahmian]] and [[Karani]]. Her historical negligence in signing administrative documents without reading them enabled the [[Bloodmarks]] to seize [[N'tal]]'s family assets (the [[Aelwood Contract]]), a fact recently revealed by the [[Undertaker]].
 
 # First Ideal
 

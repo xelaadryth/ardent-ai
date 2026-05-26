@@ -318,6 +318,8 @@
       "status": "active",
       "links": [
         "[[Viscose]]",
+        "[[Higuma]]",
+        "[[The Experimental Steamship]]",
         "[[Tomat]]",
         "[[Nurian Gems]]",
         "[[Bodenar]]",
@@ -329,7 +331,7 @@
         "#nurian",
         "#maker"
       ],
-      "last_updated": "2024-05-30T12:00:00"
+      "last_updated": "2024-06-01T09:00:00"
     },
     "Mallow": {
       "type": "player",
@@ -793,6 +795,27 @@
         "#highlord"
       ],
       "last_updated": "2026-05-20T12:00:00"
+    },
+    "Higuma": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Bodenar]]",
+        "[[Kuma]]",
+        "[[Nurian Gems]]",
+        "[[The Experimental Steamship]]",
+        "[[Tomat]]",
+        "[[Grand Justicar Malice]]"
+      ],
+      "tags": [
+        "#npc",
+        "#nurian",
+        "#artifabrian",
+        "#captive",
+        "#bloodmarks"
+      ],
+      "last_updated": "2024-06-01T09:00:00"
     },
     "Ilsh": {
       "type": "npc",
@@ -1726,6 +1749,8 @@
       "status": "active",
       "links": [
         "[[Bodenar]]",
+        "[[Higuma]]",
+        "[[Nurian Gems]]",
         "[[Revolar]]",
         "[[Grand Justicar Malice]]",
         "[[Arbiter Jalis]]",
@@ -1739,7 +1764,7 @@
         "#criminal_organization",
         "#worldhopping"
       ],
-      "last_updated": "2024-05-18T00:00:00"
+      "last_updated": "2024-06-01T09:00:00"
     },
     "Envisagers": {
       "type": "faction",
@@ -2327,7 +2352,7 @@
         "[[The Experimental Steamship]]",
         "[[Tomat]]",
         "[[Nurian Gems]]",
-        "[[Bodenar]]"
+        "[[Higuma]]"
       ],
       "tags": [
         "#hook",
@@ -2335,7 +2360,7 @@
         "#nurian_gems",
         "#fabrial"
       ],
-      "last_updated": "2024-05-30T12:00:00"
+      "last_updated": "2024-06-01T09:00:00"
     },
     "Resonance of the Past": {
       "type": "hook",
@@ -2641,6 +2666,7 @@
         "[[Nurian Gems]]",
         "[[Bloodmarks]]",
         "[[Bodenar]]",
+        "[[Higuma]]",
         "[[Vorn]]",
         "[[Ilsh]]",
         "[[Kuma]]"
@@ -2650,7 +2676,7 @@
         "#tomatt",
         "#fabrial"
       ],
-      "last_updated": "2024-05-30T12:00:00"
+      "last_updated": "2024-06-01T09:00:00"
     },
     "The Foundry Chase": {
       "type": "event",
