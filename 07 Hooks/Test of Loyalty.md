@@ -1,6 +1,6 @@
 ---
 type: hook
-status: active
+status: completed
 tags:
   - "#hook"
 last_updated: 2024-05-30T12:00:00

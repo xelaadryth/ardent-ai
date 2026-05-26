@@ -1,17 +1,17 @@
 ---
 type: hook
-status: active
+status: completed
 tags:
   - "#hook"
   - "#iiko"
   - "#devotary_of_sincerity"
   - "#scholar"
 last_updated: 2024-05-31T14:00:00
-summary: "Ardent Kaelis recruits Iiko into the Devotary of Sincerity through a series of scholarly challenges."
+summary: Ardent Kaelis recruits Iiko into the Devotary of Sincerity through a series of scholarly challenges.
 priority: 10
 leads:
-  - "Finding an open book with undertext in the Vamah Archivum."
-  - "Overhearing conversations about banned historical texts."
+  - Finding an open book with undertext in the Vamah Archivum.
+  - Overhearing conversations about banned historical texts.
 ---
 
 # Description
