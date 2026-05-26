@@ -23,8 +23,10 @@ Usually happy and likes helping others. He is deeply traumatized by his capture 
 # Background
 The son of [[General Spade]] of the [[Knights of Dusk]] was captured after seen whispering to himself after helping out a darkeyed being bullied by other lighteyed by the [[Bloodmarks]], knowing there's a reward for his capture as a [[Possessed]]. He was captured by [[Arbiter Jalis]] during a transfer operation and held for interrogation regarding the rebel hideouts. He is a budding Windrunner, following in the footsteps of his future savior [[Beric Quinn]].
 
+When saved, he mentions [[Zabriel]] is being held in some abandoned docks in the western [[Slipmarket]], leading to [[Allegiance at the Abandoned Docks]].
+
 # Goals
-- Survive his captivity.
+- Protect others - try to save [[Zabriel]].
 - Impress his father.
 - Understand the voices in his head.
 

@@ -91,6 +91,27 @@ A deep voice booms out, echoing around the room, and a pillar of light engulfs y
 
 Discard all emotion, forget right and wrong, and choose your fate. Do you chase Jalis, or do you save Jory?
 
+For [[Kuma]], the torch is tossed onto the flames and the entire first floor burns with flames for 1d8 energy damage per round. He must Transform the flames to air or water.
+
+> Life before death.
+
+Constantly putting your life at risk to prevent others from dying, you're doing good. Using your creations and power to help improve and save people's lives is great.
+
+> Strength before weakness.
+
+Power is the greatest strength. If you accumulate more power, you can do even more good. Don't let weaknesses and fear of fire hold you back from becoming the greatest version of yourself.
+
+> Journey before destination.
+
+Crafting the ultimate item is a goal, but you need to put in the work and educate yourself to make strides toward that goal. And once you create that item and have that power, it is how you use that power that matters; that power is a means, not an end. Extinguishing the fire is a step on your journey, and you will climb higher and higher; the strive to climb is what's important, no matter where you die.
+
+- [[Kuma]] can use Transformation to remove the fire
+- [[Fina]] (like [[N'tal]]) can use Abrasion to move across difficult terrain
+- [[Fina]] and [[Iiko]] may work together to Regrowth someone back from the brink.
+- [[Kuma]] and [[Mallow]] may work together to teleport out of a situation
+- [[Galeth-son-Thald]] and [[Mallow]] may shape stone to create a ramp or tunnel
+- [[Galeth-son-Thald]] may harden clothing as armor against enemies, increase surface tension of liquids to walk across them, make hard objects more durable
+
 # Outcomes
 - **Speaking the Words:** If [[N'tal]] chooses to save Jory, he manifests full control over Abrasion, allowing him to glide across the slick foundry floor to reach the release mechanism in time, or destroy the vat to prevent Jory from drowning. 
 - **The Escaped Villain:** By saving Jory, [[Arbiter Jalis]] manages to escape into the [[Scarstone Quarter]], cementing his role as a recurring nemesis linked to N'tal's past.
