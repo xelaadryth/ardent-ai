@@ -1,5 +1,5 @@
 Current Arc: [[02 Knights of Dusk Arc]]
-Current Session: [[013 Tilting Loyalties]]
+Current Session: [[014 Nothing but the Truth]]
 
 # TODO
 - Vamah Archivum
