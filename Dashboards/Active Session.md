@@ -1,15 +1,6 @@
 Current Arc: [[02 Knights of Dusk Arc]]
 Current Session: [[013 Tilting Loyalties]]
 
-Undertaker
-Gemheart Inn
-Vamah Archivum
-Stackhouses
-Shield Ring West Gate
-Missing Supplies
-Boutique Confrontation
-Chat in a tavern - truths come out
-
 # TODO
 - Bruckslats
 	- [[Meeting with the Undertaker]]
