@@ -19,7 +19,7 @@ A gruff, no-nonsense darkeyed leader of a local [[Knights of Dusk]] cell in the 
 Kaz is a burly man in his late 40s with calloused, stone-stained hands. He has a thick, peppered beard and a face lined by years of hard labor. He typically wears a worn stone-cutter's apron over practical Alethi darkeyed clothing.
 
 # Personality
-Kaz is blunt and inherently suspicious of outsiders. He has little patience for the "noble ideals" of the Radiants, viewing the rebellion primarily as a means to protect his neighbors from starvation and debt. Despite his rough exterior, he is fiercely protective of those in the [[Stackhouses]].
+Kaz is blunt and inherently suspicious of outsiders. He has little patience for the "noble ideals" of the Radiants, viewing the rebellion primarily as a means to protect his neighbors from starvation and debt. Despite his rough exterior, he is fiercely protective of those in the [[Stackhouses]]. Also a little too naive and trusting of the supicious party, believing in the better nature of folk.
 
 # Background
 Before the rise of [[Highlord Paladar]], Kaz was a respected foreman in the [[Revolar]] stone-cutting guilds. When the administration began seizing guild assets and turning a blind eye to [[Bloodmarks]] extortion, Kaz lost his livelihood after protesting the new taxes. He utilized his knowledge of [[Revolar]]'s architecture to help [[General Spade]] establish the first urban safehouses. He now oversees the "laundry signals" network in the [[Scarstone Quarter]].

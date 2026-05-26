@@ -13,7 +13,7 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 
 # Key Players
 - [[Truthkeepers]] & [[Silent Oath]]: [[High Enforcer Aylen]], [[Istrum]], [[Ojog]].
-- [[Knights of Dusk]]: [[General Spade]], [[Khria]], [[Beric Quinn]], **Kaz**.
+- [[Knights of Dusk]]: [[General Spade]], [[Khria]], [[Beric Quinn]], [[Kaz]].
 - [[Ghostbloods]]: [[Undertaker]], [[Sweeper]], [[Chip]].
 - [[Bloodmarks]]: [[Arbiter Jalis]], [[Grand Justicar Malice]].
 
