@@ -18,7 +18,7 @@ A well-coordinated robbery of Warehouse 14 in the [[Shield Ring]] itself has lef
 - **The Meticulous Record:** Scribe [[Tessa]] and Scribe [[Lirsi]] noted that while military supplies and grain were taken, the fact that blankets, bedding, and carpentry tools were taken from Warehouse 14 is highly irregular for a standard insurgent raid.
 - **The Impossible Entrance:** Investigating the basement of the warehouse reveals a perfect circle sliced through three feet of solid stone, leaving edges that look almost melted or sanded smooth—the signature of [[General Spade]]'s Dustbringer abilities (Division).
 - **The Phantom Shift:** Guard [[Merat]] swore he saw [[General Odrin Lesh]] enter the warehouse an hour before the alarm was raised, despite the General being at a gala in the Bastion, suggesting a Truthwatcher's Illumination was used by [[Khria]] as a disguise.
-- **The Missing Watch:** Guard [[Kael]] and his partner from the next shift never arrived, suspected [[Knights of Dusk]] sympathizers who facilitated the breach.
+- **The Missing Watch:** Guard [[Kael]] and his partner Hiller from the next shift never arrived, suspected [[Knights of Dusk]] sympathizers who facilitated the breach.
 - **Earmarked Target:** [[Adjudicator Peton]] noted that Warehouse 14 contained food supplies originally meant for the [[Truthkeepers]]. [[Renna Palir]] and [[Beric Quinn]] were observed attempting to change the topic during the briefing to redirect suspicion.
 
 # Participants

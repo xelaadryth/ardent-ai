@@ -16,5 +16,12 @@ Unstable and highly reactive gemstones originating from the world of Mythos. The
 - **High Output:** Nurian gems can power complex mechanisms like the [[The Experimental Steamship]] more efficiently.
 - **Instability:** They are sensitive to Rosharan "atmospheric" investiture, often humming or cracking when highstorms approach.
 
+# Artifabrial Physics
+- Vriztl Method - Thaylen tuning forks vibrate a gem at (Honor's) frequency, Stormlight flows into a larger/more highly infused gem
+- Arnist Method - trap spren by creating an environment they like, then draining Light from the gem quickly (using larkin/tuning forks) to lock it inside
+- Spren Attraction by cut/color - geometric key to attract spren
+- Entanglement - Gems cut in half count as the same gem
+- Aluminum - can't block Stormlight leaking entirely since it leaks into the Spiritual Realm but blocks surgebinding
+
 # History
 The gems are the source of the recent meteoric rise of the [[Bloodmarks]] syndicate, smuggled from the Horneater Peaks under the direction of [[Grand Justicar Malice]].

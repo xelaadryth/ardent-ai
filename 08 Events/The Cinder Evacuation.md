@@ -7,9 +7,9 @@ tags:
   - "#investigation"
   - "#combat"
   - "#fire"
-last_updated: 2026-05-18T12:00:00
+last_updated: 2026-05-19T12:00:00
 fc-category: Party
-fc-date: 1172-02-20
+fc-date: 1172-02-19
 session:
 ---
 
