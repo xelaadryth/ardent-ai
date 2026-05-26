@@ -19,23 +19,36 @@ A major urban center and the intended destination for the squad's transfer. It s
 - **[[Darkstone Forest]]**: Stone-husks to the east towards the river.
 
 ## Outer Districts
-- **[[Scarstone Quarter]]**: Eastern district, home to the [[Stackhouses]].
+- **[[Scarstone Quarter]]**: Eastern district, home to the [[Stackhouses]], Cremling Quarter (industrial), Bruckslats (Ghostblood hideout), Lowstone Alley (stairs), Crowded Steppe (narrow alleys), and Barrel Row (taverns and breweries)
 - **Slipmarket**: Docks and foreign trade hub. Location of **Zabriel's stall**.
 - **The Driftwards**: Transient population. Home to [[Cream of the Crem]] and [[Whitespine's Fang]].
+	- Other inns: Bladeshine Inn, The Crossed Paths, Gloam Lantern, Stormrest, Greenplank Inn
 - **Devotary Ward**: Southwestern religious sector.
 	- **[[Scholar's Rest]]**: The largest library in the ward, focused on Ardent scholarship.
-- **Fieldwards**: Western agriculture and warehouses.
+	- Candle Quarter: Beautiful area where lots of ardents gather and talk.
+- **Fieldwards**: Western agriculture, tanneries, warehouses, grain processing.
 
 ## Inner Districts
-- **Middlecrest**: Commercial heart. Location of **The Shining Quill** (map shop) and [[Sun's Zenith]].
+- **Guilds District**:
+	- Ironward Consortium (blacksmithing)
+	- Shardseekers (legends of shardblades and shardplates)
+	- Luminous Vault (banking)
+	- Spherescale Hall (merchant)
+	- Dustroad Braves (escort and travel guards)
+	- Spineslayers (hunters and rangers)
+	- Concord of Steel (fighting)
+	- Dueling Heralds (dueling)
+	- [[The Vamah Archivum]]
+- **Middlecrest**: Middle-class residential. Includes the [[Gemheart Inn]], Stone Anvil Inn, and Stormglass Inn
 	- **[[The Shining Quill]]**: Mapmaking shop run by Lady Piri Hadlis.
+	- [[Sun's Zenith]]: Bloodmarks home base in Revolar
 - **Skyglass District**: Western lighteyed manors.
 - **Stoneweave**: Southern artisan district.
 - **Scholar's Rest**: Located within the **Guilds District** (North); contains the largest public library.
 
 ## Heart
+- **The Shield Ring**: Guard barracks.
 - **The Bastion**: Military HQ.
-- **The Shieldring**: Guard barracks.
 
 # Sublocations
 <!-- QueryToSerialize: LIST FROM "06 Locations" WHERE link(location) = this.file.link SORT file.name ASC -->

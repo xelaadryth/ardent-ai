@@ -15,13 +15,13 @@ location: "[[Revolar]]"
 A cruel and theatrical Lieutenant within the [[Bloodmarks]] syndicate. He is a clinical sadist who enjoys weaponizing the trauma of his victims.
 
 # Appearance
-A lean Veden man with sharp features and a mocking smile. He typically carries a grappling hook and a custom crossbow.
+A lean Veden man with sharp features and a mocking smile. He typically carries a grappling hook and a custom crossbow. Wears an odd key on a necklace, which leads to the basement of N'tal's house.
 
 # Personality
 Smug and calculating. He views combat as a performance and prefers environmental sabotage over direct confrontation.
 
 # Background
-Jalis was a key operative during the ambush orchestrated by [[Grand Justicar Malice]] that resulted in the death of [[N'tal]]'s family. He personally participated in the slaughter and remembers [[N'tal]] as the "one who got away."
+Jalis was a key operative during the ambush orchestrated by [[Grand Justicar Malice]] that resulted in the death of [[N'tal]]'s family. He personally participated in the slaughter and remembers [[N'tal]] as the "one who got away." In the basement was a stash of Nurian gems.
 
 # Goals
 - Serve the interests of the [[Bloodmarks]] in [[Revolar]].

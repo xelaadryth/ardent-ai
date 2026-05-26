@@ -9,7 +9,7 @@ tags:
   - "#chase"
 last_updated: 2026-05-20T15:00:00
 fc-category: Party
-fc-date: 1172-02-21
+fc-date: 1172-02-20
 session: "[[013 Tilting Loyalties]]"
 ---
 

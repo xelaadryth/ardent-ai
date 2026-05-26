@@ -1,1 +1,0 @@
-I have created the session document for the latest activities, added the Aelwood Contract lore, and updated N'tal and Fina's character sheets to reflect the revelation about the land seizure.
