@@ -302,6 +302,7 @@
         "[[Dreamwaker]]",
         "[[Revolar]]",
         "[[Ardent Kaelis]]",
+        "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Renna Palir]]"
       ],
       "tags": [
@@ -310,7 +311,7 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2026-05-18T00:00:00"
+      "last_updated": "2024-05-31T14:00:00"
     },
     "Kuma": {
       "type": "player",
@@ -432,8 +433,10 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Revolar]]",
         "[[Iiko]]",
+        "[[Vorin Devotaries]]",
         "[[The Devotary Call]]",
         "[[Tablet of Eleven Cities]]",
         "[[Ardent Vedelis]]"
@@ -442,20 +445,21 @@
         "#npc",
         "#ardent",
         "#scholar",
-        "#alethi"
+        "#alethi",
+        "#devotary_of_sincerity"
       ],
-      "last_updated": "2026-05-20T13:00:00"
+      "last_updated": "2024-05-31T14:00:00"
     },
     "Ardent Vedelis": {
       "type": "npc",
       "status": "completed",
       "links": [
-        "[[Knights of Dusk]]",
         "[[Lavrik]]",
-        "[[Devotary of Sincerity]]",
+        "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Veristitalians]]",
         "[[Highlord Paladar]]",
         "[[Vamah Archivum]]",
+        "[[Knights of Dusk]]",
         "[[General Spade]]",
         "[[Ardent Kaelis]]"
       ],
@@ -465,9 +469,10 @@
         "#scholar",
         "#veristitalian",
         "#alethi",
-        "#soulcaster"
+        "#soulcaster",
+        "#devotary_of_sincerity"
       ],
-      "last_updated": "2026-05-20T13:00:00"
+      "last_updated": "2024-05-31T14:00:00"
     },
     "Ashusa": {
       "type": "npc",
@@ -1903,8 +1908,9 @@
       "type": "faction",
       "status": "active",
       "links": [
+        "[[Vorin Devotaries|Vorin Devotary]]",
+        "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Highlord Paladar]]",
-        "[[Devotary of Sincerity]]",
         "[[Truthkeepers]]",
         "[[Jasnah Kholin]]"
       ],
@@ -1913,7 +1919,7 @@
         "#scholar",
         "#devotary"
       ],
-      "last_updated": "2026-05-20T13:00:00"
+      "last_updated": "2024-05-31T14:00:00"
     },
     "Bitter Leaf Apothecary": {
       "type": "location",
@@ -2356,7 +2362,11 @@
         "[[Knights of Dusk]]",
         "[[Beric Quinn]]",
         "[[Renna Palir]]",
-        "[[The Missing Supplies]]"
+        "[[Skyglass District]]",
+        "[[The Cinder Evacuation]]",
+        "[[Stackhouses]]",
+        "[[Kaz]]",
+        "[[Jory Spadis]]"
       ],
       "tags": [
         "#hook"
@@ -2369,7 +2379,7 @@
       "links": [
         "[[Ardent Kaelis]]",
         "[[Iiko]]",
-        "[[Devotary of Sincerity]]"
+        "[[Vorin Devotaries|Devotary of Sincerity]]"
       ],
       "tags": [
         "#hook",
@@ -2377,7 +2387,7 @@
         "#devotary_of_sincerity",
         "#scholar"
       ],
-      "last_updated": "2024-05-30T12:00:00"
+      "last_updated": "2024-05-31T14:00:00"
     },
     "The Highlord's Greed": {
       "type": "hook",
@@ -2497,11 +2507,13 @@
         "[[Undertaker]]",
         "[[N'tal]]",
         "[[Fina]]",
+        "[[Doug (Guddy)]]",
         "[[Bloodmarks]]",
         "[[Arbiter Jalis]]",
         "[[Possessed]]",
         "[[Truthkeepers]]",
         "[[Nurian Gems]]",
+        "[[Ghostbloods]]",
         "[[Zabriel]]",
         "[[Bodenar]]",
         "[[The Foundry Chase]]"
@@ -2589,7 +2601,7 @@
         "#combat",
         "#fire"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2026-05-19T12:00:00"
     },
     "The Darkstone Siege": {
       "type": "event",
@@ -2953,6 +2965,24 @@
         "#bodenar"
       ],
       "last_updated": "2026-05-17T12:00:00"
+    },
+    "Vorin Devotaries": {
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Alethkar]]",
+        "[[Jah Keved]]",
+        "[[Ardent Kaelis]]",
+        "[[Ardent Vedelis]]",
+        "[[Veristitalians]]"
+      ],
+      "tags": [
+        "#lore",
+        "#vorinism",
+        "#devotaries",
+        "#ardentia"
+      ],
+      "last_updated": "2024-05-31T14:00:00"
     },
     "Cadence": {
       "type": "spren",

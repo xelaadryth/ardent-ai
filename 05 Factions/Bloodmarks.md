@@ -5,7 +5,7 @@ tags:
   - "#faction"
   - "#criminal_organization"
   - "#worldhopping"
-last_updated: 2024-05-18T00:00:00
+last_updated: 2024-06-01T09:00:00
 ---
 # Description
 A dangerous criminal syndicate with reach across Roshar and beyond. Based in [[Bodenar]] (Jah Keved), they maintain a strategic foothold in the Horneater Peaks to exploit a Perpendicularity for illicit inter-planetary trade.
@@ -17,6 +17,7 @@ The Bloodmarks prioritize profit and power through illicit logistics and intimid
 - **Interplanetary Smuggling:** Exploiting the Horneater Perpendicularity to trade Nurian gems and resources between Mythos and Roshar.
 - **Black Market Trade:** Large-scale distribution of firemoss and luxury contraband.
 - **Debt & Enslavement:** Ruthless debt collection, often resulting in kidnapping and the slave trade.
+- **Technological Monopoly:** Holding [[Higuma]] captive to control the advancement of [[Nurian Gems]] fabrials.
 - **Corruption:** Maintaining control over roughly 50% of the [[Revolar]] guard.
 
 # Structure
@@ -37,7 +38,7 @@ The Bloodmarks prioritize profit and power through illicit logistics and intimid
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 - [[Arbiter Jalis]]
 - [[Grand Justicar Malice]]
+- [[Higuma]] (Captive)
 
 
 <!-- SerializedQuery END -->
-
