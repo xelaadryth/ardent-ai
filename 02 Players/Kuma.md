@@ -18,7 +18,7 @@ Nurian Elsecaller and obsessive maker determined to repair anything he can and u
 Possesses a blend of Shin and Alethi features. Dark blue eyes and thick black hair.
 
 # Background
-Inherited a mysterious gemstone-powered device. Traveled to Revolar and then toward Tomat to seek the Artifabrians. He is currently searching for his mother, [[Higuma]], who vanished under mysterious circumstances. He has heard whispers that she was the original designer of the core for [[The Experimental Steamship]].
+Inherited a mysterious gemstone-powered device. Traveled to Revolar and then toward Tomat to seek the Artifabrians. He is currently searching for his mother, [[Higuma]], who vanished under mysterious circumstances. He has heard whispers that she was the original designer of the core for [[The Experimental Lightship]].
 
 # First Ideal
 
@@ -36,10 +36,10 @@ Crafting the ultimate item is a goal, but you need to put in the work and educat
 
 # Goals
 - Discover the fate of his parents, specifically finding [[Higuma]].
-- Assist with the experimental steamship demonstration in [[Tomat]].
+- Assist with the experimental lightship demonstration in [[Tomat]].
 - Investigate [[Nurian Gems]] and ride the vessel to [[Bodenar]].
 
 # Connections
 - [[Viscose]]: His logical Inkspren.
 - [[Vorn]]: His mentor in fabrication.
-- [[Higuma]]: His missing mother and rumored lead of the steamship project.
+- [[Higuma]]: His missing mother and rumored lead of the lightship project.

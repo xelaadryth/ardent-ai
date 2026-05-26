@@ -22,7 +22,7 @@ Higuma has a regal bearing with dark, intelligent eyes and hair often kept in co
 Meticulous and protective. She is a woman of science who values the safety of her family above her own groundbreaking research.
 
 # Background
-Higuma was the true mastermind behind the high-output [[Nurian Gems]] stabilization techniques required for [[The Experimental Steamship]]. Before the demonstration in [[Tomat]], she was abducted by the [[Bloodmarks]] to ensure the syndicate maintains a monopoly on her designs. She is currently being held in a secure facility in Thaylenah, forced to refine gemstones for [[Grand Justicar Malice]].
+Higuma was the true mastermind behind the high-output [[Nurian Gems]] stabilization techniques required for [[The Experimental Lightship]]. Before the demonstration in [[Tomat]], she was abducted by the [[Bloodmarks]] to ensure the syndicate maintains a monopoly on her designs. She is currently being held in a secure facility in Thaylenah, forced to refine gemstones for [[Grand Justicar Malice]].
 
 # Goals
 - Ensure the safety of her son, [[Kuma]].

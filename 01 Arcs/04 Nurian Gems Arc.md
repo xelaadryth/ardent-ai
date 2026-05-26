@@ -19,7 +19,7 @@ The party witnesses the experimental steamship test in [[Tomat]] before travelin
 - [[Vorn]]: Technical lead in [[Tomat]].
 
 # Progression
-- **Act 1: The Tomat Demonstration:** Witnessing the [[The Experimental Steamship]] test in the Tomat harbor.
+- **Act 1: The Tomat Demonstration:** Witnessing the [[The Experimental Lightship]] test in the Tomat harbor.
 - **Act 2: The Voyage West:** Riding the steamship from [[Tomat]] to [[Bodenar]] through hostile borderlands.
 - **Act 3: The Bodenar Hub:** Infiltrating the Bloodmark gemstone exchange in [[Bodenar]].
 - **Act 4: The Perpendicularity:** Tracking shipments back to the Horneater Peaks.

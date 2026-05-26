@@ -11,7 +11,7 @@ location: "[[Tomat]]"
 ---
 
 # Description
-A master Thaylen artifabrian and technical lead for the experimental steamship project.
+A master Thaylen artifabrian and technical lead for [[The Experimental Lightship]] project.
 
 # Appearance
 Middle-aged with bushy white eyebrows and shoulder-length white hair. Wears practical, ink-stained robes.
@@ -23,7 +23,7 @@ Academic, precise, and intensely focused on the efficiency of soul-capture and g
 Recruited to lead the technical demonstration in [[Tomat]]. She is currently stabilizing the vessel's core for its first upstream run toward [[Bodenar]]. She seeks skilled technicians to assist in the final trials.
 
 # Goals
-- Successfully demonstrate the Nurian-core steamship in [[Tomat]].
+- Successfully demonstrate the Nurian-core lightship in [[Tomat]].
 - Navigate the vessel safely to [[Bodenar]].
 - Mentor [[Kuma]] in harmonic Stormlight control.
 

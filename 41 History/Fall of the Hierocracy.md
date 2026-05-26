@@ -5,7 +5,7 @@ tags:
   - "#event"
 last_updated: 2026-05-17T21:03:51
 fc-category: Historical
-fc-date: 673-01-01
+fc-date: 0673-01-01
 session:
 ---
 # Description

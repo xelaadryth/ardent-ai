@@ -16,4 +16,4 @@ leads:
 ---
 
 # Description
-[[Vorn]] is seeking [[Kuma]] to assist with the [[The Experimental Steamship]] project in [[Tomat]], using the high-output [[Nurian Gems]]. This involves resolving stabilization issues with his Bindrial designs and investigating harmonic Stormlight control. The mission is complicated by rumors that [[Higuma]] was supposed to lead the project, yet a Thaylen impostor has taken her place at the docks.
+[[Vorn]] is seeking [[Kuma]] to assist with the [[The Experimental Lightship]] project in [[Tomat]], using the high-output [[Nurian Gems]]. This involves resolving stabilization issues with his Bindrial designs and investigating harmonic Stormlight control. The mission is complicated by rumors that [[Higuma]] was supposed to lead the project, yet a Thaylen impostor has taken her place at the docks.

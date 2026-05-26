@@ -12,7 +12,7 @@ location: "[[Tomat]]"
 ---
 
 # Description
-A manic Thaylen spren researcher masquerading as an Ardent. He is currently assisting with the steamship demonstration in [[Tomat]].
+A manic Thaylen spren researcher masquerading as an Ardent. He is currently assisting with the lightship demonstration in [[Tomat]].
 
 # Personality
 Exuberant and easily excitable regarding "unknown spren." Driven by a manic curiosity about spren applications in advanced fabrials.

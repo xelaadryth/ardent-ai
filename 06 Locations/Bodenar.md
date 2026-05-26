@@ -10,7 +10,7 @@ location: "[[Jah Keved]]"
 ---
 
 # Description
-A major river city in Jah Keved and the terminal destination for the experimental steamship voyage from [[Tomat]]. It is the primary hub for the distribution of [[Nurian Gems]] throughout the western kingdoms.
+A major river city in Jah Keved and the terminal destination for [[The Experimental Lightship]] voyage from [[Tomat]]. It is the primary hub for the distribution of [[Nurian Gems]] throughout the western kingdoms.
 
 # Atmosphere
 Bustling and mercantile. The city is defined by high-stakes gemstone trade and the influence of the [[Bloodmarks]]. Paranoia is high due to the recent assassinations by the Assassin in White.
