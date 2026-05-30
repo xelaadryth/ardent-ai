@@ -166,6 +166,7 @@
         "[[General Spade]]",
         "[[Khria]]",
         "[[Beric Quinn]]",
+        "[[Kaz]]",
         "[[Ghostbloods]]",
         "[[Undertaker]]",
         "[[Sweeper]]",
@@ -180,7 +181,8 @@
         "[[The Boutique Confrontation]]",
         "[[The Foundry Chase]]",
         "[[012 Following Chip]]",
-        "[[013 Tilting Loyalties]]"
+        "[[013 Tilting Loyalties]]",
+        "[[014 Nothing but the Truth]]"
       ],
       "tags": [
         "#arc",
@@ -227,7 +229,7 @@
         "[[Kuma]]",
         "[[03 NPCs/Szeth-son-son-Vallano]]",
         "[[Vorn]]",
-        "[[The Experimental Steamship]]"
+        "[[The Experimental Lightship]]"
       ],
       "tags": [
         "#arc",
@@ -264,6 +266,7 @@
         "[[Karani]]",
         "[[Bloodmarks]]",
         "[[N'tal]]",
+        "[[Aelwood Contract]]",
         "[[Undertaker]]",
         "[[Renna Palir]]"
       ],
@@ -274,7 +277,7 @@
         "#noble",
         "#lighteyed"
       ],
-      "last_updated": "2024-05-31T12:00:00"
+      "last_updated": "2026-06-01T12:00:00"
     },
     "Galeth-son-Thald": {
       "type": "player",
@@ -319,7 +322,7 @@
       "links": [
         "[[Viscose]]",
         "[[Higuma]]",
-        "[[The Experimental Steamship]]",
+        "[[The Experimental Lightship]]",
         "[[Tomat]]",
         "[[Nurian Gems]]",
         "[[Bodenar]]",
@@ -364,7 +367,7 @@
         "[[Bloodmarks]]",
         "[[Undertaker]]",
         "[[Fina]]",
-        "[[Revolar]]",
+        "[[Aelwood Contract]]",
         "[[Arbiter Jalis]]",
         "[[N'tal's Vendetta]]",
         "[[1172-02-17 The Foundry Chase]]"
@@ -375,7 +378,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2024-05-25T10:00:00"
+      "last_updated": "2026-06-01T12:00:00"
     },
     "Adjudicator Peton": {
       "type": "npc",
@@ -804,7 +807,7 @@
         "[[Bodenar]]",
         "[[Kuma]]",
         "[[Nurian Gems]]",
-        "[[The Experimental Steamship]]",
+        "[[The Experimental Lightship]]",
         "[[Tomat]]",
         "[[Grand Justicar Malice]]"
       ],
@@ -884,9 +887,11 @@
         "[[Possessed]]",
         "[[Arbiter Jalis]]",
         "[[Beric Quinn]]",
+        "[[Zabriel]]",
+        "[[Slipmarket]]",
+        "[[Allegiance at the Abandoned Docks]]",
         "[[N'tal]]",
-        "[[The Foundry Chase]]",
-        "[[Allegiance at the Abandoned Docks]]"
+        "[[The Foundry Chase]]"
       ],
       "tags": [
         "#npc",
@@ -1348,6 +1353,7 @@
       "status": "active",
       "links": [
         "[[Tomat]]",
+        "[[The Experimental Lightship]]",
         "[[Bodenar]]",
         "[[Kuma]]",
         "[[Ilsh]]"
@@ -1744,6 +1750,43 @@
       ],
       "last_updated": "2024-05-25T11:00:00"
     },
+    "014 Nothing but the Truth": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Undertaker]]",
+        "[[Bruckslats]]",
+        "[[Aelwood Contract]]",
+        "[[Fina]]",
+        "[[N'tal]]",
+        "[[Bloodmarks]]",
+        "[[The Vamah Archivum]]",
+        "[[Adjudicator Peton]]",
+        "[[The Missing Supplies]]",
+        "[[Beric Quinn]]",
+        "[[Test of Loyalty]]",
+        "[[Stackhouses]]",
+        "[[Kaz]]",
+        "[[General Odrin Lesh]]",
+        "[[Skyglass District]]",
+        "[[Brightlord Juran]]",
+        "[[Renna Palir]]",
+        "[[The Boutique Confrontation]]",
+        "[[Iiko]]",
+        "[[Mallow]]",
+        "[[Scholar's Rest]]",
+        "[[Ardent Kaelis]]",
+        "[[Ardent Vedelis]]"
+      ],
+      "tags": [
+        "#session",
+        "#investigation",
+        "#combat",
+        "#revolar"
+      ],
+      "last_updated": "2026-06-01T12:00:00"
+    },
     "Bloodmarks": {
       "type": "faction",
       "status": "active",
@@ -1963,6 +2006,7 @@
       "status": "active",
       "links": [
         "[[Jah Keved]]",
+        "[[The Experimental Lightship]]",
         "[[Tomat]]",
         "[[Nurian Gems]]",
         "[[Bloodmarks]]",
@@ -2080,11 +2124,12 @@
         "[[Cream of the Crem]]",
         "[[Whitespine's Fang]]",
         "[[Scholar's Rest]]",
-        "[[Sun's Zenith]]",
+        "[[The Vamah Archivum]]",
+        "[[Gemheart Inn]]",
         "[[The Shining Quill]]",
+        "[[Sun's Zenith]]",
         "[[Bitter Leaf Apothecary]]",
-        "[[Boundless Bazaar]]",
-        "[[The Vamah Archivum]]"
+        "[[Boundless Bazaar]]"
       ],
       "tags": [
         "#location"
@@ -2265,7 +2310,7 @@
       "links": [
         "[[Alethkar]]",
         "[[Sadeas Princedom]]",
-        "[[The Experimental Steamship]]",
+        "[[The Experimental Lightship]]",
         "[[Amaram]]",
         "[[Bodenar]]",
         "[[Tien]]",
@@ -2349,7 +2394,7 @@
       "links": [
         "[[Vorn]]",
         "[[Kuma]]",
-        "[[The Experimental Steamship]]",
+        "[[The Experimental Lightship]]",
         "[[Tomat]]",
         "[[Nurian Gems]]",
         "[[Higuma]]"
@@ -2382,7 +2427,7 @@
     },
     "Test of Loyalty": {
       "type": "hook",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Knights of Dusk]]",
         "[[Beric Quinn]]",
@@ -2400,7 +2445,7 @@
     },
     "The Devotary Call": {
       "type": "hook",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Ardent Kaelis]]",
         "[[Iiko]]",
@@ -2523,7 +2568,7 @@
     },
     "Meeting with the Undertaker": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[013 Tilting Loyalties]]",
         "[[Whitespine's Fang]]",
@@ -2594,7 +2639,7 @@
     },
     "The Boutique Confrontation": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[The Cinder Evacuation]]",
         "[[Brightlord Juran]]"
@@ -2658,7 +2703,7 @@
       ],
       "last_updated": "2024-05-29T11:00:00"
     },
-    "The Experimental Steamship": {
+    "The Experimental Lightship": {
       "type": "event",
       "status": "planned",
       "links": [
@@ -2688,7 +2733,12 @@
         "[[Bloodmarks]]",
         "[[Arbiter Jalis]]",
         "[[N'tal]]",
-        "[[Jory Spadis]]"
+        "[[Jory Spadis]]",
+        "[[Kuma]]",
+        "[[Fina]]",
+        "[[Iiko]]",
+        "[[Mallow]]",
+        "[[Galeth-son-Thald]]"
       ],
       "tags": [
         "#event",
@@ -2701,7 +2751,7 @@
     },
     "The Missing Supplies": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[013 Tilting Loyalties]]",
         "[[Shield Ring]]",
@@ -2808,6 +2858,23 @@
       "tags": [],
       "last_updated": ""
     },
+    "Aelwood Contract": {
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[N'tal]]",
+        "[[Bloodmarks]]",
+        "[[Ghostbloods]]",
+        "[[Arbiter Jalis]]",
+        "[[Fina]]"
+      ],
+      "tags": [
+        "#lore",
+        "#legal",
+        "#betrayal"
+      ],
+      "last_updated": "2026-06-01T12:00:00"
+    },
     "Cuisine of Roshar": {
       "type": "lore",
       "status": "active",
@@ -2868,7 +2935,7 @@
       "type": "lore",
       "status": "active",
       "links": [
-        "[[The Experimental Steamship]]",
+        "[[The Experimental Lightship]]",
         "[[Bloodmarks]]",
         "[[Grand Justicar Malice]]"
       ],
@@ -2978,7 +3045,7 @@
       "type": "lore",
       "status": "active",
       "links": [
-        "[[The Experimental Steamship]]",
+        "[[The Experimental Lightship]]",
         "[[Nurian Gems]]",
         "[[Grand Justicar Malice]]",
         "[[Bloodmarks]]",

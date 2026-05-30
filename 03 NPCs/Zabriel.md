@@ -5,33 +5,31 @@ tags:
   - "#npc"
   - "#merchant"
   - "#revolar"
-  - "#captured"
-last_updated: 2024-05-25T10:00:00
+last_updated: 2026-06-01T15:00:00
 faction: 
 location: "[[Revolar]]"
 ---
 
 # Description
-A desperate merchant in [[Revolar]] who attempted to trade high-value, extra-planetary contraband.
+A desperate merchant in [[Revolar]] who attempted to trade high-value, extra-planetary contraband. He has a unique "knack" for sensing the obscure.
 
 # Appearance
 A man with a dejected, weary posture, typical of those struggling to survive in the [[Slipmarket]].
 
 # Personality
-Ambitious but fearful. He attempts to sell rare items at exorbitant prices to fund his survival or escape from the city. Not very good with money; buying the pieces for high prices but unable to find appropriate buyers, ending up selling them for far less than they're worth to try to get out of debt to the [[Bloodmarks]].
+Ambitious but fearful. He attempts to sell rare items at exorbitant prices. While not very good with money, he happens to be lucky and talk to interesting people.
 
-His one good trait is that he happens to be lucky and talk to interesting people; knack for sensing the weird and obscure.
 # Background
-The son of wealthy and successful merchants, Zabriel is the opposite. An easy mark, buys high, sells low, squandered all the wealth his family had earned so they disowned him as not being worthy. Trying to become famous so his family will accept him again.
-
-Zabriel was encountered in the [[Slipmarket]] trying to sell a [[Nurian Gems]] specimen that boasted twice the duration and power output of standard gemstones. Shortly after his interaction with the party, he was seen being escorted away by a [[Bloodmarks]] squad, his stall left abandoned.
+Zabriel is a failed merchant trying to win back his parents' affection. He was abducted by the [[Bloodmarks]] during a business trip where he sourced goods from [[Tomat]], later used as an asset at the docks holding pen. He was rescued by the party during [[Saving Jory at the Abandoned Docks]].
 
 # Goals
 - Sell his remaining stock for maximum profit.
-- Evade the notice of the syndicates (failed).
 - Become a successful merchant.
-- Win back his parents' affection.
+- Broker information and obscure goods.
+
+# Hooks
+- **The Stashed Cache:** He knows the location of a cache of curiosities in [[Revolar]] he stashed before his capture, which includes rare specimens and potential trade leads.
 
 # Connections
-- [[Bloodmarks]]: The organization that abducted him for dealing in their restricted gems and not paying back his debts.
-- [[Undertaker]]: The Ghostblood leader who has a vested interest in the types of "curiosities" Zabriel sells.
+- [[Bloodmarks]]: The organization that abducted him.
+- [[Undertaker]]: Interested in his rare "curiosities" sourced from [[Tomat]].
