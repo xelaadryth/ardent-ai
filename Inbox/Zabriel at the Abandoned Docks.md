@@ -1,1 +1,0 @@
-I have renamed the event to 'Saving Jory at the Abandoned Docks' and integrated the rescue of Zabriel as a sidequest. The content details his background, his lucky knack, and his ability to provide leads sourced from his travels to Tomat, including a hidden cache of curiosities as a reward.
