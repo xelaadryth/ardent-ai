@@ -37,7 +37,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 	- Dustroad Braves (escort and travel guards)
 	- Spineslayers (hunters and rangers)
 	- Concord of Steel (fighting)
-	- Dueling Heralds (dueling)
+	- Dueling Heralds (dueling ring)
 	- [[The Vamah Archivum]]
 - **Middlecrest**: Middle-class residential. Includes the [[Gemheart Inn]], Stone Anvil Inn, and Stormglass Inn
 	- **[[The Shining Quill]]**: Mapmaking shop run by Lady Piri Hadlis.
