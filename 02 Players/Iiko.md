@@ -37,8 +37,8 @@ To know strength, you must know truth. The truth of the past reshapes who is str
 Learning is a never-ending journey, there's always another secret. Contentment in the pursuit of learning is more important than if you ever find the Spiritual Realm. But just so ya know, yeah it does exist.
 
 # Goals
-- **Devotary Path:** Join a devotary as prompted by [[Ardent Kaelis]].
-- **Discover Truth:** Determine if the "Possessed" are truly mad or perceiving deeper truths.
+- Join the Devotary of Sincerity as prompted by [[Ardent Kaelis]].
+- 
 
 # Connections
 - [[Dreamwaker]]: Ancient Mistspren partner.

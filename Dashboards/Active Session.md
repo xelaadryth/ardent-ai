@@ -8,10 +8,12 @@ Last Session: [[015 Distractions and Flames]]
 	- Good job
 	- Jory was captured by the Bloodmarks, don't know where he is right now, think they're moving him tonight from the [[Sun's Zenith]]
 - Iiko inducted into Devotary of Sincerity
+	- Devotary is super tiny and cramped, basically an office (next to the Devotary of Determination, and Purity, both big in Alethkar)
 	- Dedicate life to pursuit of truth and knowledge - there is always another secret
 	- Ask deep questions, even if they challenge the tenets of Vorinism
 	- Book of Endless Pages, holy text of blank pages (seek own truths whole retaining faith) which is ALWAYS kept blank, not for journaling
-	- Biggest in Vedenar
+	- Biggest branch of this Devotary in Vedenar, considered small here
+	- Head ardent of this small branch is Ardent Halan
 - Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has had its head removed
 - Slipmarket
 	- [[Vorn]] sees [[Kuma]] buying fabrials and raw materials: [[New Technology]]
@@ -19,8 +21,8 @@ Last Session: [[015 Distractions and Flames]]
 	- The party hears news of bribes brought to The Bastion: [[The Highlord's Greed]]
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Koloko]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
-	- [[Ojog]]/[[Renna Palir]]/[[Beric Quinn]] from the Truthkeepers comes in to help
-	- [[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
+	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]] from the Truthkeepers comes in to help
+	- [[Dahmian]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
 # Upcoming Events
 
 <!-- QueryToSerialize: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
@@ -28,7 +30,6 @@ Last Session: [[015 Distractions and Flames]]
 
 | File                                                                                    | Date       |
 | --------------------------------------------------------------------------------------- | ---------- |
-| [[The Cinder Evacuation]]                           | 1172-02-19 |
 | [[The Foundry Chase]]                                   | 1172-02-20 |
 | [[Sister Reunion]]                                         | 1172-02-21 |
 | [[Saving Jory at the Abandoned Docks]] | 1172-02-28 |
