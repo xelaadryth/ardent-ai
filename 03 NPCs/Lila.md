@@ -26,12 +26,12 @@ Lila was a modest seamstress in the [[Fieldwards]] until a corrupt Vamah tax col
 
 # Goals
 - Provide accurate intelligence on military movements to [[General Spade]] by listening to guards in the [[Slipmarket]].
-- Keep her cousin, a scribe in [[The Vamah Archivum]], safe from suspicion.
+- Keep her cousin, a scribe in [[Vamah Archivum]], safe from suspicion.
 - Protect her community in the [[Stackhouses]] from [[Bloodmarks]] debt collectors.
 
 # Hooks
 - **Laundry Secrets:** Lila has found a blood-stained note in a [[Truthkeepers]] uniform that mentions a planned raid on a "red laundry" house.
-- **The Archivum Link:** She can introduce the party to her cousin, who has access to the restricted maps within [[The Vamah Archivum]].
+- **The Archivum Link:** She can introduce the party to her cousin, who has access to the restricted maps within [[Vamah Archivum]].
 - **Hidden Shelter:** If the party is pursued, she knows a hidden crawlspace behind the industrial wash-vats in the [[Slipmarket]].
 
 # Secrets

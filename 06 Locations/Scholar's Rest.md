@@ -12,10 +12,10 @@ location: "[[Revolar]]"
 ---
 
 # Overview
-A modest, two-story library tucked away in a quiet corner of the [[Devotary Ward]] in [[Revolar]]. While it is the largest library in the ward, it is dwarfed by the [[The Vamah Archivum]] and remains largely neglected by the general public.
+A modest, two-story library tucked away in a quiet corner of the [[Devotary Ward]] in [[Revolar]]. While it is the largest library in the ward, it is dwarfed by the [[Vamah Archivum]] and remains largely neglected by the general public.
 
 # Atmosphere
-Unlike the modern and sterile [[The Vamah Archivum]], Scholar's Rest is cozy, dimly lit, and layered with the dust of centuries. It is a place of deep reverance for the Ardents, who treat the books as sacred relics rather than tools of administration.
+Unlike the modern and sterile [[Vamah Archivum]], Scholar's Rest is cozy, dimly lit, and layered with the dust of centuries. It is a place of deep reverance for the Ardents, who treat the books as sacred relics rather than tools of administration.
 
 # Notable Features
 - **The Ardentia Collection:** A focused selection of texts on theological philosophy and historical geology.
@@ -25,7 +25,7 @@ Unlike the modern and sterile [[The Vamah Archivum]], Scholar's Rest is cozy, di
 - Primarily Ardents from the nearby Devotaries, such as [[Ardent Kaelis]].
 
 # Secrets
-Because the library is seen as "Ardent business" and largely ignored by the [[Vamah Princedom]] officials, some of their books still have undertext that have escaped the stricter censorship found in [[The Vamah Archivum]].
+Because the library is seen as "Ardent business" and largely ignored by the [[Vamah Princedom]] officials, some of their books still have undertext that have escaped the stricter censorship found in [[Vamah Archivum]].
 
 # Connections
 - [[Ardent Kaelis]]: A frequent visitor and scholar at this location.

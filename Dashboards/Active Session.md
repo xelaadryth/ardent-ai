@@ -1,18 +1,18 @@
 Current Arc: [[02 Knights of Dusk Arc]]
-Current Session: [[014 Nothing but the Truth]]
+Last Session: [[015 Distractions and Flames]]
 
 # TODO
-- Renna
-	- Asks Fina about her backstory
-	- Asks Iiko and Fina what dahn they are and what house they come from
-- [[Vamah Archivum]]
-	- Report to [[Adjudicator Peton]] about [[The Missing Supplies]], hear people mentioning his promotion to top levels of Adjudicator seemed awfully rushed and suspicious - he and [[Ojog]] were on a mission together that was kept hush-hush and Adjudicator Milara quickly promoted him.
-- [[Scholar's Rest]]
-	- [[Ardent Kaelis]] has joined the [[Veristitalians]] and is reading a banned book called "Words of Radiance" and arguing with Ardent Halan - "fairytale drivel".
-	- Introduces to Ardent Halan of the Devotary of Purity, member of the Knights of Dusk but secretly a mole to the Truthkeepers. Clear that he is far more orthodox religious, but appreciates natural history and works with Kaelis.
-- Skyglass District
-	- Distraction for [[The Cinder Evacuation]]
-	- Party sent to get nicer clothes and investigate
+- Gemheart Inn
+	- Party summoned by Knights of Dusk
+- Stackhouses
+	- Good job
+	- Jory was captured by the Bloodmarks, don't know where he is right now, think they're moving him tonight from the [[Sun's Zenith]]
+- Iiko inducted into Devotary of Sincerity
+	- Dedicate life to pursuit of truth and knowledge - there is always another secret
+	- Ask deep questions, even if they challenge the tenets of Vorinism
+	- Book of Endless Pages, holy text of blank pages (seek own truths whole retaining faith) which is ALWAYS kept blank, not for journaling
+	- Biggest in Vedenar
+- Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has had its head removed
 - Slipmarket
 	- [[Vorn]] sees [[Kuma]] buying fabrials and raw materials: [[New Technology]]
 - [[Sun's Zenith]]

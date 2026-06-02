@@ -38,7 +38,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 	- Spineslayers (hunters and rangers)
 	- Concord of Steel (fighting)
 	- Dueling Heralds (dueling ring)
-	- [[The Vamah Archivum]]
+	- [[Vamah Archivum]]
 - **Middlecrest**: Middle-class residential. Includes the [[Gemheart Inn]], Stone Anvil Inn, and Stormglass Inn
 	- **[[The Shining Quill]]**: Mapmaking shop run by Lady Piri Hadlis.
 	- [[Sun's Zenith]]: Bloodmarks home base in Revolar
@@ -62,7 +62,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 - [[Stackhouses]]
 - [[Sun's Zenith]]
 - [[The Shining Quill]]
-- [[The Vamah Archivum]]
+- [[Vamah Archivum]]
 - [[Whitespine's Fang]]
 
 

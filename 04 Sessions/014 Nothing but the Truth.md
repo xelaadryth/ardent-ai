@@ -13,7 +13,7 @@ The squad investigates the security breach at the Shield Ring while navigating c
 
 # Events
 - **Bruckslats Meeting:** The squad meets the [[Undertaker]] in the [[Bruckslats]], learning of the [[Aelwood Contract]]—a betrayal where Princess [[Fina]] inadvertently legalized the seizure of [[N'tal]]'s family lands by House Morivanter and the [[Bloodmarks]].
-- **Truthkeeper Briefing:** At the [[Vamah Archivum]], the squad is tasked by [[Adjudicator Peton]] to investigate [[The Missing Supplies]] at the Shield Ring. [[Beric Quinn]] subjects them to a [[Test of Loyalty]], confirming Truthkeeper knowledge of the [[Stackhouses]] hideouts.
+- **Truthkeeper Briefing:** At the [[Vamah Archivum]], the party was asked by [[Adjudicator Peton]] to investigate [[The Missing Supplies]] at the Shield Ring. [[Beric Quinn]] subjects them to a [[Test of Loyalty]], confirming Truthkeeper knowledge of the [[Stackhouses]] hideouts.
 - **Stackhouse Warning:** The party warns [[Kaz]] of the impending raid. Beric and Renna reveal their presence, confirming the warning was a loyalty test.
 - **Shield Ring Investigation:** Armed with a writ from [[General Odrin Lesh]], the party inspects Warehouse 14, finding a circular hole cut by Division and evidence of a wagon transfer.
 - **Boutique Confrontation:** In the [[Skyglass District]], [[Brightlord Juran]] corners [[Renna Palir]] during [[The Boutique Confrontation]]. The party intervenes, using [[Iiko]]'s illusions and [[Mallow]]'s Cadence to protect her identity and scare Juran away.
