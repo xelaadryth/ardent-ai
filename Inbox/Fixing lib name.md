@@ -1,1 +1,0 @@
-I have updated the Vamah Archivum link references in the session files 013 and 014 to the renamed page title 'Vamah Archivum' as requested.

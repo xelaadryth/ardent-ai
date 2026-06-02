@@ -1,0 +1,1 @@
+Help me come up with ideas for how Fina and N'tal can make up, now that N'tal's parents' death was in part due to her negligence. He'll be able to get some revenge and info out of the bloodmarks, but what other ideas for events or plot hooks can we create that can redeem Fina in his eyes?

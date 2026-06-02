@@ -43,10 +43,7 @@ Your choice here determines the journey you will walk; the path of vengeance or 
 
 # Goals
 - Hunt down [[Arbiter Jalis]].
-
-# Hooks
-- [[N'tal's Vendetta]]
-- [[1172-02-17 The Foundry Chase]]
+- Make [[Fina]] pay.
 
 # Connections
 - [[Pyre]] — His Ashspren.

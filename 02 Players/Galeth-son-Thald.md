@@ -42,12 +42,10 @@ Perhaps you left Shinovar just to "die a good death" as a Stonewalker in penance
 # Goals
 - Perform enough dangerous and selfless acts to atone for his failures.
 - Endure constant danger as a form of self-imposed punishment.
-- Protect others so they do not suffer from his mistakes.
+- Learn from other weapon masters/fighters in Revolar.
 
 # Hooks
-- Survivors or relatives connected to the girl’s death may resurface.
-- His past leadership in Shinovar may draw the attention of old allies or enemies.
-- His growing bond with [[Kun'ahu]] may challenge his belief that he deserves only punishment.
+- Survivors or relatives connected to the girl’s death or his old Shin military assignment may resurface.
 
 # Connections
 - [[Kun'ahu]] — His jovial and dependable Peakspren.

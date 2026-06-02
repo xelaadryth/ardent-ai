@@ -40,10 +40,6 @@ Freedom is not a destination, it is a never ending path that will be constantly 
 - Find and rescue [[Khria]].
 - Protect the forgotten and the oppressed.
 
-# Hooks
-- [[The Orphans of Tomat]]
-- [[Tracking the Knights of Dusk]]
-
 # Connections
 - [[Khria]] — Her sister.
 - [[Cadence]] — Her Lightspren partner.

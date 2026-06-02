@@ -38,7 +38,7 @@ Learning is a never-ending journey, there's always another secret. Contentment i
 
 # Goals
 - Join the Devotary of Sincerity as prompted by [[Ardent Kaelis]].
-- 
+- Acquire the book Words of Radiance and learn about surgebinding.
 
 # Connections
 - [[Dreamwaker]]: Ancient Mistspren partner.
