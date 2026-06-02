@@ -4,7 +4,7 @@ status: active
 tags:
   - "#location"
   - "#revolar"
-last_updated: 2026-05-15T12:00:00
+last_updated: "2026-06-02T10:00:00"
 location: "[[Revolar]]"
 ---
 # Overview

@@ -441,10 +441,9 @@
         "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Revolar]]",
         "[[Iiko]]",
-        "[[Vorin Devotaries]]",
+        "[[Ardent Vedelis]]",
         "[[The Devotary Call]]",
-        "[[Tablet of Eleven Cities]]",
-        "[[Ardent Vedelis]]"
+        "[[Tablet of Eleven Cities]]"
       ],
       "tags": [
         "#npc",
@@ -453,7 +452,7 @@
         "#alethi",
         "#devotary_of_sincerity"
       ],
-      "last_updated": "2024-05-31T14:00:00"
+      "last_updated": "2026-06-01T20:00:00"
     },
     "Ardent Vedelis": {
       "type": "npc",
@@ -1785,6 +1784,31 @@
         "#revolar"
       ],
       "last_updated": "2026-06-01T12:00:00"
+    },
+    "015 Distractions and Flames": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Iiko]]",
+        "[[Ardent Kaelis]]",
+        "[[Ardent Vedelis]]",
+        "[[Hearthstone]]",
+        "[[Truthkeepers]]",
+        "[[Vamah Archivum]]",
+        "[[Knights of Dusk]]",
+        "[[Highlord Paladar]]",
+        "[[Skyglass District]]",
+        "[[Jory Spadis]]",
+        "[[Galeth-son-Thald]]",
+        "[[Chip]]"
+      ],
+      "tags": [
+        "#session",
+        "#revolar",
+        "#investigation"
+      ],
+      "last_updated": "2026-06-01T20:00:00"
     },
     "Bloodmarks": {
       "type": "faction",

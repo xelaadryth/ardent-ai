@@ -6,7 +6,7 @@ tags:
   - "#investigation"
   - "#revolar"
   - "#ghostbloods"
-last_updated: 2024-05-25T11:00:00
+last_updated: "2026-06-02T10:00:00"
 arc: "[[02 Knights of Dusk Arc]]"
 ---
 
@@ -21,9 +21,3 @@ The squad deepens their investigation into the factions of [[Revolar]], uncoveri
 - **Scholarly Inquiry:** The squad visits the [[Scholar's Rest]] library in the [[Devotary Ward]]. They research the cultures of [[Mythos]], [[Shinovar]], **Taldain**, and **Scadrial**. They also study spren categorization, learning the distinction between nature-spren and emotion-spren.
 - **Lurking Shadows:** [[Cadence]] alerts the party that they are being tailed by three darkeyes. The squad lures them into a bottleneck in [[Lowstone Alley]]. The tails reveal themselves as [[Knights of Dusk]] scouts vetting the party's motives. The party declares they are hunting the [[Bloodmarks]] who took [[Zabriel]].
 - **The Hateful Hour:** The session concludes as the party arrives at the [[Gemheart Inn]] just in time for their high-stakes meeting.
-
-# Outcomes
-- Confirmed [[Sweeper]]'s role in the [[Ghostbloods]] hierarchy.
-- Identified the "Brightest Inn" as [[Sun's Zenith]].
-- Gained intelligence on [[Nurian Gems]] and extra-planetary cultures.
-- Discovered a lead on [[Khria]] via [[The Shining Quill]].
