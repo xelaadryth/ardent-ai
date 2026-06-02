@@ -4,7 +4,6 @@ status: completed
 tags:
   - "#session"
   - "#investigation"
-  - "#combat"
   - "#revolar"
 last_updated: 2026-06-01T12:00:00
 arc: "[[02 Knights of Dusk Arc]]"
