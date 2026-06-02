@@ -1372,16 +1372,16 @@
         "[[Revolar]]",
         "[[Slipmarket]]",
         "[[Bloodmarks]]",
-        "[[Nurian Gems]]",
+        "[[Tomat]]",
+        "[[Saving Jory at the Abandoned Docks]]",
         "[[Undertaker]]"
       ],
       "tags": [
         "#npc",
         "#merchant",
-        "#revolar",
-        "#captured"
+        "#revolar"
       ],
-      "last_updated": "2024-05-25T10:00:00"
+      "last_updated": "2026-06-01T15:00:00"
     },
     "000 Arrival": {
       "type": "session",
@@ -1782,7 +1782,6 @@
       "tags": [
         "#session",
         "#investigation",
-        "#combat",
         "#revolar"
       ],
       "last_updated": "2026-06-01T12:00:00"
@@ -2524,28 +2523,6 @@
       ],
       "last_updated": "2024-05-30T12:00:00"
     },
-    "Allegiance at the Abandoned Docks": {
-      "type": "event",
-      "status": "active",
-      "links": [
-        "[[Truthkeepers]]",
-        "[[Knights of Dusk]]",
-        "[[Jory Spadis]]",
-        "[[General Spade]]",
-        "[[Possessed]]",
-        "[[Ojog]]",
-        "[[Renna Palir]]",
-        "[[Beric Quinn]]",
-        "[[Kaz]]",
-        "[[Darkstone Forest]]"
-      ],
-      "tags": [
-        "#event",
-        "#revolar",
-        "#betrayal"
-      ],
-      "last_updated": "2026-05-25T12:00:00"
-    },
     "Meeting at the Whitespine": {
       "type": "event",
       "status": "completed",
@@ -2621,6 +2598,31 @@
         "#event"
       ],
       "last_updated": "2026-05-16T18:18:32"
+    },
+    "Saving Jory at the Abandoned Docks": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[Jory Spadis]]",
+        "[[General Spade]]",
+        "[[Possessed]]",
+        "[[Bloodmarks]]",
+        "[[Zabriel]]",
+        "[[Ojog]]",
+        "[[Renna Palir]]",
+        "[[Beric Quinn]]",
+        "[[Kaz]]",
+        "[[Darkstone Forest]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#combat",
+        "#rescue"
+      ],
+      "last_updated": "2026-06-01T15:00:00"
     },
     "Sister Reunion": {
       "type": "event",
