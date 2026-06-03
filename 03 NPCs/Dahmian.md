@@ -29,6 +29,8 @@ He arrived at the [[Truthkeeper Camp]] in a wagon alongside [[Karani]] and [[Fin
 
 He is currently acting as an informant for the [[Knights of Dusk]]. His motivation for spying is less about morality and more about ensuring he is not trapped by the rigid hierarchies of the [[Truthkeepers]].
 
+Unlike the rest of the former player characters from Nuria, he did not want to swear oaths and be bound to the Willshaper lightspren.
+
 # Goals
 - Taste all varieties of food and wine across the princedoms during his travels.
 - Avoid any situation or allegiance that makes him feel trapped or restricted.

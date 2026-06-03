@@ -24,7 +24,7 @@ Deeply ambitious and deceptively polite. Koloko views every interaction as a che
 # Background
 Koloko was a career criminal in the Nurian underworld before arriving on Roshar with the other refugees. He initially hired [[Doug (Guddy)]] as his muscle for the crossing, unaware of the man's secret history as a double agent. 
 
-Upon arriving at the [[Truthkeeper Camp]], Koloko was eventually pulled aside and interrogated by the [[Ghostbloods]], who initially suspected him of being a [[Bloodmarks]] infiltrator. Recognizing their power, Koloko eagerly pledged his loyalty, proving his worth by feeding the syndicate intelligence on [[Truthkeepers]] troop movements and performing a series of sanctioned assassinations. He has since transitioned to [[Revolar]], where he has established [[The Prismatic Palette]] in the [[Stoneweave]] district.
+Upon arriving at the [[Truthkeeper Camp]], Koloko was eventually pulled aside and interrogated by the [[Ghostbloods]], who initially suspected him of being a [[Bloodmarks]] infiltrator. Recognizing their power, Koloko eagerly pledged his loyalty, proving his worth by feeding the syndicate intelligence on [[Truthkeepers]] troop movements and performing a series of sanctioned assassinations. He has since transitioned to [[Tomat]], where he has established [[The Prismatic Palette]]. He is also a budding Lightweaver.
 
 # Goals
 - Establish a high-end front business in the [[Stoneweave]] district to facilitate [[Ghostbloods]] logistics (Completed).
