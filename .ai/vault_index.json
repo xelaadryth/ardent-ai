@@ -345,8 +345,6 @@
         "[[Khria]]",
         "[[Revolar]]",
         "[[The Shining Quill]]",
-        "[[The Orphans of Tomat]]",
-        "[[Tracking the Knights of Dusk]]",
         "[[Lady Piri Hadlis]]"
       ],
       "tags": [
@@ -368,9 +366,7 @@
         "[[Undertaker]]",
         "[[Fina]]",
         "[[Aelwood Contract]]",
-        "[[Arbiter Jalis]]",
-        "[[N'tal's Vendetta]]",
-        "[[1172-02-17 The Foundry Chase]]"
+        "[[Arbiter Jalis]]"
       ],
       "tags": [
         "#player",
@@ -1002,7 +998,7 @@
         "[[Truthkeeper Camp]]",
         "[[Bloodmarks]]",
         "[[Truthkeepers]]",
-        "[[Revolar]]",
+        "[[Tomat]]",
         "[[Stoneweave]]",
         "[[Cremwidow Poison]]",
         "[[Flora and Fauna]]",
@@ -1045,7 +1041,7 @@
         "[[Stackhouse Slavers]]",
         "[[Khria]]",
         "[[General Spade]]",
-        "[[The Vamah Archivum]]",
+        "[[Vamah Archivum]]",
         "[[Stackhouses]]",
         "[[Bloodmarks]]",
         "[[Truthkeepers]]"
@@ -1737,9 +1733,7 @@
         "[[Shinovar]]",
         "[[Cadence]]",
         "[[Lowstone Alley]]",
-        "[[Gemheart Inn]]",
-        "[[Sun's Zenith]]",
-        "[[Khria]]"
+        "[[Gemheart Inn]]"
       ],
       "tags": [
         "#session",
@@ -1747,7 +1741,7 @@
         "#revolar",
         "#ghostbloods"
       ],
-      "last_updated": "2024-05-25T11:00:00"
+      "last_updated": "2026-06-02T10:00:00"
     },
     "014 Nothing but the Truth": {
       "type": "session",
@@ -1760,7 +1754,7 @@
         "[[Fina]]",
         "[[N'tal]]",
         "[[Bloodmarks]]",
-        "[[The Vamah Archivum]]",
+        "[[Vamah Archivum]]",
         "[[Adjudicator Peton]]",
         "[[The Missing Supplies]]",
         "[[Beric Quinn]]",
@@ -1780,10 +1774,9 @@
       ],
       "tags": [
         "#session",
-        "#investigation",
-        "#revolar"
+        "#investigation"
       ],
-      "last_updated": "2026-06-01T12:00:00"
+      "last_updated": "2026-06-02T10:00:00"
     },
     "015 Distractions and Flames": {
       "type": "session",
@@ -2147,7 +2140,7 @@
         "[[Cream of the Crem]]",
         "[[Whitespine's Fang]]",
         "[[Scholar's Rest]]",
-        "[[The Vamah Archivum]]",
+        "[[Vamah Archivum]]",
         "[[Gemheart Inn]]",
         "[[The Shining Quill]]",
         "[[Sun's Zenith]]",
@@ -2199,7 +2192,7 @@
       "links": [
         "[[Revolar]]",
         "[[Devotary Ward]]",
-        "[[The Vamah Archivum]]",
+        "[[Vamah Archivum]]",
         "[[Ardent Kaelis]]",
         "[[Vamah Princedom]]",
         "[[Iiko]]"
@@ -2312,21 +2305,6 @@
       ],
       "last_updated": "2024-05-25T11:00:00"
     },
-    "The Vamah Archivum": {
-      "type": "location",
-      "status": "active",
-      "links": [
-        "[[Revolar]]",
-        "[[Truthkeepers]]",
-        "[[Renna Palir]]",
-        "[[Possessed]]"
-      ],
-      "tags": [
-        "#location",
-        "#revolar"
-      ],
-      "last_updated": "2026-05-15T12:00:00"
-    },
     "Tomat": {
       "type": "location",
       "status": "active",
@@ -2363,6 +2341,21 @@
         "#placeholder"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "Vamah Archivum": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Renna Palir]]",
+        "[[Possessed]]"
+      ],
+      "tags": [
+        "#location",
+        "#revolar"
+      ],
+      "last_updated": "2026-06-02T10:00:00"
     },
     "Whitespine's Fang": {
       "type": "location",
@@ -2680,7 +2673,7 @@
     },
     "The Cinder Evacuation": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Skyglass District]]",
         "[[Revolar]]",
@@ -3067,7 +3060,7 @@
       ],
       "last_updated": "2026-05-16T18:21:53"
     },
-    "The Steamship's Secret": {
+    "The Lightship's Secret": {
       "type": "lore",
       "status": "active",
       "links": [
