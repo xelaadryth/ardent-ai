@@ -1,1 +1,0 @@
-Created High Advisor Thalor and updated Fina to reflect his role in manipulating her past actions, providing context for N'tal to potentially forgive her.

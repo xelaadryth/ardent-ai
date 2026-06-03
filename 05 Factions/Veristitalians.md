@@ -8,9 +8,9 @@ tags:
 last_updated: 2024-05-31T14:00:00
 ---
 # Description
-A secretive and scholarly sub-faction within the Vorin Church. Unlike those who study history for religious or political gain, the Veristitalians seek the "truth of what happened," regardless of whether it aligns with current orthodoxies or the desires of powerful lighteyes.
+A secretive and scholarly sub-faction outside of the Vorin Church. Unlike those who study history for religious or political gain, the Veristitalians seek the "truth of what happened," regardless of whether it aligns with current orthodoxies or the desires of powerful lighteyes.
 
-**Note:** The Veristitalians are an independent scholarly movement and are not considered a [[Vorin Devotaries|Vorin Devotary]], though individual members often belong to one (frequently the [[Vorin Devotaries|Devotary of Sincerity]]).
+**Note:** The Veristitalians are an independent scholarly movement and are not considered a [[Vorin Devotaries|Vorin Devotary]], though individual members may belong to one (most aligned with the [[Vorin Devotaries|Devotary of Sincerity]]).
 
 # Goals
 They believe that history must be recorded accurately to prevent the cyclical errors of the past. They often operate undercover, viewing the systematic manipulation of historical records—such as those by [[Highlord Paladar]]—as a fundamental betrayal of their duty to the Almighty and humanity.
