@@ -9,7 +9,7 @@ last_updated: 2026-05-16T16:00:00
 ---
 
 # Description
-A secret society within the Alethi nobility and the Vorin Church. They believe that by returning the world to its state before the Recreance—specifically through war and the return of the Heralds—they can restore the dominance of the Vorin faith.
+A secret society within Alethkar. They believe that by returning the world to its state before the Recreance—specifically through war and the return of the Heralds—they can restore the dominance of the Vorin faith.
 
 # Goals
 - **Return of the Heralds:** Force the Heralds to return by bringing about a new Desolation or equivalent world-wide conflict.
