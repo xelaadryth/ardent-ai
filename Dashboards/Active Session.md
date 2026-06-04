@@ -2,6 +2,14 @@ Current Arc: [[02 Knights of Dusk Arc]]
 Last Session: [[015 Distractions and Flames]]
 
 # TODO
+- Cover goals
+	- Iiko - become an ardent
+	- Fina - clear her name
+	- N'tal - track down Malice
+	- Kuma - learn more about fabrials
+	- Mallow - find Khria
+	- Galeth - ???
+- Jory spotted talking to himself, grabbed by Bloodmarks and run off with him
 - Gemheart Inn
 	- Party summoned by Knights of Dusk
 - Stackhouses

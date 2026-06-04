@@ -1,6 +1,6 @@
 ---
 type: faction
-status: active
+status: completed
 tags:
   - "#faction"
   - "#cult"
