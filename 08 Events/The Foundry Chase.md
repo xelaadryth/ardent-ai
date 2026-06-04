@@ -69,7 +69,9 @@ Industrial and abandoned, wooden scaffolding and broken buildings.
 - Break the sluices on crem drainage channels
 
 ## The Foundry
-What looks like an old crem-processing plant, front doors are iron and slam shut behind the party. Catwalks crisscross overhead, with massive stone vats of cremwater on the floor. The ground is slick with oil that they covered the ground with behind them. The Bloodmarks are up on the catwalks overhead, and break off the ladder they climbed. While one Bloodmark is lighting a torch, Jalis rolls Jory off the catwalk and into the sludge, and with a yelp he sinks beneath the surface.
+What looks like an old crem-processing plant, front doors are iron and slam shut behind the party. Catwalks crisscross overhead, with massive stone vats of cremwater on the floor. The ground is slick with oil that they covered the ground with behind them. Jalis has a few guards around him in the catwalks overhead. Other Bloodmarks block your path to the nearest ladder. While one Bloodmark is lighting a torch, Jalis rolls Jory off the catwalk and into the sludge, and with a yelp he sinks beneath the surface. He starts escaping as his minion starts breaking the other remaining ladder deeper in, only N'tal can reach it.
+
+- Fires blow up another barrel near a ladder, spreading to barrels next to ceiling support column and another set of barrels with hiding homeless people
 
 Suddenly, words come to [[N'tal]].
 
