@@ -69,11 +69,18 @@ Industrial and abandoned, wooden scaffolding and broken buildings.
 - Break the sluices on crem drainage channels
 
 ## The Foundry
-What looks like an old crem-processing plant, front doors are iron and slam shut behind the party. Catwalks crisscross overhead, with massive stone vats of cremwater on the floor. The ground is slick with oil that they covered the ground with behind them. Jalis has a few guards around him in the catwalks overhead. Other Bloodmarks block your path to the nearest ladder. While one Bloodmark is lighting a torch, Jalis rolls Jory off the catwalk and into the sludge, and with a yelp he sinks beneath the surface. He starts escaping as his minion starts breaking the other remaining ladder deeper in, only N'tal can reach it.
+What looks like an old crem-processing plant, front doors are iron and slam shut behind the party. Catwalks crisscross overhead, with massive stone vats of cremwater on the floor. The ground is slick with oil that they covered the ground with behind them. Jalis has a few guards around him in the catwalks overhead. Other Bloodmarks block your path to the nearest ladder.
 
-- Fires blow up another barrel near a ladder, spreading to barrels next to ceiling support column and another set of barrels with hiding homeless people
+- Round 1
+	- One lights a torch and tosses it onto the oil and flames start greedily licking their way across the floor
+- Round 2
+	- Fires blow up another barrel near the closest ladder destroying it
+	- Fire spreading to barrels next to ceiling support column
+	- Fire spreading to another set of barrels with cowering homeless
+- Round 3
+	- Jalis rolls Jory off the catwalk and into a vat of crem sludge; with a yelp he sinks beneath the surface. In the meantime Jalis climbs a ladder out the top of the building; if you don't catch him now you'll lose him. *You'll lose your only lead.*
 
-Suddenly, words come to [[N'tal]].
+Suddenly...words come to [[N'tal]].
 
 > Life before death.
 
