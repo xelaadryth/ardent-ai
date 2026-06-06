@@ -9,12 +9,13 @@ Last Session: [[015 Distractions and Flames]]
 	- Kuma - learn more about fabrials
 	- Mallow - find Khria
 	- Galeth - ???
-- Jory spotted talking to himself, grabbed by Bloodmarks and run off with him
+- Jory spotted talking to himself, but no one notices when he disappears
 - Gemheart Inn
-	- Party summoned by Knights of Dusk
+	- Party summoned by Knights of Dusk to the Stackhouses
 - Stackhouses
 	- Good job
-	- Jory was captured by the Bloodmarks, don't know where he is right now, think they're moving him tonight from the [[Sun's Zenith]]
+	- Jory was captured by the Bloodmarks, don't know where he is right now
+	- Overheard from some guards with red armbands by the east gate that they're moving a prisoner tonight from an inn somewhere (the [[Sun's Zenith]])
 - Iiko inducted into Devotary of Sincerity
 	- Devotary is super tiny and cramped, basically an office (next to the Devotary of Determination, and Purity, both big in Alethkar)
 	- Dedicate life to pursuit of truth and knowledge - there is always another secret
