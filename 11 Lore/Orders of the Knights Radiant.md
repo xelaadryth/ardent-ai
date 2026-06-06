@@ -125,3 +125,11 @@ The Knights Radiant were ten distinct Orders of Surgebinders, ancient protectors
 - **Essence:** Sinew (Flesh)
 - **Attributes:** Guiding and Instructor
 - **Warning:** Current vault intelligence identifies [[High Witness Yeshan]] as the Herald of this Order, though his sanity is severely fractured.
+
+# Nurian Bonds
+When [[High Witness Yeshan]] bound the Nurians to Roshar via Connection, he unknowingly also made them more connectable for spren.
+- The 6 PCs cover most of the orders
+- [[Beric Quinn]] - Windrunner
+- [[Ojog]] - Skybreaker
+- [[Koloko]] - Lightweaver
+- [[Dahmian]] - Originally going to be a Willshaper but rejects it

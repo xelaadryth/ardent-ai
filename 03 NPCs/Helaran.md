@@ -15,7 +15,7 @@ location: "[[Tomat]]"
 A lethal assassin and acolyte of the [[Silent Oath]] (Skybreakers). He operated under the belief that eliminating high-profile figures was necessary to prevent the return of the Desolations.
 
 # Personality
-Cold, professional, and single-minded. He viewed his targets through the lens of cold legality and divine mandate, seeking to prove his worthiness to the Herald Nale.
+Cold, professional, and single-minded. He viewed his targets through the lens of cold legality and divine mandate, seeking to prove his worthiness to [[High Enforcer Aylen]].
 
 # Background
 Helaran was dispatched by the [[Silent Oath]] to eliminate [[Amaram]] in [[Tomat]] to prove his dedication to the Skybreaker code. While he successfully assassinated the Brightlord, he was immediately engaged and slain by [[Tien]]. He is the brother of [[Shallan Davar]].

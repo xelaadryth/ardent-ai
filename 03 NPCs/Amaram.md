@@ -26,5 +26,5 @@ A military commander based in [[Tomat]]. He was known for his efforts to stabili
 # Connections
 - [[Helaran]]: His assassin.
 - [[Tien]]: His star recruit and protégé.
-- [[Advisor Merim]]: His trusted advisor who betrayed his legacy.
+- [[Advisor Ridius]]: His trusted advisor who betrayed his legacy.
 - [[Dillind]]: A young soldier he intended to protect.

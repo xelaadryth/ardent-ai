@@ -22,7 +22,7 @@ A "storm-blessed" soldier named [[Tien]] is making a name for himself in the bru
 # Key Players
 - Sadeas Army
 	- [[Amaram]]: The honorable Brightlord commander whose death triggers the arc's climax.
-	- [[Advisor Merim]]: The true [[Sons of Honor]] operative who steals the arc's ultimate prize.
+	- [[Advisor Ridius]]: The true [[Sons of Honor]] operative who steals the arc's ultimate prize.
 	- [[Tien]]: A potential Radiant who slays an assassin but loses his reward to treachery.
 - [[Silent Oath]]
 	- [[Helaran]]: A [[Silent Oath]] acolyte sent to assassinate [[Amaram]].
@@ -30,7 +30,7 @@ A "storm-blessed" soldier named [[Tien]] is making a name for himself in the bru
 # Progression
 - **Act 1: Rumors of the Storm-Blessed:** The party hears stories of a soldier who survived impossible odds in the borderlands.
 - **Act 2: The Assassination:** [[Helaran]] successfully kills the honorable [[Amaram]] in [[Tomat]]. [[Tien]] slays [[Helaran]] in the immediate aftermath, winning a Shardblade and Shardplate.
-- **Act 3: The Great Deception:** [[Advisor Merim]] holds a ceremony for [[Tien]] but seizes the Shards for himself, leaving for the [[Shattered Plains]] while the party witnesses the fallout.
+- **Act 3: The Great Deception:** [[Advisor Ridius]] holds a ceremony for [[Tien]] but seizes the Shards for himself, leaving for the [[Shattered Plains]] while the party witnesses the fallout.
 
 # Stakes
 - **The Discovery of the Radiant:** If [[Tien]] is revealed as a Radiant, he becomes a primary target for the [[Silent Oath]].

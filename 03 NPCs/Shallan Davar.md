@@ -13,13 +13,13 @@ faction: "[[Ghostbloods]]"
 location: "[[Kharbranth]]"
 ---
 # Description
-A Veden noblewoman and ward to [[Jasnah Kholin]]. In this version of Roshar, she is a sleeper agent for the [[Ghostbloods]] tasked with assassinating her mentor to secure a Soulcaster.
+A Veden noblewoman and ward to [[Jasnah Kholin]]. In this version of Roshar, she is a sleeper agent for the [[Ghostbloods]] tasked with assassinating her mentor to secure a Soulcaster. Tyn functions as her main connection to them.
 
 # Personality
 Externally shy and witty, Shallan hides a desperate and traumatized core. She is fiercely protective of her family's interests.
 
 # Background
-Shallan was recruited by the [[Ghostbloods]] through Luesh, her brother [[Helaran]]'s contact. She truly believes that by stealing Jasnah's working Soulcaster, she can save her family and aid [[Helaran]], unaware that her brother is already dead. She is coming to terms with her role as an assassin and her powers as a Lightweaver.
+Shallan was recruited by the [[Ghostbloods]] through Luesh, her father's Ghostblood contact. She truly believes that by stealing Jasnah's working Soulcaster, she can save her family and aid [[Helaran]], unaware that her brother is already dead. She is coming to terms with her role as an assassin and her powers as a Lightweaver.
 
 # Goals
 - **Assassinate Jasnah Kholin:** Neutralize her mentor and steal her Soulcaster.

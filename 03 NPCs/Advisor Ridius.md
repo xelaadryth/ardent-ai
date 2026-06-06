@@ -15,7 +15,7 @@ location: "[[Shattered Plains]]"
 The cunning and duplicitous former advisor to Brightlord [[Amaram]]. He is a high-ranking member of the [[Sons of Honor]] who exploited his position to further the society's radical agenda.
 
 # Appearance
-A middle-aged Alethi man with sharp, calculating features and a perpetually smooth, reassuring voice. He typically wears the understated but fine silks of a high-level administrative official.
+A middle-aged Alethi man with sharp, calculating light blue eyes and a perpetually smooth, reassuring voice. He typically wears the understated but fine silks of a high-level administrative official.
 
 # Personality
 Ambitious and fanatical. Beneath a facade of administrative efficiency lies a man driven by the belief that the Heralds must be forced to return at any cost. He views people, including his former employer, as expendable tools.

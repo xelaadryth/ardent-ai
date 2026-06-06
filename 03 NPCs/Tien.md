@@ -18,7 +18,7 @@ Tien is a young man with a bright, earnest face and curly hair often dusty from 
 Tien is naturally artistic and empathetic, often finding beauty in small things. While he once lacked the "killer instinct," his survival of the Jah Keved skirmishes and his brother's sacrifice have forged him into a resilient leader who collects those in need of protection.
 
 # Background
-After [[Kaladin]] died saving him, Tien threw himself into the military. During the events in [[Tomat]], he witnessed the assassination of his mentor, [[Amaram]], by [[Helaran]]. Tien engaged and slew the assassin, winning a Shardblade and Shardplate in the process. However, these were stolen from him by [[Advisor Merim]] during a sham ceremony.
+After [[Kaladin]] died saving him, Tien threw himself into the military. During the events in [[Tomat]], he witnessed the assassination of his mentor, [[Amaram]], by [[Helaran]]. Tien engaged and slew the assassin, winning a Shardblade and Shardplate in the process. However, these were stolen from him by [[Advisor Ridius]] during a sham ceremony.
 
 # Goals
 - **Live Worthily:** To be worthy of [[Kaladin]]'s sacrifice.
@@ -26,11 +26,11 @@ After [[Kaladin]] died saving him, Tien threw himself into the military. During 
 
 # Hooks
 - **The Stormblessed Legend:** His reputation is growing, making him a beacon for potential Radiants and a target for the [[Silent Oath]].
-- **The Stolen Birthright:** Tien seeks the Shards that were rightfully his but are now being used by [[Advisor Merim]].
+- **The Stolen Birthright:** Tien seeks the Shards that were rightfully his but are now being used by [[Advisor Ridius]].
 
 # Connections
 - [[Kaladin]]: His fallen brother.
 - [[Amaram]]: His fallen commanding officer and mentor.
-- [[Advisor Merim]]: The man who betrayed him and stole his Shards.
+- [[Advisor Ridius]]: The man who betrayed him and stole his Shards.
 - [[Helaran]]: The assassin he slew.
 - [[Dillind]]: A young soldier under his protection.
