@@ -7,7 +7,7 @@ tags:
   - "#soldier"
   - "#sadeas_princedom"
   - "#stormblessed"
-last_updated: 2024-05-21T09:00:00
+last_updated: 2024-06-05T09:00:00
 faction: "[[Sadeas Princedom]]"
 location: "[[Tomat]]"
 ---
@@ -18,7 +18,7 @@ Tien is a young man with a bright, earnest face and curly hair often dusty from 
 Tien is naturally artistic and empathetic, often finding beauty in small things. While he once lacked the "killer instinct," his survival of the Jah Keved skirmishes and his brother's sacrifice have forged him into a resilient leader who collects those in need of protection.
 
 # Background
-After [[Kaladin]] died saving him in the Jah Keved border skirmishes—a sacrifice that seemingly passed on a unique destiny—Tien threw himself into the military. He is now a competent soldier and squad leader who defies death in [[Tomat]], drawing the attention of both the [[Truthkeepers]] and the [[Ghostbloods]].
+After [[Kaladin]] died saving him, Tien threw himself into the military. During the events in [[Tomat]], he witnessed the assassination of his mentor, [[Amaram]], by [[Helaran]]. Tien engaged and slew the assassin, winning a Shardblade and Shardplate in the process. However, these were stolen from him by [[Advisor Merim]] during a sham ceremony.
 
 # Goals
 - **Live Worthily:** To be worthy of [[Kaladin]]'s sacrifice.
@@ -26,10 +26,11 @@ After [[Kaladin]] died saving him in the Jah Keved border skirmishes—a sacrifi
 
 # Hooks
 - **The Stormblessed Legend:** His reputation is growing, making him a beacon for potential Radiants and a target for the [[Silent Oath]].
-- **Shardbearer Destiny:** He is destined to win a Shardblade in the coming skirmishes near [[Tomat]].
+- **The Stolen Birthright:** Tien seeks the Shards that were rightfully his but are now being used by [[Advisor Merim]].
 
 # Connections
-- [[Kaladin]]: His fallen brother whose sacrifice defined his new path.
-- [[Dillind]]: A young soldier under his protection in [[Tomat]].
-- [[Amaram]]: His commanding officer who views him as a prized asset.
-- Dallet (Sergeant), Cenn (young recruit), Coreb, Hab, Alabet, Reesh, Acis, Cyn, Hamel, Larn, Lyndel, Navar, Raksha, Toorim, Korater: The soldiers under his command.
+- [[Kaladin]]: His fallen brother.
+- [[Amaram]]: His fallen commanding officer and mentor.
+- [[Advisor Merim]]: The man who betrayed him and stole his Shards.
+- [[Helaran]]: The assassin he slew.
+- [[Dillind]]: A young soldier under his protection.

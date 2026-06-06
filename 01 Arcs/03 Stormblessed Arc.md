@@ -5,7 +5,7 @@ tags:
   - "#arc"
   - "#stormblessed"
   - "#border_skirmish"
-last_updated: 2024-05-22T10:00:00
+last_updated: 2024-06-05T09:00:00
 number: 3
 ---
 
@@ -13,39 +13,31 @@ number: 3
 A "storm-blessed" soldier named [[Tien]] is making a name for himself in the brutal border skirmishes of Alethkar and Jah Keved. He is a survivor who seems to defy death at every turn, drawing the attention of both the Heralds and the Radiants. In this timeline, he was saved by [[Kaladin]] during a sacrifice that passed on the destiny of the Stormblessed.
 
 # Why Tomat
-- Tomat is the closest place with a large library not desecrated by the Truthkeepers, unlike Kholinar which has even larger Truthkeeper presence
-- Traveling to Bodenar directly is difficult, not safe to cross the border unless with Alethi forces, Ghostbloods have ardent and merchant contacts in [[Tomat]] that can help get everyone across the border; supplies, disguises, spot in a caravan: [[Kabsal]]
+- Tomat is the closest place with a large library not desecrated by the Truthkeepers.
+- Traveling to Bodenar directly is difficult; [[Kabsal]] and the [[Ghostbloods]] can assist with border crossing.
 
 # Key Locations
 - [[Tomat]]: The primary staging ground for the arc's events.
 
 # Key Players
 - Sadeas Army
-	- [[Amaram]]: The Highlord leader of the [[Sons of Honor]] conducting recruitment drives in [[Tomat]].
-	- [[Tien]]: A former squad leader and potential Radiant who "collects" those in need of protection.
-	- [[Dillind]]: One of the young soldiers under [[Tien]]'s protection.
-- [[Ghostbloods]]
-	- [[Helaran]]: A mysterious figure sent by the [[Ghostbloods]] to assassinate [[Amaram]] in [[Tomat]].
+	- [[Amaram]]: The honorable Brightlord commander whose death triggers the arc's climax.
+	- [[Advisor Merim]]: The true [[Sons of Honor]] operative who steals the arc's ultimate prize.
+	- [[Tien]]: A potential Radiant who slays an assassin but loses his reward to treachery.
+- [[Silent Oath]]
+	- [[Helaran]]: A [[Silent Oath]] acolyte sent to assassinate [[Amaram]].
 
 # Progression
 - **Act 1: Rumors of the Storm-Blessed:** The party hears stories of a soldier who survived impossible odds in the borderlands.
-- **Act 2: The Skirmish:** The party witnesses a brutal battle near [[Tomat]] where [[Tien]] defends a group of young soldiers, including [[Dillind]].
-- **Act 3: The Presumed Death:** [[Tien]] wins a Shardblade but is betrayed and presumed dead, while the party is left to witness the aftermath of the "execution" of his soldiers.
+- **Act 2: The Assassination:** [[Helaran]] successfully kills the honorable [[Amaram]] in [[Tomat]]. [[Tien]] slays [[Helaran]] in the immediate aftermath, winning a Shardblade and Shardplate.
+- **Act 3: The Great Deception:** [[Advisor Merim]] holds a ceremony for [[Tien]] but seizes the Shards for himself, leaving for the [[Shattered Plains]] while the party witnesses the fallout.
 
 # Stakes
 - **The Discovery of the Radiant:** If [[Tien]] is revealed as a Radiant, he becomes a primary target for the [[Silent Oath]].
-- **The Shardblade:** A Shardblade is won in these battles, but its owner is presumed dead, leading to a tragic shift in the regional power balance.
+- **The Stolen Shards:** A Shardblade and Plate are won, but they fall into the hands of the [[Sons of Honor]].
 
 # Hooks
 - [[The Orphans of Tomat]]
 - [[Resonance of the Past]]
 - [[Helaran's Shadow]]
 - [[The Stormblessed Investigation]]
-- **The Destiny Shift:** Investigate the nature of the bond or destiny passed from [[Kaladin]] to [[Tien]].
-- **Ghostblood Assassin:** Track [[Helaran]]'s progress toward [[Amaram]] through [[Tomat]].
-
-# Events
-<!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
-
-# Sessions
-<!-- QueryToSerialize: LIST FROM "04 Sessions" WHERE arc = this.file.link SORT file.name ASC -->

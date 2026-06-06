@@ -1,29 +1,30 @@
 ---
 type: npc
-status: active
+status: deceased
 tags:
   - "#npc"
-  - "#ghostbloods"
+  - "#silent_oath"
   - "#assassin"
-  - "#veshers"
-last_updated: 2026-05-18T12:00:00
-faction: "[[Ghostbloods]]"
+  - "#skybreaker"
+last_updated: 2024-06-05T09:00:00
+faction: "[[Silent Oath]]"
 location: "[[Tomat]]"
 ---
 
 # Description
-A mysterious figure and highly skilled assassin operating on behalf of the [[Ghostbloods]]. He has been dispatched to eliminate [[Amaram]].
+A lethal assassin and acolyte of the [[Silent Oath]] (Skybreakers). He operated under the belief that eliminating high-profile figures was necessary to prevent the return of the Desolations.
 
 # Personality
-Cold, professional, and single-minded. He operates with a level of precision that suggests high-level training or supernatural enhancement.
+Cold, professional, and single-minded. He viewed his targets through the lens of cold legality and divine mandate, seeking to prove his worthiness to the Herald Nale.
 
 # Background
-Helaran's past is shrouded in secrecy, but he has risen quickly within the [[Ghostbloods]] hierarchy as a specialized wetwork agent. He is the brother of [[Shallan Davar]], and though she is working for the same organization to aid him, he is currently missing and presumed dead following the border skirmishes.
+Helaran was dispatched by the [[Silent Oath]] to eliminate [[Amaram]] in [[Tomat]] to prove his dedication to the Skybreaker code. While he successfully assassinated the Brightlord, he was immediately engaged and slain by [[Tien]]. He is the brother of [[Shallan Davar]].
 
 # Goals
-- **Assassination:** Successfully eliminate [[Amaram]] as ordered by the [[Ghostbloods]].
-- **Anonymity:** Complete his mission without revealing his identity.
+- **Assassination:** Successfully eliminate [[Amaram]] to prove his worth to the [[Silent Oath]].
+- **Legalism:** Uphold the strict, if warped, laws of his order.
 
 # Connections
 - [[Amaram]]: His primary target.
-- [[Shallan Davar]]: His sister, who is unaware of his fate.
+- [[Shallan Davar]]: His sister.
+- [[Tien]]: The soldier who ended his life.

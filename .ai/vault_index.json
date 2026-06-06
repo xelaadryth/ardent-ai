@@ -285,9 +285,14 @@
       "status": "active",
       "links": [
         "[[Kun'ahu]]",
-        "[[03 NPCs/Szeth-son-son-Vallano]]",
+        "[[Meki-son-Vara]]",
+        "[[Szeth-son-son-Vallano]]",
+        "[[Neturo]]",
         "[[The Axelsmith]]",
-        "[[Neturo]]"
+        "[[The Burden of the Commander]]",
+        "[[Bloodmarks]]",
+        "[[The Stone's Judgment]]",
+        "[[Tezsh-son-Rillan]]"
       ],
       "tags": [
         "#player",
@@ -297,7 +302,7 @@
         "#stoneward",
         "#darkeyed"
       ],
-      "last_updated": "2024-05-18T00:00:00"
+      "last_updated": "2024-06-05T00:00:00"
     },
     "Iiko": {
       "type": "player",
@@ -1087,6 +1092,24 @@
       ],
       "last_updated": "2026-05-13T23:55:00"
     },
+    "Meki-son-Vara": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Bodenar]]",
+        "[[Galeth-son-Thald]]",
+        "[[Tezsh-son-Rillan]]",
+        "[[Grand Justicar Malice]]"
+      ],
+      "tags": [
+        "#npc",
+        "#shin",
+        "#exiled",
+        "#antagonist"
+      ],
+      "last_updated": "2024-06-05T00:00:00"
+    },
     "Mikeyel Franzay": {
       "type": "npc",
       "status": "active",
@@ -1255,6 +1278,7 @@
       "links": [
         "[[Diagram]]",
         "[[Jah Keved]]",
+        "[[Neturo]]",
         "[[Galeth-son-Thald]]"
       ],
       "tags": [
@@ -1263,7 +1287,7 @@
         "#assassin",
         "#truthless"
       ],
-      "last_updated": "2026-05-17T12:00:00"
+      "last_updated": "2024-06-05T00:00:00"
     },
     "Tahs": {
       "type": "npc",
@@ -1281,6 +1305,21 @@
         "#initiate"
       ],
       "last_updated": "2026-05-13T23:35:12"
+    },
+    "Tezsh-son-Rillan": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Alethkar]]",
+        "[[Meki-son-Vara]]",
+        "[[Galeth-son-Thald]]"
+      ],
+      "tags": [
+        "#npc",
+        "#shin",
+        "#griever"
+      ],
+      "last_updated": "2024-06-05T00:00:00"
     },
     "The Axelsmith": {
       "type": "npc",
@@ -1386,7 +1425,8 @@
         "[[Slipmarket]]",
         "[[Bloodmarks]]",
         "[[Tomat]]",
-        "[[Saving Jory at the Abandoned Docks]]",
+        "[[The Foundry Chase]]",
+        "[[The Experimental Lightship]]",
         "[[Undertaker]]"
       ],
       "tags": [
@@ -1890,7 +1930,6 @@
         "[[Darkstone Forest]]",
         "[[Vamah Princedom]]",
         "[[Bloodmarks]]",
-        "[[Ardent Vedelis]]",
         "[[Beric Quinn]]",
         "[[General Spade]]",
         "[[Kaz]]",
@@ -2771,6 +2810,7 @@
         "[[Arbiter Jalis]]",
         "[[N'tal]]",
         "[[Jory Spadis]]",
+        "[[Zabriel]]",
         "[[Kuma]]",
         "[[Fina]]",
         "[[Iiko]]",

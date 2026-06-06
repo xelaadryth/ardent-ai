@@ -5,12 +5,10 @@ tags:
   - "#faction"
   - "#secret-society"
   - "#espionage"
-last_updated: 2024-05-27T10:00:00
+last_updated: 2024-06-05T09:00:00
 ---
 # Description
 A secretive and highly organized faction that deals in secrets, Investiture, and large-scale political manipulation. They operate primarily from the shadows, utilizing a network of autonomous cells to achieve their ends.
-
-The Ghostbloods are known for their shadow operations and control over black market trades. They have a presence across various regions, often following the trail of ancient power. Their current focus is centered on tracking Nurian gems and seeking retribution for an agent recently lost on Mythos. To join their ranks, an initiate must typically provide significant favors or surrender items of extreme value.
 
 # Goals
 - **Infiltration:** Successfully embed agents within the [[Truthkeepers]] to monitor their activities.
@@ -23,10 +21,7 @@ The Ghostbloods are known for their shadow operations and control over black mar
 - [[Truthkeepers]]: Potential allies; the faction may see them as a useful tool for their goals.
 
 # Members
-<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
-<!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 - [[Chip]]
-- [[Helaran]]
 - [[Kabsal]]
 - [[Karani]]
 - [[Koloko]]
@@ -34,6 +29,3 @@ The Ghostbloods are known for their shadow operations and control over black mar
 - [[Sila]]
 - [[Sweeper]]
 - [[Undertaker]]
-
-
-<!-- SerializedQuery END -->

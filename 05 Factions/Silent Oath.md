@@ -3,7 +3,7 @@ type: faction
 status: active
 tags:
   - "#faction"
-last_updated: 2026-05-13T23:33:15
+last_updated: 2024-06-05T09:00:00
 ---
 # Description
 A shadow organization operating within the higher echelons of the [[Truthkeepers]], specialized in the clinical elimination of high-priority "Possessed" targets.
@@ -16,12 +16,9 @@ In reality, the Silent Oath is composed of members of the Skybreaker order. They
 
 # Allies & Rivals
 - [[Truthkeepers]]: The front of their organization.
-- [[Knights of Dusk]]: Ideologically opposed, viewing them as worthy sacrifices to prevent the return of the Desolations.
+- [[Knights of Dusk]]: Ideologically opposed.
 
 # Members
-<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
-<!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
+- [[High Enforcer Aylen]]
 - [[Istrum]]
-
-
-<!-- SerializedQuery END -->
+- [[Helaran]]
