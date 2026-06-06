@@ -264,6 +264,7 @@
         "[[Truthkeeper Camp]]",
         "[[Dahmian]]",
         "[[Karani]]",
+        "[[High Advisor Thalor]]",
         "[[Bloodmarks]]",
         "[[N'tal]]",
         "[[Aelwood Contract]]",
@@ -277,7 +278,7 @@
         "#noble",
         "#lighteyed"
       ],
-      "last_updated": "2026-06-01T12:00:00"
+      "last_updated": "2026-06-03T10:00:00"
     },
     "Galeth-son-Thald": {
       "type": "player",
@@ -715,6 +716,23 @@
         "#veshers"
       ],
       "last_updated": "2026-05-18T12:00:00"
+    },
+    "High Advisor Thalor": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Aelwood Contract]]",
+        "[[Fina]]",
+        "[[N'tal]]",
+        "[[Beric Quinn]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#antagonist"
+      ],
+      "last_updated": "2026-06-03T10:00:00"
     },
     "High Enforcer Aylen": {
       "type": "npc",
@@ -1827,7 +1845,7 @@
     },
     "Envisagers": {
       "type": "faction",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Truthkeepers]]",
         "[[Possessed]]"
@@ -3086,6 +3104,7 @@
         "[[Jah Keved]]",
         "[[Ardent Kaelis]]",
         "[[Ardent Vedelis]]",
+        "[[Dalinar]]",
         "[[Veristitalians]]"
       ],
       "tags": [
