@@ -1,0 +1,1 @@
+Can you give me many detailed ideas for how to develop Galeth-son-Thald's character arc, given the overall campaign arcs I plan to introduce? What other characters can I create from his past to flesh it out? I definitely want Szeth-son-son-Vallano to be an acquaintance of his somehow, perhaps he only knew him as the shepherd's boy who got recruited but not what came after.
