@@ -46,11 +46,11 @@ Perhaps you left Shinovar just to "die a good death" as a Stonewalker in penance
 
 # Hooks
 - **[[The Burden of the Commander]]**: [[Meki-son-Vara]] has resurfaced in Jah Keved, working as a mercenary for the [[Bloodmarks]].
-- **[[The Stone's Judgment]]**: [[Trel-son-Trel]], the father of the girl killed in Shinovar, is tracking Galeth to force him back to the stone-fields for ritual judgment.
+- **[[The Stone's Judgment]]**: [[Tezsh-son-Rillan]], the father of the girl killed in Shinovar, is tracking Galeth to force him back to the stone-fields for ritual judgment.
 
 # Connections
 - [[Kun'ahu]] — His jovial and dependable Peakspren.
 - [[Szeth-son-son-Vallano]] — A childhood acquaintance from Shinovar, the shepherd [[Neturo]]'s son.
 - [[The Axelsmith]] — His former adversary in a duel.
 - [[Meki-son-Vara]] — The soldier whose crimes led to Galeth's exile.
-- [[Trel-son-Trel]] — A figure from his past seeking restitution.
+- [[Tezsh-son-Rillan]] — A figure from his past seeking restitution.

@@ -19,7 +19,7 @@ Wizened and weary, with eyes that are perpetually red from grief. He carries a s
 Stoic and unrelenting. He does not scream or threaten; he simply follows, believing that the stone will eventually lead him to justice.
 
 # Background
-Trel was a respected stone-worker in Shinovar until [[Meki-son-Vara]] killed his daughter. Because Galeth allowed Meki to leave Shinovar alive (choosing exile over execution), Trel holds Galeth equally responsible for the "unfinished justice." He has spent years tracking Galeth's trail through the Silver Kingdoms.
+Tezsh was a respected stone-worker in Shinovar until [[Meki-son-Vara]] killed his daughter. Because Galeth allowed Meki to leave Shinovar alive (choosing exile over execution), Trel holds Galeth equally responsible for the "unfinished justice." He has spent years tracking Galeth's trail through the Silver Kingdoms.
 
 # Goals
 - **Ritual Restitution:** Capture Galeth and Meki and bring them back to the stone-fields of Shinovar to face a council of elders.
