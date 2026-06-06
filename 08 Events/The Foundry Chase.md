@@ -17,7 +17,7 @@ session: "[[013 Tilting Loyalties]]"
 A high-stakes pursuit through the winding, industrial alleys of the [[Scarstone Quarter]] that culminates in a moral crucible within a derelict crem-processing facility. This event follows soon after the [[Meeting with the Undertaker]].
 
 # Setup
-The party identifies a [[Bloodmarks]] transport team led by [[Arbiter Jalis]]—the man [[N'tal]] just learned participated in his family's slaughter. Jalis is moving a high-value "asset," the fledgling Radiant [[Jory Spadis]]. The pursuit begins as a high-speed chase across the rickety scaffolding of the industrial alleys in the Cremling Quarter. Jalis uses the neighborhood's unstable architecture to delay the party, leading them toward a "killing box" in an abandoned crem-iron foundry.
+The party identifies a [[Bloodmarks]] transport team led by [[Arbiter Jalis]]—the man [[N'tal]] just learned participated in his family's slaughter. Jalis is moving a prisoner who the party thinks is [[Jory Spadis]] but is actually just [[Zabriel]]. The pursuit begins as a high-speed chase across the rickety scaffolding of the industrial alleys in the Cremling Quarter. Jalis uses the neighborhood's unstable architecture to delay the party, leading them toward a "killing box" in an abandoned crem-iron foundry.
 ## Distance Track
 
 |Distance|Meaning|
@@ -44,6 +44,7 @@ The party identifies a [[Bloodmarks]] transport team led by [[Arbiter Jalis]]—
 ## Complications (Successful)
 - N'tal/Fina - Slip and fall but you slide through without slowing down, disadvantage on your next test
 - Galeth/Mallow - Fail the jump but luckily land on an outcropping of stone that lets you climb up quickly after, disadvantage on your next test
+- Highstorm clouds start gathering
 
 # Locations
 ## Crowded Steppe
@@ -53,7 +54,7 @@ Jalis darts into a cramped network of narrow alleys. Dim spherelight reflects of
 
 - Jalis runs through a small wooden fence and slams it shut behind him, locking it from the other side
 - Confused residents block the way
-- Darkeyed residents scream and dive aside as the Bloodmarks operatives carrying Jory overturn supply carts behind him.
+- Darkeyed residents scream and dive aside as the Bloodmarks operatives carrying someone overturn supply carts behind him.
 - Bloodmarks with clubs attack the party
 ## Lowstone Alley
 Dark and endless stairs going up and down.
@@ -78,7 +79,7 @@ What looks like an old crem-processing plant, front doors are iron and slam shut
 	- Fire spreading to barrels next to ceiling support column
 	- Fire spreading to another set of barrels with cowering homeless
 - Round 3
-	- Jalis rolls Jory off the catwalk and into a vat of crem sludge; with a yelp he sinks beneath the surface. In the meantime Jalis climbs a ladder out the top of the building; if you don't catch him now you'll lose him. *You'll lose your only lead.*
+	- Jalis rolls him off the catwalk and into a vat of crem sludge; with a muffled yelp he sinks beneath the surface. In the meantime Jalis climbs a ladder out the top of the building; if you don't catch him now you'll lose him as the high storm draws closer. *You'll lose your only lead.*
 
 Suddenly...words come to [[N'tal]].
 
@@ -98,29 +99,18 @@ Your choice here determines the journey you will walk; the path of vengeance or 
 
 A deep voice booms out, echoing around the room, and a pillar of light engulfs you as you fill with a warm and bubbling energy, driving you forward.
 
-Discard all emotion, forget right and wrong, and choose your fate. Do you chase Jalis, or do you save Jory?
+Discard all emotion, forget right and wrong, and choose your fate. Do you chase Jalis, or do you save the prisoner?
 
-For [[Kuma]], the torch is tossed onto the flames and the entire first floor burns with flames for 1d8 energy damage per round. He must Transform the flames to air or water.
-
-> Life before death.
-
-Constantly putting your life at risk to prevent others from dying, you're doing good. Using your creations and power to help improve and save people's lives is great.
-
-> Strength before weakness.
-
-Power is the greatest strength. If you accumulate more power, you can do even more good. Don't let weaknesses and fear of fire hold you back from becoming the greatest version of yourself.
-
-> Journey before destination.
-
-Crafting the ultimate item is a goal, but you need to put in the work and educate yourself to make strides toward that goal. And once you create that item and have that power, it is how you use that power that matters; that power is a means, not an end. Extinguishing the fire is a step on your journey, and you will climb higher and higher; the strive to climb is what's important, no matter where you die.
-
-- [[Kuma]] can use Transformation to remove the fire
+- [[Kuma]] can use Transformation to replace the fire
 - [[Fina]] (like [[N'tal]]) can use Abrasion to move across difficult terrain
-- [[Fina]] and [[Iiko]] may work together to Regrowth someone back from the brink.
+- [[Fina]] and [[Iiko]] may work together to Regrow someone back from the brink.
 - [[Kuma]] and [[Mallow]] may work together to teleport out of a situation
 - [[Galeth-son-Thald]] and [[Mallow]] may shape stone to create a ramp or tunnel
 - [[Galeth-son-Thald]] may harden clothing as armor against enemies, increase surface tension of liquids to walk across them, make hard objects more durable
 
 # Outcomes
-- **Speaking the Words:** If [[N'tal]] chooses to save Jory, he manifests full control over Abrasion, allowing him to glide across the slick foundry floor to reach the release mechanism in time, or destroy the vat to prevent Jory from drowning. 
-- **The Escaped Villain:** By saving Jory, [[Arbiter Jalis]] manages to escape into the [[Scarstone Quarter]], cementing his role as a recurring nemesis linked to N'tal's past.
+- **Speaking the Words:** If [[N'tal]] chooses to save the prisoner, he manifests full control over Abrasion, allowing him to glide across the slick foundry floor to destroy the vat to prevent Zabriel from drowning. 
+- **The Escaped Villain:** By saving Zabriel, [[Arbiter Jalis]] manages to escape into the [[Scarstone Quarter]], cementing his role as a recurring nemesis linked to N'tal's past.
+
+# Zabriel
+"I must be stormblessed to have made it through that alive! I'll swear off risky investments forever, I promise! I have nothing right now but I'll pay you back some day!"

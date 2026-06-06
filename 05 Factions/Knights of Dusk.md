@@ -27,7 +27,6 @@ The Knights of Dusk operate through military-inspired cells designed to evade de
 # Members
 <!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
-- [[Ardent Vedelis]]
 - [[Beric Quinn]]
 - [[General Spade]]
 - [[Kaz]]
