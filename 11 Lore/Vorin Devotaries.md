@@ -35,7 +35,7 @@ Dedicated to seeking truth in all things. Members believe that there is always s
 
 They utilize the *Book of Endless Pages*, which encourages questioning and the refinement of Vorin tenets.
 
-This devotary is noted for its willingness to allow Ardents to engage in field research. Notable members include [[Ardent Kaelis]] and the late [[Ardent Vedelis]].
+This devotary is noted for its willingness to allow Ardents to engage in field research. Notable members include [[Ardent Kaelis]] and the late [[Ardent Vedelis]]. Head Ardent Erna.
 
 ## 2. Devotary of Purity
 Dedicated to wholesomeness and honesty. Members of this devotary are expected to keep their thoughts and actions 'pure'. A member's talents are expected to be dedicated to purity as well, such as an artist depicting only religious topics.

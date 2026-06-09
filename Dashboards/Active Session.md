@@ -2,6 +2,11 @@ Current Arc: [[02 Knights of Dusk Arc]]
 Last Session: [[015 Distractions and Flames]]
 
 # TODO
+- Character advancement to level 6 tier 2
+	- 1 attribute
+	- 4 health + STR
+	- Max skill ranks 3
+	- +2 skill ranks ()
 - Cover goals
 	- Iiko - become an ardent
 	- Fina - clear her name
@@ -14,6 +19,7 @@ Last Session: [[015 Distractions and Flames]]
 - Gemheart Inn
 	- Party summoned by Knights of Dusk to the Stackhouses
 - Stackhouses
+	- [[Sister Reunion]]
 	- Good job
 	- Jory was captured by the Bloodmarks, don't know where he is right now
 	- Overheard from some guards with red armbands by the east gate that they're moving a prisoner tonight from an inn somewhere (the [[Sun's Zenith]])
@@ -41,7 +47,6 @@ Last Session: [[015 Distractions and Flames]]
 | File                                                                                    | Date       |
 | --------------------------------------------------------------------------------------- | ---------- |
 | [[The Foundry Chase]]                                   | 1172-02-20 |
-| [[Sister Reunion]]                                         | 1172-02-21 |
 | [[Saving Jory at the Abandoned Docks]] | 1172-02-28 |
 | [[The Darkstone Siege]]                               | 1172-02-32 |
 
