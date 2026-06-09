@@ -1,18 +1,18 @@
 ---
 type: hook
-status: active
+status: inactive
 tags:
   - "#hook"
   - "#kuma"
   - "#nurian_gems"
   - "#fabrial"
 last_updated: 2024-06-01T09:00:00
-summary: "Vorn seeks Kuma's expertise for a high-stakes fabrial demonstration in Tomat."
-priority: 15
+summary: Vorn seeks Kuma's expertise for a high-stakes fabrial demonstration in Tomat.
+priority: 2
 leads:
-  - "Materials shopping in the Slipmarket."
-  - "Researching advanced spren-capture at Scholar's Rest."
-  - "Rumors that the Alethi-appearing Higuma is the true project lead."
+  - Materials shopping in the Slipmarket.
+  - Researching advanced spren-capture at Scholar's Rest.
+  - Rumors that the Alethi-appearing Higuma is the true project lead.
 ---
 
 # Description

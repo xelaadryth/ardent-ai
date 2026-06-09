@@ -11,31 +11,24 @@ Last Session: [[015 Distractions and Flames]]
 	- Iiko - become an ardent
 	- Fina - clear her name
 	- N'tal - track down Malice
-	- Kuma - learn more about fabrials
 	- Mallow - find Khria
 	- Galeth - ???
-- Jory spotted talking to himself
-	- Renna notices when he disappears
-- Stackhouses
-	- [[Sister Reunion]]
-	- Good job
-	- Jory was captured by the Bloodmarks, don't know where he is right now
-	- Overheard from some guards with red armbands by the east gate that they're moving a prisoner tonight from an inn somewhere (the [[Sun's Zenith]])
+- 1 day of downtime, studying Words of Radiance that Renna picked up
+- Truthkeepers give orders to go pick up Jory at the abandoned warehouse docks on the west side of the Slipmarket
+- Slipmarket or [[Scarstone Quarter]]
+	- Meet [[Lila]]
 - Iiko inducted into Devotary of Sincerity
-	- Devotary is super tiny and cramped, basically an office (next to the Devotary of Determination, and Purity, both big in Alethkar)
+	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Denial, both big [[Vorin Devotaries]] in Alethkar)
 	- Dedicate life to pursuit of truth and knowledge - there is always another secret
 	- Ask deep questions, even if they challenge the tenets of Vorinism
-	- Book of Endless Pages, holy text of blank pages (seek own truths whole retaining faith) which is ALWAYS kept blank, not for journaling
 	- Biggest branch of this Devotary in Vedenar, considered small here
-	- Head ardent of this small branch is Ardent Halan
+	- Head ardent of this small branch is Head Ardent Erna, only members being [[Ardent Kaelis]] and the late [[Ardent Vedelis]]
 - Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has had its head removed
-- Slipmarket
-	- [[Vorn]] sees [[Kuma]] buying fabrials and raw materials: [[New Technology]]
 - [[Sun's Zenith]]
-	- The party hears news of bribes brought to The Bastion: [[The Highlord's Greed]]
+	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Koloko]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
-	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]] from the Truthkeepers comes in to help
+	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]] from the [[Truthkeepers]] comes in to help
 	- [[Dahmian]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
 # Upcoming Events
 
@@ -44,8 +37,7 @@ Last Session: [[015 Distractions and Flames]]
 
 | File                                                                                    | Date       |
 | --------------------------------------------------------------------------------------- | ---------- |
-| [[The Foundry Chase]]                                   | 1172-02-20 |
-| [[Saving Jory at the Abandoned Docks]] | 1172-02-28 |
+| [[Saving Jory at the Abandoned Docks]] | 1172-02-20 |
 | [[The Darkstone Siege]]                               | 1172-02-32 |
 
 
@@ -56,11 +48,9 @@ Last Session: [[015 Distractions and Flames]]
 <!-- QueryToSerialize: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
 <!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
 
-| File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                           |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[New Technology]]             | Vorn seeks Kuma's expertise for a high-stakes fabrial demonstration in Tomat.           | 15       | <ul><li>Materials shopping in the Slipmarket.</li><li>Researching advanced spren-capture at Scholar's Rest.</li><li>Rumors that the Alethi-appearing Higuma is the true project lead.</li></ul> |
-| [[N'tal's Vendetta]]         | N'tal seeks retribution for the slaughter of his family by the Bloodmarks.              | 5        | <ul><li>Spotting Arbiter Jalis overseeing Nurian Gem shipments.</li><li>An interrogation regarding a key missing from N'tal's father.</li></ul>                                                 |
-| [[The Highlord's Greed]] | Uncovering evidence that Highlord Paladar is protecting Bloodmark smuggling operations. | 3        | <ul><li>Discovering a hidden financial ledger in the Archivum.</li><li>Tailing Nomos to a secret meeting at The Bastion.</li><li>Noticing guards wearing unauthorized silk ribbons.</li></ul>   |
+| File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                         |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[The Highlord's Greed]] | Uncovering evidence that Highlord Paladar is protecting Bloodmark smuggling operations. | 5        | <ul><li>Discovering a hidden financial ledger in the Archivum.</li><li>Tailing Nomos to a secret meeting at The Bastion.</li><li>Noticing guards wearing unauthorized silk ribbons.</li></ul> |
 
 
 <!-- SerializedQuery END -->

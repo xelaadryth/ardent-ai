@@ -22,7 +22,7 @@ Around 15, with messy brown hair and bright green eyes.
 Usually happy and likes helping others. Brave and willing to take risks.
 
 # Background
-Son of [[General Spade]], captured by [[Bloodmarks]] and intended for the [[Truthkeepers]]. He was supposedly being moved during [[016 The Foundry Chase and Broken Bonds]], but the prisoner rescued was actually [[Zabriel]]. He went missing following the fire in [[The Cinder Evacuation]].
+Son of [[General Spade]], captured by [[Bloodmarks]] and intended for the [[Truthkeepers]]. He was supposedly being moved during [[016 Surgebinding Pursuit]], but the prisoner rescued was actually [[Zabriel]]. He went missing following the fire in [[The Cinder Evacuation]].
 
 # Goals
 - Protect others.

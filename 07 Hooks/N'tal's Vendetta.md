@@ -1,17 +1,16 @@
 ---
 type: hook
-status: active
+status: inactive
 tags:
   - "#hook"
   - "#n_tal"
   - "#revenge"
   - "#bloodmarks"
 last_updated: 2024-05-30T12:00:00
-summary: "N'tal seeks retribution for the slaughter of his family by the Bloodmarks."
-priority: 5
+summary: N'tal seeks retribution for the slaughter of his family by the Bloodmarks.
+priority: 3
 leads:
-  - "Spotting Arbiter Jalis overseeing Nurian Gem shipments."
-  - "An interrogation regarding a key missing from N'tal's father."
+  - An interrogation regarding a key missing from N'tal's father.
 ---
 
 # Description

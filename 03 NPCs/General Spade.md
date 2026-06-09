@@ -18,7 +18,7 @@ Brightlord Antisar Spadis—General Spade—is a seasoned military leader and Du
 Disciplined and protective. He is currently grieving the loss of his son, [[Jory Spadis]], and his scouts [[Lavrik]] and [[Ardent Vedelis]].
 
 # Background
-Ousted commander of Revolar's military. In [[016 The Foundry Chase and Broken Bonds]], he met the party in the [[Darkstone Forest]] and began educating them on the [[Orders of the Knights Radiant]].
+Ousted commander of Revolar's military. In [[016 Surgebinding Pursuit]], he met the party in the [[Darkstone Forest]] and began educating them on the [[Orders of the Knights Radiant]].
 
 # Goals
 - **Overthrow Paladar:** Purge the corruption from [[Revolar]].
@@ -27,7 +27,7 @@ Ousted commander of Revolar's military. In [[016 The Foundry Chase and Broken Bo
 
 # Events
 - [[The Missing Supplies]]: Utilized Division to breach Warehouse 14.
-- [[016 The Foundry Chase and Broken Bonds]]: Granted audience to the party; authorized the mission to stake out [[Sun's Zenith]].
+- [[016 Surgebinding Pursuit]]: Granted audience to the party; authorized the mission to stake out [[Sun's Zenith]].
 
 # Connections
 - [[Highlord Paladar]]: His rival.

@@ -47,5 +47,5 @@ This document should be updated constantly as the central reference for minor no
 | **Lirsi** | Senior Alethi scribe; finds the theft of daily goods insulting. | [[The Missing Supplies]] | [[Revolar]] |
 | **Merat** | Veteran guard who claimed to see a highlord at the heist. | [[The Missing Supplies]] | [[Revolar]] |
 | **Tessa** | Junior scribe with meticulous records of mundane theft. | [[The Missing Supplies]] | [[Revolar]] |
-| **Erna** | Head Ardent of the Devotary of Sincerity in Revolar. Protective of books. | [[016 The Foundry Chase and Broken Bonds]] | [[Revolar]] |
+| **Erna** | Head Ardent of the Devotary of Sincerity in Revolar. Protective of books. | [[016 Surgebinding Pursuit]] | [[Revolar]] |
 | **Adjudicator Milara** | Mid-40s with a low rasping voice; constantly bored. | planned | [[Truthkeeper Camp]] |

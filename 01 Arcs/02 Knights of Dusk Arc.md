@@ -24,11 +24,11 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[The Missing Supplies]]
 - [[The Boutique Confrontation]]
 - [[The Foundry Chase]]
-- [[016 The Foundry Chase and Broken Bonds]]
+- [[016 Surgebinding Pursuit]]
 
 # Sessions
 - [[012 Following Chip]]
 - [[013 Tilting Loyalties]]
 - [[014 Nothing but the Truth]]
 - [[015 Distractions and Flames]]
-- [[016 The Foundry Chase and Broken Bonds]]
+- [[016 Surgebinding Pursuit]]

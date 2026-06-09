@@ -20,7 +20,7 @@ A man with a dejected, weary posture, typically seen in the [[Slipmarket]].
 Ambitious, fearful, and possessing a "knack" for sensing the obscure. He believes himself to be exceptionally lucky despite his frequent misfortunes.
 
 # Background
-Zabriel was abducted by the [[Bloodmarks]] and used as a decoy/prisoner. He was nearly drowned in a vat of cremwater by [[Arbiter Jalis]] before being rescued by [[N'tal]] during [[016 The Foundry Chase and Broken Bonds]].
+Zabriel was abducted by the [[Bloodmarks]] and used as a decoy/prisoner. He was nearly drowned in a vat of cremwater by [[Arbiter Jalis]] before being rescued by [[N'tal]] during [[016 Surgebinding Pursuit]].
 
 # Goals
 - Become a successful merchant/venture capitalist.

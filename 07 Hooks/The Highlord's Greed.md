@@ -7,12 +7,12 @@ tags:
   - "#highlord_paladar"
   - "#bloodmarks"
 last_updated: 2024-05-30T12:00:00
-summary: "Uncovering evidence that Highlord Paladar is protecting Bloodmark smuggling operations."
-priority: 3
+summary: Uncovering evidence that Highlord Paladar is protecting Bloodmark smuggling operations.
+priority: 5
 leads:
-  - "Discovering a hidden financial ledger in the Archivum."
-  - "Tailing Nomos to a secret meeting at The Bastion."
-  - "Noticing guards wearing unauthorized silk ribbons."
+  - Discovering a hidden financial ledger in the Archivum.
+  - Tailing Nomos to a secret meeting at The Bastion.
+  - Noticing guards wearing unauthorized silk ribbons.
 ---
 
 # Description
