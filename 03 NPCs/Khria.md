@@ -7,33 +7,32 @@ tags:
   - "#purelaker"
   - "#truthwatcher"
   - "#rebel"
-last_updated: 2024-05-29T10:00:00
+last_updated: 2026-06-05T12:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
 # Description
-A native of the Purelake and a founding member of the rebellion. She is a decisive lieutenant dedicated to restoring the Knights Radiant and freeing the people from oppression.
+A native of the Purelake and a founding member of the rebellion. She is a decisive lieutenant dedicated to restoring the Knights Radiant.
 
 # Appearance
-Lean and lithe with sun-tanned skin typical of a Purelaker. She wears practical, muted clothing suited for travel. Utilizing her Truthwatcher abilities, she frequently employs illusions to disguise herself as a short Alethi darkeyed woman to move through the shadows of [[Revolar]]. However, she still stands out because of her swaggering gait (as if wading through water) and foreign accent, which she claims is from the countryside. Looks like [[Mallow]] but slightly shorter (lack of nutrition, giving preference to her).
+Lean and lithe with sun-tanned skin. Frequently employs illusions to disguise herself.
 
 # Personality
-Possessing a preternatural calm and a sharp logistical mind, always calculating the best path forward during high-stakes situations. While deeply loyal and decisive, she carries a quiet bitterness regarding the circumstances of her capture.
+Possessing a preternatural calm and a sharp logistical mind. She is currently struggling with the return of her sister, [[Mallow]].
 
 # Background
-Her life changed after spotting a Mistspren in the shallow waters of the Purelake. After her sister mentioned the sighting to townsfolk, Khria was reported to the [[Truthkeepers]] and seized for execution. She was rescued by the [[Knights of Dusk]] during a caravan raid and has since become a key leader in the resistance. She had commissioned a map at [[The Shining Quill]] for an extraction route to [[Hearthstone]].
+Khria was captured by [[Truthkeepers]] after [[Mallow]] inadvertently exposed her sightings of spren. Rescued by [[General Spade]], she has become a key leader. During [[016 The Foundry Chase and Broken Bonds]], she confronted [[Mallow]] about the past and revealed her knowledge of the deaths of [[Ardent Vedelis]] and [[Lavrik]].
 
 # Goals
-- **Liberation:** Free the people of Vamah from systemic oppression.
-- **Restoration:** Bring back the Knights Radiant to Roshar.
-- **Reconciliation:** Safely reunite with or protect her sister, [[Mallow]], despite the "betrayal" that led to her capture.
+- **Liberation:** Free the people of Vamah.
+- **Restoration:** Bring back the Knights Radiant.
+- **Reconciliation:** Process the complex relationship with her sister, [[Mallow]].
 
 # Events
-- [[The Missing Supplies]]: Infiltrated Warehouse 14 disguised as [[General Odrin Lesh]].
-
-# Hooks
-- **Cartography Trail:** Her commission at [[The Shining Quill]] provides a lead for those tracking the [[Knights of Dusk]].
+- [[The Missing Supplies]]: Infiltrated Warehouse 14.
+- [[Sister Reunion]]: Reunited with [[Mallow]] in [[Revolar]].
 
 # Connections
-- [[General Spade]]: Her commander, savior, and fellow rebellion leader.
-- **[[Mallow]]**: Her sister from the Purelake.
+- [[General Spade]]: Her commander.
+- [[Mallow]]: Her sister.
+- [[Ardent Vedelis]]: A former collaborator.

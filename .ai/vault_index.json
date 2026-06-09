@@ -197,14 +197,15 @@
       "links": [
         "[[Tien]]",
         "[[Kaladin]]",
-        "[[Tomat]]",
         "[[Kabsal]]",
-        "[[Amaram]]",
-        "[[Sons of Honor]]",
-        "[[Dillind]]",
         "[[Ghostbloods]]",
-        "[[Helaran]]",
+        "[[Tomat]]",
+        "[[Amaram]]",
+        "[[Advisor Ridius]]",
+        "[[Sons of Honor]]",
         "[[Silent Oath]]",
+        "[[Helaran]]",
+        "[[Shattered Plains]]",
         "[[The Orphans of Tomat]]",
         "[[Resonance of the Past]]",
         "[[Helaran's Shadow]]",
@@ -215,7 +216,7 @@
         "#stormblessed",
         "#border_skirmish"
       ],
-      "last_updated": "2024-05-22T10:00:00"
+      "last_updated": "2024-06-05T09:00:00"
     },
     "04 Nurian Gems Arc": {
       "type": "arc",
@@ -399,15 +400,14 @@
       ],
       "last_updated": "2026-05-15T12:00:00"
     },
-    "Amaram": {
+    "Advisor Ridius": {
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Sadeas Princedom]]",
-        "[[Tomat]]",
         "[[Sons of Honor]]",
-        "[[Hearthstone]]",
-        "[[House Sathir|Sathir Estate]]",
+        "[[Shattered Plains]]",
+        "[[Amaram]]",
+        "[[Tomat]]",
         "[[Helaran]]",
         "[[Tien]]"
       ],
@@ -417,7 +417,25 @@
         "#alethi",
         "#sons_of_honor"
       ],
-      "last_updated": "2024-05-21T09:00:00"
+      "last_updated": "2024-06-05T09:00:00"
+    },
+    "Amaram": {
+      "type": "npc",
+      "status": "deceased",
+      "links": [
+        "[[Sadeas Princedom]]",
+        "[[Tomat]]",
+        "[[Tien]]",
+        "[[Helaran]]",
+        "[[Advisor Ridius]]",
+        "[[Dillind]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi"
+      ],
+      "last_updated": "2024-06-05T09:00:00"
     },
     "Arbiter Jalis": {
       "type": "npc",
@@ -707,20 +725,22 @@
     },
     "Helaran": {
       "type": "npc",
-      "status": "active",
+      "status": "deceased",
       "links": [
-        "[[Ghostbloods]]",
+        "[[Silent Oath]]",
         "[[Tomat]]",
+        "[[High Enforcer Aylen]]",
         "[[Amaram]]",
+        "[[Tien]]",
         "[[Shallan Davar]]"
       ],
       "tags": [
         "#npc",
-        "#ghostbloods",
+        "#silent_oath",
         "#assassin",
-        "#veshers"
+        "#skybreaker"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2024-06-05T09:00:00"
     },
     "High Advisor Thalor": {
       "type": "npc",
@@ -1312,6 +1332,7 @@
       "links": [
         "[[Alethkar]]",
         "[[Meki-son-Vara]]",
+        "[[Silent Oath]]",
         "[[Galeth-son-Thald]]"
       ],
       "tags": [
@@ -1344,11 +1365,11 @@
         "[[Sadeas Princedom]]",
         "[[Tomat]]",
         "[[Kaladin]]",
-        "[[Truthkeepers]]",
-        "[[Ghostbloods]]",
+        "[[Amaram]]",
+        "[[Helaran]]",
+        "[[Advisor Ridius]]",
         "[[Dillind]]",
-        "[[Silent Oath]]",
-        "[[Amaram]]"
+        "[[Silent Oath]]"
       ],
       "tags": [
         "#npc",
@@ -1357,7 +1378,7 @@
         "#sadeas_princedom",
         "#stormblessed"
       ],
-      "last_updated": "2024-05-21T09:00:00"
+      "last_updated": "2024-06-05T09:00:00"
     },
     "Toralin Roshone": {
       "type": "npc",
@@ -1903,7 +1924,6 @@
         "[[Truthkeepers]]",
         "[[Bloodmarks]]",
         "[[Chip]]",
-        "[[Helaran]]",
         "[[Kabsal]]",
         "[[Karani]]",
         "[[Koloko]]",
@@ -1917,7 +1937,7 @@
         "#secret-society",
         "#espionage"
       ],
-      "last_updated": "2024-05-27T10:00:00"
+      "last_updated": "2024-06-05T09:00:00"
     },
     "Knights of Dusk": {
       "type": "faction",
@@ -1976,12 +1996,13 @@
         "[[Truthkeepers]]",
         "[[High Enforcer Aylen]]",
         "[[Knights of Dusk]]",
-        "[[Istrum]]"
+        "[[Istrum]]",
+        "[[Helaran]]"
       ],
       "tags": [
         "#faction"
       ],
-      "last_updated": "2026-05-13T23:33:15"
+      "last_updated": "2024-06-05T09:00:00"
     },
     "Sons of Honor": {
       "type": "faction",
@@ -2700,7 +2721,7 @@
     },
     "Sister Reunion": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Khria]]",
         "[[Mallow]]",
@@ -3047,7 +3068,11 @@
         "[[Cadence]]",
         "[[Mallow]]",
         "[[Kun'ahu]]",
-        "[[Galeth-son-Thald]]"
+        "[[Galeth-son-Thald]]",
+        "[[Beric Quinn]]",
+        "[[Ojog]]",
+        "[[Koloko]]",
+        "[[Dahmian]]"
       ],
       "tags": [
         "#lore",

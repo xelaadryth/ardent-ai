@@ -5,28 +5,27 @@ tags:
   - "#npc"
   - "#merchant"
   - "#revolar"
-last_updated: 2026-06-01T15:00:00
-faction: 
+last_updated: 2026-06-05T12:00:00
+faction:
 location: "[[Revolar]]"
 ---
 
 # Description
-A desperate merchant in [[Revolar]] who attempted to trade high-value, extra-planetary contraband. He has a unique "knack" for sensing the obscure.
+A dejected but "lucky" merchant in [[Revolar]] rescued from the [[Bloodmarks]].
 
 # Appearance
-A man with a dejected, weary posture, typical of those struggling to survive in the [[Slipmarket]].
+A man with a dejected, weary posture, typically seen in the [[Slipmarket]].
 
 # Personality
-Ambitious but fearful. He attempts to sell rare items at exorbitant prices. While not very good with money, he happens to be extremely lucky.
+Ambitious, fearful, and possessing a "knack" for sensing the obscure. He believes himself to be exceptionally lucky despite his frequent misfortunes.
 
 # Background
-Zabriel is a failed merchant trying to win back his parents' affection. He was abducted by the [[Bloodmarks]] during a business trip where he sourced goods from [[Tomat]], later used as an asset at the docks holding pen. He was rescued by the party during [[The Foundry Chase]]. He'll meet the party again in the Tomat with [[The Experimental Lightship]]. He invests in Higum, a Kharbranthian artifabrian, later surprised to find out she's Thaylen.
+Zabriel was abducted by the [[Bloodmarks]] and used as a decoy/prisoner. He was nearly drowned in a vat of cremwater by [[Arbiter Jalis]] before being rescued by [[N'tal]] during [[016 The Foundry Chase and Broken Bonds]].
 
 # Goals
-- Become a successful merchant
-- Or instead of a merchant, a patron of the sciences and arts and make money on being a venture capitalist for heating fabrials.
-- Pay the party back for saving him.
+- Become a successful merchant/venture capitalist.
+- Repay the party for saving his life.
 
 # Connections
-- [[Bloodmarks]]: The organization that abducted him.
-- [[Undertaker]]: Interested in his rare "curiosities" sourced from [[Tomat]].
+- [[N'tal]]: His savior.
+- [[Arbiter Jalis]]: The man who attempted to execute him.

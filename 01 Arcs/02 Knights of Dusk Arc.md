@@ -5,7 +5,7 @@ tags:
   - "#arc"
   - "#revolar"
   - "#rebellion"
-last_updated: 2024-05-29T10:00:00
+last_updated: 2026-06-05T12:00:00
 number: 2
 ---
 # Description
@@ -24,9 +24,11 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[The Missing Supplies]]
 - [[The Boutique Confrontation]]
 - [[The Foundry Chase]]
+- [[016 The Foundry Chase and Broken Bonds]]
 
 # Sessions
 - [[012 Following Chip]]
 - [[013 Tilting Loyalties]]
 - [[014 Nothing but the Truth]]
-- 
+- [[015 Distractions and Flames]]
+- [[016 The Foundry Chase and Broken Bonds]]
