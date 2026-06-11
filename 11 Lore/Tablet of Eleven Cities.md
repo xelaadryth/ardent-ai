@@ -29,7 +29,6 @@ The existence of an 11th Dawncity is considered a myth or a theological curiosit
 ### 2. Alethela (Modern Alethkar)
 - **Dawncity:** [[Kholinar]]
 - **Role:** Historically dedicated to the arts of war and protection, standing as the bulwark against the Voidbringers.
-
 ### 3. Iri
 - **Dawncity:** [[Rall Elorim]] (The City of Shadows)
 - **Culture:** Iriali have golden hair and metallic bronze skin. They worship **The One**, believing all people are fragments of a single being experiencing the universe.
@@ -64,7 +63,6 @@ The existence of an 11th Dawncity is considered a myth or a theological curiosit
 
 # The Dawncities
 The Dawncities are the oldest continuously inhabited locations on Roshar. 
-
 - **Akinah:** Lost to the mists of Aimia; rumored to house ancient secrets.
 - **Azimir:** Famous for its intricate bronze architecture.
 - **Kholinar:** Built into the wind-shadow of a massive rock formation.
@@ -74,6 +72,6 @@ The Dawncities are the oldest continuously inhabited locations on Roshar.
 - **Rall Elorim:** Known as the "City of Shadows" due to its unique lighting and Iriali culture.
 - **Thaylen City:** Built with massive "Longwalls" to withstand the strongest Highstorms.
 - **Vedenar:** The fortified heart of the Veden people.
-
+![[Dawncities.png]]
 ### False Dawncity
 - **Sesemalex Dar:** A city carved into the very stone, featuring immense canyons and plateaus.

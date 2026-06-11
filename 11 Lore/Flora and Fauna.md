@@ -15,8 +15,9 @@ Roshar's ecosystem is uniquely adapted to survive the relentless highstorms and 
 - **Firemoss**: A potent, highly addictive painkiller often used recreationally.
 - **Dazewater**: A laughing gas; its effects can be quickly negated by exposure to fire.
 - **Truthberry**: The berries themselves are harmless, but burning the leaves or stalks produces intoxicating smoke.
-- **Backbreaker powder**: A lethal poison, though an antidote is available if administered quickly.
 - **Ridgebark**: A natural stimulant used to maintain alertness and wakefulness, similar to caffeine.
+- **Backbreaker powder**: A lethal poison, though an antidote is available if administered quickly.
+- **Blackbane**: Narrow, dark-green trefoil-pronged leaves. When dried, ingestion induces paralysis and death.
 ## Agriculture & Crops
 The staple diet of Roshar relies on hardy, stone-grown crops:
 - **Grains**: Lavis, Clema, Tallew, and Treb.

@@ -17,3 +17,14 @@ maxZoom: 2
 scale: 4.5
 unit: miles
 ```
+
+# Shadesmar
+```leaflet
+id: map-shadesmar
+image: [[Map of Shadesmar.png]]
+defaultZoom: 0
+minZoom: 0
+maxZoom: 2
+scale: 2
+unit: miles
+```

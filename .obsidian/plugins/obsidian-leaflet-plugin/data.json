@@ -3,7 +3,7 @@
     {
       "id": "map-revolar",
       "locked": false,
-      "lastAccessed": 1780348642013,
+      "lastAccessed": 1781147958037,
       "markers": [
         {
           "id": "ID_c90bc95a592b",
@@ -285,7 +285,7 @@
     {
       "id": "map-roshar",
       "locked": false,
-      "lastAccessed": 1780348642013,
+      "lastAccessed": 1781147958037,
       "markers": [
         {
           "id": "ID_59bab8184a1a",
@@ -524,6 +524,54 @@
           "command": false,
           "percent": null,
           "description": "The Perpendicularity",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dashboards/Maps.md"
+      ]
+    },
+    {
+      "id": "map-shadesmar",
+      "lastAccessed": 1781147958037,
+      "markers": [
+        {
+          "id": "ID_09b82b7949eb",
+          "type": "default",
+          "loc": [
+            -207,
+            431
+          ],
+          "link": "Map of Sea of Lost Lights.png",
+          "layer": "%5B%5BMap%20of%20Shadesmar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7183333333333334,
+            0.5207547169811321
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e82808d8b83b",
+          "type": "default",
+          "loc": [
+            -228.328125,
+            307.25
+          ],
+          "link": "Map of Sea of Souls.png",
+          "layer": "%5B%5BMap%20of%20Shadesmar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

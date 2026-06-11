@@ -55,3 +55,4 @@ Alcoholic beverages are categorized by color. Here they are presented in order o
 - **Blue**: Complex notes of berry and lemon.
 - **Violet**: Spiced sandalwood aroma.
 - **Horneater White**: Everclear. Horneater Lager.
+![[Wines.png]]
