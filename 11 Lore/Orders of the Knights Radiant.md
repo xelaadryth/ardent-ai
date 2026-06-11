@@ -25,6 +25,7 @@ The Knights Radiant were ten distinct Orders of Surgebinders, ancient protectors
 | **Stonewards**    | Talenelat               | Cohesion & Tension              | Peakspren                              | Bindspren           | Topaz       | Dependable & Resolver |
 | **Bondsmiths**    | [[High Witness Yeshan]] | Tension & Adhesion              | Stormfather<br>Nightwatcher<br>Sibling | -                   | Heliodor    | Guiding & Instructor  |
 
+![[RadiantOrders.png]]
 # The Ten Orders
 
 ## 1. Windrunners
