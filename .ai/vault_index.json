@@ -480,6 +480,32 @@
       ],
       "last_updated": "2026-06-01T20:00:00"
     },
+    "Ardent Surusa": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Revolar]]",
+        "[[Knights of Dusk]]",
+        "[[Orders of the Knights Radiant]]",
+        "[[Lila]]",
+        "[[Slipmarket]]",
+        "[[Scholar's Rest]]",
+        "[[General Spade]]",
+        "[[Khria]]",
+        "[[High Enforcer Aylen]]",
+        "[[Ardent Kaelis]]"
+      ],
+      "tags": [
+        "#npc",
+        "#ardent",
+        "#truthkeeper",
+        "#spy",
+        "#insight",
+        "#revolar"
+      ],
+      "last_updated": "2026-06-11T10:00:00"
+    },
     "Ardent Vedelis": {
       "type": "npc",
       "status": "completed",
@@ -1091,10 +1117,12 @@
         "[[Stackhouse Slavers]]",
         "[[Khria]]",
         "[[General Spade]]",
-        "[[Scholar's Rest]]",
+        "[[Ardent Surusa]]",
+        "[[Truthkeepers]]",
         "[[Stackhouses]]",
         "[[Bloodmarks]]",
-        "[[Truthkeepers]]"
+        "[[Scholar's Rest]]",
+        "[[Truthkeepers|Truthkeeper]]"
       ],
       "tags": [
         "#npc",
@@ -1103,7 +1131,7 @@
         "#revolar",
         "#informant"
       ],
-      "last_updated": "2024-05-19T10:00:00"
+      "last_updated": "2026-06-11T10:00:00"
     },
     "Lirin": {
       "type": "npc",
@@ -3243,6 +3271,7 @@
       "links": [
         "[[Ardent Kaelis]]",
         "[[Ardent Vedelis]]",
+        "[[Ardent Surusa]]",
         "[[Veristitalians]]"
       ],
       "tags": [
@@ -3251,7 +3280,7 @@
         "#devotaries",
         "#ardentia"
       ],
-      "last_updated": "2026-06-05T12:00:00"
+      "last_updated": "2026-06-11T10:00:00"
     },
     "Cadence": {
       "type": "spren",
