@@ -6,7 +6,7 @@ tags:
   - "#vorinism"
   - "#devotaries"
   - "#ardentia"
-last_updated: 2026-06-05T12:00:00
+last_updated: 2026-06-11T10:00:00
 ---
 
 # Overview
@@ -27,7 +27,8 @@ Dedicated to seeking truth. Smallest devotary. Utilizes the *Book of Endless Pag
 Dedicated to wholesomeness and honesty.
 
 ## 3. Devotary of Insight
-Dedicated to the study of Vorin religious texts.
+Dedicated to the study of Vorin religious texts. Adheres strictly to the literal word of scripture.
+- **Notable Members**: [[Ardent Surusa]].
 
 ## 4. Devotary of Denial
 Emphasizes asceticism.

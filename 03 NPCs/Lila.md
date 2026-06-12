@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#revolar"
   - "#informant"
-last_updated: 2024-05-19T10:00:00
+last_updated: 2026-06-11T10:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
@@ -26,17 +26,19 @@ Lila was a modest seamstress in the [[Fieldwards]] until a corrupt Vamah tax col
 
 # Goals
 - Provide accurate intelligence on military movements to [[General Spade]] by listening to guards in the [[Slipmarket]].
-- Keep her cousin, a scribe in [[Scholar's Rest]], safe from suspicion.
+- Keep her cousin, [[Ardent Surusa]], safe from suspicion and the [[Truthkeepers]].
 - Protect her community in the [[Stackhouses]] from [[Bloodmarks]] debt collectors.
 
 # Hooks
 - **Laundry Secrets:** Lila has found a blood-stained note in a [[Truthkeepers]] uniform that mentions a planned raid on a "red laundry" house.
-- **The Archivum Link:** She can introduce the party to her cousin, who has access to the restricted maps within [[Scholar's Rest]].
+- **The Archivum Link:** She can introduce the party to her cousin, [[Ardent Surusa]], who she believes has access to restricted maps within [[Scholar's Rest]].
 - **Hidden Shelter:** If the party is pursued, she knows a hidden crawlspace behind the industrial wash-vats in the [[Slipmarket]].
 
 # Secrets
 - Lila is currently hiding a wounded rebel messenger in her small room in the [[Stackhouses]].
 - She has been stealing small, dun spheres from the pockets of drunk guards.
+- She is entirely unaware that her cousin is a [[Truthkeepers|Truthkeeper]] spy.
 
 # Connections
 - [[Khria]]: The leader she reports to and views as a guardian.
+- [[Ardent Surusa]]: Her cousin, whom she believes she is protecting from the regime.

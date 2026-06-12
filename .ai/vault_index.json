@@ -180,16 +180,18 @@
         "[[The Missing Supplies]]",
         "[[The Boutique Confrontation]]",
         "[[The Foundry Chase]]",
+        "[[016 Surgebinding Pursuit]]",
         "[[012 Following Chip]]",
         "[[013 Tilting Loyalties]]",
-        "[[014 Nothing but the Truth]]"
+        "[[014 Nothing but the Truth]]",
+        "[[015 Distractions and Flames]]"
       ],
       "tags": [
         "#arc",
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2024-05-29T10:00:00"
+      "last_updated": "2026-06-05T12:00:00"
     },
     "03 Stormblessed Arc": {
       "type": "arc",
@@ -367,12 +369,16 @@
       "status": "active",
       "links": [
         "[[Pyre]]",
+        "[[The Shining Quill]]",
         "[[Sun's Zenith]]",
         "[[Slipmarket]]",
         "[[Bloodmarks]]",
         "[[Undertaker]]",
         "[[Fina]]",
         "[[Aelwood Contract]]",
+        "[[016 Surgebinding Pursuit]]",
+        "[[Zabriel]]",
+        "[[Cremling Quarter]]",
         "[[Arbiter Jalis]]"
       ],
       "tags": [
@@ -381,7 +387,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2026-06-01T12:00:00"
+      "last_updated": "2026-06-05T12:00:00"
     },
     "Adjudicator Peton": {
       "type": "npc",
@@ -458,8 +464,8 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Revolar]]",
+        "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Iiko]]",
         "[[Ardent Vedelis]]",
         "[[The Devotary Call]]",
@@ -686,15 +692,17 @@
       "status": "active",
       "links": [
         "[[Knights of Dusk]]",
+        "[[Darkstone Forest]]",
         "[[Revolar]]",
-        "[[Truthkeepers]]",
-        "[[Highlord Paladar]]",
-        "[[General Odrin Lesh]]",
-        "[[Silent Oath]]",
-        "[[High Enforcer Aylen]]",
+        "[[Jory Spadis]]",
+        "[[Lavrik]]",
+        "[[Ardent Vedelis]]",
+        "[[016 Surgebinding Pursuit]]",
+        "[[Orders of the Knights Radiant]]",
         "[[The Missing Supplies]]",
-        "[[The Darkstone Siege]]",
-        "[[Lavrik]]"
+        "[[Sun's Zenith]]",
+        "[[Highlord Paladar]]",
+        "[[Khria]]"
       ],
       "tags": [
         "#npc",
@@ -703,7 +711,7 @@
         "#dustbringer",
         "#rebel_leader"
       ],
-      "last_updated": "2024-05-29T11:00:00"
+      "last_updated": "2026-06-05T12:00:00"
     },
     "Grand Justicar Malice": {
       "type": "npc",
@@ -922,22 +930,20 @@
         "[[Knights of Dusk]]",
         "[[General Spade]]",
         "[[Bloodmarks]]",
-        "[[Possessed]]",
-        "[[Arbiter Jalis]]",
-        "[[Beric Quinn]]",
+        "[[Truthkeepers]]",
+        "[[016 Surgebinding Pursuit]]",
         "[[Zabriel]]",
-        "[[Slipmarket]]",
-        "[[Allegiance at the Abandoned Docks]]",
-        "[[N'tal]]",
-        "[[The Foundry Chase]]"
+        "[[The Cinder Evacuation]]",
+        "[[Arbiter Jalis]]"
       ],
       "tags": [
         "#npc",
         "#possessed",
         "#knights_of_dusk",
-        "#radiant"
+        "#radiant",
+        "#missing"
       ],
-      "last_updated": "2024-05-18T00:00:00"
+      "last_updated": "2026-06-05T12:00:00"
     },
     "Kabsal": {
       "type": "npc",
@@ -1016,11 +1022,12 @@
         "[[Revolar]]",
         "[[Mallow]]",
         "[[Truthkeepers]]",
-        "[[The Shining Quill]]",
-        "[[Hearthstone]]",
+        "[[General Spade]]",
+        "[[016 Surgebinding Pursuit]]",
+        "[[Ardent Vedelis]]",
+        "[[Lavrik]]",
         "[[The Missing Supplies]]",
-        "[[General Odrin Lesh]]",
-        "[[General Spade]]"
+        "[[Sister Reunion]]"
       ],
       "tags": [
         "#npc",
@@ -1029,7 +1036,7 @@
         "#truthwatcher",
         "#rebel"
       ],
-      "last_updated": "2024-05-29T10:00:00"
+      "last_updated": "2026-06-05T12:00:00"
     },
     "Koloko": {
       "type": "npc",
@@ -1084,7 +1091,7 @@
         "[[Stackhouse Slavers]]",
         "[[Khria]]",
         "[[General Spade]]",
-        "[[Vamah Archivum]]",
+        "[[Scholar's Rest]]",
         "[[Stackhouses]]",
         "[[Bloodmarks]]",
         "[[Truthkeepers]]"
@@ -1443,19 +1450,18 @@
       "status": "active",
       "links": [
         "[[Revolar]]",
-        "[[Slipmarket]]",
         "[[Bloodmarks]]",
-        "[[Tomat]]",
-        "[[The Foundry Chase]]",
-        "[[The Experimental Lightship]]",
-        "[[Undertaker]]"
+        "[[Slipmarket]]",
+        "[[Arbiter Jalis]]",
+        "[[N'tal]]",
+        "[[016 Surgebinding Pursuit]]"
       ],
       "tags": [
         "#npc",
         "#merchant",
         "#revolar"
       ],
-      "last_updated": "2026-06-01T15:00:00"
+      "last_updated": "2026-06-05T12:00:00"
     },
     "000 Arrival": {
       "type": "session",
@@ -1881,6 +1887,43 @@
         "#investigation"
       ],
       "last_updated": "2026-06-01T20:00:00"
+    },
+    "016 Surgebinding Pursuit": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Revolar]]",
+        "[[N'tal]]",
+        "[[Arbiter Jalis]]",
+        "[[Jory Spadis]]",
+        "[[Iiko]]",
+        "[[Devotary of Sincerity]]",
+        "[[Truthkeepers]]",
+        "[[Ardent Vedelis]]",
+        "[[Knights of Dusk]]",
+        "[[Mallow]]",
+        "[[Khria]]",
+        "[[Lavrik]]",
+        "[[Darkstone Forest]]",
+        "[[General Spade]]",
+        "[[Orders of the Knights Radiant]]",
+        "[[Bloodmarks]]",
+        "[[Sun's Zenith]]",
+        "[[Scarstone Quarter]]",
+        "[[Cremling Quarter]]",
+        "[[Kuma]]",
+        "[[Fina]]",
+        "[[The Foundry Chase]]",
+        "[[Zabriel]]"
+      ],
+      "tags": [
+        "#session",
+        "#combat",
+        "#investigation",
+        "#oath"
+      ],
+      "last_updated": "2026-06-05T12:00:00"
     },
     "Bloodmarks": {
       "type": "faction",
@@ -2467,7 +2510,7 @@
     },
     "N'tal's Vendetta": {
       "type": "hook",
-      "status": "active",
+      "status": "inactive",
       "links": [
         "[[N'tal]]",
         "[[Bloodmarks]]",
@@ -2484,7 +2527,7 @@
     },
     "New Technology": {
       "type": "hook",
-      "status": "active",
+      "status": "inactive",
       "links": [
         "[[Vorn]]",
         "[[Kuma]]",
@@ -2822,7 +2865,7 @@
     },
     "The Foundry Chase": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[013 Tilting Loyalties]]",
         "[[Scarstone Quarter]]",
@@ -2947,11 +2990,29 @@
       "tags": [],
       "last_updated": ""
     },
+    "Dahmian Stats": {
+      "type": "statblock",
+      "status": "",
+      "links": [
+        "[[Dahmian]]"
+      ],
+      "tags": [],
+      "last_updated": ""
+    },
     "Ojog Stats": {
       "type": "statblock",
       "status": "",
       "links": [
         "[[Ojog]]"
+      ],
+      "tags": [],
+      "last_updated": ""
+    },
+    "Peton Stats": {
+      "type": "statblock",
+      "status": "",
+      "links": [
+        "[[Adjudicator Peton]]"
       ],
       "tags": [],
       "last_updated": ""
@@ -2977,7 +3038,8 @@
       "type": "lore",
       "status": "active",
       "links": [
-        "[[Flangria]]"
+        "[[Flangria]]",
+        "[[Wines.png]]"
       ],
       "tags": [
         "#lore",
@@ -2985,6 +3047,16 @@
         "#cuisine"
       ],
       "last_updated": "2026-05-19T12:00:00"
+    },
+    "Death Rattles": {
+      "type": "lore",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#lore",
+        "#secret"
+      ],
+      "last_updated": "2026-06-10T12:00:00"
     },
     "Flora and Fauna": {
       "type": "lore",
@@ -3020,14 +3092,15 @@
         "[[The Shining Quill]]",
         "[[013 Tilting Loyalties]]",
         "[[Revolar]]",
-        "[[The Missing Supplies]]"
+        "[[The Missing Supplies]]",
+        "[[016 Surgebinding Pursuit]]"
       ],
       "tags": [
         "#lore",
         "#npc",
         "#reference"
       ],
-      "last_updated": "2024-05-29T10:00:00"
+      "last_updated": "2026-06-05T12:00:00"
     },
     "Nurian Gems": {
       "type": "lore",
@@ -3050,6 +3123,7 @@
       "links": [
         "[[High Enforcer Aylen]]",
         "[[High Witness Yeshan]]",
+        "[[RadiantOrders.png]]",
         "[[Silent Oath]]",
         "[[Truthkeepers]]",
         "[[Pyre]]",
@@ -3069,10 +3143,11 @@
         "[[Mallow]]",
         "[[Kun'ahu]]",
         "[[Galeth-son-Thald]]",
+        "[[Karani]]",
+        "[[Dahmian]]",
         "[[Beric Quinn]]",
         "[[Ojog]]",
-        "[[Koloko]]",
-        "[[Dahmian]]"
+        "[[Koloko]]"
       ],
       "tags": [
         "#lore",
@@ -3123,7 +3198,8 @@
         "[[High Witness Yeshan]]",
         "[[Thaylen City]]",
         "[[Kharbranth]]",
-        "[[Vedenar]]"
+        "[[Vedenar]]",
+        "[[Dawncities.png]]"
       ],
       "tags": [
         "#lore",
@@ -3165,11 +3241,8 @@
       "type": "lore",
       "status": "active",
       "links": [
-        "[[Alethkar]]",
-        "[[Jah Keved]]",
         "[[Ardent Kaelis]]",
         "[[Ardent Vedelis]]",
-        "[[Dalinar]]",
         "[[Veristitalians]]"
       ],
       "tags": [
@@ -3178,7 +3251,7 @@
         "#devotaries",
         "#ardentia"
       ],
-      "last_updated": "2024-05-31T14:00:00"
+      "last_updated": "2026-06-05T12:00:00"
     },
     "Cadence": {
       "type": "spren",
