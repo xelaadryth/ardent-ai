@@ -9,7 +9,7 @@ tags:
 last_updated: 2026-05-18T00:00:00
 fc-category: Party
 fc-date: 1172-02-18
-session:
+session: "[[014 Nothing but the Truth]]"
 ---
 # Description
 The party is in a high-end boutique in the Skyglass District getting fitted for noble attire to blend in for an upcoming mission [[The Cinder Evacuation]]. Renna is nervously checking the windows, trying to stay out of sight, when the bell above the door rings.

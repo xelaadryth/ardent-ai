@@ -6,7 +6,7 @@ tags:
 last_updated: 2026-05-20T11:01:20
 fc-category: Party
 fc-date: 1172-02-19
-session:
+session: "[[016 Surgebinding Pursuit]]"
 ---
 # Description
 

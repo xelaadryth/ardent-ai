@@ -1,1 +1,0 @@
-I have created the NPC document for Ardent Surusa as requested. I have also updated Lila's file to reflect their relationship and the dramatic irony of Lila trying to "protect" a Truthkeeper spy. Finally, I updated the Vorin Devotaries list to include Surusa under the Devotary of Insight.
