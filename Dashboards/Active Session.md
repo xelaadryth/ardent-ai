@@ -15,15 +15,14 @@ Last Session: [[015 Distractions and Flames]]
 	- Galeth - ???
 - [[Kuma]] scouted by an artifabrian
 - 1 day of downtime, studying Words of Radiance that Renna picked up
+
 - Truthkeepers give orders to [[Dahmian]] to go pick up Jory at the abandoned warehouse docks on the west side of the Slipmarket
-- Slipmarket or [[Scarstone Quarter]]
-	- Meet [[Lila]] a washerwoman informant
 - [[Scholar's Rest]]
 	- [[Ardent Surusa]] of the Devotary of Insight
+- Slipmarket or [[Scarstone Quarter]]
+	- Meet [[Lila]] a washerwoman informant
 - Iiko inducted into Devotary of Sincerity
-	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Denial, both big [[Vorin Devotaries]] in Alethkar)
-	- Dedicate life to pursuit of truth and knowledge - there is always another secret
-	- Ask deep questions, even if they challenge the tenets of Vorinism
+	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Insight, both big [[Vorin Devotaries]] in Alethkar)
 	- Biggest branch of this Devotary in Vedenar, considered small here
 	- Head ardent of this small branch is Head Ardent Erna, only members being [[Ardent Kaelis]] and the late [[Ardent Vedelis]]
 - Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
