@@ -18,6 +18,8 @@ Last Session: [[015 Distractions and Flames]]
 - Truthkeepers give orders to [[Dahmian]] to go pick up Jory at the abandoned warehouse docks on the west side of the Slipmarket
 - Slipmarket or [[Scarstone Quarter]]
 	- Meet [[Lila]] a washerwoman informant
+- [[Scholar's Rest]]
+	- [[Ardent Surusa]] of the Devotary of Insight
 - Iiko inducted into Devotary of Sincerity
 	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Denial, both big [[Vorin Devotaries]] in Alethkar)
 	- Dedicate life to pursuit of truth and knowledge - there is always another secret
@@ -38,7 +40,8 @@ Last Session: [[015 Distractions and Flames]]
 
 | File                                                                                    | Date       |
 | --------------------------------------------------------------------------------------- | ---------- |
-| [[Saving Jory at the Abandoned Docks]] | 1172-02-20 |
+| [[Dahmian's Promotion Trial]]                   | 1172-02-20 |
+| [[Saving Jory at the Abandoned Docks]] | 1172-02-21 |
 | [[The Darkstone Siege]]                               | 1172-02-32 |
 
 

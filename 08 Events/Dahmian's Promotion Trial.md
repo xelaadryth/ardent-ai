@@ -1,6 +1,6 @@
 ---
 type: event
-status: completed
+status: active
 tags:
   - "#event"
   - "#revolar"
@@ -12,7 +12,7 @@ fc-date: 1172-02-20
 session:
 ---
 # Description
-Witness Dahmian, seeking his official promotion to Enforcer, leads the squad to an alleyway in the [[Slipmarket]]. He presents an individual he has identified as [[Possessed]] and awaits the squad to show him what "enforcement" looks like.
+Witness Dahmian, seeking his official promotion to Enforcer, leads the squad to an alleyway in the [[Slipmarket]]. He presents Elara, an individual he has identified as [[Possessed]] and awaits the squad to show him what "enforcement" looks like. She has mentioned that she hears voices and that the sick and injured feel much better after she feeds them; she believes with better nutrition everyone would be much healthier, not realizing their improved health is a result of her powers. He asks the party if they can help her with the voice she hears, as part of his Enforcer promotion. If pressed, she reveals she's a member of the Knights of Dusk, and that the people will remember, just as the Knights of Dusk remembered the people.
 
 # Personal Revelations
 As the party observes Dahmian in the field, suppressed memories from their time in Nuria resurface, painting a picture of a man who has always been a restless wanderer:
