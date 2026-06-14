@@ -1226,6 +1226,26 @@
       ],
       "last_updated": "2026-05-16T15:00:00"
     },
+    "Neval": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Revolar]]",
+        "[[Senny]]",
+        "[[Truthkeeper Camp]]",
+        "[[Adjudicator Peton]]",
+        "[[Tahs]]"
+      ],
+      "tags": [
+        "#npc",
+        "#darkeyed",
+        "#alethi",
+        "#truthkeeper",
+        "#witness"
+      ],
+      "last_updated": "2026-06-15T13:00:00"
+    },
     "Ojog": {
       "type": "npc",
       "status": "active",
@@ -1279,17 +1299,19 @@
         "[[Truthkeepers]]",
         "[[Revolar]]",
         "[[Possessed]]",
-        "[[Truthkeeper Camp]]",
+        "[[Adjudicator Peton]]",
+        "[[Ardent Kaelis]]",
         "[[High Witness Yeshan]]",
-        "[[Ardent Kaelis]]"
+        "[[Neval]]"
       ],
       "tags": [
         "#npc",
         "#lighteyed",
         "#alethi",
-        "#truthkeeper"
+        "#truthkeeper",
+        "#witness"
       ],
-      "last_updated": "2026-05-13T23:35:12"
+      "last_updated": "2026-06-15T13:00:00"
     },
     "Shallan Davar": {
       "type": "npc",
@@ -2990,7 +3012,8 @@
         "[[Fieldwards]]",
         "[[Ardent Surusa]]",
         "[[Adjudicator Peton]]",
-        "[[Ojog]]",
+        "[[Senny]]",
+        "[[Neval]]",
         "[[Darkstone Forest]]",
         "[[Lila]]"
       ],
@@ -3001,7 +3024,7 @@
         "#truthkeepers",
         "#knights_of_dusk"
       ],
-      "last_updated": "2026-06-15T12:00:00"
+      "last_updated": "2026-06-15T13:00:00"
     },
     "The Foundry Chase": {
       "type": "event",
