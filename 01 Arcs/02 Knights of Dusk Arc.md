@@ -5,7 +5,7 @@ tags:
   - "#arc"
   - "#revolar"
   - "#rebellion"
-last_updated: 2024-06-05T13:00:00
+last_updated: 2026-06-15T12:00:00
 number: 2
 ---
 # Description
@@ -27,6 +27,7 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[016 Surgebinding Pursuit]]
 - [[Dahmian's Promotion Trial]]
 - [[Saving Jory at the Abandoned Docks]]
+- [[The Fieldwards Purge]]
 
 # Sessions
 - [[012 Following Chip]]

@@ -8,7 +8,7 @@ tags:
   - "#spy"
   - "#insight"
   - "#revolar"
-last_updated: 2026-06-11T10:00:00
+last_updated: 2026-06-15T12:00:00
 faction: "[[Truthkeepers]]"
 location: "[[Revolar]]"
 ---
@@ -29,6 +29,10 @@ Surusa is the cousin of [[Lila]], a laundry worker in the [[Slipmarket]]. When [
 - **Espionage:** Monitor [[General Spade]] and [[Khria]] for signs of budding Radiance.
 - **Religious Purification:** Systematically remove or destroy any texts that paint the ancient Radiants in a positive light.
 - **The Silent Oath:** Prove her value to [[High Enforcer Aylen]] by identifying high-priority targets for "neutralization."
+- **Access the Heart:** Use the events of [[The Fieldwards Purge]] to be taken to the rebellion's main base of operations.
+
+# Events
+- [[The Fieldwards Purge]]: Orchestrated a "failed" raid to gain the trust of surviving rebel leaders.
 
 # Hooks
 - **The Missing Scribe:** [[Lila]] may ask the party to escort her cousin to a safehouse, unaware that Surusa is mapping the route for a [[Truthkeepers]] raid.

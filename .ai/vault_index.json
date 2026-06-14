@@ -212,7 +212,8 @@
         "[[Nurian Gems]]",
         "[[Grand Justicar Malice]]",
         "[[Ghostbloods]]",
-        "[[Scadrian Mechanics|Allomantic]]"
+        "[[The Bead-Sea Ambush]]",
+        "[[Scadrian Mechanics]]"
       ],
       "tags": [
         "#arc",
@@ -220,7 +221,7 @@
         "#worldhopping",
         "#bloodmarks"
       ],
-      "last_updated": "2026-06-15T10:00:00"
+      "last_updated": "2026-06-16T10:00:00"
     },
     "03 Stormblessed Arc": {
       "type": "arc",
@@ -2875,6 +2876,25 @@
         "#event"
       ],
       "last_updated": "2026-05-20T11:01:20"
+    },
+    "The Bead-Sea Ambush": {
+      "type": "event",
+      "status": "planned",
+      "links": [
+        "[[Shadesmar]]",
+        "[[Nurian Gems]]",
+        "[[Zabriel]]",
+        "[[Kuma]]",
+        "[[Mallow]]",
+        "[[N'tal]]"
+      ],
+      "tags": [
+        "#event",
+        "#shadesmar",
+        "#combat",
+        "#survival"
+      ],
+      "last_updated": "2026-06-16T10:00:00"
     },
     "The Boutique Confrontation": {
       "type": "event",
