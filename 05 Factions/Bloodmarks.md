@@ -5,40 +5,17 @@ tags:
   - "#faction"
   - "#criminal_organization"
   - "#worldhopping"
-last_updated: 2024-06-01T09:00:00
+  - "#piracy"
+last_updated: 2026-06-15T10:00:00
 ---
 # Description
-A dangerous criminal syndicate with reach across Roshar and beyond. Based in [[Bodenar]] (Jah Keved), they maintain a strategic foothold in the Horneater Peaks to exploit a Perpendicularity for illicit inter-planetary trade.
-
-Ruthless and efficient, the syndicate leverages their knowledge of worldhopping to evade local authorities. They operate shadow-armies and have successfully infiltrated regional governance in areas like Revolar.
-
-# Goals
-The Bloodmarks prioritize profit and power through illicit logistics and intimidation. Their agenda includes:
-- **Interplanetary Smuggling:** Exploiting the Horneater Perpendicularity to trade Nurian gems and resources between Mythos and Roshar.
-- **Black Market Trade:** Large-scale distribution of firemoss and luxury contraband.
-- **Debt & Enslavement:** Ruthless debt collection, often resulting in kidnapping and the slave trade.
-- **Technological Monopoly:** Holding [[Higuma]] captive to control the advancement of [[Nurian Gems]] fabrials.
-- **Corruption:** Maintaining control over roughly 50% of the [[Revolar]] guard.
+A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper branch, primarily composed of Scadrian exiles, operates a pirate fleet in the bead-seas of [[Shadesmar]].
 
 # Structure
-- **Grand Justicars:** The four leaders at the apex of the organization (e.g., [[Grand Justicar Malice]]).
-- **Templars:** High-ranking overseers of Arbiters.
-- **Arbiters:** Lieutenants and the highest rank of common rank-and-file (e.g., [[Arbiter Jalis]]).
-- **Lashes:** Sergeants.
-- **Thugs:** The lowest tier of muscle.
+- **Grand Justicars:** Worldhopper leaders like [[Grand Justicar Malice]] who manage interplanetary logistics.
+- **Corsairs:** Pirate captains who utilize [[Scadrian Mechanics|Metallic Arts]] to enforce the syndicate's will in the Cognitive Realm.
 
-# Allies & Rivals
-- [[Vamah Princedom]]: Paid off law enforcement and officials, creating a safe haven for their operations.
-- [[N'tal]]: A survivor of a Bloodmark ambush; the faction has earned his deep-seated enmity.
-- [[Truthkeepers]]: Potential uneasy partners; currently, the syndicate is willing to assist them to further their own interests.
-- [[Ghostbloods]]: Primary rivals in the underworld; currently engaged in a shadow war over regional influence and logistics.
-
-# Members
-<!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
-<!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
-- [[Arbiter Jalis]]
-- [[Grand Justicar Malice]]
-- [[Higuma]] (Captive)
-
-
-<!-- SerializedQuery END -->
+# Goals
+- **Interplanetary Smuggling:** Exploiting perpendicularities to trade [[Nurian Gems]] and specialized Rosharan spren-fabrials.
+- **Piracy:** Interdicting [[Ghostbloods]] trade routes in [[Shadesmar]].
+- **Monopoly:** Controlling the flow of Scadrian technology into the Rosharan system.

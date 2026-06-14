@@ -163,6 +163,7 @@
         "[[High Enforcer Aylen]]",
         "[[Istrum]]",
         "[[Ojog]]",
+        "[[Dahmian]]",
         "[[General Spade]]",
         "[[Khria]]",
         "[[Beric Quinn]]",
@@ -181,17 +182,20 @@
         "[[The Boutique Confrontation]]",
         "[[The Foundry Chase]]",
         "[[016 Surgebinding Pursuit]]",
+        "[[Dahmian's Promotion Trial]]",
+        "[[Saving Jory at the Abandoned Docks]]",
         "[[012 Following Chip]]",
         "[[013 Tilting Loyalties]]",
         "[[014 Nothing but the Truth]]",
-        "[[015 Distractions and Flames]]"
+        "[[015 Distractions and Flames]]",
+        "[[017 The Final Enforcement]]"
       ],
       "tags": [
         "#arc",
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2026-06-05T12:00:00"
+      "last_updated": "2024-06-05T13:00:00"
     },
     "03 Stormblessed Arc": {
       "type": "arc",
@@ -643,11 +647,16 @@
         "[[Truthkeeper Camp]]",
         "[[Karani]]",
         "[[Fina]]",
-        "[[Salimset]]",
+        "[[N'tal]]",
+        "[[Iiko]]",
+        "[[Galeth-son-Thald]]",
+        "[[Doug (Guddy)]]",
+        "[[Dahmian's Promotion Trial]]",
         "[[Possessed]]",
-        "[[Adjudicator Peton]]",
+        "[[Salimset]]",
+        "[[The Darkstone Siege]]",
         "[[Beric Quinn]]",
-        "[[The Darkstone Siege]]"
+        "[[Adjudicator Peton]]"
       ],
       "tags": [
         "#npc",
@@ -657,7 +666,7 @@
         "#spy",
         "#foodie"
       ],
-      "last_updated": "2024-05-31T12:00:00"
+      "last_updated": "2024-06-05T13:00:00"
     },
     "Dalen": {
       "type": "npc",
@@ -2689,6 +2698,32 @@
       ],
       "last_updated": "2024-05-30T12:00:00"
     },
+    "Dahmian's Promotion Trial": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[Slipmarket]]",
+        "[[Possessed]]",
+        "[[Mallow]]",
+        "[[Salimset]]",
+        "[[Galeth-son-Thald]]",
+        "[[Sila]]",
+        "[[Luggan]]",
+        "[[Truthkeeper Camp]]",
+        "[[Fina]]",
+        "[[N'tal]]",
+        "[[Iiko]]",
+        "[[Adjudicator Peton]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#possession",
+        "#truthkeepers"
+      ],
+      "last_updated": "2024-06-05T13:00:00"
+    },
     "Meeting at the Whitespine": {
       "type": "event",
       "status": "completed",
@@ -2794,6 +2829,7 @@
       "type": "event",
       "status": "completed",
       "links": [
+        "[[016 Surgebinding Pursuit]]",
         "[[Khria]]",
         "[[Mallow]]",
         "[[Knights of Dusk]]",
@@ -2809,6 +2845,7 @@
       "type": "event",
       "status": "completed",
       "links": [
+        "[[014 Nothing but the Truth]]",
         "[[The Cinder Evacuation]]",
         "[[Brightlord Juran]]"
       ],
@@ -2824,6 +2861,7 @@
       "type": "event",
       "status": "completed",
       "links": [
+        "[[015 Distractions and Flames]]",
         "[[Skyglass District]]",
         "[[Revolar]]",
         "[[Highlord Paladar]]",
@@ -2895,7 +2933,7 @@
       "type": "event",
       "status": "completed",
       "links": [
-        "[[013 Tilting Loyalties]]",
+        "[[016 Surgebinding Pursuit]]",
         "[[Scarstone Quarter]]",
         "[[Meeting with the Undertaker]]",
         "[[Bloodmarks]]",

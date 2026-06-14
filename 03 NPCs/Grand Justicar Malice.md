@@ -3,32 +3,29 @@ type: npc
 status: active
 tags:
   - "#npc"
-  - "#veden"
+  - "#scadrian"
   - "#bloodmarks"
   - "#grand_justicar"
-last_updated: 2026-05-17T12:00:00
+  - "#twinborn"
+last_updated: 2026-06-15T10:00:00
 faction: "[[Bloodmarks]]"
-location: "[[Bodenar]]"
+location: "[[Shadesmar]]"
 ---
 # Description
-A man of imposing presence, he wears the ornate, heavy robes of a religious fanatic—deep violets and golds that signal his high station. He is a cold, clinical individual with a terrifyingly sharp intellect.
+Temeret Malice is a high-ranking Scadrian worldhopper and the primary commander of the [[Bloodmarks]] worldhopper fleet. He is a formidable Twinborn who utilizes the Metallic Arts to dominate the trade routes of [[Shadesmar]].
 
 # Appearance
-Veden features with red hair and pale skin, paired with cold, light grey eyes. He is rarely seen without his staff of office, which is capped with a suspiciously large and perfectly cut emerald.
+Possesses Scadrian features (resembling Northern Rosharans) with red hair and cold, grey eyes. He wears high-collared, multi-pocketed Scadrian robes designed for carrying various metal vials and feruchemical bracers.
 
 # Personality
-Malice is the embodiment of "the law as a weapon." He views people as assets or obstacles and has no qualms about using extreme violence to maintain order. He possesses a cosmic perspective, making him patient and exceptionally dangerous.
+Malice is the embodiment of "the law as a weapon." He views the Cosmere as a series of markets to be conquered. He is a clinical strategist who views the Rosharan Radiants as inefficient variables to be neutralized.
 
 # Background
-One of the four Grand Justicars of the [[Bloodmarks]], Temeret Malice has spent decades consolidating power in [[Bodenar]]. He discovered the existence of a Perpendicularity and the secrets of the Cognitive Realm, which he used to fuel the growth of the [[Bloodmarks]] as his personal shadow-army. He orchestrated the sabotage of the [[Ghostbloods]] gem deal, ordering the ambush that resulted in the death of [[N'tal]]'s family.
+Malice is not a native of Roshar. He hails from Scadrial and serves as the bridge between the syndicate's Rosharan operations and its interplanetary interests. He orchestrated the takeover of [[N'tal]]'s family mines to secure a steady supply of investiture-reactive gems for export.
 
-# Goals
-- **Monopoly on Worldhopping:** Seek to be the sole gatekeeper of the Perpendicularity in the Horneater Peaks.
-- **Nurian Dominance:** Control the supply and application of Nurian gems.
-- **Elimination of the Ghostbloods:** Systematically dismantle their influence in [[Bodenar]].
+# Twinborn Abilities
+- **Allomancy (Zinc):** A Rioter, capable of inflaming the emotions of those around him—useful for breaking the morale of enemy crews.
+- **Feruchemy (Steel):** A Steelrunner, capable of tapping physical speed to move with a blur-like quickness that rivals the surges of the Radiants.
 
 # Secrets
-Malice is currently the only leader in the [[Bloodmarks]] who knows about the Perpendicularity. He uses this "hidden path" to move high-value goods and assassins undetected.
-
-# Connections
-- [[Arbiter Jalis]]: One of his ruthless field agents.
+Malice is currently searching for a way to use [[Nurian Gems]] as a storage medium for Scadrian Allomancy, bypassing the need for physical metal ingestion.
