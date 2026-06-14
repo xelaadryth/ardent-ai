@@ -16,7 +16,7 @@ A harrowing survival encounter in the bead-sea of [[Shadesmar]] following the pa
 
 # Details
 - **The Buoyancy Crisis:** The party's physical boat is not inherently buoyant on the shifting glass beads of the Cognitive Realm. They must coordinate to prevent the hull from being swamped while the swarm circles and clings to the hull.
-- **The Swarm:** A coordinated assault by multiple Tier 1 Spren ([[Anger Spren (Shadesmar)]] and [[Fear Spren (Shadesmar)]]). They strike with fire and cognitive dread, attempting to "unmake" the ship's identity. If a spren's attack deals damage to the ship's integrity, that section reverts into individual glass beads.
+- **The Swarm:** A coordinated assault by multiple Angerspren (Tier 2 Rival) and Painspren (Tier 1 Minion). They strike with sharp claws and spines, attracted by emotions, attempting to burrow their way through the ship and into the party.
 - **The Stormlight Gamble:** [[Zabriel]] is forced to distribute his remaining stash of [[Nurian Gems]] to the party. The players must decide whether to use the light for immediate defense or conserve it for the long trek to a spren city.
 
 # Participants

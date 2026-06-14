@@ -1,6 +1,6 @@
 ---
 type: event
-status: planned
+status: active
 tags:
   - "#event"
   - "#revolar"
@@ -9,7 +9,7 @@ tags:
   - "#knights_of_dusk"
 last_updated: 2026-06-15T13:00:00
 fc-category: Party
-fc-date: 1172-02-25
+fc-date: 1172-02-21
 ---
 
 # Description
