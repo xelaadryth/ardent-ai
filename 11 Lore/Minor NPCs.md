@@ -5,7 +5,7 @@ tags:
   - "#lore"
   - "#npc"
   - "#reference"
-last_updated: 2026-06-05T12:00:00
+last_updated: 2024-06-16T12:00:00
 ---
 
 # Overview
@@ -23,7 +23,7 @@ This document should be updated constantly as the central reference for minor no
 | **Jola** | Plump darkeyes, stressed. Grudgingly grateful for help with Heala. | [[000 Arrival]] | [[Truthkeeper Camp]] |
 | **Loid** | Angular face, white hair. Speaks in riddles. Mentor-like showman. | [[000 Arrival]] | Around |
 | **Luggan** | Hulking brute with a double-bladed war axe. Hates outsiders. | [[000 Arrival]] | **Dead** (Strangled) |
-| **Neval** | Learned but tryhard darkeyes, greedily seeks rank. | [[000 Arrival]] | [[Truthkeeper Camp]] |
+| **Neval** | Consummate sycophant who attaches himself to rising stars like the party to secure rank. | [[000 Arrival]] | [[Revolar]] |
 | **Heala** | Firemoss addict, wide-eyed, rambles. Brother of Jola. | [[001 First Blood]] | [[Truthkeeper Camp]] |
 | **Citylord Mogund Alta** | Lazy, distantly interested official who avoids duty. | [[002 Whitespine]] | [[Hobbleken]] |
 | **Bala** | Retired soldier with a right-hand injury. Recovered from cold. | [[002 Whitespine]] | [[Hobbleken]] |

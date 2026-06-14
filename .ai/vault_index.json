@@ -3195,6 +3195,15 @@
       ],
       "last_updated": "2024-06-16T10:00:00"
     },
+    "Neval Stats": {
+      "type": "statblock",
+      "status": "",
+      "links": [
+        "[[Neval]]"
+      ],
+      "tags": [],
+      "last_updated": ""
+    },
     "Ojog Stats": {
       "type": "statblock",
       "status": "",
@@ -3209,6 +3218,15 @@
       "status": "",
       "links": [
         "[[Adjudicator Peton]]"
+      ],
+      "tags": [],
+      "last_updated": ""
+    },
+    "Senny Stats": {
+      "type": "statblock",
+      "status": "",
+      "links": [
+        "[[Senny]]"
       ],
       "tags": [],
       "last_updated": ""
