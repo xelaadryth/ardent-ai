@@ -40,7 +40,8 @@ Last Session: [[015 Distractions and Flames]]
 | File                                                                                    | Date       |
 | --------------------------------------------------------------------------------------- | ---------- |
 | [[Dahmian's Promotion Trial]]                   | 1172-02-20 |
-| [[Saving Jory at the Abandoned Docks]] | 1172-02-21 |
+| [[The Fieldwards Purge]]                             | 1172-02-21 |
+| [[Saving Jory at the Abandoned Docks]] | 1172-02-22 |
 | [[The Darkstone Siege]]                               | 1172-02-32 |
 
 
