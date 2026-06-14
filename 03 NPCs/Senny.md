@@ -6,30 +6,35 @@ tags:
   - "#lighteyed"
   - "#alethi"
   - "#truthkeeper"
-last_updated: 2026-05-13T23:35:12
+  - "#witness"
+last_updated: 2026-06-15T13:00:00
 faction: "[[Truthkeepers]]"
 location: "[[Revolar]]"
 ---
+
 # Description
-A man who is "low tier" for a lighteyes, with a face that is constantly set in a serious, matter-of-fact frown. He is the son of skilled Alethi architects and carries himself with a quiet, unshakeable dignity.
+A low-tier lighteyed Witness within the [[Truthkeepers]] who carries himself with an unshakeable, somber dignity. He is a true believer in the organization's mission to protect Roshar from the [[Possessed]].
 
 # Appearance
-A man who is "low tier" for a lighteyes, with a face that is constantly set in a serious, matter-of-fact frown. He is the son of skilled Alethi architects and carries himself with a quiet, unshakeable dignity.
+Senny has a face that seems permanently set in a serious, matter-of-fact frown. He wears the clean, precise robes of a Truthkeeper Witness and moves with a calculated stillness. His lighteyes are a pale, unremarkable blue.
 
 # Personality
-Senny (short for Senninned) is a true believer. He is serious, unyielding, and utterly dedicated to the [[Truthkeepers]]' cause. He doesn't care about his own advancement or prestige; he simply wants to help in any way he can. He is willing to die for the organization and never gives up, no matter the odds.
+Unfailingly serious and unyielding. Senny does not seek personal prestige or wealth; he is driven by a spiritual conviction that his duty to the [[Truthkeepers]] is a higher calling. He is highly observant and possesses a unique eye for the "structural" weaknesses in both buildings and people.
 
 # Background
-Senny originally joined the [[Truthkeepers]] for a simple job at a friend's request. However, after witnessing a fellow believer sacrifice their life to save him from a [[Possessed]] creature, he underwent a spiritual awakening. He now sees the work of the [[Truthkeepers]] as a higher calling that outweighs his family's architectural legacy.
+The son of skilled Alethi architects, Senny originally joined the [[Truthkeepers]] for administrative work. His perspective changed forever when a fellow believer sacrificed their life to save him from a rogue [[Possessed]]. Viewing his life as a gift to be spent in service, he abandoned his family's architectural legacy to become an investigator. He is frequently assigned to monitor units that [[Adjudicator Peton]] deems "unconventional."
 
 # Goals
-- **Service to the Cause:** To fulfill the mission of the [[Truthkeepers]] and honor the sacrifice of the one who saved him.
-- **Helping the Camp:** He is focused on the practical needs of the [[Truthkeeper Camp]] and its mission.
+- Honor the sacrifice that saved him through absolute dedication to the cause.
+- Utilize his analytical skills to identify internal and external threats to stability.
+- Assist in the tactical purification of [[Revolar]].
 
-# Secrets
-His architecture background gives him a unique eye for the "structural" weaknesses in people and organizations, though he rarely uses this for anything other than the camp's benefit.
+# Hooks
+- **Architect's Eye:** Senny can identify hidden passages or structural flaws in rebel safehouses that others might miss.
+- **The True Believer:** He is immune to bribery or emotional appeals, viewing any deviation from the law as a crack in the foundation of society.
 
 # Connections
-- [[High Witness Yeshan]]: He views Yeshan's mission as a sacred duty.
-- [[Ardent Kaelis]]: Senny's mentor in history and ancient architecture.
-
+- [[Adjudicator Peton]]: His direct superior who trusts his clinical judgment.
+- [[Ardent Kaelis]]: His mentor in history and the study of ancient structures.
+- [[High Witness Yeshan]]: The spiritual figurehead he serves with fanatical devotion.
+- [[Neval]]: A fellow Witness whose blatant ambition he finds distasteful but tolerable for the sake of the mission.
