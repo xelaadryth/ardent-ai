@@ -197,32 +197,47 @@
       ],
       "last_updated": "2024-06-05T13:00:00"
     },
+    "03 Shadesmar Arc": {
+      "type": "arc",
+      "status": "active",
+      "links": [
+        "[[Silent Oath]]",
+        "[[The Darkstone Siege]]",
+        "[[Bloodmarks]]",
+        "[[Horneater Peaks]]",
+        "[[Kuma]]",
+        "[[Shadesmar]]",
+        "[[Mallow]]",
+        "[[Zabriel]]",
+        "[[Nurian Gems]]",
+        "[[Grand Justicar Malice]]",
+        "[[Ghostbloods]]",
+        "[[Scadrian Mechanics|Allomantic]]"
+      ],
+      "tags": [
+        "#arc",
+        "#shadesmar",
+        "#worldhopping",
+        "#bloodmarks"
+      ],
+      "last_updated": "2026-06-15T10:00:00"
+    },
     "03 Stormblessed Arc": {
       "type": "arc",
-      "status": "planned",
+      "status": "inactive",
       "links": [
+        "[[03 Shadesmar Arc]]",
         "[[Tien]]",
         "[[Kaladin]]",
-        "[[Kabsal]]",
-        "[[Ghostbloods]]",
-        "[[Tomat]]",
-        "[[Amaram]]",
-        "[[Advisor Ridius]]",
-        "[[Sons of Honor]]",
-        "[[Silent Oath]]",
-        "[[Helaran]]",
-        "[[Shattered Plains]]",
-        "[[The Orphans of Tomat]]",
-        "[[Resonance of the Past]]",
-        "[[Helaran's Shadow]]",
-        "[[The Stormblessed Investigation]]"
+        "[[The Darkstone Siege]]",
+        "[[Tomat]]"
       ],
       "tags": [
         "#arc",
         "#stormblessed",
-        "#border_skirmish"
+        "#superseded"
       ],
-      "last_updated": "2024-06-05T09:00:00"
+      "last_updated": "2026-06-15T10:00:00"
     },
     "04 Nurian Gems Arc": {
       "type": "arc",
@@ -334,12 +349,11 @@
       "status": "active",
       "links": [
         "[[Viscose]]",
-        "[[Higuma]]",
-        "[[The Experimental Lightship]]",
-        "[[Tomat]]",
+        "[[The Darkstone Siege]]",
+        "[[Zabriel]]",
         "[[Nurian Gems]]",
-        "[[Bodenar]]",
-        "[[Vorn]]"
+        "[[Shadesmar]]",
+        "[[Higuma]]"
       ],
       "tags": [
         "#player",
@@ -347,7 +361,7 @@
         "#nurian",
         "#maker"
       ],
-      "last_updated": "2024-06-01T09:00:00"
+      "last_updated": "2026-06-15T10:00:00"
     },
     "Mallow": {
       "type": "player",
@@ -753,18 +767,18 @@
       "status": "active",
       "links": [
         "[[Bloodmarks]]",
-        "[[Bodenar]]",
-        "[[Ghostbloods]]",
+        "[[Shadesmar]]",
         "[[N'tal]]",
-        "[[Arbiter Jalis]]"
+        "[[Nurian Gems]]"
       ],
       "tags": [
         "#npc",
-        "#veden",
+        "#scadrian",
         "#bloodmarks",
-        "#grand_justicar"
+        "#grand_justicar",
+        "#twinborn"
       ],
-      "last_updated": "2026-05-17T12:00:00"
+      "last_updated": "2026-06-15T10:00:00"
     },
     "Helaran": {
       "type": "npc",
@@ -1486,19 +1500,18 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Revolar]]",
-        "[[Bloodmarks]]",
-        "[[Slipmarket]]",
-        "[[Arbiter Jalis]]",
+        "[[Shadesmar]]",
         "[[N'tal]]",
-        "[[016 Surgebinding Pursuit]]"
+        "[[The Foundry Chase]]",
+        "[[The Darkstone Siege]]"
       ],
       "tags": [
         "#npc",
         "#merchant",
-        "#revolar"
+        "#revolar",
+        "#stowaway"
       ],
-      "last_updated": "2026-06-05T12:00:00"
+      "last_updated": "2026-06-15T10:00:00"
     },
     "000 Arrival": {
       "type": "session",
@@ -1966,23 +1979,19 @@
       "type": "faction",
       "status": "active",
       "links": [
-        "[[Bodenar]]",
-        "[[Higuma]]",
-        "[[Nurian Gems]]",
-        "[[Revolar]]",
+        "[[Shadesmar]]",
         "[[Grand Justicar Malice]]",
-        "[[Arbiter Jalis]]",
-        "[[Vamah Princedom]]",
-        "[[N'tal]]",
-        "[[Truthkeepers]]",
+        "[[Scadrian Mechanics|Metallic Arts]]",
+        "[[Nurian Gems]]",
         "[[Ghostbloods]]"
       ],
       "tags": [
         "#faction",
         "#criminal_organization",
-        "#worldhopping"
+        "#worldhopping",
+        "#piracy"
       ],
-      "last_updated": "2024-06-01T09:00:00"
+      "last_updated": "2026-06-15T10:00:00"
     },
     "Envisagers": {
       "type": "faction",
@@ -2363,6 +2372,21 @@
         "#ardentia"
       ],
       "last_updated": "2024-05-25T11:00:00"
+    },
+    "Shadesmar": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Grand Justicar Malice]]",
+        "[[Ghostbloods]]"
+      ],
+      "tags": [
+        "#location",
+        "#cognitive_realm",
+        "#shadesmar"
+      ],
+      "last_updated": "2026-06-15T10:00:00"
     },
     "Stackhouses": {
       "type": "location",
@@ -2884,30 +2908,24 @@
       "status": "active",
       "links": [
         "[[02 Knights of Dusk Arc]]",
-        "[[General Odrin Lesh]]",
         "[[Truthkeepers]]",
-        "[[Adjudicator Peton]]",
-        "[[Darkstone Forest]]",
-        "[[Bloodmarks]]",
-        "[[General Spade]]",
-        "[[Khria]]",
-        "[[High Enforcer Aylen]]",
-        "[[Knights of Dusk]]",
-        "[[Stormbristle Groves]]",
-        "[[Renna Palir]]",
-        "[[Ojog]]",
         "[[Silent Oath]]",
-        "[[Istrum]]",
-        "[[Vamah Princedom]]"
+        "[[Shadesmar]]",
+        "[[High Enforcer Aylen]]",
+        "[[Kuma]]",
+        "[[Nurian Gems]]",
+        "[[Zabriel]]",
+        "[[Mallow]]",
+        "[[Istrum]]"
       ],
       "tags": [
         "#event",
         "#revolar",
         "#combat",
         "#darkstone_forest",
-        "#final_confrontation"
+        "#inciting_incident"
       ],
-      "last_updated": "2024-05-29T11:00:00"
+      "last_updated": "2026-06-15T10:00:00"
     },
     "The Experimental Lightship": {
       "type": "event",
@@ -3053,6 +3071,13 @@
       "links": [
         "[[Beric Quinn]]"
       ],
+      "tags": [],
+      "last_updated": ""
+    },
+    "Bloodmark Corsair": {
+      "type": "statblock",
+      "status": "",
+      "links": [],
       "tags": [],
       "last_updated": ""
     },
@@ -3248,6 +3273,22 @@
         "#urithiru"
       ],
       "last_updated": "2024-05-19T15:00:00"
+    },
+    "Scadrian Mechanics": {
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Shadesmar]]",
+        "[[Grand Justicar Malice]]"
+      ],
+      "tags": [
+        "#lore",
+        "#scadrial",
+        "#metallic_arts",
+        "#shadesmar"
+      ],
+      "last_updated": "2026-06-15T10:00:00"
     },
     "Tablet of Eleven Cities": {
       "type": "lore",

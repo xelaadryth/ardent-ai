@@ -1,0 +1,1 @@
+I have reconstructed the NPC file for Zabriel, filling in the missing details regarding his appearance, personality, and background. I've integrated context from both his past rescues (The Foundry Chase and the Abandoned Docks) and his pivotal role in the upcoming Shadesmar arc as the provider of the Nurian Gems used for the transition.
