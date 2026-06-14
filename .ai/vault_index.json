@@ -2907,6 +2907,8 @@
       "links": [
         "[[Shadesmar]]",
         "[[Nurian Gems]]",
+        "[[Anger Spren (Shadesmar)]]",
+        "[[Fear Spren (Shadesmar)]]",
         "[[Zabriel]]",
         "[[Kuma]]",
         "[[Mallow]]",
@@ -3144,6 +3146,18 @@
       ],
       "last_updated": "2026-05-17T00:00:00"
     },
+    "Anger Spren (Shadesmar)": {
+      "type": "statblock",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#statblock",
+        "#spren",
+        "#shadesmar",
+        "#anger_spren"
+      ],
+      "last_updated": "2024-06-16T10:00:00"
+    },
     "Beric Quinn Stats": {
       "type": "statblock",
       "status": "",
@@ -3168,6 +3182,18 @@
       ],
       "tags": [],
       "last_updated": ""
+    },
+    "Fear Spren (Shadesmar)": {
+      "type": "statblock",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#statblock",
+        "#spren",
+        "#shadesmar",
+        "#fear_spren"
+      ],
+      "last_updated": "2024-06-16T10:00:00"
     },
     "Ojog Stats": {
       "type": "statblock",
