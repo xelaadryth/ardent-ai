@@ -1232,9 +1232,10 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Revolar]]",
-        "[[Senny]]",
-        "[[Truthkeeper Camp]]",
         "[[Adjudicator Peton]]",
+        "[[High Enforcer Aylen]]",
+        "[[Truthkeeper Camp]]",
+        "[[Senny]]",
         "[[Tahs]]"
       ],
       "tags": [
@@ -1244,7 +1245,7 @@
         "#truthkeeper",
         "#witness"
       ],
-      "last_updated": "2026-06-15T13:00:00"
+      "last_updated": "2024-06-16T12:00:00"
     },
     "Ojog": {
       "type": "npc",
@@ -2907,8 +2908,6 @@
       "links": [
         "[[Shadesmar]]",
         "[[Nurian Gems]]",
-        "[[Anger Spren (Shadesmar)]]",
-        "[[Fear Spren (Shadesmar)]]",
         "[[Zabriel]]",
         "[[Kuma]]",
         "[[Mallow]]",
@@ -3006,7 +3005,7 @@
     },
     "The Fieldwards Purge": {
       "type": "event",
-      "status": "planned",
+      "status": "active",
       "links": [
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
@@ -3146,18 +3145,6 @@
       ],
       "last_updated": "2026-05-17T00:00:00"
     },
-    "Anger Spren (Shadesmar)": {
-      "type": "statblock",
-      "status": "active",
-      "links": [],
-      "tags": [
-        "#statblock",
-        "#spren",
-        "#shadesmar",
-        "#anger_spren"
-      ],
-      "last_updated": "2024-06-16T10:00:00"
-    },
     "Beric Quinn Stats": {
       "type": "statblock",
       "status": "",
@@ -3182,18 +3169,6 @@
       ],
       "tags": [],
       "last_updated": ""
-    },
-    "Fear Spren (Shadesmar)": {
-      "type": "statblock",
-      "status": "active",
-      "links": [],
-      "tags": [
-        "#statblock",
-        "#spren",
-        "#shadesmar",
-        "#fear_spren"
-      ],
-      "last_updated": "2024-06-16T10:00:00"
     },
     "Neval Stats": {
       "type": "statblock",
@@ -3290,6 +3265,7 @@
         "[[000 Arrival]]",
         "[[Truthkeeper Camp]]",
         "[[Salimset]]",
+        "[[Revolar]]",
         "[[001 First Blood]]",
         "[[002 Whitespine]]",
         "[[Hobbleken]]",
@@ -3305,7 +3281,6 @@
         "[[Stackhouses]]",
         "[[The Shining Quill]]",
         "[[013 Tilting Loyalties]]",
-        "[[Revolar]]",
         "[[The Missing Supplies]]",
         "[[016 Surgebinding Pursuit]]"
       ],
@@ -3314,7 +3289,7 @@
         "#npc",
         "#reference"
       ],
-      "last_updated": "2026-06-05T12:00:00"
+      "last_updated": "2024-06-16T12:00:00"
     },
     "Nurian Gems": {
       "type": "lore",
