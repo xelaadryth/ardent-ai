@@ -1,1 +1,0 @@
-I have created the planned event 'The Honorspren's Reluctance' in Shadesmar and updated the '03 Shadesmar Arc' to include it in the Act 2 progression. This event highlights the deep-seated trauma the Honorspren feel regarding the Recreance and the Nahel bond, forcing the party to advocate for their status as Radiants through social persuasion rather than just combat.
