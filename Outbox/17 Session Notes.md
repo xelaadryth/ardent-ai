@@ -1,0 +1,17 @@
+Write a completed session 17 document from the following session notes:
+- At the warehouse, the party questions the 3 bloodmarks, ties them up, and report to guards after the highstorm ends
+- The party goes back to Cream of the Crem, catch Renna and Galeth up on what happened.
+- Renna shares that she investigated Ardent Vedelis's place and found the book Words of Radiance, as well as correspondence with Princess Jasnah Kholin discussing Veristitalians, research on the Radiants, and myths like voidbringers
+- Iiko explains what happened and repeats the words N'tal said, and as they say them, they hear a voice say "These Words Are Accepted" and Iiko fills with light and uses that time to make a bunch of illusions of Galeth for fun
+- Kuma leaves with an artifabrian and goes on a journey
+- Renna receives spanreed message from the Truthkeepers giving them a mission to promote Dahmian to Enforcer by demonstrating what it means to be an Enforcer
+- Everyone recognizes Dahmian as he leads them to Elara in the Slipmarket either from Nuria or  from the Truthkeeper camp
+- The party breaks the news to him that the Truthkeepers kill Possessed, not just hunt them, and Dahmian mentions that he had a lightspren named Timbre but he turned down the bond and the oaths since he didn't want to tie himself down. That he thinks people should be good people not because of words or oaths but because it's the right thing to do
+- The party finds out Elara is a member of the Knights of Dusk and warns her the Truthkeepers are out to hunt her; she returns to HQ but tells them to warn the others in her cell in the Fieldwards
+- Party goes to the Knights of Dusk hideout in the Fieldwards but Senny and Neval are already there and have sent the two people they found there back to the Vamah Archivum
+- Most of the party converse with Senny and Neval and learn about their motivations for staying with the Truthkeepers (such as Senny believing in the cause because his friend died in a supposed Possessed uprising in Talinar, a town supposedly wiped out by Possessed), and waiting to see if Ardent Surusa shows up and needs saving.
+- They learn that less than 30 minutes ago the prisoners were sent back to Truthkeeper HQ
+- A red armband Vamah guard entered and reported some information to Neval, including how some Bloodmarks were found bound in the Scarstone Quarter
+- Just outside, Mallow hands Renna the spanreed originally held by Vedelis going back to the Knights of Dusk (so Renna now has spanreeds to House Sathir, Truthkeepers, and Knights of Dusk) and informs them that Ardent Surusa is in danger. They reply and say Ardent Surusa will be evacuated out
+- In the meantime, N'tal and Mallow try to stop the Witnesses Cazo and Hine from delivering the prisoners Otson and Bellus, but only succeed in stalling them just a few alleys away from the Vamah Archivum
+- The rest of the party arrives in the nick of time, and Iiko uses illusions to pretend that Adjudicator Peton arrived to tell them to hand over the prisoners, and that N'tal and Mallow's attempts to convince them that they were ordered to take over the prisoner transfer were real, and not to speak of the incident

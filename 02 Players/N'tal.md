@@ -27,11 +27,6 @@ Distrustful and cautious, valuing patience and self-control to keep [[Pyre]] in 
 # Background
 N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. He recently learned from the [[Undertaker]] that [[Fina]] signed the [[Aelwood Contract]] that authorized the syndicate's takeover. During [[016 Surgebinding Pursuit]], he spoke the First Ideal to save [[Zabriel]].
 
-# First Ideal
-> Life before death. 
-
-**Spoken and Accepted (1172.02.19)** during the rescue of [[Zabriel]] in the [[Cremling Quarter]].
-
 # Goals
 - Hunt down [[Arbiter Jalis]].
 - Navigate the complex debt/betrayal with [[Fina]].

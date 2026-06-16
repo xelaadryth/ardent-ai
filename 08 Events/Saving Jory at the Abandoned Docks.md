@@ -17,32 +17,32 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 
 # Events
 
-- **The Boy and the Broker:** The party learns that a teenage boy named [[Jory Spadis]], the son of [[General Spade]], is being held by the [[Truthkeepers]] as a suspected [[Possessed]]. Jory is a kind, earnest youth who has recently begun speaking to an “imaginary friend” no one else can see. Alongside him, the [[Bloodmarks]] have delivered a second "asset" to the docks: [[Zabriel]], a merchant who fell into deep debt. He is in temporary holding there before being sold as a slave. The Truthkeepers plan to go there to interrogate and execute Jory for both being a suspected [[Possessed]] as well as for being the son of [[General Spade]].
-- **The Rescue Mission:** Acting on information from the [[Knights of Dusk]], the party infiltrates a [[Bloodmarks]] holding area in the empty abandoned western docks of the Slipmarket. Their goal is to extract Jory before he is questioned and executed.
-- **Truthkeeper Reinforcements:** Just as victory seems possible, [[Ojog]] and [[Renna Palir]] arrives with a large wave of Truthkeeper archers on the rooftops, surrounding the party. Calm and expressionless, he initially assumes the party is carrying out sanctioned orders. When they reveal that they are rescuing [[Jory Spadis]] and abandoning the [[Truthkeepers]], the betrayal lands like a physical blow.
-    
-    Ojog does not rage. He seems on the verge of tears.
-    
-    > “I vouched for your loyalty. But I was betrayed. Again, not again!”
-    
-    Ojog sadly orders his agents to kill them all without mercy. He gives the order to fire, and a devastating wave of arrows tears through the party. More archer reinforcements arrive every turn.
+- **The Boy and the Broker:** The party learns that a teenage boy named [[Jory Spadis]], the son of [[General Spade]], is being sold from the [[Bloodmarks]] to the [[Truthkeepers]] as a suspected [[Possessed]]. The Truthkeepers plan to go there to interrogate and execute Jory for both being a suspected [[Possessed]] as well as for being the son of [[General Spade]].
+- **The Rescue Mission:** Acting on information acquired from the Truthkeepers as double agents, the party infiltrates a [[Bloodmarks]] holding area in the empty abandoned western docks of the Slipmarket. Their goal is to extract Jory before he is questioned and executed by [[Adjudicator Peton]]. They fight their way through the Bloodmarks and Truthkeeper enforcers, and then it is revealed that Peton wields a shardblade, which earned him his promotion. As he mentions [[Ojog]]'s name, Ojog arrives.
+- **Truthkeeper Reinforcements:** Just as victory seems possible, [[Ojog]] arrives with a large batch of reinforcements. At first he thinks the party is on his side. When they reveal that they are rescuing [[Jory Spadis]] and abandoning the [[Truthkeepers]], the betrayal lands like a physical blow.
+
+> "We fought together, briefly, in that Shellmite attack. But I thought as fellows from the same land that we would stick together. What happened to loyalty? Traitors, all of you, even the princess."
+
+Ojog sadly orders his agents to kill them all without mercy. He gives the order to fire, and a devastating wave of arrows tears through the party. More archer reinforcements arrive every turn.
 
 - **Knights of Dusk Reinforcements:** Now completely surrounded, the party is in dire straits. At the darkest moment, arrows streak from the night with ribbons of windspren curling behind them. [[Beric Quinn]] and a small contingent of Knights of Dusk skirmishers, including [[Kaz]], emerge and cut a path out of the encirclement on the far side of [[Ojog]]. Beric laughs breathlessly as he lands, faint glowing wisps fading from him.
     
-    > “You didn’t think we’d let you have all the fun, did you?”
+> “You didn’t think we’d let you have all the fun, did you?”
+
+Ojog does not rage. He seems on the verge of tears by this last betrayal from his own partner.
     
-- **Renna’s Choice:** A low rumbling comes from above, in the darkness, a line of heavy barrels tumbles down, straight into...the archers, scattering them and buying the party precious time, as well as definitively revealing her allegiance to the Knights of Dusk. Renna runs to the party as Beric covers her.
+> “I vouched for your loyalty. They suspected you, but I vouched for you. But I was betrayed. Again, not again!” He holds his head in his hands, dropping his shield.
     
 - **Beric’s Last Stand:** As the party tries to escape together, Beric tries to keep them down with covering fire, but a shaft has pierced the bone of his leg.
     
-    Beric grins anyway and nocks another arrow.
+Beric grins anyway and nocks another arrow.
     
-    > “Don't worry about me, I’ll be your shield. I know what I'm doing.”
+>  “Don't worry about me, I’ll be your shield. I know what I'm doing.”
     
-    Beric flings his spheres out and drains them all, but instead of healing himself:    
-    - He soars to the top of the warehouse, dodging arrows and trailing windspren.
-    - Windspren spiral around his arrows like streamers.
-    - He gracefully dodges all the arrows coming at him.
+Beric flings his spheres out and drains them all, but instead of healing himself:    
+- He soars to the top of the warehouse, dodging arrows and trailing windspren.
+- Windspren spiral around his arrows like streamers.
+- He gracefully dodges all the arrows coming at him.
 
 > "Ignore the distraction, don't let them get away!"
 
@@ -56,9 +56,20 @@ As the enemy unleashes a truly deadly and devastating volley from all directions
 # Statblocks
 ```statblock
 layout: Cosmere
+monster: Senny
+```
+```statblock
+layout: Cosmere
+monster: Neval
+```
+```statblock
+layout: Cosmere
 monster: Ojog
 ```
-
+```statblock
+layout: Cosmere
+monster: Peton
+```
 # Connections
 
 - [[Jory Spadis]]: A frightened but good-hearted stablehand beginning to attract a spren.

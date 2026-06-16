@@ -1,6 +1,6 @@
 ---
 type: event
-status: active
+status: completed
 tags:
   - "#event"
   - "#revolar"
@@ -9,7 +9,7 @@ tags:
   - "#knights_of_dusk"
 last_updated: 2026-06-15T13:00:00
 fc-category: Party
-fc-date: 1172-02-21
+fc-date: 1172-02-20
 ---
 
 # Description
@@ -23,7 +23,7 @@ A planned joint operation between the [[Truthkeepers]] and the city guard to dis
 
 # Participants
 - [[Truthkeepers]]: The party, [[Senny]], [[Neval]], and city guard detachments.
-- [[Knights of Dusk]]: A local cell and their informant [[Lila]].
+- [[Knights of Dusk]]: A local cell: Elara, Otson, Ardent Surusa, Bellus
 - [[Ardent Surusa]]: Acting as the "heroic" informant for the rebellion.
 
 # Outcomes
