@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#truthkeeper"
   - "#witness"
-last_updated: 2026-06-15T13:00:00
+last_updated: 2026-06-16T15:00:00
 faction: "[[Truthkeepers]]"
 location: "[[Revolar]]"
 ---
@@ -19,10 +19,10 @@ A low-tier lighteyed Witness within the [[Truthkeepers]] who carries himself wit
 Senny has a face that seems permanently set in a serious, matter-of-fact frown. He wears the clean, precise robes of a Truthkeeper Witness and moves with a calculated stillness. His lighteyes are a pale, unremarkable blue.
 
 # Personality
-Unfailingly serious and unyielding. Senny does not seek personal prestige or wealth; he is driven by a spiritual conviction that his duty to the [[Truthkeepers]] is a higher calling. He is highly observant and possesses a unique eye for the "structural" weaknesses in both buildings and people.
+Unfailingly serious and unyielding. Senny does not seek personal prestige or wealth; he is driven by spiritual conviction. He believes the [[Possessed]] were responsible for the destruction of the town of Talinar, where his close friend was killed.
 
 # Background
-The son of skilled Alethi architects, Senny originally joined the [[Truthkeepers]] for administrative work. His perspective changed forever when a fellow believer sacrificed their life to save him from a rogue [[Possessed]]. Viewing his life as a gift to be spent in service, he abandoned his family's architectural legacy to become an investigator. He is frequently assigned to monitor units that [[Adjudicator Peton]] deems "unconventional."
+The son of skilled Alethi architects, Senny originally joined the [[Truthkeepers]] for administrative work. His perspective changed forever when a fellow believer sacrificed their life to save him from a rogue [[Possessed]]. He is frequently assigned to monitor units that [[Adjudicator Peton]] deems "unconventional."
 
 # Goals
 - Honor the sacrifice that saved him through absolute dedication to the cause.

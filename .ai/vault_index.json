@@ -200,7 +200,7 @@
     },
     "03 Shadesmar Arc": {
       "type": "arc",
-      "status": "active",
+      "status": "planned",
       "links": [
         "[[Silent Oath]]",
         "[[The Darkstone Siege]]",
@@ -214,6 +214,7 @@
         "[[Grand Justicar Malice]]",
         "[[Ghostbloods]]",
         "[[The Bead-Sea Ambush]]",
+        "[[The Honorspren's Reluctance]]",
         "[[Scadrian Mechanics]]"
       ],
       "tags": [
@@ -222,7 +223,7 @@
         "#worldhopping",
         "#bloodmarks"
       ],
-      "last_updated": "2026-06-16T10:00:00"
+      "last_updated": "2026-06-16T12:00:00"
     },
     "03 Stormblessed Arc": {
       "type": "arc",
@@ -398,7 +399,6 @@
         "[[Aelwood Contract]]",
         "[[016 Surgebinding Pursuit]]",
         "[[Zabriel]]",
-        "[[Cremling Quarter]]",
         "[[Arbiter Jalis]]"
       ],
       "tags": [
@@ -2761,7 +2761,7 @@
     },
     "Dahmian's Promotion Trial": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Slipmarket]]",
         "[[Possessed]]",
@@ -2869,14 +2869,15 @@
         "[[Knights of Dusk]]",
         "[[Jory Spadis]]",
         "[[General Spade]]",
-        "[[Possessed]]",
         "[[Bloodmarks]]",
-        "[[Zabriel]]",
+        "[[Possessed]]",
+        "[[Adjudicator Peton]]",
         "[[Ojog]]",
-        "[[Renna Palir]]",
         "[[Beric Quinn]]",
         "[[Kaz]]",
-        "[[Darkstone Forest]]"
+        "[[Zabriel]]",
+        "[[Darkstone Forest]]",
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#event",
@@ -3005,7 +3006,7 @@
     },
     "The Fieldwards Purge": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
@@ -3015,8 +3016,7 @@
         "[[Adjudicator Peton]]",
         "[[Senny]]",
         "[[Neval]]",
-        "[[Darkstone Forest]]",
-        "[[Lila]]"
+        "[[Darkstone Forest]]"
       ],
       "tags": [
         "#event",
@@ -3053,6 +3053,29 @@
         "#chase"
       ],
       "last_updated": "2026-05-20T15:00:00"
+    },
+    "The Honorspren's Reluctance": {
+      "type": "event",
+      "status": "planned",
+      "links": [
+        "[[Shadesmar]]",
+        "[[Orders of the Knights Radiant|Knights Radiant]]",
+        "[[Verdae]]",
+        "[[Pyre]]",
+        "[[Viscose]]",
+        "[[Cadence]]",
+        "[[Day of Recreance]]",
+        "[[Bloodmarks]]",
+        "[[Everstorm]]",
+        "[[Zabriel]]",
+        "[[Nurian Gems]]",
+        "[[Grand Justicar Malice]]",
+        "[[03 Shadesmar Arc]]",
+        "[[Orders of the Knights Radiant]]",
+        "[[Kuma]]"
+      ],
+      "tags": [],
+      "last_updated": "2026-06-16T12:00:00"
     },
     "The Missing Supplies": {
       "type": "event",

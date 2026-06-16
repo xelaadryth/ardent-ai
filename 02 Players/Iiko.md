@@ -6,7 +6,7 @@ tags:
   - "#truthwatcher"
   - "#nurian"
   - "#envoy"
-last_updated: 2024-05-31T14:00:00
+last_updated: 2026-06-16T15:00:00
 player: Truong
 spren: "[[Dreamwaker]]"
 ---
@@ -20,7 +20,7 @@ Heterochromatic eyes—one brown and one yellow—set in an Alethi build standin
 A whirlwind of enthusiasm and relentless curiosity. Iiko is lively, brilliant, and often oblivious to social cues.
 
 # Background
-As part of their transition into [[Revolar]], Iiko meets [[Ardent Kaelis]], whose eccentric approach to objective truth through geology and history deeply resonates with them. They are currently weighing a call to join the [[Vorin Devotaries|Devotary of Sincerity]].
+As part of their transition into [[Revolar]], Iiko meets [[Ardent Kaelis]], whose eccentric approach to objective truth through geology and history deeply resonates with them. During [[017 The Final Enforcement]], Iiko spoke the First Ideal, hearing the acceptance of the Stormfather (or a similar entity) and manifesting their first true surges.
 
 # First Ideal
 
@@ -38,7 +38,7 @@ Learning is a never-ending journey, there's always another secret. Contentment i
 
 # Goals
 - Join the Devotary of Sincerity as prompted by [[Ardent Kaelis]].
-- Acquire the book Words of Radiance and learn about surgebinding.
+- Master the surges of Illumination and Progression.
 
 # Connections
 - [[Dreamwaker]]: Ancient Mistspren partner.

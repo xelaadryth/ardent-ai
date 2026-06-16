@@ -5,7 +5,7 @@ tags:
   - "#npc"
   - "#lighteyed"
   - "#alethi"
-last_updated: 2024-05-29T11:00:00
+last_updated: 2026-06-16T15:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
@@ -16,10 +16,10 @@ An elegant Alethi lighteyes who is significantly more sympathetic than her peers
 She possesses bright green eyes and classic, elegant Alethi features.
 
 # Personality
-Renna is characterized by her kindness, trusting nature, and protective instincts. While she carries a heavy burden of sorrow over her lost sister, she maintains a desire to help people. She also harbors a secret delusion that her younger sister is still alive.
+Renna is characterized by her kindness, trusting nature, and protective instincts. She maintains three spanreeds for communication: one for [[House Sathir]], one for the [[Truthkeepers]], and one (stolen from [[Ardent Vedelis]]) for the [[Knights of Dusk]].
 
 # Background
-Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after fleeing a forced betrothal to [[Brightlord Juran]]. Following her defection in [[Allegiance at the Abandoned Docks]], she joined the [[Knights of Dusk]]. She treats [[Iiko]] as a surrogate for the sister she could not save.
+Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after fleeing a forced betrothal to [[Brightlord Juran]]. She recently discovered *Words of Radiance* and letters from [[Jasnah Kholin]] in the northern hideout of [[Ardent Vedelis]].
 
 # Goals
 - **Proving Worth:** To make a meaningful difference and prove her value to her parents.
@@ -29,7 +29,7 @@ Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after fleeing a f
 # Events
 - [[The Boutique Confrontation]]: Faced her former fiancé, [[Brightlord Juran]].
 - [[Allegiance at the Abandoned Docks]]: Defected to the [[Knights of Dusk]] to save [[Jory Spadis]].
-- [[The Darkstone Siege]]: Actively protected [[Iiko]] from [[Truthkeepers]] snipers during the base's fall.
+- [[017 The Final Enforcement]]: Recovered vital Radiant lore from [[Ardent Vedelis]]'s quarters.
 
 # Connections
 - **[[Iiko]]**: Her protégé and surrogate sibling.
