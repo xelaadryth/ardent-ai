@@ -28,8 +28,6 @@ Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after fleeing a f
 
 # Events
 - [[The Boutique Confrontation]]: Faced her former fiancé, [[Brightlord Juran]].
-- [[Allegiance at the Abandoned Docks]]: Defected to the [[Knights of Dusk]] to save [[Jory Spadis]].
-- [[017 The Final Enforcement]]: Recovered vital Radiant lore from [[Ardent Vedelis]]'s quarters.
 
 # Connections
 - **[[Iiko]]**: Her protégé and surrogate sibling.

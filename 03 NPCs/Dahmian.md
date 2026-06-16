@@ -34,7 +34,7 @@ He arrived at the [[Truthkeeper Camp]] in a wagon alongside [[Karani]] and [[Fin
 He was promoted to Enforcer following [[Dahmian's Promotion Trial]] in [[Revolar]], an event overseen by the party.
 
 # Goals
-- Taste all varieties of food and wine across the princedoms during his travels.
+- Taste all varieties of food and wine across Roshar during his travels.
 - Avoid any situation or allegiance that makes him feel trapped or restricted.
 - Maintain his cover within the [[Truthkeepers]] while securing an exit strategy via the rebellion.
 
@@ -43,6 +43,5 @@ He was promoted to Enforcer following [[Dahmian's Promotion Trial]] in [[Revolar
 
 # Connections
 - [[Karani]]: A fellow Nurian who arrived at the camp in the same wagon.
-- [[Fina]]: A fellow recruit who arrived at the camp in the same wagon.
 - [[Beric Quinn]]: His partner in [[Revolar]] and fellow spy within the insurgent network.
 - [[Adjudicator Peton]]: The officer who promoted him to Enforcer.

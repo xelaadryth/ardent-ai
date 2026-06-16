@@ -1,1 +1,0 @@
-Created Session 017 and updated character files for Iiko (First Ideal), Dahmian (rejected spren Timbre), Kuma (departure), and Renna (new Radiant lore and spanreeds). Updated Senny's background to include his personal motivation involving the town of Talinar. Updated Minor NPCs and relevant event logs to reflect the results of the Fieldwards raid and Dahmian's promotion trial.
