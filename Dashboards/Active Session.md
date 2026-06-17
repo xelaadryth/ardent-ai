@@ -9,12 +9,24 @@ Last Session: [[015 Distractions and Flames]]
 	- Biggest branch of this Devotary in Vedenar, considered small here
 	- Head ardent of this small branch is Head Ardent Erna, only members being [[Ardent Kaelis]] and the late [[Ardent Vedelis]]
 - Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
+	- [[Senny]] tells party that Bloodmarks will help
 - [[Sun's Zenith]]
 	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
+- Knights of Dusk HQ
+	- Info
+		- Suspect a traitor in the ranks of the Knights of Dusk; most have been at HQ, Fieldwards cell was pretty new, someone told the Truthkeepers about its location
+		- Budding Radiants get access to knowledge of goal of refounding the Knights Radiant
+	- Continued actions
+		- Attack supply lines, make it unprofitable to pay the military to sew dissent
+		- Spread food, supplies, and propaganda among the darkeyes to get them on their side (done!)
+	- NEXT STEP - Get the lighteyes on their side - what dirt do we have on Paladar? What reputable allies do we have?
+		- Bloodmark scandal - red armband Vamah guards talking to Bloodmarks
+		- Get proof from House Sathir that Paladar is making risky plays on Sadeas territory, and that Highlord Amaram is a dangerous enemy
+		- Raise public opinion of Paladar's son (Archisal)
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Koloko]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
-	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]] from the [[Truthkeepers]] comes in to help
-	- [[Dahmian]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
+	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
+	- [[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
 # Upcoming Events
 
 <!-- QueryToSerialize: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
