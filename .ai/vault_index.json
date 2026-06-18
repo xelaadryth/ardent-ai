@@ -336,7 +336,7 @@
         "[[Dreamwaker]]",
         "[[Revolar]]",
         "[[Ardent Kaelis]]",
-        "[[Vorin Devotaries|Devotary of Sincerity]]",
+        "[[017 The Final Enforcement]]",
         "[[Renna Palir]]"
       ],
       "tags": [
@@ -345,17 +345,19 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2024-05-31T14:00:00"
+      "last_updated": "2026-06-16T15:00:00"
     },
     "Kuma": {
       "type": "player",
-      "status": "active",
+      "status": "inactive",
       "links": [
         "[[Viscose]]",
         "[[The Darkstone Siege]]",
         "[[Zabriel]]",
         "[[Nurian Gems]]",
         "[[Shadesmar]]",
+        "[[017 The Final Enforcement]]",
+        "[[Revolar]]",
         "[[Higuma]]"
       ],
       "tags": [
@@ -364,7 +366,7 @@
         "#nurian",
         "#maker"
       ],
-      "last_updated": "2026-06-15T10:00:00"
+      "last_updated": "2026-06-16T15:00:00"
     },
     "Mallow": {
       "type": "player",
@@ -669,8 +671,6 @@
         "[[Galeth-son-Thald]]",
         "[[Doug (Guddy)]]",
         "[[Dahmian's Promotion Trial]]",
-        "[[Possessed]]",
-        "[[Salimset]]",
         "[[The Darkstone Siege]]",
         "[[Beric Quinn]]",
         "[[Adjudicator Peton]]"
@@ -683,7 +683,7 @@
         "#spy",
         "#foodie"
       ],
-      "last_updated": "2024-06-05T13:00:00"
+      "last_updated": "2026-06-16T15:00:00"
     },
     "Dalen": {
       "type": "npc",
@@ -1277,12 +1277,12 @@
         "[[Knights of Dusk]]",
         "[[Revolar]]",
         "[[Truthkeepers]]",
+        "[[House Sathir]]",
+        "[[Ardent Vedelis]]",
         "[[Brightlord Juran]]",
-        "[[Allegiance at the Abandoned Docks]]",
+        "[[Jasnah Kholin]]",
         "[[Iiko]]",
         "[[The Boutique Confrontation]]",
-        "[[Jory Spadis]]",
-        "[[The Darkstone Siege]]",
         "[[Chip]]",
         "[[General Spade]]"
       ],
@@ -1291,7 +1291,7 @@
         "#lighteyed",
         "#alethi"
       ],
-      "last_updated": "2024-05-29T11:00:00"
+      "last_updated": "2026-06-16T15:00:00"
     },
     "Senny": {
       "type": "npc",
@@ -1312,7 +1312,7 @@
         "#truthkeeper",
         "#witness"
       ],
-      "last_updated": "2026-06-15T13:00:00"
+      "last_updated": "2026-06-16T15:00:00"
     },
     "Shallan Davar": {
       "type": "npc",
@@ -2011,6 +2011,40 @@
         "#oath"
       ],
       "last_updated": "2026-06-05T12:00:00"
+    },
+    "017 The Final Enforcement": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Bloodmarks]]",
+        "[[Renna Palir]]",
+        "[[Ardent Vedelis]]",
+        "[[Jasnah Kholin]]",
+        "[[Veristitalians]]",
+        "[[Iiko]]",
+        "[[N'tal]]",
+        "[[Galeth-son-Thald]]",
+        "[[Kuma]]",
+        "[[Revolar]]",
+        "[[Dahmian's Promotion Trial]]",
+        "[[Dahmian]]",
+        "[[Slipmarket]]",
+        "[[Nuria]]",
+        "[[Knights of Dusk]]",
+        "[[Fieldwards]]",
+        "[[Senny]]",
+        "[[Neval]]",
+        "[[Vamah Archivum]]",
+        "[[Adjudicator Peton]]"
+      ],
+      "tags": [
+        "#session",
+        "#combat",
+        "#investigation",
+        "#oath"
+      ],
+      "last_updated": "2026-06-16T15:00:00"
     },
     "Bloodmarks": {
       "type": "faction",
@@ -2763,18 +2797,11 @@
       "type": "event",
       "status": "completed",
       "links": [
+        "[[017 The Final Enforcement]]",
+        "[[Dahmian]]",
         "[[Slipmarket]]",
         "[[Possessed]]",
-        "[[Mallow]]",
-        "[[Salimset]]",
-        "[[Galeth-son-Thald]]",
-        "[[Sila]]",
-        "[[Luggan]]",
-        "[[Truthkeeper Camp]]",
-        "[[Fina]]",
-        "[[N'tal]]",
-        "[[Iiko]]",
-        "[[Adjudicator Peton]]",
+        "[[Knights of Dusk]]",
         "[[Truthkeepers]]"
       ],
       "tags": [
@@ -2783,7 +2810,7 @@
         "#possession",
         "#truthkeepers"
       ],
-      "last_updated": "2024-06-05T13:00:00"
+      "last_updated": "2026-06-16T15:00:00"
     },
     "Meeting at the Whitespine": {
       "type": "event",
@@ -3008,15 +3035,16 @@
       "type": "event",
       "status": "completed",
       "links": [
+        "[[017 The Final Enforcement]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
         "[[Revolar]]",
         "[[Fieldwards]]",
-        "[[Ardent Surusa]]",
-        "[[Adjudicator Peton]]",
         "[[Senny]]",
         "[[Neval]]",
-        "[[Darkstone Forest]]"
+        "[[Vamah Archivum]]",
+        "[[Adjudicator Peton]]",
+        "[[Ardent Surusa]]"
       ],
       "tags": [
         "#event",
@@ -3025,7 +3053,7 @@
         "#truthkeepers",
         "#knights_of_dusk"
       ],
-      "last_updated": "2026-06-15T13:00:00"
+      "last_updated": "2026-06-16T15:00:00"
     },
     "The Foundry Chase": {
       "type": "event",
@@ -3305,14 +3333,16 @@
         "[[The Shining Quill]]",
         "[[013 Tilting Loyalties]]",
         "[[The Missing Supplies]]",
-        "[[016 Surgebinding Pursuit]]"
+        "[[016 Surgebinding Pursuit]]",
+        "[[Knights of Dusk]]",
+        "[[017 The Final Enforcement]]"
       ],
       "tags": [
         "#lore",
         "#npc",
         "#reference"
       ],
-      "last_updated": "2024-06-16T12:00:00"
+      "last_updated": "2026-06-16T15:00:00"
     },
     "Nurian Gems": {
       "type": "lore",

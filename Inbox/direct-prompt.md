@@ -1,0 +1,1 @@
+Created the 'NPC Name Repository' to help manage character naming during live sessions, with sections categorized by archetype. Reminded that names should be migrated to Minor NPCs or dedicated documents once utilized.
