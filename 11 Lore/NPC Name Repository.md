@@ -19,7 +19,6 @@ This document serves as a repository for unused NPC names. Once a name from this
 - Ves
 
 # Alethi Lighteyes
-- Valerius Atoll
 - Thenor Dridius
 - Noranin Astas
 - Lucanar Porote

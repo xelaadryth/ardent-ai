@@ -11,4 +11,4 @@ location: "[[Alethkar]]"
 A rural Alethi village serving as the primary base for the [[Envisagers]].
 
 # Background
-The village was the site of a brutal purge by House Sathir, who executed the leadership and drafted the survivors, eventually rendering the town a ghost town that became a bandit camp/hideout.
+The village was attacked by bandits and saved by the party. The survivors of Talinar moved here after being expelled by the [[Truthkeepers]].
