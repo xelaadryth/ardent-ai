@@ -1,0 +1,1 @@
+Add Gorlo, Piggy, and Fang as the names of the three surviving Bloodmarks minor NPCs in the crem processing facility. They will be important later as they will help Fina realize that every small forgotten life has meaning when they save the party when they need it most.

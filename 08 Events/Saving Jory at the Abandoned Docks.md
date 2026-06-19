@@ -18,7 +18,7 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 # Events
 - **The Bait:** The party learns that [[Senny]], [[Neval]], [[Cazo]], and [[Hine]] have been dispatched by [[Adjudicator Peton]] to interrogate [[Jory Spadis]]—the son of [[General Spade]]—in a crowded warehouse at the western Slipmarket docks as a suspected [[Possessed]].
 - **The Rescue Mission:** The squad fights their way through the Bloodmarks and Truthkeeper enforcers. During the chaos, they rescue [[Jory Spadis]].
-- **The First Skirmish:** The party must confront the Bloodmarks and the Truthkeeper squad ([[Senny]], [[Neval]], [[Cazo]], and [[Hine]]). This battle acts as a catalyst; the squad speaks their First Ideals, but as the surge energy fades, reinforcements arrive.
+- **The First Skirmish:** The party must confront the Bloodmarks and the Truthkeeper squad ([[Senny]], [[Neval]], [[Cazo]], and [[Hine]]). This battle acts as a catalyst; the squad ([[Galeth-son-Thald]], [[Mallow]]) speaks their First Ideals, but as the surge energy fades, reinforcements arrive. [[Fina]]'s words are rejected.
 - **The Trap:** The party follows and realizes the entire mission is a trap set by [[Adjudicator Peton]], who, acting on information from [[Ardent Surusa]], suspects the squad of being double agents due to their proximity to a "child" and a "Shin foreigner."
 - **The Betrayal of Ojog:** [[Ojog]] arrives to lead the Truthkeeper response, horrified to discover the party's betrayal. He sadly orders his agents to kill them without mercy. 
 - **The Silent Oath**: If the party still doesn't take the hint to leave, [[Istrum]] is spotted flying in with a squad of Skybreakers.

@@ -2,7 +2,10 @@ Current Arc: [[02 Knights of Dusk Arc]]
 Last Session: [[015 Distractions and Flames]]
 
 # TODO
-- [[Lila]] from the Slipmarket thanks the party for saving her cousin [[Ardent Surusa]] of the Devotary of Insight, and Elara is there in the Stackhouses to lead the cell back to HQ
+- Knights of Dusk Escort
+	- [[Valerius Atol]] in charge of the Stackhouses escort. If you ever see [[Senny]], tell him "Valerius is alive, and he wanted you to remember how you survived in a game of Stormchasers as kids", where we played dead and got away. Opportunity for Iiko second ideal
+	- [[Lila]] from the Slipmarket thanks the party for saving her cousin [[Ardent Surusa]] of the Devotary of Insight, stays in town
+	- Elara is there in the Stackhouses to lead the cell back to HQ
 - Party informed that the Truthkeepers have been contacted by the Bloodmarks, and that they'll be sent to retrieve Jory from the abandoned warehouse docks on the west side of the Slipmarket, accompanied by Ojog's crew that night
 - Iiko inducted into Devotary of Sincerity
 	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Insight, both big [[Vorin Devotaries]] in Alethkar)
