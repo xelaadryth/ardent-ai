@@ -1,1 +1,0 @@
-I have created the NPC profile for Valerius Dridius and updated the 'Saving Jory at the Abandoned Docks' event with the requested logistical trap and squad deployment information. The interactions with Dahmian and the Truthkeeper squads have been integrated into the sequence of events leading to the party's defection.
