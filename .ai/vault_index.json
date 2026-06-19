@@ -1505,6 +1505,27 @@
       ],
       "last_updated": "2024-05-28T10:00:00"
     },
+    "Valerius Atol": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Knights of Dusk]]",
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Senny]]",
+        "[[Possessed]]",
+        "[[Dillind]]",
+        "[[General Spade]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#alethi",
+        "#knight_of_dusk",
+        "#defector"
+      ],
+      "last_updated": "2026-06-16T15:00:00"
+    },
     "Vorn": {
       "type": "npc",
       "status": "active",
@@ -2509,7 +2530,8 @@
       "status": "active",
       "links": [
         "[[Alethkar]]",
-        "[[Envisagers]]"
+        "[[Envisagers]]",
+        "[[Truthkeepers]]"
       ],
       "tags": [
         "#location"
@@ -2894,17 +2916,26 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
+        "[[Senny]]",
+        "[[Neval]]",
+        "[[Cazo]]",
+        "[[Hine]]",
+        "[[Adjudicator Peton]]",
         "[[Jory Spadis]]",
         "[[General Spade]]",
-        "[[Bloodmarks]]",
         "[[Possessed]]",
-        "[[Adjudicator Peton]]",
+        "[[Galeth-son-Thald]]",
+        "[[Mallow]]",
+        "[[Fina]]",
+        "[[Ardent Surusa]]",
         "[[Ojog]]",
+        "[[Istrum]]",
         "[[Beric Quinn]]",
+        "[[Valerius Atol]]",
         "[[Kaz]]",
-        "[[Zabriel]]",
-        "[[Darkstone Forest]]",
-        "[[Renna Palir]]"
+        "[[Dahmian]]",
+        "[[Scholar's Rest]]",
+        "[[Darkstone Forest]]"
       ],
       "tags": [
         "#event",
@@ -2912,7 +2943,7 @@
         "#combat",
         "#rescue"
       ],
-      "last_updated": "2026-06-01T15:00:00"
+      "last_updated": "2026-06-16T15:00:00"
     },
     "Sister Reunion": {
       "type": "event",
@@ -2993,10 +3024,25 @@
       "links": [
         "[[02 Knights of Dusk Arc]]",
         "[[Truthkeepers]]",
+        "[[General Spade]]",
+        "[[Khria]]",
+        "[[Kaz]]",
+        "[[General Odrin Lesh]]",
         "[[Silent Oath]]",
         "[[Shadesmar]]",
+        "[[Adjudicator Peton]]",
+        "[[Ojog]]",
+        "[[Senny]]",
+        "[[Neval]]",
+        "[[Cazo]]",
+        "[[Hine]]",
+        "[[Highlord Paladar]]",
+        "[[Brightlord Juran]]",
+        "[[Dahmian]]",
+        "[[The Missing Supplies]]",
+        "[[Lila]]",
+        "[[Ardent Surusa]]",
         "[[High Enforcer Aylen]]",
-        "[[Kuma]]",
         "[[Nurian Gems]]",
         "[[Zabriel]]",
         "[[Mallow]]",

@@ -1,0 +1,1 @@
+Created documents for the three Bloodmark mercenaries Gorlo, Piggy, and Fang, establishing them as NPCs associated with the foundry and the Bloodmarks faction.
