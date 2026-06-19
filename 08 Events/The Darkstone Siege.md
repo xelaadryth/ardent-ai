@@ -38,6 +38,7 @@ The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The Vamah G
 - [[Dahmian]]
 - Kael and Hiller (guards from [[The Missing Supplies]])
 - [[Lila]], Elara (medic), Otsun, Bellus, [[Ardent Surusa]]*
+- Falen (father of family saved in the [[Stackhouses]])
 
 # Outcomes
 - **The Breach of Realities:** When cornered by [[High Enforcer Aylen]], shattering a stash of [[Nurian Gems]] stolen by [[Zabriel]], [[Mallow]] activates the surge of Transportation.
