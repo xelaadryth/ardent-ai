@@ -12,43 +12,41 @@ last_updated: 2026-06-16T16:00:00
 This document serves as a repository for unused NPC names. Once a name from this list is used, it should be moved to the [[Minor NPCs]] document or granted its own individual document.
 
 # Alethi Darkeyes
-- Kalin
+- Ralin
 - Harl
 - Joven
 - Maran
-- Vesh
+- Ves
 
 # Alethi Lighteyes
-- Valerius Khol
-- Theron Sadeas
-- Joran Vamah
-- Caelan Roshone
+- Valerius Atoll
+- Thenor Dridius
+- Noranin Astas
+- Lucanar Porote
 
 # Thugs & Bandits
 - Gnash
-- Pike
-- Riff
-- Sunder
-
+- Skiff
+- Guffer
+- Dozen
 # Criminals
-- Vrail
-- Mura
-- Krell
+- Vreks
+- Meszt
+- Kroy
 - Zora
 
 # Soldiers
 - Sergeant Dren
-- Corporal Hest
-- Private Vun
-- Recruit Torin
+- Corporal Hemmit
+- Private Virun
+- Recruit Tork
 
 # Officers
 - Captain Vane
-- Lieutenant Kaelen
-- Commander Solas
+- Lieutenant Strent
+- Commander Lodas
 
 # Miscellaneous
-- Ardent Tane
-- Ardent Rell
-- Scribe Mara
-- Scribe Joran
+- Tane
+- Mara
+- Ishkil

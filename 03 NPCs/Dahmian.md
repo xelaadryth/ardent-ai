@@ -31,7 +31,7 @@ He arrived at the [[Truthkeeper Camp]] in a wagon alongside [[Karani]] and [[Fin
 - [[Iiko]] saw him delivering supplies to their temple.
 - [[Galeth-son-Thald]] suspects him of orchestrating the assassination of [[Doug (Guddy)]] at the camp.
 
-He was promoted to Enforcer following [[Dahmian's Promotion Trial]] in [[Revolar]], an event overseen by the party.
+He was promoted to Enforcer following [[Dahmian's Promotion Trial]] in [[Revolar]], an event overseen (and faked) by the party.
 
 # Goals
 - Taste all varieties of food and wine across Roshar during his travels.
