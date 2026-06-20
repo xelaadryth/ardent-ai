@@ -46,6 +46,7 @@ Upon arriving at the [[Stackhouses]], [[Valerius Atol]] redirected the party to 
 ### [[Otson]]
 - **The Map:** He has an un-coded map of [[Revolar]] hidden in his boot with the Fieldwards location marked. Not good with directions, Bellus had to lead him there.
 - **Buried Object**: [[Ardent Surusa]] saw him burying an object in the ground hidden behind the hideout, he claimed it was a good luck charm. If pressed, turns out to be stash of jewelry if he needs to make a quick escape.
+- **Thief**: If pressed, reveals he's actually a burglar but only robs the nobles. Often they're so rich they don't even notice the jewelry that goes missing.
 ### [[Bellus]]
 - **Speaking with Guards:** [[Kaz]] observed him talking to Vamah patrols, with red armband guards (known to work with the [[Bloodmarks]]), claiming it's trying to casually get information.  Suspicious because no information gained yet.
 - **Unexplained Wealth**: Has been wearing nicer clothes of late, but doesn't have a real job. Used to ask to get advances in pay from Kaz. If pressed, selling small amounts of firemoss with the guards to make ends meet.
