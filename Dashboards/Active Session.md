@@ -1,12 +1,13 @@
-Current Arc: [[02 Knights of Dusk Arc]]
-Last Session: [[015 Distractions and Flames]]
-
+- Current Arc: [[02 Knights of Dusk Arc]]
+- Last Session: [[017 The Final Enforcement]]
+# Reminders
+- "By the Stormfather above", "Storm it!"
+- Emotionspren, naturespren
+- Parshmen in the streets
+- [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 # TODO
-- Knights of Dusk Escort
-	- [[Valerius Atol]] in charge of the Stackhouses escort. If you ever see [[Senny]], tell him "Valerius is alive, and he wanted you to remember how you survived in a game of Stormchasers as kids", where we played dead and got away. Opportunity for Iiko second ideal
-	- [[Lila]] from the Slipmarket thanks the party for saving her cousin [[Ardent Surusa]] of the Devotary of Insight, stays in town
-	- Elara is there in the Stackhouses to lead the cell back to HQ
-- Party informed that the Truthkeepers have been contacted by the Bloodmarks, and that they'll be sent to retrieve Jory from the abandoned warehouse docks on the west side of the Slipmarket, accompanied by Ojog's crew that night
+- [[The Traitor Investigation]]
+- Party finds out (leaked purposely by [[Adjudicator Peton]] to set the trap) that the Truthkeepers have been contacted by the Bloodmarks, and that they'll be sent to retrieve Jory from the abandoned warehouse docks
 - Iiko inducted into Devotary of Sincerity
 	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Insight, both big [[Vorin Devotaries]] in Alethkar)
 	- Biggest branch of this Devotary in Vedenar, considered small here
@@ -15,15 +16,12 @@ Last Session: [[015 Distractions and Flames]]
 	- [[Senny]] tells party that Bloodmarks will help
 - [[Sun's Zenith]]
 	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
-- Knights of Dusk HQ
-	- Info
-		- Suspect a traitor in the ranks of the Knights of Dusk; most have been at HQ, Fieldwards cell was pretty new, someone told the Truthkeepers about its location
-		- Budding Radiants get access to knowledge of goal of refounding the Knights Radiant
+- Knights of Dusk HQ - Big Plans
 	- Continued actions
 		- Attack supply lines, make it unprofitable to pay the military to sew dissent
 		- Spread food, supplies, and propaganda among the darkeyes to get them on their side (done!)
-	- NEXT STEP - Get the lighteyes on their side - what dirt do we have on Paladar? What reputable allies do we have?
-		- Bloodmark scandal - red armband Vamah guards talking to Bloodmarks
+	- SMEAR CAMPAIGN - Get the lighteyes on their side - what dirt do we have on Paladar? What reputable allies do we have?
+		- Bloodmark scandal - red armband Vamah guards talking to Bloodmarks (learned from Bellus in [[The Traitor Investigation]])
 		- Get proof from House Sathir that Paladar is making risky plays on Sadeas territory, and that Highlord Amaram is a dangerous enemy
 		- Raise public opinion of Paladar's son (Archisal)
 - Party in trouble
@@ -37,16 +35,7 @@ Last Session: [[015 Distractions and Flames]]
 
 | File                                                                                    | Date       |
 | --------------------------------------------------------------------------------------- | ---------- |
-| [[Saving Jory at the Abandoned Docks]] | 1172-02-22 |
-| [[The Darkstone Siege]]                               | 1172-02-32 |
-
-
-<!-- SerializedQuery END -->
-
-<!-- SerializedQuery: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
-
-| File                                                                                    | Date       |
-| --------------------------------------------------------------------------------------- | ---------- |
+| [[The Traitor Investigation]]                   | 1172-02-20 |
 | [[Saving Jory at the Abandoned Docks]] | 1172-02-22 |
 | [[The Darkstone Siege]]                               | 1172-02-32 |
 
@@ -56,15 +45,6 @@ Last Session: [[015 Distractions and Flames]]
 # Hooks
 
 <!-- QueryToSerialize: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
-<!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
-
-| File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                         |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[The Highlord's Greed]] | Uncovering evidence that Highlord Paladar is protecting Bloodmark smuggling operations. | 5        | <ul><li>Discovering a hidden financial ledger in the Archivum.</li><li>Tailing Nomos to a secret meeting at The Bastion.</li><li>Noticing guards wearing unauthorized silk ribbons.</li></ul> |
-
-
-<!-- SerializedQuery END -->
-
 <!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
 
 | File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                         |
