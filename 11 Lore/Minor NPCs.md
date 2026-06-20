@@ -5,7 +5,7 @@ tags:
   - "#lore"
   - "#npc"
   - "#reference"
-last_updated: 2026-06-16T15:00:00
+last_updated: 2026-06-16T16:00:00
 ---
 
 # Overview
@@ -51,7 +51,7 @@ This document should be updated constantly as the central reference for minor no
 | **Gorlo**                   | [[Bloodmarks]] survivor.                                                                 | [[017 The Final Enforcement]]  | [[Revolar]]             |
 | **Piggy**                   | [[Bloodmarks]] survivor.                                                                 | [[017 The Final Enforcement]]  | [[Revolar]]             |
 | **Fang**                    | [[Bloodmarks]] survivor.                                                                 | [[017 The Final Enforcement]]  | [[Revolar]]             |
-| **Otson**                   | [[Knights of Dusk]] cell member captured in the Fieldwards.                              | [[017 The Final Enforcement]]  | [[Knights of Dusk]]     |
-| **Bellus**                  | [[Knights of Dusk]] cell member captured in the Fieldwards.                              | [[017 The Final Enforcement]]  | [[Knights of Dusk]]     |
+| **Otson**                   | Rebel suspect in [[The Traitor Investigation]]. Observed whispering near Truthkeepers.   | [[017 The Final Enforcement]]  | [[Knights of Dusk]]     |
+| **Bellus**                  | Rebel suspect in [[The Traitor Investigation]]. Found with un-coded city maps.           | [[017 The Final Enforcement]]  | [[Knights of Dusk]]     |
 | **Elara**                   | [[Knights of Dusk]] cell member warned by the party in the Slipmarket.                   | [[017 The Final Enforcement]]  | [[Knights of Dusk]]     |
 | **Adjudicator Milara**      | Mid-40s with a low rasping voice; constantly bored.                                      | planned                        | [[Truthkeeper Camp]]    |

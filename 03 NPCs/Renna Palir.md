@@ -5,7 +5,7 @@ tags:
   - "#npc"
   - "#lighteyed"
   - "#alethi"
-last_updated: 2026-06-16T15:00:00
+last_updated: 2026-06-16T16:00:00
 faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
@@ -21,16 +21,16 @@ Renna is characterized by her kindness, trusting nature, and protective instinct
 # Background
 Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after fleeing a forced betrothal to [[Brightlord Juran]]. She recently discovered *Words of Radiance* and letters from [[Jasnah Kholin]] in the northern hideout of [[Ardent Vedelis]].
 
-# Goals
-- **Proving Worth:** To make a meaningful difference and prove her value to her parents.
-- **Protecting [[Iiko]]:** She has subconsciously adopted [[Iiko]] as a sibling figure and is dedicated to their safety.
-- **Escape the Past:** Avoid the reach of [[Brightlord Juran]] and her family's contracts.
+During [[The Traitor Investigation]], she fell under suspicion due to her meticulous habit of keeping written notes on safehouse locations and the recent, frequent use of her multiple spanreeds.
 
-# Events
-- [[The Boutique Confrontation]]: Faced her former fiancé, [[Brightlord Juran]].
+# Goals
+- **Proving Worth:** To make a meaningful difference.
+- **Protecting [[Iiko]]:** She has subconsciously adopted [[Iiko]] as a sibling figure.
+- **Escape the Past:** Avoid the reach of [[Brightlord Juran]].
 
 # Connections
 - **[[Iiko]]**: Her protégé and surrogate sibling.
 - **[[Chip]]**: A trusted ally.
 - **[[Brightlord Juran]]**: Her estranged and vindictive fiancé.
 - **[[General Spade]]**: Her commander in the rebellion.
+- **[[The Traitor Investigation]]**: A suspect due to her administrative habits.
