@@ -6,8 +6,16 @@
 - Parshmen in the streets
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 # TODO
-- Write down some interesting quotes the party says for [[Arbiter Rissa Vale]] to recall later when they're talking to the Bloodmarks guards.
-- [[Saving Jory at the Abandoned Docks]]
+- [[The Traitor Investigation]]
+- Iiko inducted into Devotary of Sincerity
+	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Insight, both big [[Vorin Devotaries]] in Alethkar)
+	- Biggest branch of this Devotary in Vedenar, considered small here
+	- Head ardent of this small branch is Head Ardent Erna, only members being [[Ardent Kaelis]] and the late [[Ardent Vedelis]]
+- Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
+	- Party finds out (leaked purposely by [[Adjudicator Peton]] to set the trap) that the Truthkeepers have been contacted by the Bloodmarks, and that they'll be sent to retrieve Jory from the abandoned warehouse docks
+	- [[Senny]] mentions offhand that the red armband Vamah guards work for [[Highlord Paladar]] directly, and they act as the middlemen between the Truthkeepers and the Bloodmarks.
+- [[Sun's Zenith]]
+	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
 - Knights of Dusk HQ - Big Plans
 	- Continued actions
 		- Attack supply lines, make it unprofitable to pay the military to sew dissent
@@ -42,9 +50,29 @@
 
 <!-- SerializedQuery END -->
 
+<!-- SerializedQuery: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
+
+| File                                                                                    | Date       |
+| --------------------------------------------------------------------------------------- | ---------- |
+| [[The Traitor Investigation]]                   | 1172-02-20 |
+| [[Saving Jory at the Abandoned Docks]] | 1172-02-22 |
+| [[The Darkstone Siege]]                               | 1172-02-32 |
+
+
+<!-- SerializedQuery END -->
+
 # Hooks
 
 <!-- QueryToSerialize: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
+<!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
+
+| File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                         |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[The Highlord's Greed]] | Uncovering evidence that Highlord Paladar is protecting Bloodmark smuggling operations. | 5        | <ul><li>Discovering a hidden financial ledger in the Archivum.</li><li>Tailing Nomos to a secret meeting at The Bastion.</li><li>Noticing guards wearing unauthorized silk ribbons.</li></ul> |
+
+
+<!-- SerializedQuery END -->
+
 <!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
 
 | File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                         |
