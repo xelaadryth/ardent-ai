@@ -129,9 +129,9 @@ The Knights Radiant were ten distinct Orders of Surgebinders, ancient protectors
 
 # Nurian Bonds
 When [[High Witness Yeshan]] bound the Nurians to Roshar via Connection, he unknowingly also made them more connectable for spren.
-- The 6 PCs cover most of the orders
-	- [[Karani]] - Stoneward (since Galeth is Shin)
-	- [[Dahmian]] - Willshaper (rejected, since Mallow is Tu Baylan)
-- [[Beric Quinn]] - Windrunner
-- [[Ojog]] - Skybreaker
-- [[Koloko]] - Lightweaver
+- The 6 PCs cover most of the orders; 2 PCs are not Nurian so their orders are covered by other Nurians
+	- [[Karani]] - Stoneward (Nua'lan; Galeth is Shin)
+	- [[Dahmian]] - Willshaper (Timbre was rejected; Mallow is Tu Baylan)
+- [[Beric Quinn]] - Windrunner (Aeolias)
+- [[Ojog]] - Skybreaker (57-296)
+- [[Koloko]] - Lightweaver (Radian)

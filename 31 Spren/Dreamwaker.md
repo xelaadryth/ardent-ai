@@ -9,7 +9,7 @@ last_updated: 2024-05-19T15:00:00
 order: Truthwatcher
 ---
 # Description
-An ancient Mistspren of immense age who serves as a grounding anchor for [[Iiko]]’s manic intellect. He carries the weight of prophecies from a bygone era and acts as a conduit for the "Ten Keys."
+An ancient Mistspren of immense age who serves as a grounding anchor for [[Iiko]]’s manic intellect. He carries the weight of prophecies from a bygone era and acts as a conduit for the "Ten Keys." His actual name is "Waker-of-Dreams" but to be less pretentious he calls himself Dreamwaker.
 
 # Appearance
 Dreamwaker manifests as a shimmering, unique pattern of refracted light. His movement mimics light catching the facets of a complex crystal, creating a dancing, rhythmic display that is both mesmerizing and inherently calming.
