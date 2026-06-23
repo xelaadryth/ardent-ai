@@ -1,12 +1,11 @@
 - Current Arc: [[02 Knights of Dusk Arc]]
 - Last Session: [[017 The Final Enforcement]]
 # Reminders
-- "By the Stormfather above", "Storm it!"
+- "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
 - Emotionspren, naturespren
 - Parshmen in the streets
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 # TODO
-- [[The Traitor Investigation]]
 - Iiko inducted into Devotary of Sincerity
 	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Insight, both big [[Vorin Devotaries]] in Alethkar)
 	- Biggest branch of this Devotary in Vedenar, considered small here
@@ -43,7 +42,6 @@
 
 | File                                                                                    | Date       |
 | --------------------------------------------------------------------------------------- | ---------- |
-| [[The Traitor Investigation]]                   | 1172-02-20 |
 | [[Saving Jory at the Abandoned Docks]] | 1172-02-22 |
 | [[The Darkstone Siege]]                               | 1172-02-32 |
 
