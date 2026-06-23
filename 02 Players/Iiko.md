@@ -22,6 +22,8 @@ A whirlwind of enthusiasm and relentless curiosity. Iiko is lively, brilliant, a
 # Background
 As part of their transition into [[Revolar]], Iiko meets [[Ardent Kaelis]], whose eccentric approach to objective truth through geology and history deeply resonates with them. During [[017 The Final Enforcement]], Iiko spoke the First Ideal, hearing the acceptance of the Stormfather (or a similar entity) and manifesting their first true surges.
 
+If Iiko ever draws a Cryptic, it would have the name Palimpsest or Chrysograph.
+
 # First Ideal
 
 > Life before death.
