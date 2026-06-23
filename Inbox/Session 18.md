@@ -1,0 +1,1 @@
+I have created the session document 018, updated the traitor Surusa's status to captured/exposed, and updated Senny's status following the revelation of Valerius's identity.

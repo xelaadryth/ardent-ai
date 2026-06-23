@@ -511,13 +511,15 @@
         "[[Knights of Dusk]]",
         "[[Orders of the Knights Radiant]]",
         "[[Lila]]",
-        "[[Slipmarket]]",
         "[[Scholar's Rest]]",
+        "[[The Traitor Investigation]]",
+        "[[Fieldwards]]",
+        "[[Stackhouses]]",
         "[[General Spade]]",
         "[[Khria]]",
         "[[High Enforcer Aylen]]",
-        "[[The Fieldwards Purge]]",
-        "[[Ardent Kaelis]]"
+        "[[Vamah Archivum]]",
+        "[[Devotary of Insight]]"
       ],
       "tags": [
         "#npc",
@@ -527,7 +529,7 @@
         "#insight",
         "#revolar"
       ],
-      "last_updated": "2026-06-15T12:00:00"
+      "last_updated": "2026-06-16T16:00:00"
     },
     "Ardent Vedelis": {
       "type": "npc",
@@ -1281,8 +1283,8 @@
         "[[Ardent Vedelis]]",
         "[[Brightlord Juran]]",
         "[[Jasnah Kholin]]",
+        "[[The Traitor Investigation]]",
         "[[Iiko]]",
-        "[[The Boutique Confrontation]]",
         "[[Chip]]",
         "[[General Spade]]"
       ],
@@ -1291,7 +1293,7 @@
         "#lighteyed",
         "#alethi"
       ],
-      "last_updated": "2026-06-16T15:00:00"
+      "last_updated": "2026-06-16T16:00:00"
     },
     "Senny": {
       "type": "npc",
@@ -1513,7 +1515,8 @@
         "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[Senny]]",
-        "[[Possessed]]",
+        "[[The Traitor Investigation]]",
+        "[[Fieldwards]]",
         "[[Dillind]]",
         "[[General Spade]]"
       ],
@@ -1524,7 +1527,7 @@
         "#knight_of_dusk",
         "#defector"
       ],
-      "last_updated": "2026-06-16T15:00:00"
+      "last_updated": "2026-06-16T16:00:00"
     },
     "Vorn": {
       "type": "npc",
@@ -3221,6 +3224,43 @@
       ],
       "last_updated": "2026-05-16T12:00:00"
     },
+    "The Traitor Investigation": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[Knights of Dusk]]",
+        "[[Valerius Atol]]",
+        "[[Senny]]",
+        "[[Stackhouses]]",
+        "[[Fieldwards]]",
+        "[[Beric Quinn]]",
+        "[[Kaz]]",
+        "[[Lila]]",
+        "[[Ardent Surusa]]",
+        "[[Otson]]",
+        "[[Bellus]]",
+        "[[Elara]]",
+        "[[Renna Palir]]",
+        "[[Truthkeepers]]",
+        "[[The Fieldwards Purge]]",
+        "[[Dahmian]]",
+        "[[Ojog]]",
+        "[[Devotary of Insight]]",
+        "[[Ardent Kaelis]]",
+        "[[Scholar's Rest]]",
+        "[[High Enforcer Aylen]]",
+        "[[Revolar]]",
+        "[[Bloodmarks]]",
+        "[[Scarstone Quarter]]"
+      ],
+      "tags": [
+        "#event",
+        "#investigation",
+        "#revolar",
+        "#knights_of_dusk"
+      ],
+      "last_updated": "2026-06-16T16:00:00"
+    },
     "Veden Civil War": {
       "type": "event",
       "status": "planned",
@@ -3383,6 +3423,7 @@
         "[[016 Surgebinding Pursuit]]",
         "[[Bloodmarks]]",
         "[[017 The Final Enforcement]]",
+        "[[The Traitor Investigation]]",
         "[[Knights of Dusk]]"
       ],
       "tags": [
@@ -3390,7 +3431,7 @@
         "#npc",
         "#reference"
       ],
-      "last_updated": "2026-06-16T15:00:00"
+      "last_updated": "2026-06-16T16:00:00"
     },
     "NPC Name Repository": {
       "type": "lore",
