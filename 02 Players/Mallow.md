@@ -35,9 +35,8 @@ Strength is having choices, the ability to affect the world around you. Weakness
 
 > Journey before destination.
 
-Freedom is not a destination, it is a never ending path that will be constantly oppressed, but also can constantly be enjoyed. The freedom to choose your journey.
+Freedom is not a destination, it is a never ending path that will be constantly oppressed, but also can constantly be enjoyed. Regardless of your final destination, people should always have the freedom to choose their journey.
 # Goals
-- Find and rescue [[Khria]].
 - Protect the forgotten and the oppressed.
 
 # Connections

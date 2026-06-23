@@ -29,15 +29,15 @@ Once a leader in Shinovar, Galeth fled after a soldier under his command, [[Meki
 
 > Life before death.
 
-I won't let myself me defined by the girl who died under my watch. I will define myself by the lives I continue to help saving.
+I won't let my life be defined by the child who died under my watch. I will define myself by the lives I continue to help saving.
 
 > Strength before weakness.
 
-Your party believes in your strength, your reliability. Only you're trying to believe in your weakness. Believe in your own strength too and don't give in to weakness. After all, dying is the easy way out; the truly strong go on living no matter how hard it gets.
+Your party believes in your strength, your reliability. Only you are trying to believe in your weakness. Giving up is the easy way out for the weak; the truly strong go on living no matter how hard it gets.
 
 > Journey before destination.
 
-Perhaps you left Shinovar just to "die a good death" as a Stonewalker in penance, but you can't just finish a penance. Living for the sake of others is a journey to be proud of, not a destination to punish yourself. Being a quiet hero is more important than being a martyr.
+Perhaps you left Shinovar just to "die a good death" as a Stonewalker in penance, but that wouldn't be real penance. Living for the sake of others is a never-ending journey, not to viewed as a conclusion.
 
 # Goals
 - Perform enough dangerous and selfless acts to atone for his failures.

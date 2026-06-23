@@ -28,11 +28,11 @@ Born into a noble family, Fina rejected a marriage alliance with a "nature cult"
 
 > Life before death.
 
-I will remember to value life, even for those who may not deserve it, and I will not let the weak and forgotten be sacrificed. I will remember the lessons I have learned from those I killed so their lives are not meaningless.
+I will remember to value life, even for those who may not deserve it, and I will not let the weak and forgotten be sacrificed. Even if I inflict death, the I will remember their lives so they are not meaningless. And I hope the living will remember me as well.
 
 > Strength before weakness.
 
-True strength is to treat every person, no matter how mean or low, as someone's child, friend, lover, with their own lives with goals and dreams. It is weakness to pretend to ignore that. And to believe that those like The Axelsmith are not defined by their weaknesses, but in their strength to redeem themselves through life experiences.
+True strength is to treat every person, no matter how mean or low, as someone's child, friend, lover, with their own lives with goals and dreams. It is weakness to pretend to ignore that. No matter how mean or low, people are not defined by their weaknesses, but in their strength to redeem themselves through life experiences.
 
 > Journey before destination.
 
