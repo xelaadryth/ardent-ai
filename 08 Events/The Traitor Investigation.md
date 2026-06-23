@@ -40,12 +40,13 @@ Upon arriving at the [[Stackhouses]], [[Valerius Atol]] redirected the party to 
 
 ### [[Ardent Surusa]] (Traitor)
 - **Physical Evidence:** She is secretly carrying a spanreed and specialized paper.
-- **Brazier Scraps:** Her room at the [[Devotary of Insight]] contains a glyphward brazier with charred scraps of womenscript detailing rebel movements.
+- **Brazier Scraps:** Her room at the [[Devotary of Insight]] contains a glyphward brazier with charred scraps of womenscript with code. Also has a spanreed to the Truthkeepers and ink.
 - **Ardent**: Member of the Devotary of Insight, who are the most orthodox ardents who hate the traitorous Knights Radiant.
 - **Scholar's Rest:** She was observed by [[Ardent Kaelis]] removing rare books from [[Scholar's Rest]], presumably to prevent rebel access or to deliver them to [[High Enforcer Aylen]].
+- Has blank paper in her bag but no quill or ink.
 ### [[Otson]]
 - **The Map:** He has an un-coded map of [[Revolar]] hidden in his boot with the Fieldwards location marked. Not good with directions, Bellus had to lead him there.
-- **Buried Object**: [[Ardent Surusa]] saw him burying an object in the ground hidden behind the hideout, he claimed it was a good luck charm. If pressed, turns out to be stash of jewelry if he needs to make a quick escape.
+- **Buried Object**: [[Bellus]] saw him burying an object in the ground hidden behind the hideout, he claimed it was a good luck charm. If pressed, turns out to be stash of jewelry if he needs to make a quick escape.
 - **Thief**: If pressed, reveals he's actually a burglar but only robs the nobles. Often they're so rich they don't even notice the jewelry that goes missing.
 ### [[Bellus]]
 - **Speaking with Guards:** [[Kaz]] observed him talking to Vamah patrols, with red armband guards (known to work with the [[Bloodmarks]]), claiming it's trying to casually get information.  Suspicious because no information gained yet.
@@ -61,7 +62,7 @@ Upon arriving at the [[Stackhouses]], [[Valerius Atol]] redirected the party to 
 - Some inventory meant for the Knights of Dusk is missing; if pressed he confesses he gives it to the destitute when he gets the chance, often through Elara. Elara assumed these were allocated for the purpose.
 ### [[Renna Palir]]
 - **The Notes:** She possesses a ledger with the written locations of both safehouses. She claims these were for her personal logistical notes.
-- **The Quills:** Inspection of her writing kit shows that her standard quill and her two spanreeds ([[Truthkeepers]] and [[Knights of Dusk]]) have all been used recently, making her timing unverifiable.
+- **The Quills:** Inspection of her writing kit shows that her standard quill and her two relevant spanreeds ([[Truthkeepers]] and [[Knights of Dusk]]) have all been used recently, making her timing unverifiable.
 
 ### [[Beric Quinn]]
 - Radiant - access to inner information
