@@ -20,9 +20,9 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 - **The Passphrase**: The Bloodmarks on the scene use two different passphrase.
 	- How many marks to pass? 10, 16, or using the word "blood" like "only Bloodmarks pass."
 	- What ruins mar the graves? Only rust in crimson shades.
-- **Separation**: Failed passphrase means the party get separated; one group including Khria failing the passphrase gets taken to an underground interrogation facility, Knights of Dusk pivot their team to rescuing Khria instead. The party gets taken to [[Jory Spadis]].
+- **Separation**: Failed passphrase means the party get separated; one group including Khria failing the passphrase gets taken to an underground interrogation facility (through storm sewers), Knights of Dusk pivot their team to rescuing Khria instead (more important military asset). The party gets taken to [[Jory Spadis]].
 - **The First Skirmish:** The party must confront the Bloodmarks, led by [[Varo Three-Knives]] and [[Tash The Hound]]. This battle acts as a catalyst; the squad ([[Galeth-son-Thald]], [[Mallow]]) speaks their First Ideals, but as the surge energy fades, Truthkeeper reinforcements arrive. [[Fina]]'s words are rejected.
-- **The Trap:** When a suppressor triggers and drains all the Stormlight from the party, they realize the entire mission is a trap set by [[Adjudicator Peton]], who, acting on information from [[Ardent Surusa]], suspects the squad of being double agents due to their proximity to a "child" and a "Shin foreigner."
+- **The Trap:** Varo's lackeys bring in a voidlight sphere (stolen from the Sons of Honor) to power a suppressor, which drains all the Stormlight from the party, they realize the entire mission is a trap set by [[Adjudicator Peton]], who, acting on information from [[Ardent Surusa]], suspects the squad of being double agents due to their proximity to a "child" and a "Shin foreigner."
 - **The Betrayal of Ojog:** [[Ojog]] arrives to lead the Truthkeeper response, horrified to discover the party's betrayal. He sadly orders his agents to kill them without mercy. 
 - **The Silent Oath**: If the party still doesn't take the hint to leave, [[Istrum]] is spotted flying in with a squad of Skybreakers.
 - **Unexpected Friends**: Gorlo, Piggy, and Fang help the party because they were spared by the party in the past. [[Fina]] is once again able to speak the words.
@@ -34,7 +34,7 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 
 - When Ojog arrives with a large batch of reinforcements. At first he thinks the party is on his side. When they reveal that they are rescuing Jory Spadis and abandoning the Truthkeepers, the betrayal lands like a physical blow.
 
-> "We fought together, briefly, in that Shellmite attack. But I thought as fellow Nurians, we would stick together. What happened to loyalty? Kill all the traitors. Leave none alive."
+> "I thought as fellow Nurians, we would stick together. What happened to loyalty? It's not too late, you can still come back. We can still fix this."
 
 Ojog sadly orders his agents to kill them all without mercy. He gives the order to fire, and a devastating wave of arrows tears through the party. More archer reinforcements arrive every turn.
 
@@ -65,6 +65,10 @@ As the enemy unleashes a truly deadly and devastating volley from all directions
     
 - **The Escape:** The party escapes into the night with Jory while the light fades behind them. Beric's martyrdom becomes a defining moment for the Knights of Dusk; a lighteyes and Truthkeeper dying for the cause.
 - **The Aftermath:** Safe in the [[Darkstone Forest]] hideout, Jory reveals that the “voice” he hears is a small, anxious spren that warned him of danger. His survival confirms the Truthkeepers are killing nascent Radiants. The party is welcomed fully into the Knights of Dusk, but the cost of that choice weighs heavily.
+
+Jory asks the party:
+
+> "Who was that guy? Will he be okay?"
 
 # Statblocks
 ```statblock

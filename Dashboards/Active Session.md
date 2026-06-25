@@ -6,16 +6,8 @@
 - Parshmen in the streets
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 # TODO
-- [[The Traitor Investigation]]
-- Party finds out (leaked purposely by [[Adjudicator Peton]] to set the trap) that the Truthkeepers have been contacted by the Bloodmarks, and that they'll be sent to retrieve Jory from the abandoned warehouse docks
-- Iiko inducted into Devotary of Sincerity
-	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Insight, both big [[Vorin Devotaries]] in Alethkar)
-	- Biggest branch of this Devotary in Vedenar, considered small here
-	- Head ardent of this small branch is Head Ardent Erna, only members being [[Ardent Kaelis]] and the late [[Ardent Vedelis]]
-- Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
-	- [[Senny]] tells party that Bloodmarks will help
-- [[Sun's Zenith]]
-	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
+- Write down some interesting quotes the party says for [[Arbiter Rissa Vale]] to recall later when they're talking to the Bloodmarks guards.
+- [[Saving Jory at the Abandoned Docks]]
 - Knights of Dusk HQ - Big Plans
 	- Continued actions
 		- Attack supply lines, make it unprofitable to pay the military to sew dissent
@@ -24,6 +16,14 @@
 		- Bloodmark scandal - red armband Vamah guards talking to Bloodmarks (learned from Bellus in [[The Traitor Investigation]])
 		- Get proof from House Sathir that Paladar is making risky plays on Sadeas territory, and that Highlord Amaram is a dangerous enemy
 		- Raise public opinion of Paladar's son (Archisal)
+- Iiko inducted into Devotary of Sincerity
+	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Insight, both big [[Vorin Devotaries]] in Alethkar)
+	- Biggest branch of this Devotary in Vedenar, considered small here
+	- Head ardent of this small branch is Head Ardent Erna, only members being [[Ardent Kaelis]] and the late [[Ardent Vedelis]]
+- Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
+	- [[Senny]] tells party that Bloodmarks will help
+- [[Sun's Zenith]]
+	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Koloko]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
 	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
