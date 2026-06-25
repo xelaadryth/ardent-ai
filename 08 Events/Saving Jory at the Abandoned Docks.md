@@ -21,8 +21,7 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 	- How many marks to pass? 10, 16, or using the word "blood" like "only Bloodmarks pass."
 	- What ruins mar the graves? Only rust in crimson shades.
 - **Separation**: Failed passphrase means the party get separated; one group including Khria failing the passphrase gets taken to an underground interrogation facility, Knights of Dusk pivot their team to rescuing Khria instead. The party gets taken to [[Jory Spadis]].
-- **The Rescue Mission:** The squad fights their way through the Bloodmarks and Truthkeeper enforcers. During the chaos, they rescue [[Jory Spadis]].
-- **The First Skirmish:** The party must confront the Bloodmarks and the Truthkeeper squad ([[Senny]], [[Neval]], [[Cazo]], and [[Hine]]). This battle acts as a catalyst; the squad ([[Galeth-son-Thald]], [[Mallow]]) speaks their First Ideals, but as the surge energy fades, reinforcements arrive. [[Fina]]'s words are rejected.
+- **The First Skirmish:** The party must confront the Bloodmarks, led by [[Varo Three-Knives]] and [[Tash The Hound]]. This battle acts as a catalyst; the squad ([[Galeth-son-Thald]], [[Mallow]]) speaks their First Ideals, but as the surge energy fades, Truthkeeper reinforcements arrive. [[Fina]]'s words are rejected.
 - **The Trap:** When a suppressor triggers and drains all the Stormlight from the party, they realize the entire mission is a trap set by [[Adjudicator Peton]], who, acting on information from [[Ardent Surusa]], suspects the squad of being double agents due to their proximity to a "child" and a "Shin foreigner."
 - **The Betrayal of Ojog:** [[Ojog]] arrives to lead the Truthkeeper response, horrified to discover the party's betrayal. He sadly orders his agents to kill them without mercy. 
 - **The Silent Oath**: If the party still doesn't take the hint to leave, [[Istrum]] is spotted flying in with a squad of Skybreakers.
