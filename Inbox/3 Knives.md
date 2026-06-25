@@ -1,1 +1,0 @@
-I have created the NPC document for Varo 'Three-Knives' using the required template. He is tagged as a Bloodmark operative and linked to Revolar and his syndicate connections.
