@@ -23,6 +23,7 @@ Quiet and relentlessly professional. He speaks rarely, preferring to let the hun
 - Hone his craft as a hunter and tracker.
 
 # Connections
+- [[Arbiter Rissa Vale]]: His commander.
 - [[Varo Three-Knives]]: A frequent partner who provides the logistics for Tash's pursuits, forming a "business-professional" relationship built on mutual utility.
 
 # Quotes

@@ -1,0 +1,1 @@
+I have created the document for Arbiter Rissa Vale and updated her subordinates, Tash and Varo, to reflect her command.

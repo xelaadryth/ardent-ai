@@ -1406,6 +1406,22 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "Tash The Hound": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Varo Three-Knives]]"
+      ],
+      "tags": [
+        "#npc",
+        "#bloodmarks",
+        "#pursuit_specialist"
+      ],
+      "last_updated": "2026-06-17T12:00:00"
+    },
     "Tezsh-son-Rillan": {
       "type": "npc",
       "status": "active",
@@ -1533,6 +1549,7 @@
         "[[Shadesmar]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
+        "[[Tash The Hound]]",
         "[[Arbiter Jalis]]",
         "[[Grand Justicar Malice]]"
       ],
