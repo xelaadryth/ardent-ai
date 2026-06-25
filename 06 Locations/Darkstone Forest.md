@@ -24,3 +24,4 @@ Quiet and echoing. The ground is rocky and covered in prickly Stormbristle bushe
 
 # Secrets
 The [[Knights of Dusk]] base is hidden behind a particularly dense patch of Stormbristle. Only those who know the correct "wind-path" can find the entrance to the stone structures within.
+The codeword to get in is "Aharietiam", referencing the Last Desolation.

@@ -20,3 +20,8 @@ A secret society within Alethkar. They believe that by returning the world to it
 
 # Members
 <!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
+<!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
+- [[Advisor Ridius]]
+
+
+<!-- SerializedQuery END -->

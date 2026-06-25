@@ -17,7 +17,7 @@ Brightlord Meridas Amaram was a high-ranking Alethi officer known for his genuin
 He was the paragon of Alethi virtues—noble, pious, and dedicated. He viewed his role as a protector of the people and was deeply respected by his soldiers for his integrity and fairness.
 
 # Background
-A military commander based in [[Tomat]]. He was known for his efforts to stabilize the borderlands and was a mentor to young recruits like [[Tien]]. He was assassinated by [[Helaran]] during a recruitment drive on the Tomat Green.
+A military commander based in [[Tomat]]. He was known for his efforts to stabilize the borderlands and was a mentor to young recruits like [[Tien]]. He was assassinated by [[Helaran]] during a battle over the Jah Keved border.
 
 # Goals
 - **Order:** Maintain Vorin tradition and stability through a strong military presence.

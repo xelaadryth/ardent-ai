@@ -16,12 +16,17 @@ session:
 The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Knights of Dusk]] in a desperate rescue at the abandoned docks in the western Slipmarket. What begins as a covert extraction becomes a public declaration of allegiance, forcing every member of the party to decide what they stand for.
 
 # Events
-- **The Bait:** The party learns that [[Senny]], [[Neval]], [[Cazo]], and [[Hine]] have been dispatched by [[Adjudicator Peton]] to interrogate [[Jory Spadis]]—the son of [[General Spade]]—in a crowded warehouse at the western Slipmarket docks as a suspected [[Possessed]].
+- **The Bait:** The party learns that [[Senny]], [[Neval]], [[Cazo]], and [[Hine]] were supposed to be dispatched by [[Adjudicator Peton]] to interrogate a [[Possessed]] boy tomorrow night at the abandoned docks in the western Slipmarket.
+- **The Passphrase**: The Bloodmarks on the scene use two different passphrase.
+	- How many marks to pass? 10, 16, or using the word "blood" like "only Bloodmarks pass."
+	- What ruins mar the graves? Only rust in crimson shades.
+- **Separation**: Failed passphrase means the party get separated; one group including Khria failing the passphrase gets taken to an underground interrogation facility, Knights of Dusk pivot their team to rescuing Khria instead. The party gets taken to [[Jory Spadis]].
 - **The Rescue Mission:** The squad fights their way through the Bloodmarks and Truthkeeper enforcers. During the chaos, they rescue [[Jory Spadis]].
 - **The First Skirmish:** The party must confront the Bloodmarks and the Truthkeeper squad ([[Senny]], [[Neval]], [[Cazo]], and [[Hine]]). This battle acts as a catalyst; the squad ([[Galeth-son-Thald]], [[Mallow]]) speaks their First Ideals, but as the surge energy fades, reinforcements arrive. [[Fina]]'s words are rejected.
-- **The Trap:** The party follows and realizes the entire mission is a trap set by [[Adjudicator Peton]], who, acting on information from [[Ardent Surusa]], suspects the squad of being double agents due to their proximity to a "child" and a "Shin foreigner."
+- **The Trap:** When a suppressor triggers and drains all the Stormlight from the party, they realize the entire mission is a trap set by [[Adjudicator Peton]], who, acting on information from [[Ardent Surusa]], suspects the squad of being double agents due to their proximity to a "child" and a "Shin foreigner."
 - **The Betrayal of Ojog:** [[Ojog]] arrives to lead the Truthkeeper response, horrified to discover the party's betrayal. He sadly orders his agents to kill them without mercy. 
 - **The Silent Oath**: If the party still doesn't take the hint to leave, [[Istrum]] is spotted flying in with a squad of Skybreakers.
+- **Unexpected Friends**: Gorlo, Piggy, and Fang help the party because they were spared by the party in the past. [[Fina]] is once again able to speak the words.
 - **The Knights' Reinforcements:** Surrounded, the party is saved by [[Beric Quinn]] and [[Knights of Dusk]] skirmishers, including [[Valerius Atol]] and [[Kaz]], who emerge to cover their escape. [[Dahmian]] notably does not arrive, opting to wait at the [[Scholar's Rest]] for the party to call upon him.
 - **Beric’s Last Stand:** As the party escapes, Beric Quinn sacrifices himself to hold the line against Ojog's forces, using his Windrunner surges to draw incoming fire upon himself before falling.
 - **The Escape:** The party escapes into the night with Jory. Beric's martyrdom becomes a defining moment for the Knights of Dusk.
