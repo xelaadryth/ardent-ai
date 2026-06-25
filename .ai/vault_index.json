@@ -337,6 +337,7 @@
         "[[Revolar]]",
         "[[Ardent Kaelis]]",
         "[[017 The Final Enforcement]]",
+        "[[018 Finding the Traitor]]",
         "[[Renna Palir]]"
       ],
       "tags": [
@@ -511,15 +512,8 @@
         "[[Knights of Dusk]]",
         "[[Orders of the Knights Radiant]]",
         "[[Lila]]",
-        "[[Scholar's Rest]]",
-        "[[The Traitor Investigation]]",
-        "[[Fieldwards]]",
-        "[[Stackhouses]]",
-        "[[General Spade]]",
-        "[[Khria]]",
-        "[[High Enforcer Aylen]]",
-        "[[Vamah Archivum]]",
-        "[[Devotary of Insight]]"
+        "[[Valerius Atol]]",
+        "[[Vamah Archivum]]"
       ],
       "tags": [
         "#npc",
@@ -529,7 +523,7 @@
         "#insight",
         "#revolar"
       ],
-      "last_updated": "2026-06-16T16:00:00"
+      "last_updated": "2026-06-17T09:00:00"
     },
     "Ardent Vedelis": {
       "type": "npc",
@@ -1301,11 +1295,11 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Revolar]]",
+        "[[Valerius Atol]]",
         "[[Possessed]]",
-        "[[Adjudicator Peton]]",
-        "[[Ardent Kaelis]]",
-        "[[High Witness Yeshan]]",
-        "[[Neval]]"
+        "[[Iiko]]",
+        "[[Knights of Dusk]]",
+        "[[High Witness Yeshan]]"
       ],
       "tags": [
         "#npc",
@@ -1314,7 +1308,7 @@
         "#truthkeeper",
         "#witness"
       ],
-      "last_updated": "2026-06-16T15:00:00"
+      "last_updated": "2026-06-17T09:00:00"
     },
     "Shallan Davar": {
       "type": "npc",
@@ -2070,6 +2064,33 @@
       ],
       "last_updated": "2026-06-16T15:00:00"
     },
+    "018 Finding the Traitor": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Valerius Atol]]",
+        "[[Ardent Surusa]]",
+        "[[Truthkeepers]]",
+        "[[Senny]]",
+        "[[Stackhouses]]",
+        "[[Knights of Dusk]]",
+        "[[Kaz]]",
+        "[[The Fieldwards Purge]]",
+        "[[Iiko]]",
+        "[[Highlord Paladar]]",
+        "[[General Odrin Lesh]]",
+        "[[Adjudicator Peton]]",
+        "[[Jory Spadis]]",
+        "[[Slipmarket]]"
+      ],
+      "tags": [
+        "#session",
+        "#investigation",
+        "#revolar"
+      ],
+      "last_updated": "2026-06-17T09:00:00"
+    },
     "Bloodmarks": {
       "type": "faction",
       "status": "active",
@@ -2192,7 +2213,8 @@
       "type": "faction",
       "status": "active",
       "links": [
-        "[[Ghostbloods]]"
+        "[[Ghostbloods]]",
+        "[[Advisor Ridius]]"
       ],
       "tags": [
         "#faction",
@@ -2924,9 +2946,8 @@
         "[[Cazo]]",
         "[[Hine]]",
         "[[Adjudicator Peton]]",
-        "[[Jory Spadis]]",
-        "[[General Spade]]",
         "[[Possessed]]",
+        "[[Jory Spadis]]",
         "[[Galeth-son-Thald]]",
         "[[Mallow]]",
         "[[Fina]]",
