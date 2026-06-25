@@ -9,15 +9,15 @@ last_updated: 2026-06-24T20:43:04
 ---
 # Description
 
-17 co-conspirators shattered Adonalsium into 16 shards using 4 dawnshards. Each dawnshard powers and limits 4 of the shards:
+17 co-conspirators shattered Adonalsium into 16 shards using 4 dawnshards that together form the instructions for creation in a cycle. Each dawnshard's command powers the four shards in its quadrant. The "contained pair" of shards of each command have one intrinsic and one extrinsic in their opposites. The other shards each form a "boundary pair" with the shard in the adjacent next quadrant.
 
-- INTEND
+- MOTIVATE
 	- Ambition
-	- Reason
-	- Whimsy
 	- Odium
-- DEFINE
 	- Devotion
+	- Reason
+- DEFINE
+	- Whimsy
 	- Autonomy
 	- Dominion
 	- Virtuosity
@@ -31,3 +31,26 @@ last_updated: 2026-06-24T20:43:04
 	- Valor
 	- Honor
 	- Mercy
+
+Another alternative hypothesis:
+
+- MOTIVATE
+    - Whimsy
+    - Ambition
+    - Mercy
+    - Devotion
+- CHANGE
+    - Odium
+    - Cultivation
+    - Endowment
+    - Ruin
+- EXIST
+    - Preservation
+    - Virtuosity
+    - Invention
+    - Autonomy
+- ORDER
+    - Dominion
+    - Valor
+    - Honor
+    - Reason
