@@ -21,7 +21,7 @@ Varo has a prominent scarred bald head and a beaming, friendly smile. He wears a
 Varo is unnervingly friendly; he remembers everyone's name, offers drinks even before interrogating his victims, and will offer genuine compliments on a clever lie or a well-executed escape attempt right before attempting to kill his target. He is entirely non-ideological, driven solely by the profit of his logistics and smuggling operations.
 
 # Background
-A high-ranking operator within the [[Bloodmarks]] syndicate who manages illicit trade routes through the [[Slipmarket]] and [[Shadesmar]]. He prides himself on his professionalism and his ability to remain impartial in the conflicts between the [[Truthkeepers]] and the [[Knights of Dusk]], provided he is paid to do so.
+A high-ranking operator within the [[Bloodmarks]] syndicate who manages illicit trade routes through the [[Slipmarket]] and [[Shadesmar]]. He prides himself on his professionalism and his ability to remain impartial in the conflicts between the [[Truthkeepers]] and the [[Knights of Dusk]], provided he is paid to do so. He frequently contracts [[Tash The Hound]] to handle difficult "retrieval" operations, viewing Tash as the perfect business instrument—cold, effective, and completely uninterested in the "distractions" of syndicate politics.
 
 # Goals
 - Secure safe transport for [[Bloodmarks]] contraband.
@@ -29,6 +29,7 @@ A high-ranking operator within the [[Bloodmarks]] syndicate who manages illicit 
 - Maintain his reputation as a reliable, if lethal, professional.
 
 # Connections
+- [[Tash The Hound]]: His primary "pursuit specialist"; Varo views Tash as an asset who never questions orders or expects a cut of the profit.
 - [[Arbiter Jalis]]: A frequent contact and associate within the [[Bloodmarks]].
 - [[Grand Justicar Malice]]: His ultimate superior in the syndicate hierarchy.
 

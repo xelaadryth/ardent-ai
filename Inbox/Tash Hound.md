@@ -1,0 +1,1 @@
+I have created the NPC document for Tash 'The Hound' and updated Varo Three-Knives to reflect their professional relationship, characterizing them as a pragmatist-specialist pairing within the Bloodmarks syndicate.
