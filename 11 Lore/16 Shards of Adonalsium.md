@@ -54,3 +54,25 @@ Another alternative hypothesis:
     - Valor
     - Honor
     - Reason
+
+And another one:
+- DESIGN
+    - Whimsy
+    - Virtuosity
+    - Invention
+    - Mercy
+- CHANGE
+    - Ambition
+    - Cultivation
+    - Endowment
+    - Ruin
+- EXIST
+    - Preservation
+    - Odium
+    - Devotion
+    - Autonomy
+- ORDER
+    - Dominion
+    - Valor
+    - Honor
+    - Reason
