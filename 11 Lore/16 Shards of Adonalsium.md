@@ -7,19 +7,20 @@ tags:
   - shards
 last_updated: 2026-06-24T20:43:04
 ---
-# Description
+# ![[Cycle of Creation.png]]Description
 
-17 co-conspirators shattered Adonalsium into 16 shards using 4 dawnshards that together form the instructions for creation in a cycle.
-- Each dawnshard's Command powers the four shards in its quadrant
+17 co-conspirators shattered Adonalsium into 16 shards using 4 dawnshards that together form the instructions for the cycle of creation:
+- Each dawnshard's Command corresponds to the 4 shards in its quadrant
 - Each Command correlates to one of the three realms, plus Temporal from Allomantic theory
-- Each quadrant was sliced into 4 again like a pie, where the 1st and 4th shards represent the "least" to "most" expression of the Command
-- The 2nd shard of each quadrant is the internalization of the command
-- The 3rd shard of each quadrant is the externalization of the command
+- Each quadrant was further sliced into 4 sequential subslices corresponding to each Command secondarily, creating a 16 step cyclical and sequential process of creation
+- The 1st and 4th shards represent the "least" to "most" boundaries of "intent" of the Command
+- The 2nd and 3rd shards of each quadrant are a pair representing the internalization and externalization of the command, and represent the boundaries of "identity" of the Command
+- Each shard has a corresponding number of power
 
 - IMAGINE - Cognitive
 	- (1) Whimsy — The least expression of IMAGINE; unbounded possibility.
-	- (2) Virtuosity — IMAGINE internalized as creativity.
-	- (3) Invention — IMAGINE externalized through creation.
+	- (2) Virtuosity — IMAGINE internalized as creative potential.
+	- (3) Invention — IMAGINE externalized through expressed creativity.
 	- (4) Reason — The fullest expression of IMAGINE; possibility ordered into truth.
 - CHANGE - Temporal
 	- (5) Ambition — The least expression of CHANGE; the desire for something different.
