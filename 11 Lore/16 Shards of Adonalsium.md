@@ -7,33 +7,42 @@ tags:
   - shards
 last_updated: 2026-06-24T20:43:04
 ---
-# ![[Cycle of Creation.png]]Description
+# Description
+![[Shards of Adonalsium Quartered.jpg]]
+
+![[Dawnshard Cycle Theory.png]]
 
 17 co-conspirators shattered Adonalsium into 16 shards using 4 dawnshards that together form the instructions for the cycle of creation:
 - Each dawnshard's Command corresponds to the 4 shards in its quadrant
 - Each Command correlates to one of the three realms, plus Temporal from Allomantic theory
-- Each quadrant was further sliced into 4 sequential subslices corresponding to each Command secondarily, creating a 16 step cyclical and sequential process of creation
-- The 1st and 4th shards represent the "least" to "most" boundaries of "intent" of the Command
-- The 2nd and 3rd shards of each quadrant are a pair representing the internalization and externalization of the command, and represent the boundaries of "identity" of the Command
-- Each shard has a corresponding number of power
+- Each quadrant was further sliced into 4 pieces corresponding to each Command secondarily, creating a 16 step cyclical and sequential process of creation
+- Each quadrant has two external shards (closer to the outside), and two internal shards (closer to the center).
+- Every shard has a corresponding number of power. Bolded shards have evidence for their shardic number.
 
-- IMAGINE - Cognitive
-	- (1) Whimsy — The least expression of IMAGINE; unbounded possibility.
-	- (2) Virtuosity — IMAGINE internalized as creative potential.
-	- (3) Invention — IMAGINE externalized through expressed creativity.
-	- (4) Reason — The fullest expression of IMAGINE; possibility ordered into truth.
-- CHANGE - Temporal
-	- (5) Ambition — The least expression of CHANGE; the desire for something different.
-	- (6) Cultivation — CHANGE internalized as growth.
-	- (7) Endowment — CHANGE externalized through granting.
-	- (8) Ruin — The fullest expression of CHANGE; complete transformation.
-- CONNECT - Spiritual
-	- (9) Odium — The least expression of CONNECT; connection through hatred.
-	- (10) Honor — CONNECT internalized into integrity.
-	- (11) Valor — CONNECT externalized through courageous action.
-	- (12) Devotion — The fullest expression of CONNECT; complete selfless commitment.
-- EXIST - Physical
-	- (13) Mercy — The least expression of EXIST; choosing not to end another's existence.
-	- (14) Autonomy — EXIST internalized into independence.
-	- (15) Dominion — EXIST externalized through influence.
-	- (16) Preservation — The fullest expression of EXIST; enduring unchanged.
+**DESIGN** - Cognitive
+
+- (1) **Reason** - Design (External to Internal)
+- (2) Whimsy - Change (Internal to Internal)
+- (3) Virtuosity - Connect (Internal to External)
+- (4) Invention - Exist (External to External)
+
+**CHANGE** - Temporal
+
+- (5) **Endowment** - Design (External to Internal)
+- (6) Ambition - Change (Internal to Internal)
+- (7) **Cultivation** - Connect (Internal to External)
+- (8) **Ruin** - Exist (External to External)
+
+**CONNECT** - Spiritual
+
+- (9) **Odium** - Design (External to Internal)
+- (10) **Honor** - Change (Internal to Internal)
+- (11) Valor - Connect (Internal to External)
+- (12) Devotion - Exist (External to External)
+
+**EXIST** - Physical
+
+- (13) Mercy - Design (External to Internal)
+- 14) **Autonomy** - Change (Internal to Internal)
+- (15) Dominion - Connect (Internal to External)
+- (16) **Preservation** - Exist (External to External)
