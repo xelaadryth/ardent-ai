@@ -6,10 +6,22 @@
 - Parshmen in the streets
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 # TODO
-- Iiko inducted into Devotary of Sincerity
-	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Insight, both big [[Vorin Devotaries]] in Alethkar)
-	- Biggest branch of this Devotary in Vedenar, considered small here
-	- Head ardent of this small branch is Head Ardent Erna, only members being [[Ardent Kaelis]] and the late [[Ardent Vedelis]]
+- 240 marks -> 40 marks each -> 3 spanreeds
+- Harbormaster Ves
+	- Green Mercy open ship, 50 marks a day, 40 on discount
+	- Windraiser, cremlings mildew mold
+	- Larger, less banged up ship (Deepen Light) leaving tonight with crates (Nurian gems)
+		- Popped a hole in the ship
+	- If you see them bringing a person tell us
+	- Mallow pays them 15 marks to watch for 
+	- Pitt
+- Two kids
+	- Litsen and Mazie
+- Spanreed to Truthkeepers to ask about Bloodmarks contact in the Slipmarket
+- Varo Three Knives
+	- Got the names Rissa Vale
+	- Time has been moved up
+
 - Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
 	- Party finds out (leaked purposely by [[Adjudicator Peton]] to set the trap) that the Truthkeepers have been contacted by the Bloodmarks, and that they'll be sent to retrieve Jory from the abandoned warehouse docks
 	- [[Senny]] mentions offhand that the red armband Vamah guards work for [[Highlord Paladar]] directly, and they act as the middlemen between the Truthkeepers and the Bloodmarks.

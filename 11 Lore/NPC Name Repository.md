@@ -16,7 +16,8 @@ This document serves as a repository for unused NPC names. Once a name from this
 - Harl
 - Joven
 - Maran
-- Ves
+- Lekka
+- Pidden
 
 # Alethi Lighteyes
 - Thenor Dridius

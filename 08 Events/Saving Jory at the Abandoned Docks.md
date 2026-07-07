@@ -18,7 +18,7 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 # Events
 - **The Bait:** The party learns that [[Senny]], [[Neval]], [[Cazo]], and [[Hine]] were supposed to be dispatched by [[Adjudicator Peton]] to interrogate a [[Possessed]] boy tomorrow night at the abandoned docks in the western Slipmarket.
 - **The Passphrase**: The Bloodmarks on the scene use two different passphrase.
-	- How many marks to pass? 10, 16, or using the word "blood" like "only Bloodmarks pass."
+	- How many marks to pass? 8, 16, or using the word "blood" like "only Bloodmarks pass."
 	- What ruins mar the graves? Only rust in crimson shades.
 - **Separation**: Failed passphrase means the party get separated; one group including Khria failing the passphrase gets taken to an underground interrogation facility (through storm sewers), Knights of Dusk pivot their team to rescuing Khria instead (more important military asset). The party gets taken to [[Jory Spadis]].
 - **The First Skirmish:** The party must confront the Bloodmarks, led by [[Varo Three-Knives]] and [[Tash The Hound]]. This battle acts as a catalyst; the squad ([[Galeth-son-Thald]], [[Mallow]]) speaks their First Ideals, but as the surge energy fades, Truthkeeper reinforcements arrive. [[Fina]]'s words are rejected.

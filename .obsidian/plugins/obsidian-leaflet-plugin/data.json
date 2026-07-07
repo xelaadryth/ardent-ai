@@ -3,7 +3,7 @@
     {
       "id": "map-revolar",
       "locked": false,
-      "lastAccessed": 1781147958037,
+      "lastAccessed": 1783394073854,
       "markers": [
         {
           "id": "ID_c90bc95a592b",
@@ -285,7 +285,7 @@
     {
       "id": "map-roshar",
       "locked": false,
-      "lastAccessed": 1781147958037,
+      "lastAccessed": 1783394073854,
       "markers": [
         {
           "id": "ID_59bab8184a1a",
@@ -527,6 +527,22 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_29483a28683a",
+          "type": "Town",
+          "loc": [
+            -372.05859375,
+            1317.9375
+          ],
+          "layer": "%5B%5BMap%20of%20Roshar.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ten's Crossing",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -537,7 +553,7 @@
     },
     {
       "id": "map-shadesmar",
-      "lastAccessed": 1781147958037,
+      "lastAccessed": 1783394073854,
       "markers": [
         {
           "id": "ID_09b82b7949eb",
