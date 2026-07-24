@@ -7,7 +7,7 @@ tags:
   - "#scadrian"
   - "#mistborn"
   - "#bloodmarks"
-last_updated: 2024-06-25T14:00:00
+last_updated: 2024-06-26T10:00:00
 faction: "[[Bloodmarks]]"
 location: "[[Shadesmar]]"
 ---
@@ -16,10 +16,13 @@ location: "[[Shadesmar]]"
 A rare Malwish Mistborn who defected from the [[Ghostbloods]] to join the [[Bloodmarks]]. He is convinced he is the chosen one, often likening himself to the legendary [[Hero of Ages]].
 
 # Appearance
-Kaizen always wears a traditional Malwish mask and expresses confusion and disdain for the "primitives" of Roshar who do not follow this custom.
+Kaizen is a tall, slender Malwish man who carries himself with an insufferable regal air. He wears a traditional Malwish mask made of polished brass, crafted in the shape of a stylized, sharp-beaked kestrel. His attire is a blend of Scadrian and Malwish fashion: a high-collared, multi-buttoned coat of dark silk, over which he drapes a vibrant red-and-gold serape. He often carries a small, handheld metallic device that hums with a faint heat, typical of Malwish technology from the era of the Elendel Basin. He expresses constant confusion and disdain for the "primitives" of Roshar who do not follow the custom of wearing masks.
 
 # Personality
 Spoiled, rebellious, and intensely selfish. Because he was raised as a "child of prophecy" by well-meaning associates of his father, he never learned the value of hard work or the weight of morality. He avoids practice, trusting that his powers will awaken fully when his "destiny" demands it.
+
+# Manners of Speech
+He speaks with a melodramatic, self-important cadence, often pausing for dramatic effect as if waiting for applause. He refers to himself in the third person when excited and frequently dismisses Rosharan cultures as "unmasked and uncultured."
 
 # Background
 Kaizen's father died saving [[Thaidakar]] and the [[Ghostbloods]] from destruction. In gratitude, the organization rewarded the young Kaizen with Lerasium. However, in an act of teenage rebellion, Kaizen fled his caretakers to seek glory with the [[Bloodmarks]]. He has traveled to Roshar under the belief that a true hero must possess a [[Shardblade]].

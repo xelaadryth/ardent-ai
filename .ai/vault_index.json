@@ -677,34 +677,14 @@
       "last_updated": "2026-05-15T12:00:00"
     },
     "Dahmian": {
-      "type": "npc",
-      "status": "active",
+      "type": "statblock",
+      "status": "",
       "links": [
-        "[[Truthkeepers]]",
-        "[[Revolar]]",
-        "[[Knights of Dusk]]",
-        "[[Timbre]]",
-        "[[Truthkeeper Camp]]",
-        "[[Karani]]",
-        "[[Fina]]",
-        "[[N'tal]]",
-        "[[Iiko]]",
-        "[[Galeth-son-Thald]]",
-        "[[Doug (Guddy)]]",
-        "[[Dahmian's Promotion Trial]]",
-        "[[The Darkstone Siege]]",
-        "[[Beric Quinn]]",
-        "[[Adjudicator Peton]]"
+        "[[Dahmian]]",
+        "[[Timbre]]"
       ],
-      "tags": [
-        "#npc",
-        "#nurian",
-        "#mercenary",
-        "#enforcer",
-        "#spy",
-        "#foodie"
-      ],
-      "last_updated": "2026-06-16T15:00:00"
+      "tags": [],
+      "last_updated": ""
     },
     "Dalen": {
       "type": "npc",
@@ -1327,6 +1307,8 @@
         "[[High Enforcer Aylen]]",
         "[[Truthkeeper Camp]]",
         "[[Senny]]",
+        "[[Cazo]]",
+        "[[Hine]]",
         "[[Tahs]]"
       ],
       "tags": [
@@ -1394,7 +1376,10 @@
         "[[Possessed]]",
         "[[Iiko]]",
         "[[Knights of Dusk]]",
-        "[[High Witness Yeshan]]"
+        "[[High Witness Yeshan]]",
+        "[[Neval]]",
+        "[[Cazo]]",
+        "[[Hine]]"
       ],
       "tags": [
         "#npc",
@@ -2189,6 +2174,8 @@
         "[[Fieldwards]]",
         "[[Senny]]",
         "[[Neval]]",
+        "[[Cazo]]",
+        "[[Hine]]",
         "[[Vamah Archivum]]",
         "[[Adjudicator Peton]]"
       ],
@@ -3115,17 +3102,30 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
-        "[[Slipmarket]]",
-        "[[Jory Spadis]]",
         "[[Varo Three-Knives]]",
+        "[[Possessed]]",
+        "[[General Spade]]",
+        "[[Vamah Archivum]]",
+        "[[Vamah Princedom]]",
+        "[[Adjudicator Peton]]",
+        "[[Jory Spadis]]",
+        "[[Bloodmarks]]",
+        "[[Tash The Hound]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[Ojog]]",
+        "[[Beric Quinn]]",
+        "[[Kaz]]",
+        "[[Cadence]]",
+        "[[Mallow]]",
+        "[[Darkstone Forest]]",
+        "[[Slipmarket]]",
         "[[Nurian Gems]]",
         "[[Senny]]",
         "[[Neval]]",
         "[[Cazo]]",
         "[[Hine]]",
-        "[[Adjudicator Peton]]",
-        "[[Possessed]]",
-        "[[Tash The Hound]]"
+        "[[Zabriel]]",
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#event",
@@ -3871,6 +3871,18 @@
         "#radiant"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "Timbre": {
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Dahmian]]"
+      ],
+      "tags": [
+        "#spren",
+        "#regrowth_spren"
+      ],
+      "last_updated": "2026-06-25T14:00:00"
     },
     "Verdae": {
       "type": "spren",
