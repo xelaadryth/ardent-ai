@@ -683,6 +683,7 @@
         "[[Truthkeepers]]",
         "[[Revolar]]",
         "[[Knights of Dusk]]",
+        "[[Timbre]]",
         "[[Truthkeeper Camp]]",
         "[[Karani]]",
         "[[Fina]]",
@@ -994,6 +995,24 @@
       ],
       "last_updated": "2026-05-18T12:00:00"
     },
+    "Johb": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Shadesmar]]",
+        "[[Kuma]]",
+        "[[Ghostbloods]]"
+      ],
+      "tags": [
+        "#npc",
+        "#malwish",
+        "#scadrian",
+        "#bloodmarks",
+        "#hemalurgy"
+      ],
+      "last_updated": "2024-06-25T14:00:00"
+    },
     "Jory Spadis": {
       "type": "npc",
       "status": "active",
@@ -1033,6 +1052,26 @@
         "#ghostbloods"
       ],
       "last_updated": "2026-05-18T12:00:00"
+    },
+    "Kaizen": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Shadesmar]]",
+        "[[Ghostbloods]]",
+        "[[Hero of Ages]]",
+        "[[Thaidakar]]",
+        "[[Shardblade]]"
+      ],
+      "tags": [
+        "#npc",
+        "#malwish",
+        "#scadrian",
+        "#mistborn",
+        "#bloodmarks"
+      ],
+      "last_updated": "2024-06-25T14:00:00"
     },
     "Karani": {
       "type": "npc",
@@ -1193,6 +1232,23 @@
       ],
       "last_updated": "2026-05-13T23:55:00"
     },
+    "Marcus": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Shardblade]]",
+        "[[Bloodmarks]]",
+        "[[Saving Jory at the Abandoned Docks]]",
+        "[[Jory Spadis]]"
+      ],
+      "tags": [
+        "#npc",
+        "#veden",
+        "#bounty_hunter"
+      ],
+      "last_updated": "2024-06-25T14:00:00"
+    },
     "Meki-son-Vara": {
       "type": "npc",
       "status": "active",
@@ -1245,6 +1301,21 @@
         "#possessed"
       ],
       "last_updated": "2026-05-16T15:00:00"
+    },
+    "Nathaniel": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Revolar]]",
+        "[[Galeth-son-Thald]]",
+        "[[The Axelsmith]]"
+      ],
+      "tags": [
+        "#npc",
+        "#alethi",
+        "#warrior"
+      ],
+      "last_updated": "2024-06-25T14:00:00"
     },
     "Neval": {
       "type": "npc",
@@ -2190,10 +2261,17 @@
       "status": "active",
       "links": [
         "[[Shadesmar]]",
+        "[[Ghostbloods]]",
         "[[Grand Justicar Malice]]",
         "[[Scadrian Mechanics|Metallic Arts]]",
         "[[Nurian Gems]]",
-        "[[Ghostbloods]]"
+        "[[Arbiter Jalis]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[Varo Three-Knives]]",
+        "[[Johb]]",
+        "[[Kaizen]]",
+        "[[Meki-son-Vara]]",
+        "[[Tash The Hound]]"
       ],
       "tags": [
         "#faction",
@@ -2201,7 +2279,7 @@
         "#worldhopping",
         "#piracy"
       ],
-      "last_updated": "2026-06-15T10:00:00"
+      "last_updated": "2024-06-25T14:00:00"
     },
     "Envisagers": {
       "type": "faction",
@@ -2220,8 +2298,8 @@
       "type": "faction",
       "status": "active",
       "links": [
-        "[[Truthkeepers]]",
         "[[Bloodmarks]]",
+        "[[Truthkeepers]]",
         "[[Chip]]",
         "[[Kabsal]]",
         "[[Karani]]",
@@ -2229,14 +2307,16 @@
         "[[Shallan Davar]]",
         "[[Sila]]",
         "[[Sweeper]]",
-        "[[Undertaker]]"
+        "[[Undertaker]]",
+        "[[Johb]]",
+        "[[Kaizen]]"
       ],
       "tags": [
         "#faction",
         "#secret-society",
         "#espionage"
       ],
-      "last_updated": "2024-06-05T09:00:00"
+      "last_updated": "2024-06-25T14:00:00"
     },
     "Knights of Dusk": {
       "type": "faction",
