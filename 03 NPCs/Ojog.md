@@ -15,7 +15,7 @@ location: "[[Revolar]]"
 A towering and lethal Truthkeeper Enforcer who arrived on Roshar alongside the other Nurians. While originally trained in the arts of healing, he has repurposed his anatomical knowledge to become a clinical and efficient executioner.
 
 # Appearance
-Ojog stands an impressive 6'4" with light blue eyes that allow him to pass easily as an Alethi lighteyes of significant standing. He typically wears the reinforced dark grey robes of a Truthkeeper Enforcer, carrying a shortspear on his back.
+Ojog stands an impressive 6'4" with light blue eyes that allow him to pass easily as an Alethi lighteyes of significant standing. He typically wears the reinforced dark grey robes of a Truthkeeper Enforcer, carrying a shortspear and a shield.
 
 # Personality
 Quiet, disciplined, and burdened by immense guilt. He has fully embraced the cold logic of the [[Truthkeepers]], finding purpose in the rigid enforcement of the law. His sense of betrayal by his former companions drives his clinical focus on duty.

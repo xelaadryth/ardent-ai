@@ -1,0 +1,1 @@
+Come up with some details for the physical Appearance of Kaizen, Johb, Marcus, and Nathaniel. Include their clothing, any distinguishing characteristics, manners of speech, etc. For the Malwish, try to include details that would make sense for the Malwish from the era of Wax and Wayne.

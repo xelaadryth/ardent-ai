@@ -36,4 +36,5 @@ Neval was part of the original recruitment wagons at the [[Truthkeeper Camp]]. H
 # Connections
 - [[Adjudicator Peton]]: The officer he is constantly trying to impress.
 - [[Senny]]: A fellow Witness whom he views as his primary rival for promotion.
+- [[Cazo]] and [[Hine]]: Others in his squad
 - [[Tahs]]: An initiate he occasionally collaborates with to gain social leverage.

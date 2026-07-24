@@ -30,3 +30,5 @@ He joined the [[Truthkeepers]] to protect Roshar. After seeing the illusions pro
 # Connections
 - [[Valerius Atol]]: His friend whom he believed dead.
 - [[High Witness Yeshan]]: The spiritual figurehead he previously served with fanatical devotion.
+- [[Neval]]: A peer in his squad
+- [[Cazo]] and [[Hine]]: Minor Truthkeepers in his squad

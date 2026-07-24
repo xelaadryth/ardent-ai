@@ -1,1 +1,0 @@
-I have created the page for Timbre, incorporating the specific background detail about her failed binding attempt with Dahmian, and updated Dahmian's profile to include this connection.

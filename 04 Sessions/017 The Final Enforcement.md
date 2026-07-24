@@ -19,5 +19,5 @@ The squad resolves the aftermath of the foundry chase, speaks ancient oaths, and
 - **Kuma's Departure:** [[Kuma]] departs [[Revolar]] with a master artifabrian to pursue advanced research elsewhere.
 - **[[Dahmian's Promotion Trial]]:** The squad receives orders to oversee [[Dahmian]]'s promotion by facilitating the capture of the rebel Elara in the [[Slipmarket]].
 - **Dahmian's Truth:** The squad identifies [[Dahmian]] as a fellow traveler from [[Nuria]]. He reveals he previously rejected a bond with a Lightspren named Timbre, preferring a moral code unburdened by supernatural oaths.
-- **The Fieldwards Intervention:** After warning Elara, the party rushes to a [[Knights of Dusk]] hideout in the [[Fieldwards]] to find [[Senny]] and [[Neval]] have already captured the rebels Otson and Bellus.
+- **The Fieldwards Intervention:** After warning Elara, the party rushes to a [[Knights of Dusk]] hideout in the [[Fieldwards]] to find [[Senny]] and [[Neval]] have already captured the rebels Otson and Bellus, with the help of their squadmates [[Cazo]] and [[Hine]].
 - **Deception at the Archivum:** The squad intercepts the prisoner transport near the [[Vamah Archivum]]. [[Iiko]] uses an illusion of [[Adjudicator Peton]] to seize custody of the prisoners, allowing them to be diverted to safety while keeping [[Senny]] and [[Neval]] ignorant of the ruse.
