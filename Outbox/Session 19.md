@@ -1,0 +1,11 @@
+Create a session document capturing what the players did last session, including these notes:
+- The party went to the Devotary of Sincerity to see if Dahmian left them any notes. He had head ardent Erna take a message asking "how do I find you" but didn't leave any way to find him either.
+- Party bought 3 pairs of spanreeds from Erna at a discount for 240 marks (each player chipping in 40 marks)
+- Party then went to the western Slipmarket docks, much sketchier area. Talked to Harbormaster Ves and asked about what ships would be heading out that day. Ves didn't want to divulge information about other people's ships, so the party instead asked about what ships were available to hire that night. The Green Mercy was an open ship costing 50 marks a day, but 40 marks a day on discount. There was also the Windraiser, a ship that looked of cremlings mildew and mold. Also a larger, less banged-up ship called Deepen Light leaving tonight with crates on it.
+- The party discreetly used Division to punch a small hole in the ship just above the waterline, and saw crates of Nurian gems inside.
+- Checked another ship calling out that they were "inspectors", left a mark after "inspecting" the ship. Some kids then came and took the sphere.
+- The party chased the kids Litsen and Mazie. Some red armband Guards came up and chased the kids, party chased the kids too. Asked them to keep an eye out on the ships for a few marks and to let the party know if they see the Bloodmarks bringing anyone onto the ship.
+- Party learned that there were a few Bloodmarks locations in the area, and the headquarters was likely in the center of the area
+- Mallow gave the kids some fish she caught
+- Party had Renna contact the Truthkeepers about their Bloodmarks contact in the Slipmarket to find out more about the Warehouse Investigation, and was directed to Varo Three Knives
+- Went to a quaint little tavern and met him, seemed like a nice enough guy, and learned from him that the interrogation time had been moved up from nightfall to "shortly". Also when asked who was in charge of everything, he said that Rissa Vale was his boss.
