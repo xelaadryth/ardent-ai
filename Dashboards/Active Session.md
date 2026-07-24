@@ -5,10 +5,15 @@
 - Emotionspren, naturespren
 - Parshmen in the streets
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
+# [[Arbiter Rissa Vale]] Copper Ferring Tin Allomancer
+- Placeholder
 # TODO
 - 240 marks -> 40 marks each -> 3 spanreeds
 # Upcoming
 
+- [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
+	- [[Varo Three-Knives]]
+	- [[Tash The Hound]]
 - Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
 	- [[Senny]] mentions offhand that the red armband Vamah guards work for [[Highlord Paladar]] directly, and they act as the middlemen between the Truthkeepers and the Bloodmarks.
 - [[Sun's Zenith]]
