@@ -5,7 +5,7 @@ tags:
   - "#arc"
   - "#revolar"
   - "#rebellion"
-last_updated: 2026-06-15T12:00:00
+last_updated: 2024-06-18T10:00:00
 number: 2
 ---
 # Description
@@ -15,7 +15,7 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[Truthkeepers]] & [[Silent Oath]]: [[High Enforcer Aylen]], [[Istrum]], [[Ojog]], [[Dahmian]].
 - [[Knights of Dusk]]: [[General Spade]], [[Khria]], [[Beric Quinn]], [[Kaz]].
 - [[Ghostbloods]]: [[Undertaker]], [[Sweeper]], [[Chip]].
-- [[Bloodmarks]]: [[Arbiter Jalis]], [[Grand Justicar Malice]].
+- [[Bloodmarks]]: [[Arbiter Jalis]], [[Grand Justicar Malice]], [[Varo Three-Knives]], [[Arbiter Rissa Vale]].
 
 # Events
 - [[The Stackhouse Slavers]]
@@ -36,3 +36,5 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[015 Distractions and Flames]]
 - [[016 Surgebinding Pursuit]]
 - [[017 The Final Enforcement]]
+- [[018 Finding the Traitor]]
+- [[019 The Slipmarket Stakeout]]

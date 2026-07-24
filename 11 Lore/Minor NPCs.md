@@ -5,7 +5,7 @@ tags:
   - "#lore"
   - "#npc"
   - "#reference"
-last_updated: 2026-06-16T16:00:00
+last_updated: 2024-06-18T10:00:00
 ---
 
 # Overview
@@ -54,4 +54,7 @@ This document should be updated constantly as the central reference for minor no
 | **Otson**                   | Rebel suspect in [[The Traitor Investigation]]. Found with un-coded city maps.                | [[017 The Final Enforcement]]  | [[Knights of Dusk]]     |
 | **Bellus**                  | Rebel suspect in [[The Traitor Investigation]]. Observed talking to red armband Vamah guards. | [[017 The Final Enforcement]]  | [[Knights of Dusk]]     |
 | **Elara**                   | [[Knights of Dusk]] cell member warned by the party in the Slipmarket.                        | [[017 The Final Enforcement]]  | [[Knights of Dusk]]     |
+| **Ves**                     | Harbormaster of the western Slipmarket docks. Protective of his logs.                         | [[019 The Slipmarket Stakeout]]| [[Revolar]]             |
+| **Litsen**                  | Homeless child in the docks; hired as a scout for the party.                                  | [[019 The Slipmarket Stakeout]]| [[Slipmarket]]          |
+| **Mazie**                   | Homeless child in the docks; hired as a scout for the party.                                  | [[019 The Slipmarket Stakeout]]| [[Slipmarket]]          |
 | **Adjudicator Milara**      | Mid-40s with a low rasping voice; constantly bored.                                           | planned                        | [[Truthkeeper Camp]]    |

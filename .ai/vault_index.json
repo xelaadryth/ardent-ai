@@ -483,6 +483,26 @@
       ],
       "last_updated": "2024-05-18T00:00:00"
     },
+    "Arbiter Rissa Vale": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Revolar]]",
+        "[[Tash The Hound]]",
+        "[[Varo Three-Knives]]",
+        "[[Scarstone Quarter]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#npc",
+        "#lighteyed",
+        "#scadrian",
+        "#bloodmarks",
+        "#intelligence"
+      ],
+      "last_updated": "2026-06-17T12:00:00"
+    },
     "Ardent Kaelis": {
       "type": "npc",
       "status": "active",
@@ -1413,6 +1433,7 @@
         "[[Bloodmarks]]",
         "[[Revolar]]",
         "[[Truthkeepers]]",
+        "[[Arbiter Rissa Vale]]",
         "[[Varo Three-Knives]]"
       ],
       "tags": [
@@ -1549,6 +1570,7 @@
         "[[Shadesmar]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
+        "[[Arbiter Rissa Vale]]",
         "[[Tash The Hound]]",
         "[[Arbiter Jalis]]",
         "[[Grand Justicar Malice]]"
@@ -2986,6 +3008,8 @@
         "[[Adjudicator Peton]]",
         "[[Possessed]]",
         "[[Jory Spadis]]",
+        "[[Varo Three-Knives]]",
+        "[[Tash The Hound]]",
         "[[Galeth-son-Thald]]",
         "[[Mallow]]",
         "[[Fina]]",
@@ -3285,7 +3309,7 @@
     },
     "The Traitor Investigation": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Knights of Dusk]]",
         "[[Valerius Atol]]",
@@ -3402,6 +3426,20 @@
       ],
       "tags": [],
       "last_updated": ""
+    },
+    "16 Shards of Adonalsium": {
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Shards of Adonalsium Quartered.jpg]]",
+        "[[Dawnshard Cycle Theory.png]]"
+      ],
+      "tags": [
+        "#location",
+        "cosmere",
+        "shards"
+      ],
+      "last_updated": "2026-06-24T20:43:04"
     },
     "Aelwood Contract": {
       "type": "lore",
