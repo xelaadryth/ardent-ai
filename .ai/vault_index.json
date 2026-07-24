@@ -175,6 +175,8 @@
         "[[Bloodmarks]]",
         "[[Arbiter Jalis]]",
         "[[Grand Justicar Malice]]",
+        "[[Varo Three-Knives]]",
+        "[[Arbiter Rissa Vale]]",
         "[[The Stackhouse Slavers]]",
         "[[Meeting at the Whitespine]]",
         "[[Meeting with the Undertaker]]",
@@ -189,14 +191,16 @@
         "[[013 Tilting Loyalties]]",
         "[[014 Nothing but the Truth]]",
         "[[015 Distractions and Flames]]",
-        "[[017 The Final Enforcement]]"
+        "[[017 The Final Enforcement]]",
+        "[[018 Finding the Traitor]]",
+        "[[019 The Slipmarket Stakeout]]"
       ],
       "tags": [
         "#arc",
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2026-06-15T12:00:00"
+      "last_updated": "2024-06-18T10:00:00"
     },
     "03 Shadesmar Arc": {
       "type": "arc",
@@ -501,7 +505,7 @@
         "#bloodmarks",
         "#intelligence"
       ],
-      "last_updated": "2026-06-17T12:00:00"
+      "last_updated": "2024-06-18T10:00:00"
     },
     "Ardent Kaelis": {
       "type": "npc",
@@ -1570,6 +1574,7 @@
         "[[Shadesmar]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
+        "[[019 The Slipmarket Stakeout]]",
         "[[Arbiter Rissa Vale]]",
         "[[Tash The Hound]]",
         "[[Arbiter Jalis]]",
@@ -1581,7 +1586,7 @@
         "#smuggler",
         "#pirate"
       ],
-      "last_updated": "2026-06-17T12:00:00"
+      "last_updated": "2024-06-18T10:00:00"
     },
     "Vorn": {
       "type": "npc",
@@ -2150,6 +2155,35 @@
         "#revolar"
       ],
       "last_updated": "2026-06-17T09:00:00"
+    },
+    "019 The Slipmarket Stakeout": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Jory Spadis]]",
+        "[[Slipmarket]]",
+        "[[Vorin Devotaries|Devotary of Sincerity]]",
+        "[[Dahmian]]",
+        "[[Ardent Erna]]",
+        "[[Harbormaster Ves]]",
+        "[[Nurian Gems]]",
+        "[[Litsen]]",
+        "[[Mazie]]",
+        "[[Bloodmarks]]",
+        "[[Mallow]]",
+        "[[Renna Palir]]",
+        "[[Varo Three-Knives]]",
+        "[[Possessed]]",
+        "[[Arbiter Rissa Vale]]"
+      ],
+      "tags": [
+        "#session",
+        "#revolar",
+        "#investigation",
+        "#slipmarket"
+      ],
+      "last_updated": "2024-06-18T10:00:00"
     },
     "Bloodmarks": {
       "type": "faction",
@@ -3001,27 +3035,17 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
+        "[[Slipmarket]]",
+        "[[Jory Spadis]]",
+        "[[Varo Three-Knives]]",
+        "[[Nurian Gems]]",
         "[[Senny]]",
         "[[Neval]]",
         "[[Cazo]]",
         "[[Hine]]",
         "[[Adjudicator Peton]]",
         "[[Possessed]]",
-        "[[Jory Spadis]]",
-        "[[Varo Three-Knives]]",
-        "[[Tash The Hound]]",
-        "[[Galeth-son-Thald]]",
-        "[[Mallow]]",
-        "[[Fina]]",
-        "[[Ardent Surusa]]",
-        "[[Ojog]]",
-        "[[Istrum]]",
-        "[[Beric Quinn]]",
-        "[[Valerius Atol]]",
-        "[[Kaz]]",
-        "[[Dahmian]]",
-        "[[Scholar's Rest]]",
-        "[[Darkstone Forest]]"
+        "[[Tash The Hound]]"
       ],
       "tags": [
         "#event",
@@ -3029,7 +3053,7 @@
         "#combat",
         "#rescue"
       ],
-      "last_updated": "2026-06-16T15:00:00"
+      "last_updated": "2024-06-18T10:00:00"
     },
     "Sister Reunion": {
       "type": "event",
@@ -3521,14 +3545,16 @@
         "[[Bloodmarks]]",
         "[[017 The Final Enforcement]]",
         "[[The Traitor Investigation]]",
-        "[[Knights of Dusk]]"
+        "[[Knights of Dusk]]",
+        "[[019 The Slipmarket Stakeout]]",
+        "[[Slipmarket]]"
       ],
       "tags": [
         "#lore",
         "#npc",
         "#reference"
       ],
-      "last_updated": "2026-06-16T16:00:00"
+      "last_updated": "2024-06-18T10:00:00"
     },
     "NPC Name Repository": {
       "type": "lore",
