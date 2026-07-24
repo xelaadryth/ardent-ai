@@ -1,12 +1,12 @@
 - Current Arc: [[02 Knights of Dusk Arc]]
-- Last Session: [[018 Finding the Traitor]]
+- Last Session: [[019 The Slipmarket Stakeout]]
 # Reminders
 - "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
 - Emotionspren, naturespren
 - Parshmen in the streets
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
-# [[Arbiter Rissa Vale]] Copper Ferring Tin Allomancer
-- Placeholder
+# [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
+- Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
 # TODO
 - 240 marks -> 40 marks each -> 3 spanreeds
 # Upcoming
@@ -26,18 +26,20 @@
 		- Bloodmark scandal - red armband Vamah guards talking to Bloodmarks (learned from Bellus in [[The Traitor Investigation]])
 		- Get proof from House Sathir that Paladar is making risky plays on Sadeas territory, and that Highlord Amaram is a dangerous enemy
 		- Raise public opinion of Paladar's son (Archisal)
-- Iiko inducted into Devotary of Sincerity
-	- Devotary is super tiny and cramped, basically an office (next to the Devotaries of Purity and Insight, both big [[Vorin Devotaries]] in Alethkar)
-	- Biggest branch of this Devotary in Vedenar, considered small here
-	- Head ardent of this small branch is Head Ardent Erna, only members being [[Ardent Kaelis]] and the late [[Ardent Vedelis]]
-- Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
-	- [[Senny]] tells party that Bloodmarks will help
-- [[Sun's Zenith]]
-	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Koloko]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
 	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
-	- [[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
+	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
+- [[03 Shadesmar Arc]] - Bloodmark Corsairs
+	- [[Johb]]
+	- [[Kaizen]] - final boss
+	- [[Arbiter Rissa Vale]]
+- [[04 Nurian Gems Arc]]
+	- [[Tash The Hound]] - if he survives
+	- [[Marcus]]
+	- [[Arbiter Rissa Vale]]
+- [[05 Kharbranth Infiltration Arc]]
+	- [[Varo Three-Knives]] - if he survives
 # Upcoming Events
 
 <!-- QueryToSerialize: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->

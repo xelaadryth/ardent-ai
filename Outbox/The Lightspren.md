@@ -1,0 +1,1 @@
+Make a Spren page for Timbre, using mostly info canonical from the books, with the small addition that she offered to bind with Dahmian to try to give humans a chance but realized she was being foolish.

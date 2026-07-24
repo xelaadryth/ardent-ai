@@ -19,12 +19,11 @@ A Malwish Iron Misting (Lurcher) and Lieutenant within the [[Bloodmarks]] who vi
 Johb possesses a joking and taunting demeanor, yet he is a philosopher at heart. He is driven by the belief that Stormlight and fabrials should be accessible to all, not just the Rosharan elite. He is particularly focused on acquiring [[Kuma]]'s Prized Fabrial, convinced he can unlock its true potential.
 
 # Background
-Johb's powers are the result of a horrific [[Ghostbloods]] experiment. As a teenager, his mother facilitated a deal where he was spiked with an iron needle—charged with the power of a murdered Misting—inserted through a knife into his eye and lodged between his shoulder blades. Upon discovering the cost of his power, he severed ties with the Ghostbloods and joined the [[Bloodmarks]]. Over time, the Hemalurgic spike has begun to corrupt him with a subtle intent of Ruin.
+Johb's powers are the result of a horrific [[Ghostbloods]] experiment. As a teenager, his mother facilitated a deal where he was spiked with a steel needle—charged with the power of a murdered Misting. The unfortunate donor was stabbed through the eye into his brain with the needle on the end of a knife, and the bloody steel needle was lodged between his shoulder blades. Upon discovering the cost of his power, he severed ties with his family and the Ghostbloods, and joined the [[Bloodmarks]]. Over time, the Hemalurgic spike has begun to corrupt him with a subtle intent of Ruin, making him more and more ruthless with his idealism and unknowingly falling in the footsteps of his parents. "I'm doing it for the good of everyone, my parents were selfish and hoarded the power."
 
 # Goals
 - Secure funding and a strategic foothold for the [[Bloodmarks]] on Roshar.
 - Acquire and master [[Kuma]]'s specialized fabrials.
-- Remotely trigger fabrials during combat to surprise enemies.
 
 # Connections
 - [[Kuma]]: Target of his technical interest.

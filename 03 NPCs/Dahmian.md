@@ -23,7 +23,7 @@ Standing at 6'0" with olive skin, Dahmian has deep dark brown eyes and thick bla
 Dahmian is a wandering soul who views the world through a lens of flavor and freedom. He is a mercenary foodie who is charming but perpetually detached, driven by a deep-seated fear of being trapped. He avoids long-term commitments, viewing them as "golden handcuffs" that restrict his choices. He believes people should be good because it is right, not because of supernatural oaths.
 
 # Background
-Dahmian’s childhood was defined by starvation, a trauma that manifested as an adult obsession with tasting every kind of food Roshar has to offer. In the past, he was approached by a Lightspren named Timbre for a bond, but he rejected the spren and the Oaths to maintain his personal autonomy.
+Dahmian’s childhood was defined by starvation, a trauma that manifested as an adult obsession with tasting every kind of food Roshar has to offer. In the past, he was approached by a Lightspren named [[Timbre]] for a bond, but he rejected the spren and the Oaths to maintain his personal autonomy.
 
 He arrived at the [[Truthkeeper Camp]] in a wagon alongside [[Karani]] and [[Fina]]. While the party remembers him from Nuria, their impressions are varied:
 - [[Fina]] recalls him as a stunt actor for the castle.
