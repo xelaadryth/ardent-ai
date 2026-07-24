@@ -14,7 +14,7 @@ location: "[[Revolar]]"
 A skilled Alethi fighter who wields a halberd. While he presents himself as noble and brave, he is a coward at heart who avoids any conflict that poses a genuine threat to his safety.
 
 # Appearance
-Nathaniel is the image of a perfect Alethi officer: tall, square-jawed, and impeccably groomed. He wears a lacquered blue breastplate over fine silks that are always perfectly pressed. He sports a well-maintained, curled mustache that he frequently strokes when nervous. His cape is slightly too long, designed to billow impressively when he walks, but it often catches on his heels when he tries to turn or retreat quickly. A distinctive sun-shaped birthmark is visible on his right forearm.
+Nathaniel is the image of a perfect Alethi officer: pale green eyes, tall, square-jawed, and impeccably groomed. He wears a lacquered blue breastplate over fine silks that are always perfectly pressed. He sports a well-maintained, curled mustache that he frequently strokes when nervous. His cape is slightly too long, designed to billow impressively when he walks, but it often catches on his heels when he tries to turn or retreat quickly. A distinctive sun-shaped birthmark is visible on his right forearm.
 
 # Personality
 Nathaniel suffers from low self-esteem and views himself as fundamentally incapable, which he uses to justify fleeing from danger. He is a master of the "long game," convincing himself that staying alive to protect others "another day" is more virtuous than standing his ground. He typically targets the weak and untrained, retreating the moment a situation becomes unpredictable.
