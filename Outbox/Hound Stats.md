@@ -1,0 +1,1 @@
+Generate a Statblock document for Tash The Hound so that it is similar in power level to the "Peton Stats" statblock, but more thematically aligned with The Hound and reflecting his description on his NPC page. You can make up unique abilities not found in the Cosmere RPG heroic paths to make the encounter more interesting.

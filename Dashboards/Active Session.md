@@ -7,6 +7,7 @@
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
+- 
 # TODO
 - 240 marks -> 40 marks each -> 3 spanreeds
 # Upcoming
