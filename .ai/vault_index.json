@@ -991,7 +991,7 @@
         "#bloodmarks",
         "#hemalurgy"
       ],
-      "last_updated": "2024-06-25T14:00:00"
+      "last_updated": "2024-06-26T10:00:00"
     },
     "Jory Spadis": {
       "type": "npc",
@@ -1041,8 +1041,7 @@
         "[[Shadesmar]]",
         "[[Ghostbloods]]",
         "[[Hero of Ages]]",
-        "[[Thaidakar]]",
-        "[[Shardblade]]"
+        "[[Thaidakar]]"
       ],
       "tags": [
         "#npc",
@@ -1051,7 +1050,7 @@
         "#mistborn",
         "#bloodmarks"
       ],
-      "last_updated": "2024-06-25T14:00:00"
+      "last_updated": "2024-06-26T10:00:00"
     },
     "Karani": {
       "type": "npc",
@@ -1217,7 +1216,6 @@
       "status": "active",
       "links": [
         "[[Revolar]]",
-        "[[Shardblade]]",
         "[[Bloodmarks]]",
         "[[Saving Jory at the Abandoned Docks]]",
         "[[Jory Spadis]]"
@@ -1227,7 +1225,7 @@
         "#veden",
         "#bounty_hunter"
       ],
-      "last_updated": "2024-06-25T14:00:00"
+      "last_updated": "2024-06-26T10:00:00"
     },
     "Meki-son-Vara": {
       "type": "npc",
@@ -1295,7 +1293,7 @@
         "#alethi",
         "#warrior"
       ],
-      "last_updated": "2024-06-25T14:00:00"
+      "last_updated": "2024-06-26T10:00:00"
     },
     "Neval": {
       "type": "npc",

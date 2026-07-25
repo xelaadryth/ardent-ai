@@ -5,7 +5,7 @@ tags:
   - "#npc"
   - "#bloodmarks"
   - "#pursuit_specialist"
-last_updated: 2026-06-17T12:00:00
+last_updated: 2026-06-27T10:00:00
 faction: "[[Bloodmarks]]"
 location: "[[Revolar]]"
 ---
@@ -18,6 +18,12 @@ Tash is dangerously lean, with a frame built for endurance rather than brute for
 # Personality
 Quiet and relentlessly professional. He speaks rarely, preferring to let the hunt do the talking. He treats his targets as prey to be studied and savored, viewing a difficult catch as the ultimate reward.
 
+# Statblock
+```statblock
+layout: Cosmere
+monster: Tash The Hound
+```
+
 # Goals
 - Pursue and capture targets for the [[Bloodmarks]].
 - Hone his craft as a hunter and tracker.
@@ -25,6 +31,7 @@ Quiet and relentlessly professional. He speaks rarely, preferring to let the hun
 # Connections
 - [[Arbiter Rissa Vale]]: His commander.
 - [[Varo Three-Knives]]: A frequent partner who provides the logistics for Tash's pursuits, forming a "business-professional" relationship built on mutual utility.
+- [[Tash The Hound Stats]]: Combat profile.
 
 # Quotes
 > "Run."
