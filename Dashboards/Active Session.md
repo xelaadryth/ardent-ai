@@ -9,9 +9,12 @@
 	- 
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
-- Scuttling around on rooftops
-- "Varo Three Knives"
-- The "stealing Jory"? What was that plan name again?
+- Shame that Senny, Neval, Cazo, and Hine were captured, no?
+- Would would be awful to find a hole in your ship, wouldn't you say?
+- Checking out the ships, thinking the Deepen Light is associated with the Bloodmarks
+- Running on the rooftops
+- Fake Jory is a good plan
+
 # TODO
 - 240 marks -> 40 marks each -> 3 spanreeds, Fina needs to pay
 # Upcoming
