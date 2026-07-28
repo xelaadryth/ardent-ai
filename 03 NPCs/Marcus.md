@@ -23,7 +23,7 @@ Deeply pessimistic and nihilistic. Marcus has given up on his own values and vie
 He speaks in a low, gravelly rasp, rarely using more than five or six words at a time. He has a habit of sighing heavily before answering a question and often speaks as if he is already addressing a ghost.
 
 # Background
-Once a man who hunted for the thrill and the challenge of facing famous warriors, Marcus has aged into a man who sees killing as the only thing he is good for. He is unaffiliated with any group, but he has been drawn back into the trade by the significant bounty placed on the party by the [[Bloodmarks]] following the events of [[Saving Jory at the Abandoned Docks]].
+Once a man who hunted for the thrill and the challenge of facing famous warriors, Marcus has aged into a man who sees killing as the only thing he is good for. He is unaffiliated with any group, but he has been drawn back into the trade by the significant bounty placed on the party by the [[Bloodmarks]] following the events of [[Saving Jory]]. He donates his money to the Vorin church, thinking since his judgment is flawed at least his donations will help others better equipped to decide, not knowing that the church is donates to is corrupt and funnels the money into the Bloodmarks.
 
 # Goals
 - Collect the bounty on the party.

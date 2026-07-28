@@ -22,7 +22,7 @@ An eternal optimist who relies heavily on his self-proclaimed "legendary luck." 
 # Background
 Zabriel was a small-time merchant in the [[Slipmarket]] who fell into ruinous debt with the [[Bloodmarks]]. He was first encountered attempting to sell a high-output [[Nurian Gems]] specimen before being abducted by [[Arbiter Jalis]]. He was narrowly rescued from a crem-vat by [[N'tal]] during [[The Foundry Chase]], an act that defined N'tal's path as a Radiant.
 
-Shortly after, he was recaptured and held at the [[Saving Jory at the Abandoned Docks|Abandoned Docks]] to be sold as a slave. Rescued once again during the party's defection, he followed the squad to the [[Darkstone Forest]]. During the desperate evacuation of the [[Knights of Dusk]] base, he stowed away on the party's escape boat. His hidden supply of [[Nurian Gems]] proved vital when [[Kuma]] needed a power source to shift the party into the Cognitive Realm.
+Shortly after, he was recaptured and held at the [[Saving Jory|Abandoned Docks]] to be sold as a slave. Rescued once again during the party's defection, he followed the squad to the [[Darkstone Forest]]. During the desperate evacuation of the [[Knights of Dusk]] base, he stowed away on the party's escape boat. His hidden supply of [[Nurian Gems]] proved vital when [[Kuma]] needed a power source to shift the party into the Cognitive Realm.
 
 # Goals
 - **Debt Repayment:** Repay [[N'tal]] and the party for saving his life (repeatedly).

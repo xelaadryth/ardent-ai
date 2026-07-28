@@ -26,7 +26,7 @@ The [[Truthkeepers]] have been deployed to [[Revolar]] to protect the interests 
 - [[The Foundry Chase]]
 - [[016 Surgebinding Pursuit]]
 - [[Dahmian's Promotion Trial]]
-- [[Saving Jory at the Abandoned Docks]]
+- [[Saving Jory]]
 - [[The Fieldwards Purge]]
 
 # Sessions

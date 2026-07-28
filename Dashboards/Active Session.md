@@ -12,7 +12,7 @@
 - 240 marks -> 40 marks each -> 3 spanreeds
 # Upcoming
 
-- [[Saving Jory at the Abandoned Docks]]
+- [[Saving Jory]]
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
 	- [[Tash The Hound]]
@@ -53,10 +53,10 @@
 <!-- QueryToSerialize: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
 <!-- SerializedQuery: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
 
-| File                                                                                    | Date       |
-| --------------------------------------------------------------------------------------- | ---------- |
-| [[Saving Jory at the Abandoned Docks]] | 1172-02-22 |
-| [[The Darkstone Siege]]                               | 1172-02-32 |
+| File                                                      | Date       |
+| --------------------------------------------------------- | ---------- |
+| [[Saving Jory]]                 | 1172-02-22 |
+| [[The Darkstone Siege]] | 1172-02-32 |
 
 
 <!-- SerializedQuery END -->

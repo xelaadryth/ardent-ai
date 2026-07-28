@@ -19,9 +19,11 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 # Events
 
 - **The Intel:** The party learned from [[Varo Three-Knives]] that the interrogation time has been moved up to "shortly," necessitating an immediate strike without Knights of Dusk backup
-- **The Passphrase**: The Bloodmarks on the scene use two different passphrase.
+- **The Passphrase**: The Bloodmarks on the scene use two different passphrases.
 	- What ruins mar the graves? Only rust in crimson shades.
-	- How many marks to pass? 8, 16, or using the word "blood" like "only Bloodmarks pass."
+	- How many marks to pass? 16, or using the word "blood" like "only Bloodmarks pass."
+	- Wrong passphrase, they get taken into a dungeon underneath the warehouse and locked in.
+- [[Nathaniel]] from the [[Knights of Dusk]] is the only operative nearby at the time, but [[Khria]] says not to rely on him.
 - **The Location**: Depending on their answer to the passphrase, they get separated from any Knights of Dusk or other allies, and brought to an old warehouse. "Rows of what used to be orderly shelves lie in disarray, crates strewn or piled haphazardly and kicked to the side of the rough stone floor. Makeshift stone shelves line the walls and are filled with an assortment of garbage and baubles."
 - **The Boy and the Broker:** The Truthkeepers plan to go there to interrogate Jory for being a suspected [[Possessed]] and member of the [[Knights of Dusk]]. When they discover that he's the son of [[General Spade]], he becomes an important bargaining chip in the covert war, and they plan to take him to the [[Vamah Archivum]]. However the [[Vamah Princedom]] also wants to claim him, and the red armband guards that would help escort the [[Truthkeepers]] 
 - **Peton Is There**: The party arrives as [[Adjudicator Peton]] is questioning [[Jory Spadis]], who is trying to be brave. He threatens violence, drawing a knife but seemingly no longer carrying his sidesword. If the party attacks, the [[Bloodmarks]] defend him, as do his [[Truthkeepers]] Enforcers.
@@ -40,7 +42,9 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 
 During this time, his archers are getting into position and stringing bows. He gives the order to fire, and a devastating wave of arrows tears through the party. More archer reinforcements arrive every turn. Painspren crawl out of the ground, fearspren grip Jory.
 
-- **Knights of Dusk Reinforcements:** Now completely surrounded, the party is in dire straits. At the darkest moment, arrows streak from the night with ribbons of windspren curling behind them. [[Beric Quinn]] and a small contingent of Knights of Dusk skirmishers, including [[Kaz]], emerge and cut a path out of the encirclement on the far side of [[Ojog]]. Beric laughs breathlessly as he lands, faint glowing wisps fading from him.
+> "We pledged on oath. Giving up because it got difficult is weakness; there are larger forces at work that you don't understand. What we're doing will prevent greater Desolation. It's not too late to come back to our side."
+
+- **Knights of Dusk Reinforcements:** Now completely surrounded, the party is in dire straits. At the darkest moment, arrows streak from the night with ribbons of windspren curling behind them. [[Beric Quinn]] and a small contingent of Knights of Dusk skirmishers, including [[Kaz]], emerge and cut a path out of the encirclement on the far side of [[Ojog]]. [[Dahmian]] may also be present depending on whether his aid was requested. Beric laughs breathlessly as he lands, faint glowing wisps fading from him.
     
 > “You didn’t think we’d let you have all the fun, did you?”
 
@@ -81,12 +85,9 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 # Statblocks
 ```statblock
 layout: Cosmere
-monster: Senny
+monster: Tash The Hound
 ```
-```statblock
-layout: Cosmere
-monster: Neval
-```
+
 ```statblock
 layout: Cosmere
 monster: Ojog
