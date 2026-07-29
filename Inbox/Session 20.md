@@ -1,0 +1,1 @@
+Session 20 has been documented. This marks a pivotal moment in the campaign: Galeth-son-Thald has spoken the First Ideal, the party's defection is now public knowledge to Ojog and the Truthkeepers, and a major rivalry with Tash The Hound has been established. The update includes modifications to NPC and Player files to reflect injuries, trophies, and shifting alliances.

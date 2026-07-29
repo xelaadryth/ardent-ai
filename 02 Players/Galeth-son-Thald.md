@@ -8,49 +8,34 @@ tags:
   - "#exiled"
   - "#stoneward"
   - "#darkeyed"
-last_updated: 2024-06-05T00:00:00
+last_updated: 2024-06-28T12:00:00
 player: Corin
 spren: "[[Kun'ahu]]"
 ---
-
 # Description
-Exiled Shin warrior living in penance among the Alethi, slowly becoming a Stoneward.
+Exiled Shin warrior living in penance among the Alethi, now a fledgling Stoneward.
 
 # Appearance
-Traditional Shin in appearance, though his posture lacks the expected lightness and serenity of his people. He currently bears a serious leg injury from his duel at Kesh's Gorge.
+Traditional Shin in appearance. His clothing is often rugged and reinforced by his surges. During [[Saving Jory]], [[Tash The Hound]] tore a significant chunk from his tunic as a trophy.
 
 # Personality
-A grim fatalist who views his life as punishment. Soft-spoken and reserved, he lacks the traditional Shin politeness because he believes his voice has no right to be heard.
+A grim fatalist who has finally found a cause worth speaking the Words for. While still soft-spoken, his commitment to protecting the weak has superseded his desire for self-punishment.
 
 # Background
-Once a leader in Shinovar, Galeth fled after a soldier under his command, [[Meki-son-Vara]], killed an innocent girl. Convinced he is a monster for his failure to restrain his men, he chose to live among the Alethi as a "Stonewalker," embracing the violence he believes reflects his own soul. He remembers [[Szeth-son-son-Vallano]] from his time as a young soldier in Shinovar; back then, Szeth was simply the quiet son of the shepherd [[Neturo]]. He recently survived a brutal duel against [[The Axelsmith]] at Kesh's Gorge.
+In session [[020 Saving Jory]], while defending [[Jory Spadis]] from [[Adjudicator Peton]], Galeth spoke the First Ideal of the [[Orders of the Knights Radiant|Stonewards]]. This moment was triggered by his memories of the child he failed to save in Shinovar, choosing to stand firm in this new world.
 
 # First Ideal
+> Life before death. I won't let my life be defined by the child who died under my watch. I will define myself by the lives I continue to help saving. Spoken during the rescue of [[Jory Spadis]].
 
-> Life before death.
+> Strength before weakness. Your party believes in your strength, your reliability. Only you are trying to believe in your weakness. Giving up is the easy way out for the weak; the truly strong go on living no matter how hard it gets.
 
-I won't let my life be defined by the child who died under my watch. I will define myself by the lives I continue to help saving.
-
-> Strength before weakness.
-
-Your party believes in your strength, your reliability. Only you are trying to believe in your weakness. Giving up is the easy way out for the weak; the truly strong go on living no matter how hard it gets.
-
-> Journey before destination.
-
-Perhaps you left Shinovar just to "die a good death" as a Stonewalker in penance, but that wouldn't be real penance. Living for the sake of others is a never-ending journey, not to viewed as a conclusion.
+> Journey before destination. Living for the sake of others is a never-ending journey, not to be viewed as a conclusion.
 
 # Goals
-- Perform enough dangerous and selfless acts to atone for his failures.
-- Resolve the haunting memories of his military command in Shinovar.
-- Learn from other weapon masters/fighters in Revolar.
-
-# Hooks
-- **[[The Burden of the Commander]]**: [[Meki-son-Vara]] has resurfaced in Jah Keved, working as a mercenary for the [[Bloodmarks]].
-- **[[The Stone's Judgment]]**: [[Tezsh-son-Rillan]], the father of the girl killed in Shinovar, is tracking Galeth to force him back to the stone-fields for ritual judgment.
+- Atone for his failures through the path of the Stoneward.
+- Protect the party from the pursuit of [[Tash The Hound]].
 
 # Connections
-- [[Kun'ahu]] — His jovial and dependable Peakspren.
-- [[Szeth-son-son-Vallano]] — A childhood acquaintance from Shinovar, the shepherd [[Neturo]]'s son.
-- [[The Axelsmith]] — His former adversary in a duel.
-- [[Meki-son-Vara]] — The soldier whose crimes led to Galeth's exile.
-- [[Tezsh-son-Rillan]] — A figure from his past seeking restitution.
+- [[Kun'ahu]] — His Peakspren.
+- [[Tash The Hound]] — A persistent hunter now obsessed with him.
+- [[Adjudicator Peton]] — A former commander he stood against in single combat.

@@ -6,29 +6,15 @@ tags:
   - "#possessed"
   - "#knights_of_dusk"
   - "#radiant"
-  - "#missing"
-last_updated: 2026-06-05T12:00:00
-faction:
+last_updated: 2024-06-28T12:00:00
+faction: "[[Knights of Dusk]]"
 location: "[[Revolar]]"
 ---
-
 # Description
-A teenage boy secretly working for the [[Knights of Dusk]] and the son of [[General Spade]] who has recently begun hearing the whispers of a spren. He is currently missing.
+The teenage son of [[General Spade]] who has been successfully rescued from [[Truthkeepers]] custody.
 
-# Appearance
-Around 15, with messy brown hair and bright green eyes.
-
-# Personality
-Usually happy and likes helping others. Brave and willing to take risks.
-
-# Background
-Son of [[General Spade]], captured by [[Bloodmarks]] and intended for the [[Truthkeepers]]. He was supposedly being moved during [[016 Surgebinding Pursuit]], but the prisoner rescued was actually [[Zabriel]]. He went missing following the fire in [[The Cinder Evacuation]].
-
-# Goals
-- Protect others.
-- Understand the voices in his head.
+# History
+Captured by [[Bloodmarks]] and nearly maimed by [[Adjudicator Peton]] in a [[Slipmarket]] warehouse. He was rescued by the party during [[020 Saving Jory]]. Following the event, he remains traumatized but safe under the protection of the insurgency.
 
 # Connections
-- [[Knights of Dusk]]: His organization.
-- [[Arbiter Jalis]]: His former captor.
-- [[General Spade]]: His father.
+- [[Mallow]]: Rescued him from his chains and led him to safety.
