@@ -1,0 +1,20 @@
+Write a session document for session 20. This is what happened:
+- The party formulated a plan to keep a lookout for Peton as he enters the Bloodmarks territory, disguise themselves with Lightweaving, and follow him
+- During this time, Renna wrote to the Knights of Dusk, and they said the only agent available in the area was Nathaniel, and not to count on him
+- He shows up and half the party goes up on the rooftops to shadow Peton, while the others follow farther behind on foot
+- N'tal listens as Peton and his 3 Truthkeepers encounter a small Bloodmarks checkpoint of 3 people, and hears the codephrase: "What ruins mar the graves? Only rust in crimson shades."
+- Peton and his group are directed to a warehouse, and the players on the roof also notice archers on the rooftops standing guard, barely avoiding being seen
+- While they're discussing their plans, a group of Bloodmarks walks by and exchanges a different codephrase: "How many marks to pass? 16 Bloodmarks pass"
+- Iiko uses lightweaving to disguise themself as Varo Three Knives and gives the codephrase to pass. The checkpoint believes him, but does NOT like Varo Three Knives, telling Iiko to stay away from the warehouse and stay away from Tash the Hound, and asks what their business is here
+- N'tal saves the situation by saying that they're here to see Rissa Vale, and the Bloodmark at the checkpoint paled at the name and lets the party through
+- The party gets to the warehouse and after passing the two guards at the door, Iiko drops the Varo Three Knives disguise. They see Peton, three Truthkeepers, and Tash the Hound towards the center of the warehouse standing over someone chained, and the party moves closer. Iiko preps some illusions and flashes of light, and when Peton pulls out a shardblade to start severing Jory's fingers, the party charges forward and attacks
+- Galeth-son-Thald, seeing another child put in danger, remembers when he failed to save the Shin child long ago, and speaks the First Ideal of the Stonewards
+- Tash the Hound targets him, breaking off a chunk of his stone-hard Tension-infused clothing and gripping it firmly
+- Galeth-son-Thald gets hit by both Peton and Tash the Hound multiple times but holds firm, dipping low in health but Fina kept him healthy
+- Nathaniel fought off the guards at the door, chasing the survivor out of the warehouse
+- Mallow sunk two of the Truthkeepers feet into the stone
+- N'tal made Jory frictionless and slid him to safety while dropping one of Iiko's flashes of light to distract, and dashed away
+- Fina poisoned her arrow and shot at Peton
+- Truthkeeper and Bloodmark reinforcements start to arrive, led by Ojog, who accuses the party of betraying the Truthkeepers, and Fina accuses Ojog of betraying Nuria
+- N'tal uses Division to open up a hole on one side of the warehouse, while Mallow uses the distraction of Galeth severely wounding Peton to go to the hidden Jory, speaking the words to bring Jory to freedom
+- Once outside, the party is still not safe; the party is pursued by the Bloodmarks, especially Tash the Hound's determination to chase down Galeth-son-Thald, and next session will start with the chase

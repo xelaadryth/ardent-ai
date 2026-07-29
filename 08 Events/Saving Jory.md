@@ -21,7 +21,7 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 - **The Intel:** The party learned from [[Varo Three-Knives]] that the interrogation time has been moved up to "shortly," necessitating an immediate strike without Knights of Dusk backup
 - **The Passphrase**: The Bloodmarks on the scene use two different passphrases.
 	- What ruins mar the graves? Only rust in crimson shades.
-	- How many marks to pass? 16, or using the word "blood" like "only Bloodmarks pass."
+	- How many marks to pass? 16 Bloodmarks pass
 	- Wrong passphrase, they get taken into a dungeon underneath the warehouse and locked in.
 - [[Nathaniel]] from the [[Knights of Dusk]] is the only operative nearby at the time, but [[Khria]] says not to rely on him.
 - **The Location**: Depending on their answer to the passphrase, they get separated from any Knights of Dusk or other allies, and brought to an old warehouse. "Rows of what used to be orderly shelves lie in disarray, crates strewn or piled haphazardly and kicked to the side of the rough stone floor. Makeshift stone shelves line the walls and are filled with an assortment of garbage and baubles."
