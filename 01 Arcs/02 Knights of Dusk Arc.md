@@ -20,4 +20,4 @@ The squad's transition from state-sanctioned Enforcers to rebel insurgents in th
 - [[017 The Final Enforcement]]
 - [[018 Finding the Traitor]]
 - [[019 The Slipmarket Stakeout]]
-- [[020 Saving Jory]]
+- [[020 Warehouse Rescue]]

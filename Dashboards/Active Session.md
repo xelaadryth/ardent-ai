@@ -1,15 +1,18 @@
 - Current Arc: [[02 Knights of Dusk Arc]]
-- Last Session: [[019 The Slipmarket Stakeout]]
+- Last Session: [[020 Warehouse Rescue]]
 # Reminders
 - "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
 - Emotionspren, naturespren
 - Parshmen in the streets
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
+	- 
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
-- 
+- Scuttling around on rooftops
+- "Varo Three Knives"
+- The "stealing Jory"? What was that plan name again?
 # TODO
-- 240 marks -> 40 marks each -> 3 spanreeds
+- 240 marks -> 40 marks each -> 3 spanreeds, Fina needs to pay
 # Upcoming
 
 - [[Saving Jory]]
@@ -55,7 +58,6 @@
 
 | File                                                      | Date       |
 | --------------------------------------------------------- | ---------- |
-| [[Saving Jory]]                 | 1172-02-22 |
 | [[The Darkstone Siege]] | 1172-02-32 |
 
 

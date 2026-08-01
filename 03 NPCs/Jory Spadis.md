@@ -14,7 +14,7 @@ location: "[[Revolar]]"
 The teenage son of [[General Spade]] who has been successfully rescued from [[Truthkeepers]] custody.
 
 # History
-Captured by [[Bloodmarks]] and nearly maimed by [[Adjudicator Peton]] in a [[Slipmarket]] warehouse. He was rescued by the party during [[020 Saving Jory]]. Following the event, he remains traumatized but safe under the protection of the insurgency.
+Captured by [[Bloodmarks]] and nearly maimed by [[Adjudicator Peton]] in a [[Slipmarket]] warehouse. He was rescued by the party during [[020 Warehouse Rescue]]. Following the event, he remains traumatized but safe under the protection of the insurgency.
 
 # Connections
 - [[Mallow]]: Rescued him from his chains and led him to safety.

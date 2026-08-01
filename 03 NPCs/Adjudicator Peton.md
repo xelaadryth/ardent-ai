@@ -15,7 +15,7 @@ location: "[[Revolar]]"
 A high-ranking Truthkeeper official who was severely wounded during the rescue of [[Jory Spadis]].
 
 # Background
-In [[020 Saving Jory]], Peton attempted to execute the "Possessed" Jory Spadis to force information from the insurgency. He was engaged in combat by [[Galeth-son-Thald]] and wounded by a poisoned arrow from [[Fina]]. The betrayal of his unit has hardened his resolve to eliminate the party.
+In [[020 Warehouse Rescue]], Peton attempted to execute the "Possessed" Jory Spadis to force information from the insurgency. He was engaged in combat by [[Galeth-son-Thald]] and wounded by a poisoned arrow from [[Fina]]. The betrayal of his unit has hardened his resolve to eliminate the party.
 
 # Connections
 - [[Ojog]]: His loyal enforcer who rescued him from the warehouse.

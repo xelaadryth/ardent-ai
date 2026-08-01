@@ -1,1 +1,0 @@
-I have created the statblock for Tash The Hound, reflecting his status as a Tier 2 Rival enhanced by Hemalurgy. His abilities focus on single-minded pursuit (Scent of the Prey) and the thematic 'trophy hunting' mentioned in your description. I've also updated his main NPC document to include the statblock embed for easy reference during sessions.

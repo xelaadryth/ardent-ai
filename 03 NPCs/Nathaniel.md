@@ -13,7 +13,7 @@ location: "[[Revolar]]"
 A skilled Alethi fighter who wields a halberd. While often viewed as a coward, he demonstrated surprising utility during the raid on the [[Slipmarket]] warehouse.
 
 # Personality
-Nathaniel remains insecure and prone to hyperbole, but his actions in [[020 Saving Jory]]—where he held the entrance against reinforcements—suggest a burgeoning, if terrified, bravery.
+Nathaniel remains insecure and prone to hyperbole, but his actions in [[020 Warehouse Rescue]]—where he held the entrance against reinforcements—suggest a burgeoning, if terrified, bravery.
 
 # History
 During [[Saving Jory]], he was the only rebel available to assist the squad. He successfully fought off door guards and pursued a survivor, allowing the party to focus on the primary confrontation inside.

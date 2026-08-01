@@ -23,6 +23,6 @@ The squad's defection from the [[Truthkeepers]] becomes absolute during a high-s
     - [[Mallow]] utilizes Cohesion to sink [[Truthkeepers]] into the stone floor.
     - [[N'tal]] uses Abrasion to slide [[Jory Spadis]] to safety and Division to create an escape route through the warehouse wall.
     - [[Fina]] manages the party's health while tagging [[Adjudicator Peton]] with a poisoned arrow.
-    - [[Nathaniel]] unexpectedly holds the door against external guards.
+    - [[Nathaniel]] unexpectedly holds the door against a pair of guards.
 - **The Betrayal:** [[Ojog]] arrives with reinforcements, leading to a bitter exchange of accusations regarding loyalty and the fate of [[Nuria]].
-- **Escape:** The party flees into the night, pursued relentlessly by [[Tash The Hound]].
+- **Escape:** The party prepares to flee, knowing pursuit is imminent from [[Tash The Hound]].

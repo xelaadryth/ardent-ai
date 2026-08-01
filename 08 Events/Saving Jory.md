@@ -9,7 +9,7 @@ tags:
 last_updated: 2024-06-28T12:00:00
 fc-category: Party
 fc-date: 1172-02-22
-session: "[[020 Saving Jory]]"
+session: "[[020 Warehouse Rescue]]"
 ---
 # Description
 The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Knights of Dusk]] in a desperate rescue at an abandoned warehouse in the western [[Slipmarket]].
