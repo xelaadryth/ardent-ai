@@ -2,7 +2,8 @@
 - Last Session: [[020 Warehouse Rescue]]
 # Reminders
 - "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
-- Emotionspren, naturespren
+- Emotionspren, naturespren, cousinspren
+	- Flamespren, Lifespren, Concetrationspren, Logicspren, Joyspren, Bindspren
 - Parshmen in the streets
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 	- 
