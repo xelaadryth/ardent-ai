@@ -10,6 +10,7 @@
 	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
 	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help[]()
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
+	- *The Children of Honor cannot silence the song. The everlasting storm cannot be stopped. The end is coming.
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
 - Shame that Senny, Neval, Cazo, and Hine were captured, no?
@@ -17,23 +18,14 @@
 - Checking out the ships, thinking the Deepen Light is associated with the Bloodmarks
 - Running on the rooftops
 - Fake Jory is a good plan
+- Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
 # Upcoming
 
-- [[Sweeper]] helps direct the party (under hidden direction from [[Hoid]])
+- [[Chip]] and [[Sweeper]] help direct the party (under hidden direction from [[Hoid]])
 - [[Vorn]] and [[Kuma]] are on the Deepen Light
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
 	- [[Tash The Hound]]
-- Allies
-	- [[Nathaniel]]
-	- [[Beric Quinn]]
-	- [[Kaz]]
-	- [[Khria]]
-## Other
-- Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
-	- [[Senny]] mentions offhand that the red armband Vamah guards work for [[Highlord Paladar]] directly, and they act as the middlemen between the Truthkeepers and the Bloodmarks.
-- [[Sun's Zenith]]
-	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
 - Knights of Dusk HQ - Big Plans
 	- Continued actions
 		- Attack supply lines, make it unprofitable to pay the military to sew dissent
@@ -42,6 +34,11 @@
 		- Bloodmark scandal - red armband Vamah guards talking to Bloodmarks (learned from Bellus in [[The Traitor Investigation]])
 		- Get proof from House Sathir that Paladar is making risky plays on Sadeas territory, and that Highlord Amaram is a dangerous enemy
 		- Raise public opinion of Paladar's son (Archisal)
+## Other
+- Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
+	- [[Senny]] mentions offhand that the red armband Vamah guards work for [[Highlord Paladar]] directly, and they act as the middlemen between the Truthkeepers and the Bloodmarks.
+- [[Sun's Zenith]]
+	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
 - [[03 Shadesmar Arc]] - Bloodmark Corsairs
 	- [[Johb]]
 	- [[Kaizen]] - final boss
