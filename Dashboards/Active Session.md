@@ -3,20 +3,16 @@
 # Reminders
 - "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
 - Emotionspren, naturespren, cousinspren
-	- Flamespren, Lifespren, Concetrationspren, Logicspren, Joyspren, Bindspren
+	- Flamespren (N'tal), Lifespren (Fina), Concetrationspren (Iiko thinking hard), Logicspren (Kuma making sense), Joyspren (Mallow), Bindspren (Galeth not budging)
 - Parshmen in the streets
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
-	- 
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
 - Shame that Senny, Neval, Cazo, and Hine were captured, no?
-- Would would be awful to find a hole in your ship, wouldn't you say?
+- Would be awful to find a hole in your ship, wouldn't you say?
 - Checking out the ships, thinking the Deepen Light is associated with the Bloodmarks
 - Running on the rooftops
 - Fake Jory is a good plan
-
-# TODO
-- 240 marks -> 40 marks each -> 3 spanreeds, Fina needs to pay
 # Upcoming
 
 - [[Saving Jory]]
