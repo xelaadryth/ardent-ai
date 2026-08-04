@@ -5,7 +5,7 @@ tags:
   - "#lore"
   - "#npc"
   - "#reference"
-last_updated: 2024-06-18T10:00:00
+last_updated: 2024-06-29T10:00:00
 ---
 
 # Overview
@@ -21,7 +21,6 @@ This document should be updated constantly as the central reference for minor no
 | **Hine**                    | Quiet lackey with twitching eyes. Follows any bully.                                          | [[000 Arrival]]                 | [[Truthkeeper Camp]]    |
 | **Ithal Rorin**             | Citylord of Salimset with pale tan eyes. Blunt and trusting.                                  | [[000 Arrival]]                 | [[Salimset]]            |
 | **Jola**                    | Plump darkeyes, stressed. Grudgingly grateful for help with Heala.                            | [[000 Arrival]]                 | [[Truthkeeper Camp]]    |
-| **Loid**                    | Angular face, white hair. Speaks in riddles. Mentor-like showman.                             | [[000 Arrival]]                 | Around                  |
 | **Luggan**                  | Hulking brute with a double-bladed war axe. Hates outsiders.                                  | [[000 Arrival]]                 | **Dead** (Strangled)    |
 | **Neval**                   | Consummate sycophant who attaches himself to rising stars like the party to secure rank.      | [[000 Arrival]]                 | [[Revolar]]             |
 | **Heala**                   | Firemoss addict, wide-eyed, rambles. Brother of Jola.                                         | [[001 First Blood]]             | [[Truthkeeper Camp]]    |

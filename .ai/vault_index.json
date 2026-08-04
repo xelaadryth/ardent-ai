@@ -156,51 +156,23 @@
       "type": "arc",
       "status": "active",
       "links": [
-        "[[Truthkeepers]]",
         "[[Revolar]]",
-        "[[Knights of Dusk]]",
-        "[[Silent Oath]]",
-        "[[High Enforcer Aylen]]",
-        "[[Istrum]]",
-        "[[Ojog]]",
-        "[[Dahmian]]",
-        "[[General Spade]]",
-        "[[Khria]]",
-        "[[Beric Quinn]]",
-        "[[Kaz]]",
-        "[[Ghostbloods]]",
-        "[[Undertaker]]",
-        "[[Sweeper]]",
-        "[[Chip]]",
-        "[[Bloodmarks]]",
-        "[[Arbiter Jalis]]",
-        "[[Grand Justicar Malice]]",
-        "[[Varo Three-Knives]]",
-        "[[Arbiter Rissa Vale]]",
-        "[[The Stackhouse Slavers]]",
-        "[[Meeting at the Whitespine]]",
-        "[[Meeting with the Undertaker]]",
-        "[[The Missing Supplies]]",
-        "[[The Boutique Confrontation]]",
-        "[[The Foundry Chase]]",
-        "[[016 Surgebinding Pursuit]]",
-        "[[Dahmian's Promotion Trial]]",
-        "[[Saving Jory]]",
-        "[[The Fieldwards Purge]]",
         "[[012 Following Chip]]",
         "[[013 Tilting Loyalties]]",
         "[[014 Nothing but the Truth]]",
         "[[015 Distractions and Flames]]",
+        "[[016 Surgebinding Pursuit]]",
         "[[017 The Final Enforcement]]",
         "[[018 Finding the Traitor]]",
-        "[[019 The Slipmarket Stakeout]]"
+        "[[019 The Slipmarket Stakeout]]",
+        "[[020 Warehouse Rescue]]"
       ],
       "tags": [
         "#arc",
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2024-06-18T10:00:00"
+      "last_updated": "2024-06-28T12:00:00"
     },
     "03 Shadesmar Arc": {
       "type": "arc",
@@ -314,14 +286,12 @@
       "status": "active",
       "links": [
         "[[Kun'ahu]]",
-        "[[Meki-son-Vara]]",
-        "[[Szeth-son-son-Vallano]]",
-        "[[Neturo]]",
-        "[[The Axelsmith]]",
-        "[[The Burden of the Commander]]",
-        "[[Bloodmarks]]",
-        "[[The Stone's Judgment]]",
-        "[[Tezsh-son-Rillan]]"
+        "[[Saving Jory]]",
+        "[[Tash The Hound]]",
+        "[[020 Warehouse Rescue]]",
+        "[[Jory Spadis]]",
+        "[[Adjudicator Peton]]",
+        "[[Orders of the Knights Radiant|Stonewards]]"
       ],
       "tags": [
         "#player",
@@ -331,7 +301,7 @@
         "#stoneward",
         "#darkeyed"
       ],
-      "last_updated": "2024-06-05T00:00:00"
+      "last_updated": "2024-06-28T12:00:00"
     },
     "Iiko": {
       "type": "player",
@@ -422,6 +392,10 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Revolar]]",
+        "[[Jory Spadis]]",
+        "[[020 Warehouse Rescue]]",
+        "[[Galeth-son-Thald]]",
+        "[[Fina]]",
         "[[Ojog]]"
       ],
       "tags": [
@@ -431,7 +405,7 @@
         "#adjudicator",
         "#traditionalist"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2024-06-28T12:00:00"
     },
     "Advisor Ridius": {
       "type": "npc",
@@ -997,24 +971,23 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Revolar]]",
         "[[Knights of Dusk]]",
+        "[[Revolar]]",
         "[[General Spade]]",
-        "[[Bloodmarks]]",
         "[[Truthkeepers]]",
-        "[[016 Surgebinding Pursuit]]",
-        "[[Zabriel]]",
-        "[[The Cinder Evacuation]]",
-        "[[Arbiter Jalis]]"
+        "[[Bloodmarks]]",
+        "[[Adjudicator Peton]]",
+        "[[Slipmarket]]",
+        "[[020 Warehouse Rescue]]",
+        "[[Mallow]]"
       ],
       "tags": [
         "#npc",
         "#possessed",
         "#knights_of_dusk",
-        "#radiant",
-        "#missing"
+        "#radiant"
       ],
-      "last_updated": "2026-06-05T12:00:00"
+      "last_updated": "2024-06-28T12:00:00"
     },
     "Kabsal": {
       "type": "npc",
@@ -1284,16 +1257,20 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Knights of Dusk]]",
         "[[Revolar]]",
+        "[[Slipmarket]]",
+        "[[020 Warehouse Rescue]]",
+        "[[Saving Jory]]",
         "[[Galeth-son-Thald]]",
-        "[[The Axelsmith]]"
+        "[[Renna Palir]]"
       ],
       "tags": [
         "#npc",
         "#alethi",
         "#warrior"
       ],
-      "last_updated": "2024-06-26T10:00:00"
+      "last_updated": "2024-06-28T12:00:00"
     },
     "Neval": {
       "type": "npc",
@@ -1324,13 +1301,10 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Revolar]]",
+        "[[020 Warehouse Rescue]]",
         "[[Adjudicator Peton]]",
-        "[[Allegiance at the Abandoned Docks]]",
-        "[[The Darkstone Siege]]",
-        "[[Knights of Dusk]]",
-        "[[Istrum]]",
-        "[[N'tal]]",
-        "[[Kuma]]"
+        "[[Nuria]]",
+        "[[Fina]]"
       ],
       "tags": [
         "#npc",
@@ -1339,7 +1313,7 @@
         "#enforcer",
         "#assassin"
       ],
-      "last_updated": "2024-05-29T11:00:00"
+      "last_updated": "2024-06-28T12:00:00"
     },
     "Renna Palir": {
       "type": "npc",
@@ -1441,7 +1415,8 @@
         "[[Nurian Gems]]",
         "[[Bloodmarks]]",
         "[[Truthkeepers]]",
-        "[[N'tal]]"
+        "[[N'tal]]",
+        "[[Loid]]"
       ],
       "tags": [
         "#npc",
@@ -1490,17 +1465,15 @@
       "links": [
         "[[Bloodmarks]]",
         "[[Revolar]]",
-        "[[Truthkeepers]]",
-        "[[Arbiter Rissa Vale]]",
-        "[[Varo Three-Knives]]",
-        "[[Tash The Hound Stats]]"
+        "[[Galeth-son-Thald]]",
+        "[[020 Warehouse Rescue]]"
       ],
       "tags": [
         "#npc",
         "#bloodmarks",
         "#pursuit_specialist"
       ],
-      "last_updated": "2026-06-27T10:00:00"
+      "last_updated": "2024-06-28T12:00:00"
     },
     "Tezsh-son-Rillan": {
       "type": "npc",
@@ -2241,6 +2214,39 @@
         "#slipmarket"
       ],
       "last_updated": "2024-06-18T10:00:00"
+    },
+    "020 Warehouse Rescue": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Truthkeepers]]",
+        "[[Bloodmarks]]",
+        "[[Slipmarket]]",
+        "[[Jory Spadis]]",
+        "[[Adjudicator Peton]]",
+        "[[Tash The Hound]]",
+        "[[Renna Palir]]",
+        "[[Knights of Dusk]]",
+        "[[Nathaniel]]",
+        "[[Iiko]]",
+        "[[Varo Three-Knives]]",
+        "[[N'tal]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[Galeth-son-Thald]]",
+        "[[Orders of the Knights Radiant|Stonewards]]",
+        "[[Mallow]]",
+        "[[Fina]]",
+        "[[Ojog]]",
+        "[[Nuria]]"
+      ],
+      "tags": [
+        "#session",
+        "#combat",
+        "#rescue",
+        "#oath"
+      ],
+      "last_updated": "2024-06-28T12:00:00"
     },
     "Bloodmarks": {
       "type": "faction",
@@ -3097,8 +3103,9 @@
     },
     "Saving Jory": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
+        "[[020 Warehouse Rescue]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
         "[[Varo Three-Knives]]",
@@ -3135,7 +3142,7 @@
         "#combat",
         "#rescue"
       ],
-      "last_updated": "2024-06-18T10:00:00"
+      "last_updated": "2024-06-28T12:00:00"
     },
     "Sister Reunion": {
       "type": "event",
