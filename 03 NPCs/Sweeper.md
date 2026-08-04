@@ -17,7 +17,7 @@ A mysterious man often seen in a hooded coat. He is a local contact for the [[Gh
 Desperate to prove his worth, he often acts as a bridge for initiates. He possesses a dramatic flair and recently provided intelligence that the [[Undertaker]] values "trophies" from distant worlds.
 
 # Background
-He is currently based in [[Revolar]], monitoring the influx of [[Nurian Gems]] and investigating the movements of the [[Bloodmarks]] syndicate.
+He is currently based in [[Revolar]], monitoring the influx of [[Nurian Gems]] and investigating the movements of the [[Bloodmarks]] syndicate. Even more secretly, he works for Hoid.
 
 # Goals
 - **Infiltration:** Monitor [[Truthkeepers]] activity for [[Chip]].
@@ -27,3 +27,4 @@ He is currently based in [[Revolar]], monitoring the influx of [[Nurian Gems]] a
 - [[N'tal]]: The initiate he is currently vetting.
 - [[Chip]]: His direct superior.
 - [[Undertaker]]: The leader he serves.
+- [[Loid]]: His real boss
