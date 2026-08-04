@@ -1,1 +1,0 @@
-I have created a comprehensive NPC page for Hoid, detailing his mysterious nature and his relationship with Sweeper. I updated the Minor NPC registry to remove the 'Loid' entry and sanitized the existing session and event records to reflect his true name, correcting the Nurian pronunciation inconsistency. Connections have been updated across the board to ensure vault integrity.

@@ -5,6 +5,10 @@
 - Emotionspren, naturespren, cousinspren
 	- Flamespren (N'tal), Lifespren (Fina), Concetrationspren (Iiko thinking hard), Logicspren (Kuma making sense), Joyspren (Mallow), Bindspren (Galeth not budging)
 - Parshmen in the streets
+- Party in trouble
+	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
+	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
+	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help[]()
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
@@ -15,6 +19,7 @@
 - Fake Jory is a good plan
 # Upcoming
 
+- [[Sweeper]] helps direct the party (under hidden direction from [[Hoid]])
 - [[Vorn]] and [[Kuma]] are on the Deepen Light
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
@@ -37,10 +42,6 @@
 		- Bloodmark scandal - red armband Vamah guards talking to Bloodmarks (learned from Bellus in [[The Traitor Investigation]])
 		- Get proof from House Sathir that Paladar is making risky plays on Sadeas territory, and that Highlord Amaram is a dangerous enemy
 		- Raise public opinion of Paladar's son (Archisal)
-- Party in trouble
-	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
-	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
-	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
 - [[03 Shadesmar Arc]] - Bloodmark Corsairs
 	- [[Johb]]
 	- [[Kaizen]] - final boss
@@ -63,9 +64,27 @@
 
 <!-- SerializedQuery END -->
 
+<!-- SerializedQuery: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
+
+| File                                                      | Date       |
+| --------------------------------------------------------- | ---------- |
+| [[The Darkstone Siege]] | 1172-02-32 |
+
+
+<!-- SerializedQuery END -->
+
 # Hooks
 
 <!-- QueryToSerialize: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
+<!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
+
+| File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                         |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[The Highlord's Greed]] | Uncovering evidence that Highlord Paladar is protecting Bloodmark smuggling operations. | 5        | <ul><li>Discovering a hidden financial ledger in the Archivum.</li><li>Tailing Nomos to a secret meeting at The Bastion.</li><li>Noticing guards wearing unauthorized silk ribbons.</li></ul> |
+
+
+<!-- SerializedQuery END -->
+
 <!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
 
 | File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                         |
