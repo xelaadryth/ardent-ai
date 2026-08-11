@@ -29,9 +29,16 @@
 - [[Vorn]] and [[Kuma]] are on the Deepen Light
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
+<<<<<<< Updated upstream
 		- [[Gath]]
 		- [[Teks]]
 		- [[Miri]]
+=======
+	- Tash The Hound
+- [[Hoid]], [[Vorn]], and [[Kuma]] are on the Deepen Light
+- [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
+	- [[Varo Three-Knives]]
+>>>>>>> Stashed changes
 	- [[Tash The Hound]]
 - Allies
 	- [[Nathaniel]]
