@@ -1,0 +1,1 @@
+Session 21 has been recorded as '021 The Traitor's Mark'. I have updated the 'Deepen Light' to reflect N'tal's inspection of the gems, and updated the player documents for N'tal and Galeth to include their actions and the discovery of the second tracking disc. Jory Spadis's location has also been updated to the Darkstone Forest base.

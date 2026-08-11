@@ -695,6 +695,22 @@
       ],
       "last_updated": "2026-05-14T14:00:00"
     },
+    "Gath": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Deepen Light]]",
+        "[[Varo Three-Knives]]"
+      ],
+      "tags": [
+        "#npc",
+        "#veden",
+        "#smuggler",
+        "#first_mate"
+      ],
+      "last_updated": "2024-06-20T10:00:00"
+    },
     "General Odrin Lesh": {
       "type": "npc",
       "status": "active",
@@ -1254,6 +1270,26 @@
       ],
       "last_updated": "2026-05-13T23:45:00"
     },
+    "Miri": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Deepen Light]]",
+        "[[Truthkeepers]]",
+        "[[Thaylen City]]",
+        "[[Possessed]]",
+        "[[Varo Three-Knives]]",
+        "[[Kuma]]"
+      ],
+      "tags": [
+        "#npc",
+        "#thaylen",
+        "#lookout",
+        "#curious"
+      ],
+      "last_updated": "2024-06-20T10:00:00"
+    },
     "Morrow": {
       "type": "npc",
       "status": "completed",
@@ -1495,6 +1531,24 @@
       ],
       "last_updated": "2024-06-28T12:00:00"
     },
+    "Teks": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Deepen Light]]",
+        "[[Galeth-son-Thald]]",
+        "[[Truthkeepers]]",
+        "[[Varo Three-Knives]]"
+      ],
+      "tags": [
+        "#npc",
+        "#alethi",
+        "#darkeyed",
+        "#xenophobic"
+      ],
+      "last_updated": "2024-06-20T10:00:00"
+    },
     "Tezsh-son-Rillan": {
       "type": "npc",
       "status": "active",
@@ -1616,14 +1670,17 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Deepen Light]]",
         "[[Bloodmarks]]",
-        "[[Revolar]]",
         "[[Slipmarket]]",
         "[[Shadesmar]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
-        "[[019 The Slipmarket Stakeout]]",
         "[[Arbiter Rissa Vale]]",
+        "[[019 The Slipmarket Stakeout]]",
+        "[[Gath]]",
+        "[[Teks]]",
+        "[[Miri]]",
         "[[Tash The Hound]]",
         "[[Arbiter Jalis]]",
         "[[Grand Justicar Malice]]"
@@ -1634,7 +1691,7 @@
         "#smuggler",
         "#pirate"
       ],
-      "last_updated": "2024-06-18T10:00:00"
+      "last_updated": "2024-06-20T10:00:00"
     },
     "Vorn": {
       "type": "npc",
@@ -2213,11 +2270,13 @@
         "[[02 Knights of Dusk Arc]]",
         "[[Jory Spadis]]",
         "[[Slipmarket]]",
+        "[[Deepen Light]]",
         "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Dahmian]]",
         "[[Ardent Erna]]",
         "[[Harbormaster Ves]]",
         "[[Nurian Gems]]",
+        "[[Gath]]",
         "[[Litsen]]",
         "[[Mazie]]",
         "[[Bloodmarks]]",
@@ -2233,7 +2292,7 @@
         "#investigation",
         "#slipmarket"
       ],
-      "last_updated": "2024-06-18T10:00:00"
+      "last_updated": "2024-06-20T10:00:00"
     },
     "020 Warehouse Rescue": {
       "type": "session",
@@ -2543,6 +2602,29 @@
         "#revolar"
       ],
       "last_updated": "2026-05-15T12:00:00"
+    },
+    "Deepen Light": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Slipmarket]]",
+        "[[Revolar]]",
+        "[[Bodenar]]",
+        "[[Varo Three-Knives]]",
+        "[[Gath]]",
+        "[[Teks]]",
+        "[[Miri]]",
+        "[[Nurian Gems]]",
+        "[[Grand Justicar Malice]]",
+        "[[019 The Slipmarket Stakeout]]"
+      ],
+      "tags": [
+        "#location",
+        "#ship",
+        "#smuggler",
+        "#bloodmarks"
+      ],
+      "last_updated": "2024-06-20T10:00:00"
     },
     "Hearthstone": {
       "type": "location",

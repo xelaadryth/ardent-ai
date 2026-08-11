@@ -6,7 +6,7 @@ tags:
   - "#dustbringer"
   - "#nurian"
   - "#merchant"
-last_updated: 2026-06-05T12:00:00
+last_updated: 2024-06-30T12:00:00
 player: Ryan
 spren: "[[Pyre]]"
 ---
@@ -18,14 +18,14 @@ A short Nurian merchant passing as Alethi, armed with knives and beginning the p
 Dark hazel eyes and short dark brown hair. At 4'10", he is remarkably short for an Alethi.
 
 # Inventory
-- **Map of Revolar:** Purchased at [[The Shining Quill]]; explicitly marks [[Sun's Zenith]] as a point of interest.
-- **Trapmaking Supplies:** Sourced from the [[Slipmarket]].
+- **Map of Revolar**: Purchased at [[The Shining Quill]]; explicitly marks [[Sun's Zenith]] as a point of interest.
+- **Trapmaking Supplies**: Sourced from the [[Slipmarket]].
 
 # Personality
 Distrustful and cautious, valuing patience and self-control to keep [[Pyre]] in check. Following his first oath, he is beginning to prioritize the protection of life over personal vengeance.
 
 # Background
-N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. He recently learned from the [[Undertaker]] that [[Fina]] signed the [[Aelwood Contract]] that authorized the syndicate's takeover. During [[016 Surgebinding Pursuit]], he spoke the First Ideal to save [[Zabriel]].
+N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. He recently learned from the [[Undertaker]] that [[Fina]] signed the [[Aelwood Contract]] that authorized the syndicate's takeover. In [[021 The Traitor's Mark]], he inspected the gems on the [[Deepen Light]] and proposed a direct trade route to [[Varo Three-Knives]].
 
 # Goals
 - Hunt down [[Arbiter Jalis]].
