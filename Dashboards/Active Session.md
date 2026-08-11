@@ -15,8 +15,6 @@
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
 - Shame that Senny, Neval, Cazo, and Hine were captured, no?
 - Would be awful to find a hole in your ship, wouldn't you say?
-- Checking out the ships, thinking the Deepen Light is associated with the Bloodmarks
-- Running on the rooftops
 - Fake Jory is a good plan
 - Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
 # Upcoming
@@ -25,7 +23,22 @@
 - [[Vorn]] and [[Kuma]] are on the Deepen Light
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
+	- [[Tash The Hound
+- [[Hoid]], [[Vorn]], and [[Kuma]] are on the Deepen Light
+- [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
+	- [[Varo Three-Knives]]
 	- [[Tash The Hound]]
+- Allies
+	- [[Nathaniel]]
+	- [[Beric Quinn]]
+	- [[Kaz]]
+	- [[Khria]]
+	- [[Jory Spadis]]
+## Other
+- Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
+	- [[Senny]] mentions offhand that the red armband Vamah guards work for [[Highlord Paladar]] directly, and they act as the middlemen between the Truthkeepers and the Bloodmarks.
+- [[Sun's Zenith]]
+	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
 - Knights of Dusk HQ - Big Plans
 	- Continued actions
 		- Attack supply lines, make it unprofitable to pay the military to sew dissent
