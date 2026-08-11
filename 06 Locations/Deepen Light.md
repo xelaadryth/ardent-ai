@@ -18,7 +18,10 @@ The ship maintains a veneer of civilian normalcy. The deck is often cluttered wi
 
 # Notable Features
 - **The Chameleon's Hull:** The ship carries several reversible nameplates and a collection of flags from different Alethi highprincedoms and Veden houses to alter its identity mid-voyage.
-- **The Split Hold:** The central cargo hold is divided by a reinforced, soundproofed false bulkhead. The secret section is only accessible via a narrow, submerged hatch located behind the water barrels in the galley.
+	- Sunny Tides
+	- River Rider
+	- Red Tide (secret name)
+- **The Split Hold:** The central cargo hold is divided by a reinforced, soundproofed false bulkhead. The secret section is only accessible via a narrow, hidden hatch located behind the water barrels in the galley.
 - **Concealed Ballistae:** Two small ballistae are hidden beneath collapsible crates on the aft deck, intended for defense against pirates or meddling guards.
 
 # Inhabitants

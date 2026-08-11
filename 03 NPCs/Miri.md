@@ -25,7 +25,7 @@ Miri ran away from a restrictive apprenticeship in [[Thaylen City]] to see the w
 
 # Goals
 - Learn the truth about the "[[Possessed]]" and the return of the Radiants.
-- See every dawncity on Roshar.
+- Sail to every ancient city (dawncity) on Roshar.
 
 # Connections
 - [[Varo Three-Knives]]: Her mentor and Captain.
