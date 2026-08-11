@@ -893,6 +893,26 @@
       ],
       "last_updated": "2024-06-01T09:00:00"
     },
+    "Hoid": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Sweeper]]",
+        "[[000 Arrival]]",
+        "[[The Candle and the Mirror]]",
+        "[[Orders of the Knights Radiant]]",
+        "[[Revolar]]",
+        "[[N'tal]]",
+        "[[Iiko]]"
+      ],
+      "tags": [
+        "#npc",
+        "#worldhopper",
+        "#storyteller",
+        "#yolen"
+      ],
+      "last_updated": "2024-06-29T10:00:00"
+    },
     "Ilsh": {
       "type": "npc",
       "status": "active",
@@ -1414,16 +1434,16 @@
         "[[Undertaker]]",
         "[[Nurian Gems]]",
         "[[Bloodmarks]]",
+        "[[Hoid]]",
         "[[Truthkeepers]]",
-        "[[N'tal]]",
-        "[[Loid]]"
+        "[[N'tal]]"
       ],
       "tags": [
         "#npc",
         "#alethi",
         "#contact"
       ],
-      "last_updated": "2024-05-25T10:00:00"
+      "last_updated": "2024-06-29T10:00:00"
     },
     "Szeth-son-son-Vallano": {
       "type": "npc",
@@ -1674,7 +1694,7 @@
         "[[Iiko]]",
         "[[Fina]]",
         "[[Ojog]]",
-        "[[Loid]]",
+        "[[Hoid]]",
         "[[High Enforcer Aylen]]",
         "[[Renna Palir]]",
         "[[Koloko]]",
@@ -1690,7 +1710,7 @@
         "#senny",
         "#quartermaster_jola"
       ],
-      "last_updated": "2024-05-24T10:00:00"
+      "last_updated": "2024-06-29T10:00:00"
     },
     "001 First Blood": {
       "type": "session",
@@ -3093,13 +3113,13 @@
       "status": "completed",
       "links": [
         "[[000 Arrival]]",
-        "[[Loid]]",
+        "[[Hoid]]",
         "[[The Candle and the Mirror]]"
       ],
       "tags": [
         "#event"
       ],
-      "last_updated": "2026-05-16T18:18:32"
+      "last_updated": "2024-06-29T10:00:00"
     },
     "Saving Jory": {
       "type": "event",
@@ -3652,7 +3672,7 @@
         "#npc",
         "#reference"
       ],
-      "last_updated": "2024-06-18T10:00:00"
+      "last_updated": "2024-06-29T10:00:00"
     },
     "NPC Name Repository": {
       "type": "lore",
@@ -3794,11 +3814,13 @@
     "The Candle and the Mirror": {
       "type": "lore",
       "status": "active",
-      "links": [],
+      "links": [
+        "[[Hoid]]"
+      ],
       "tags": [
         "#location"
       ],
-      "last_updated": "2026-05-16T18:21:53"
+      "last_updated": "2024-06-29T10:00:00"
     },
     "The Lightship's Secret": {
       "type": "lore",
