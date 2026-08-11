@@ -28,18 +28,12 @@
 - [[Chip]] and [[Sweeper]] help direct the party (under hidden direction from [[Hoid]])
 - [[Vorn]] and [[Kuma]] are on the Deepen Light
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
-	- [[Varo Three-Knives]]
-<<<<<<< Updated upstream
+	- [[Varo Three-Knives
 		- [[Gath]]
 		- [[Teks]]
 		- [[Miri]]
-=======
-	- Tash The Hound
-- [[Hoid]], [[Vorn]], and [[Kuma]] are on the Deepen Light
-- [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
-	- [[Varo Three-Knives]]
->>>>>>> Stashed changes
 	- [[Tash The Hound]]
+- [[Hoid]], [[Vorn]], and [[Kuma]] are on the Deepen Light
 - Allies
 	- [[Nathaniel]]
 	- [[Beric Quinn]]
@@ -81,28 +75,9 @@
 
 <!-- SerializedQuery END -->
 
-<!-- SerializedQuery: TABLE file.frontmatter["fc-date"] as "Date" FROM "08 Events" WHERE status = "active" SORT file.frontmatter["fc-date"] ASC -->
-
-| File                                                      | Date       |
-| --------------------------------------------------------- | ---------- |
-| [[The Darkstone Siege]] | 1172-02-32 |
-
-
-<!-- SerializedQuery END -->
-
-
 # Hooks
 
 <!-- QueryToSerialize: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
-<!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
-
-| File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                         |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[The Highlord's Greed]] | Uncovering evidence that Highlord Paladar is protecting Bloodmark smuggling operations. | 5        | <ul><li>Discovering a hidden financial ledger in the Archivum.</li><li>Tailing Nomos to a secret meeting at The Bastion.</li><li>Noticing guards wearing unauthorized silk ribbons.</li></ul> |
-
-
-<!-- SerializedQuery END -->
-
 <!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
 
 | File                                                       | Summary                                                                                 | Priority | Leads                                                                                                                                                                                         |
