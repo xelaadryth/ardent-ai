@@ -3,7 +3,7 @@
 # Reminders
 - "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
 - Emotionspren, naturespren, cousinspren
-	- Flamespren (N'tal), Lifespren (Fina), Concetrationspren (Iiko thinking hard), Logicspren (Kuma making sense), Joyspren (Mallow), Bindspren (Galeth not budging)
+	- Flamespren (N'tal), Lifespren (Fina), Concentrationspren (Iiko thinking hard), Logicspren (Kuma making sense), Joyspren (Mallow), Bindspren (Galeth not budging)
 - Parshmen in the streets
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
@@ -17,16 +17,21 @@
 - Would be awful to find a hole in your ship, wouldn't you say?
 - Fake Jory is a good plan
 - Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
+- Talking with Varo Three-Knives
+
+# Session 21
+- Varo backstory, three knives taken from his knife throwing teacher after Varo killed him.
+- N'tal inspected the gems in the hold with Vorn and Varo and Gath
+- N'tal pays him a bloodmark for letting him see the marks in the hold, and 
 # Upcoming
 
 - [[Chip]] and [[Sweeper]] help direct the party (under hidden direction from [[Hoid]])
 - [[Vorn]] and [[Kuma]] are on the Deepen Light
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
-	- [[Tash The Hound
-- [[Hoid]], [[Vorn]], and [[Kuma]] are on the Deepen Light
-- [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
-	- [[Varo Three-Knives]]
+		- [[Gath]]
+		- [[Teks]]
+		- [[Miri]]
 	- [[Tash The Hound]]
 - Allies
 	- [[Nathaniel]]

@@ -9,7 +9,7 @@ tags:
 last_updated: 2024-06-20T10:00:00
 location: "[[Slipmarket]]"
 ---
-
+ 
 # Overview
 A mid-sized Alethi-style merchant cog that primarily operates as a passenger and transport vessel between [[Revolar]] and [[Bodenar]]. In reality, it is the primary smuggling vessel for [[Varo Three-Knives]].
 
