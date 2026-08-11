@@ -18,17 +18,12 @@
 - Fake Jory is a good plan
 - Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
 - Talking with Varo Three-Knives
-
-# Session 21
-- Varo backstory, three knives taken from his knife throwing teacher after Varo killed him.
-- N'tal inspected the gems in the hold with Vorn and Varo and Gath
-- N'tal pays him a bloodmark for letting him see the marks in the hold, and 
 # Upcoming
 
 - [[Chip]] and [[Sweeper]] help direct the party (under hidden direction from [[Hoid]])
 - [[Vorn]] and [[Kuma]] are on the Deepen Light
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
-	- [[Varo Three-Knives
+	- [[Varo Three-Knives]]
 		- [[Gath]]
 		- [[Teks]]
 		- [[Miri]]
