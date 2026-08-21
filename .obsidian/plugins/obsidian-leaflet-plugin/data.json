@@ -3,7 +3,7 @@
     {
       "id": "map-revolar",
       "locked": false,
-      "lastAccessed": 1783394073854,
+      "lastAccessed": 1787271135188,
       "markers": [
         {
           "id": "ID_c90bc95a592b",
@@ -117,7 +117,7 @@
             -620,
             2046
           ],
-          "link": "1172-02-16 The Stackhouse Slavers",
+          "link": "The Stackhouse Slavers",
           "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -156,7 +156,7 @@
             -904,
             1092
           ],
-          "link": "1172-02-20 The Cinder Evacuation",
+          "link": "The Cinder Evacuation",
           "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -274,6 +274,22 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_8948f92adadb",
+          "type": "Secret",
+          "loc": [
+            -1472.90625,
+            1342.5
+          ],
+          "layer": "%5B%5BMap%20of%20Revolar.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Bloodmark Hideout",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -285,7 +301,7 @@
     {
       "id": "map-roshar",
       "locked": false,
-      "lastAccessed": 1783394073854,
+      "lastAccessed": 1787271135188,
       "markers": [
         {
           "id": "ID_59bab8184a1a",
@@ -553,7 +569,7 @@
     },
     {
       "id": "map-shadesmar",
-      "lastAccessed": 1783394073854,
+      "lastAccessed": 1787271135188,
       "markers": [
         {
           "id": "ID_09b82b7949eb",
