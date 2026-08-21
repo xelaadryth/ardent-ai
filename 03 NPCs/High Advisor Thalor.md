@@ -7,6 +7,8 @@ tags:
   - "#alethi"
   - "#antagonist"
 last_updated: 2026-06-03T10:00:00
+faction: "[[Nurian Royalty]]"
+location: "[[Nuria]]"
 ---
 
 # Description

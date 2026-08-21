@@ -1,6 +1,6 @@
 ---
 type: npc
-status: deceased
+status: active
 tags:
   - "#npc"
   - "#silent_oath"

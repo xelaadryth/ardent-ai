@@ -7,7 +7,7 @@ tags:
   - "#researcher"
   - "#ardent_imposter"
 last_updated: 2024-05-30T12:00:00
-faction: ""
+faction: "[[Thaylen Scholars]]"
 location: "[[Tomat]]"
 ---
 

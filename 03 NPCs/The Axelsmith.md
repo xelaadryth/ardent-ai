@@ -7,7 +7,7 @@ tags:
   - "#cartwright"
   - "#salimset"
 last_updated: 2024-05-18T00:00:00
-faction:
+faction: Unaffiliated
 location: "[[Salimset]]"
 ---
 # Description

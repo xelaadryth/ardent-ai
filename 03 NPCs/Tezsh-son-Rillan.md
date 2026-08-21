@@ -7,6 +7,7 @@ tags:
   - "#griever"
 last_updated: 2024-06-05T00:00:00
 location: "[[Alethkar]]"
+faction: Unaffiliated
 ---
 
 # Description

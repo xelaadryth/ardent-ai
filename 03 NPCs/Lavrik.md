@@ -7,7 +7,7 @@ tags:
   - "#rebel"
 last_updated: 2026-05-20T13:00:00
 faction: "[[Knights of Dusk]]"
-location:
+location: "[[Hearthstone]]"
 ---
 
 # Description

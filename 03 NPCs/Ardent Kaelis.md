@@ -8,7 +8,7 @@ tags:
   - "#alethi"
   - "#devotary_of_sincerity"
 last_updated: 2026-06-01T20:00:00
-faction:
+faction: "[[Devotary of Sincerity]]"
 location: "[[Revolar]]"
 ---
 # Description

@@ -7,7 +7,7 @@ tags:
   - "#smuggler"
   - "#pirate"
 last_updated: 2024-06-20T10:00:00
-faction: "#bloodmarks"
+faction: "[[Bloodmarks]]"
 location: "[[Deepen Light]]"
 ---
 

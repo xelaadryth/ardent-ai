@@ -5,16 +5,17 @@ tags:
   - "#npc"
   - "#thaylen"
   - "#artifabrian"
+  - darkeyed
 last_updated: 2024-05-30T12:00:00
-faction: ""
+faction: "[[Thaylen Scholars]]"
 location: "[[Tomat]]"
 ---
 
 # Description
-A master Thaylen artifabrian and technical lead for [[The Experimental Lightship]] project.
+A master Thaylen artifabrian woman and technical lead for [[The Experimental Lightship]] project.
 
 # Appearance
-Middle-aged with bushy white eyebrows and shoulder-length white hair. Wears practical, ink-stained robes.
+Middle-aged with bushy white eyebrows, dark brown eyes, and shoulder-length white hair. She wears practical, ink-stained robes.
 
 # Personality
 Academic, precise, and intensely focused on the efficiency of soul-capture and gem-stabilization.

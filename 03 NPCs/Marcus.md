@@ -6,7 +6,7 @@ tags:
   - "#veden"
   - "#bounty_hunter"
 last_updated: 2024-06-26T10:00:00
-faction: ""
+faction: "[[Bloodmarks]]"
 location: "[[Revolar]]"
 ---
 

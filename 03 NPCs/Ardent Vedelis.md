@@ -10,6 +10,8 @@ tags:
   - "#soulcaster"
   - "#devotary_of_sincerity"
 last_updated: 2024-05-31T14:00:00
+faction: "[[Knights of Dusk]]"
+location: "[[Hearthstone]]"
 ---
 # Description
 A dedicated Ardent of Vamah who sought to preserve historical truth. Trained in the ancient art of Soulcasting, he was a close ally of [[Lavrik]] and a member of the [[Vorin Devotaries|Devotary of Sincerity]].
