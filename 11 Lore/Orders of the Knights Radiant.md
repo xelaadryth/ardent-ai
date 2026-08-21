@@ -134,5 +134,6 @@ When [[High Witness Yeshan]] bound the Nurians to Roshar via Connection, he unkn
 	- [[Karani]] - Stoneward (Nua'lan; Galeth is Shin)
 	- [[Dahmian]] - Willshaper (Timbre was rejected; Mallow is Tu Baylan)
 - [[Beric Quinn]] - Windrunner (Aeolias)
-- [[Ojog]] - Skybreaker (57-296)
+- [[Ojog]] - Skybreaker (101011)
 - [[Koloko]] - Lightweaver (Radian)
+- No Bondsmith
