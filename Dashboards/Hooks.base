@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "hook"
+        - status != "completed"
+    order:
+      - file.name
+      - status
+    sort:
+      - property: status
+        direction: ASC

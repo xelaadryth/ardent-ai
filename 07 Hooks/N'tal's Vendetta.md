@@ -14,4 +14,4 @@ leads:
 ---
 
 # Description
-[[N'tal]] seeks retribution for the slaughter of his family by the [[Bloodmarks]]. The trail leads from identifying specific agents to the heart of the syndicate's power. This personal quest intersects with the party's investigation into smuggled gemstones. The trail leads to [[Arbiter Jalis]] and eventually to [[Grand Justicar Malice]].
+[[N'tal]] seeks retribution for the slaughter of his family by the [[Bloodmarks]]. The trail leads from identifying specific agents to the heart of the syndicate's power. This personal quest intersects with the party's investigation into smuggled gemstones. The trail leads to [[Arbiter Jalis]] and eventually to [[Grand Justicar Malice]] in [[Bodenar]].
