@@ -1,9 +1,9 @@
 ---
 name:
 type: lore
-status: active
+status: completed
 tags:
-  - "#location"
+  - story
 last_updated: 2024-06-29T10:00:00
 ---
 # Description

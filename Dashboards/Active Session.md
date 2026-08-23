@@ -23,10 +23,11 @@
 - 
 # Upcoming
 
+- [[Dillind]] message through [[House Sathir]]
 - [[The Darkstone Siege]] - Battle Prep starts at a +0 bonus
 	- Supplies - logistics talent, Lore/Deduction/Leadership
 	- Training Militia - military talent, Weaponry/Leadership
-	- Recruitment - Able-bodied men that hate the Bloodmarks in Revolar and corruption in [[Vamah Princedom]] and want to support [[General Spade]] who was beloved by the people
+	- Recruitment - Able-bodied men that hate the [[Bloodmarks]] in [[Revolar]] and corruption in [[Vamah Princedom]] and want to support [[General Spade]] who was beloved by the people
 	- Refugees - People that believe in the cause but can't help fight, women and children
 	- Evacuation - destination for the refugees, need boats or at least supplies and a route
 	- Plans for General Odrin Lesh
