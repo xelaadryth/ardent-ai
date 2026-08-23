@@ -19,4 +19,5 @@ last_updated: 2026-08-22T10:00:00
 - Munchy BIT ol' Snarls square on the nose. She THUMPED ol' Snarls square in the eye. Right where she wanted, right next to the cooking pot. And in the confusion, the axehound tumbled in, and the other mink sprinted away. Munchy, proud of a job well done, started to head home, but hid when more axehounds stumbled upon the fragrant stew.
 - Now these axehounds were confused at the choice of meat in the pot, but they ate well that night. Turns out ol' Snarls was tasty too. And that could have been the end of it.
 - But suddenly, out of the brush leaped three pounds of fur and fury. Munchy BIT one of the axehounds square on the nose. She THUMPED another square in the eye. But there was nothing she could do about the rest, and she was tossed into the cooking pot.
-- Turns out Munchy was even tastier than ol' Snarls, so they tracked the minks' tracks back to their briar patches, and within a month not a single mink was left uneaten.
+- Now these axehounds had never tasted mink before, so when they found out Munchy was even tastier than ol' Snarls, they tracked the minks' tracks back to their briar patches, and within a month not a single mink was left uneaten.
+- The End!
