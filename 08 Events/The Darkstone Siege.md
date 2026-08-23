@@ -11,7 +11,6 @@ last_updated: 2026-06-15T10:00:00
 fc-category: Party
 fc-date: 1172-02-32
 ---
-
 # Description
 The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The Vamah Guard and [[Truthkeepers]] assault the insurgency's base.
 
@@ -25,20 +24,20 @@ The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The Vamah G
 	- Protect injured clusters of Knights of Dusk (led by [[Kaz]], Kael, or Hiller)
 	- Evacuate civilians to boats
 	- Cut down trees to create fortifications against enemy formations
-	- Bloodmark mercenaries appear in the welcomed civilian ranks, assassinating targets and wreaking havoc
+	- Bloodmark mercenaries appear in the welcomed civilian refugees, assassinating targets and wreaking havoc
 - [[General Odrin Lesh]] is in charge of tactics, letting the fanatical mercenary faction take the most casualties, rides in with cavalry charge
 - The party's escape boat is nearly intercepted by the [[Silent Oath]], triggering a desperate shift into [[Shadesmar]].
 
 ## Attackers
-- [[Adjudicator Peton]], [[Ojog]], [[Senny]] (Iiko second ideal), [[Neval]], [[Cazo]], [[Hine]]
+- [[Adjudicator Peton]], [[Ojog]]
 - [[Highlord Paladar]], [[General Odrin Lesh]], [[Brightlord Juran]], Vamah soldiers (red armband)
-- Bloodmark mercenaries (Gorlo, Piggy, Fang)
 ## Defenders
 - [[General Spade]], [[Khria]], [[Kaz]]
-- [[Dahmian]]
 - Kael and Hiller (guards from [[The Missing Supplies]])
-- [[Lila]], Elara (medic), Otsun, Bellus, [[Ardent Surusa]]*
+- [[Lila]], Elara (medic), Otsun, Bellus
+- [[Dahmian]]
 - Falen (father of family saved in the [[Stackhouses]])
+- Bloodmark mercenaries (Gorlo, Piggy, Fang) try to save Fina
 
 # Outcomes
 - **The Breach of Realities:** When cornered by [[High Enforcer Aylen]], shattering a stash of [[Nurian Gems]] stolen by [[Zabriel]], [[Mallow]] activates the surge of Transportation.
