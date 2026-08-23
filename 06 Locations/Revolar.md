@@ -36,7 +36,7 @@ A major urban center and the intended destination for the squad's transfer. It s
 	- Spherescale Hall (merchant)
 	- Dustroad Braves (escort and travel guards)
 	- Spineslayers (hunters and rangers)
-	- Concord of Steel (fighting)
+	- Concord of Steel (mercenary)
 	- Dueling Heralds (dueling ring)
 	- [[Vamah Archivum]]
 - **Middlecrest**: Middle-class residential. Includes the [[Gemheart Inn]], Stone Anvil Inn, and Stormglass Inn

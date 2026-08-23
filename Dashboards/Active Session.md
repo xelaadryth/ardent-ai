@@ -18,17 +18,41 @@
 - Fake Jory is a good plan
 - Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
 - Talking with Varo Three-Knives
+- John Bloodmark
 # Upcoming
 
+- [[The Darkstone Siege]] - Battle Prep starts at a +0 bonus
+	- Supplies - logistics talent, Lore/Deduction/Leadership
+	- Training Militia - military talent, Weaponry/Leadership
+	- Evacuation - destination for the refugees, need boats or at least supplies and a route
+	- Plans for General Odrin Lesh
+		- Counter cavalry charges by felling darkstone trees, setting up trenches, bramble, shaping the ground
+		- Set up crem bogs and rainwater areas
+	- Plans for Bloodmarks
+		- Go after the civilians to take them as slaves, cause havoc and split defenses, not in regular military areas, harrying harassment/ambush/archers
+		- [[Deepen Light]] (hidden as River Rider) smugglers returns with Varo and flanks with hidden ballistae
+	- Plans for Truthkeepers
+		- They still think it's fabrials, starting to doubt, [[High Enforcer Aylen]] isn't suspicious but [[Istrum]] is interested and will protect [[Ojog]] due to Fortune
+		- Traps for Shardbearers; cutting hole in the gate since cave walls are too thick
+	- Plans for the Silent Oath
+		- Escape route
+- City Missions
+	- Make money
+		- Selling darkstone, labor intensive to fell the trees to harvest the darkwood trees inside through merchant contact Breelie
+	- Smear Campaign
+		- Revealing the red armband Vamah guards, collaboration with the Bloodmarks and Truthkeepers
+	- Targeting supplies
+		- Stealing from the Shield Ring and warehouses in the [[Revolar]] districts (Granary 7, Armory 9, Concord of Steel mercenary group)
+	- Finding Chip
+		- Ask Truthkeepers, he's been giving information on the [[Knights of Dusk]], keeping things stable is important for business, don't upset the status quo, good time to leave now
 - [[Chip]] and [[Sweeper]] help direct the party (under hidden direction from [[Hoid]])
-- [[Vorn]] and [[Kuma]] are on the Deepen Light
+- [[Vorn]] [[Hoid]] and [[Varo Three-Knives]] on the Deepen Light.
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
 		- [[Gath]]
 		- [[Teks]]
 		- [[Miri]]
 	- [[Tash The Hound]]
-- [[Hoid]], [[Vorn]], and [[Kuma]] are on the Deepen Light
 - Allies
 	- [[Nathaniel]]
 	- [[Beric Quinn]]
