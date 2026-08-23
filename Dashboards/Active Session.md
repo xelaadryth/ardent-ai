@@ -52,6 +52,7 @@
 		- Ask Truthkeepers, he's been giving information on the [[Knights of Dusk]], keeping things stable is important for business, don't upset the status quo, good time to leave now
 - [[Chip]] and [[Sweeper]] help direct the party (under hidden direction from [[Hoid]])
 - [[Vorn]] [[Hoid]] and [[Varo Three-Knives]] on the Deepen Light.
+	- [[The Mink and the Axehounds]]
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
 		- [[Gath]]
