@@ -13,6 +13,8 @@ number: 3
 # Description
 Following a desperate escape from the [[Silent Oath]] during [[The Darkstone Siege]], the party is thrust into the Cognitive Realm of Roshar. They must navigate the bead-seas, survive predatory spren, and outmaneuver a fleet of [[Bloodmarks]] pirates to reach the [[Horneater Peaks]] perpendicularity.
 
+[[Galeth-son-Thald]] and the Shin know the place as "Makari Sin", the "glasslands". When leaving, the Unkalaki people know Cultivation's Perpendicularity as the "waters of life", and where Lunu'anaki, the god of travel and mischief who cannot hurt man.
+
 # Key Players
 - [[Kuma]]: The primary catalyst for the party's entry into [[Shadesmar]] via the surge of Transportation.
 - [[Mallow]]: Utilizing her Willshaper resonance to help stabilize the transition.

@@ -8,6 +8,9 @@ views:
     order:
       - file.name
       - status
+      - summary
+      - priority
+      - leads
     sort:
       - property: status
         direction: ASC
