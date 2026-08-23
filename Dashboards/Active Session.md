@@ -2,7 +2,7 @@
 - Last Session: [[020 Warehouse Rescue]]
 # Reminders
 - "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
-- Emotionspren, naturespren, cousinspren
+- [Emotionspren, naturespren, cousinspren](https://coppermind.net/wiki/Spren)
 	- Flamespren (N'tal), Lifespren (Fina), Concentrationspren (Iiko thinking hard), Logicspren (Kuma making sense), Joyspren (Mallow), Bindspren (Galeth not budging)
 - Parshmen in the streets
 - Party in trouble
@@ -19,6 +19,8 @@
 - Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
 - Talking with Varo Three-Knives
 - John Bloodmark
+# Notes
+- 
 # Upcoming
 
 - [[The Darkstone Siege]] - Battle Prep starts at a +0 bonus
