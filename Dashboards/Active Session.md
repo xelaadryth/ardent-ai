@@ -20,7 +20,13 @@
 - Talking with Varo Three-Knives
 - John Bloodmark
 # Notes
-- 
+- Galeth raids Vamah Princedom warehouse, training the troops
+- N'tal talks to Chip at the Gemheart Inn. Found out that Grand Justicar Malice is a Sequence of the Set, and Rissa Vale is an Array, equal to a Corsair, scouting the ground between the city and the base
+- Iiko got info from High Enforcer Aylen, reading the books and trying to visit Shadesmar
+- Fina set up the battlefield, mass growing poison
+- Kuma crafted siege weapons, tier 2 unique fabrial
+- Mallow stone defenses/escape tunnel, frame the Truthkeepers for the raids that Galeth did by leaving Shardblade marks and hiding the rest of the evidence as best she can
+- TODO: Come up with the book info for Iiko
 # Upcoming
 
 - [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
