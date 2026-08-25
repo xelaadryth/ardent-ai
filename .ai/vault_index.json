@@ -182,6 +182,7 @@
         "[[The Darkstone Siege]]",
         "[[Bloodmarks]]",
         "[[Horneater Peaks]]",
+        "[[Galeth-son-Thald]]",
         "[[Kuma]]",
         "[[Shadesmar]]",
         "[[Mallow]]",
@@ -291,7 +292,8 @@
         "[[020 Warehouse Rescue]]",
         "[[Jory Spadis]]",
         "[[Adjudicator Peton]]",
-        "[[Orders of the Knights Radiant|Stonewards]]"
+        "[[Orders of the Knights Radiant|Stonewards]]",
+        "[[022 Back to Base]]"
       ],
       "tags": [
         "#player",
@@ -301,7 +303,7 @@
         "#stoneward",
         "#darkeyed"
       ],
-      "last_updated": "2024-06-28T12:00:00"
+      "last_updated": "2024-06-30T12:00:00"
     },
     "Iiko": {
       "type": "player",
@@ -324,16 +326,14 @@
     },
     "Kuma": {
       "type": "player",
-      "status": "inactive",
+      "status": "active",
       "links": [
         "[[Viscose]]",
-        "[[The Darkstone Siege]]",
-        "[[Zabriel]]",
+        "[[Higuma]]",
+        "[[Tomat]]",
         "[[Nurian Gems]]",
-        "[[Shadesmar]]",
-        "[[017 The Final Enforcement]]",
-        "[[Revolar]]",
-        "[[Higuma]]"
+        "[[Bodenar]]",
+        "[[Vorn]]"
       ],
       "tags": [
         "#player",
@@ -374,9 +374,11 @@
         "[[Undertaker]]",
         "[[Fina]]",
         "[[Aelwood Contract]]",
-        "[[016 Surgebinding Pursuit]]",
-        "[[Zabriel]]",
-        "[[Arbiter Jalis]]"
+        "[[022 Back to Base]]",
+        "[[Deepen Light]]",
+        "[[Varo Three-Knives]]",
+        "[[Arbiter Jalis]]",
+        "[[Zabriel]]"
       ],
       "tags": [
         "#player",
@@ -384,7 +386,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2026-06-05T12:00:00"
+      "last_updated": "2024-06-30T12:00:00"
     },
     "Adjudicator Peton": {
       "type": "npc",
@@ -428,7 +430,7 @@
     },
     "Amaram": {
       "type": "npc",
-      "status": "deceased",
+      "status": "active",
       "links": [
         "[[Sadeas Princedom]]",
         "[[Tomat]]",
@@ -485,6 +487,7 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Devotary of Sincerity]]",
         "[[Revolar]]",
         "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Iiko]]",
@@ -527,12 +530,13 @@
       "type": "npc",
       "status": "completed",
       "links": [
+        "[[Knights of Dusk]]",
+        "[[Hearthstone]]",
         "[[Lavrik]]",
         "[[Vorin Devotaries|Devotary of Sincerity]]",
         "[[Veristitalians]]",
         "[[Highlord Paladar]]",
         "[[Vamah Archivum]]",
-        "[[Knights of Dusk]]",
         "[[General Spade]]",
         "[[Ardent Kaelis]]"
       ],
@@ -610,7 +614,7 @@
       "status": "active",
       "links": [
         "[[Ghostbloods]]",
-        "[[Alethkar]]",
+        "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[The Cinder Evacuation]]",
         "[[Karani]]",
@@ -776,7 +780,7 @@
     },
     "Helaran": {
       "type": "npc",
-      "status": "deceased",
+      "status": "active",
       "links": [
         "[[Silent Oath]]",
         "[[Tomat]]",
@@ -797,6 +801,8 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Nurian Royalty]]",
+        "[[Nuria]]",
         "[[Aelwood Contract]]",
         "[[Fina]]",
         "[[N'tal]]",
@@ -913,11 +919,11 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Revolar]]",
         "[[Sweeper]]",
         "[[000 Arrival]]",
         "[[The Candle and the Mirror]]",
         "[[Orders of the Knights Radiant]]",
-        "[[Revolar]]",
         "[[N'tal]]",
         "[[Iiko]]"
       ],
@@ -933,6 +939,7 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Thaylen Scholars]]",
         "[[Tomat]]",
         "[[Vorn]]",
         "[[Bodenar]]",
@@ -1008,13 +1015,15 @@
       "status": "active",
       "links": [
         "[[Knights of Dusk]]",
-        "[[Revolar]]",
+        "[[Darkstone Forest]]",
         "[[General Spade]]",
         "[[Truthkeepers]]",
         "[[Bloodmarks]]",
         "[[Adjudicator Peton]]",
         "[[Slipmarket]]",
         "[[020 Warehouse Rescue]]",
+        "[[022 Back to Base]]",
+        "[[Tash The Hound]]",
         "[[Mallow]]"
       ],
       "tags": [
@@ -1023,7 +1032,7 @@
         "#knights_of_dusk",
         "#radiant"
       ],
-      "last_updated": "2024-06-28T12:00:00"
+      "last_updated": "2024-06-30T12:00:00"
     },
     "Kabsal": {
       "type": "npc",
@@ -1170,6 +1179,7 @@
       "status": "completed",
       "links": [
         "[[Knights of Dusk]]",
+        "[[Hearthstone]]",
         "[[Ardent Vedelis]]"
       ],
       "tags": [
@@ -1224,9 +1234,10 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Revolar]]",
         "[[Bloodmarks]]",
+        "[[Revolar]]",
         "[[Saving Jory]]",
+        "[[Johb]]",
         "[[Jory Spadis]]"
       ],
       "tags": [
@@ -1294,6 +1305,7 @@
       "type": "npc",
       "status": "completed",
       "links": [
+        "[[Truthkeeper Camp]]",
         "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[Possessed]]",
@@ -1670,8 +1682,8 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Deepen Light]]",
         "[[Bloodmarks]]",
+        "[[Deepen Light]]",
         "[[Slipmarket]]",
         "[[Shadesmar]]",
         "[[Truthkeepers]]",
@@ -1697,6 +1709,7 @@
       "type": "npc",
       "status": "active",
       "links": [
+        "[[Thaylen Scholars]]",
         "[[Tomat]]",
         "[[The Experimental Lightship]]",
         "[[Bodenar]]",
@@ -1706,7 +1719,8 @@
       "tags": [
         "#npc",
         "#thaylen",
-        "#artifabrian"
+        "#artifabrian",
+        "darkeyed"
       ],
       "last_updated": "2024-05-30T12:00:00"
     },
@@ -1715,12 +1729,12 @@
       "status": "active",
       "links": [
         "[[Revolar]]",
+        "[[Bloodmarks]]",
         "[[The Darkstone Siege]]",
         "[[Nurian Gems]]",
         "[[Shadesmar]]",
         "[[Slipmarket]]",
         "[[N'tal]]",
-        "[[Bloodmarks]]",
         "[[Arbiter Jalis]]",
         "[[The Foundry Chase]]",
         "[[Saving Jory|Abandoned Docks]]",
@@ -2327,6 +2341,63 @@
       ],
       "last_updated": "2024-06-28T12:00:00"
     },
+    "021 Stowaways": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Tash The Hound]]",
+        "[[Hoid]]",
+        "[[Deepen Light]]",
+        "[[Iiko]]",
+        "[[N'tal]]",
+        "[[Fina]]",
+        "[[Galeth-son-Thald]]",
+        "[[Varo Three-Knives]]"
+      ],
+      "tags": [
+        "#session",
+        "#knights_of_dusk",
+        "#investigation",
+        "#bloodmarks"
+      ],
+      "last_updated": "2024-06-30T12:00:00"
+    },
+    "022 Back to Base": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Knights of Dusk]]",
+        "[[Deepen Light]]",
+        "[[Tash The Hound]]",
+        "[[N'tal]]",
+        "[[Nurian Gems]]",
+        "[[Varo Three-Knives]]",
+        "[[Nuria]]",
+        "[[Slipmarket]]",
+        "[[Mallow]]",
+        "[[Jory Spadis]]",
+        "[[Darkstone Forest]]",
+        "[[General Spade]]",
+        "[[Khria]]",
+        "[[Bloodmarks]]",
+        "[[Truthkeepers]]",
+        "[[Revolar]]",
+        "[[Vamah Princedom]]",
+        "[[Highlord Paladar]]",
+        "[[Orders of the Knights Radiant|Radiants]]",
+        "[[Galeth-son-Thald]]",
+        "[[Hoid]]"
+      ],
+      "tags": [
+        "#session",
+        "#knights_of_dusk",
+        "#investigation",
+        "#bloodmarks"
+      ],
+      "last_updated": "2024-06-30T12:00:00"
+    },
     "Bloodmarks": {
       "type": "faction",
       "status": "active",
@@ -2616,6 +2687,8 @@
         "[[Miri]]",
         "[[Nurian Gems]]",
         "[[Grand Justicar Malice]]",
+        "[[022 Back to Base]]",
+        "[[N'tal]]",
         "[[019 The Slipmarket Stakeout]]"
       ],
       "tags": [
@@ -2624,7 +2697,7 @@
         "#smuggler",
         "#bloodmarks"
       ],
-      "last_updated": "2024-06-20T10:00:00"
+      "last_updated": "2024-06-30T12:00:00"
     },
     "Hearthstone": {
       "type": "location",
@@ -2962,7 +3035,8 @@
         "[[N'tal]]",
         "[[Bloodmarks]]",
         "[[Arbiter Jalis]]",
-        "[[Grand Justicar Malice]]"
+        "[[Grand Justicar Malice]]",
+        "[[Bodenar]]"
       ],
       "tags": [
         "#hook",
@@ -3333,16 +3407,11 @@
         "[[Shadesmar]]",
         "[[Adjudicator Peton]]",
         "[[Ojog]]",
-        "[[Senny]]",
-        "[[Neval]]",
-        "[[Cazo]]",
-        "[[Hine]]",
         "[[Highlord Paladar]]",
         "[[Brightlord Juran]]",
-        "[[Dahmian]]",
         "[[The Missing Supplies]]",
         "[[Lila]]",
-        "[[Ardent Surusa]]",
+        "[[Dahmian]]",
         "[[Stackhouses]]",
         "[[High Enforcer Aylen]]",
         "[[Nurian Gems]]",
@@ -3895,12 +3964,12 @@
     },
     "The Candle and the Mirror": {
       "type": "lore",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Hoid]]"
       ],
       "tags": [
-        "#location"
+        "story"
       ],
       "last_updated": "2024-06-29T10:00:00"
     },
@@ -3921,6 +3990,15 @@
         "#bodenar"
       ],
       "last_updated": "2026-05-17T12:00:00"
+    },
+    "The Mink and the Axehounds": {
+      "type": "lore",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "story"
+      ],
+      "last_updated": "2026-08-22T10:00:00"
     },
     "Vorin Devotaries": {
       "type": "lore",

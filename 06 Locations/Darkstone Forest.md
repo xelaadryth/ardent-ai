@@ -1,27 +1,19 @@
 ---
 type: location
 status: active
-tags:
+tags:    
   - "#location"
   - "#revolar"
-last_updated: 2026-05-15T12:00:00
+last_updated: 2024-07-01T12:00:00
 location: "[[Revolar]]"
 ---
 # Overview
-A bizarre and beautiful stone forest in Alethkar. The "trees" are tall pillars of caked-on crem, layered over centuries. Only the hardiest leaves poke out from the very tops, high above the forest floor. The forest is named for the expensive, dark wood that grows within these stone husks.
-
-# Atmosphere
-Quiet and echoing. The ground is rocky and covered in prickly Stormbristle bushes, which encourage travelers to stay on the established paths. The light is filtered through the distant canopy, casting long, stark shadows on the stone trunks.
+A bizarre and beautiful stone forest in Alethkar. The "trees" are tall pillars of caked-on crem, layered over centuries.
 
 # Notable Features
-- **The Stone Pillars:** Massive trunks of solid crem that must be cracked open to harvest the valuable darkwood inside.
-- **The Stormbristle Groves:** Thickets of prickly, grey-green bushes that serve as natural fortifications.
-- **The Treetop Walkways:** A network of bridges and platforms built by the [[Knights of Dusk]] to move unseen above the forest floor.
-
-# Inhabitants
-- [[Knights of Dusk]]: The rebellion has established a hidden base here, utilizing stone structures built between the thickest trees.
-- **Axehounds:** Small packs of wild axehounds are known to lair in the crem-caves.
+- **Insurgency Headquarters:** The central base for the [[Knights of Dusk]] is hidden within a dense cluster of stone husks.
+- **Siege Defenses:** As of [[023 Preparing for the Siege]], the base is fortified with roof-mounted ballistae, a catapult, and an extensive network of pit traps and briar thickets.
+- **The Escape Tunnel:** A reinforced stone tunnel built by [[Mallow]] and [[Kuma]] that provides a secret exit from the base into the deeper forest.
 
 # Secrets
-The [[Knights of Dusk]] base is hidden behind a particularly dense patch of Stormbristle. Only those who know the correct "wind-path" can find the entrance to the stone structures within.
-The codeword to get in is "Aharietiam", referencing the Last Desolation.
+The codeword to get in is "Aharietiam". The base's location is believed to be compromised by the [[Truthkeepers]] as of 1172.02.22.

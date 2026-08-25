@@ -8,32 +8,20 @@ tags:
   - "#enforcer"
   - "#spy"
   - "#noble"
-last_updated: 2026-05-18T12:00:00
+last_updated: 2024-07-01T12:00:00
 faction: "[[Ghostbloods]]"
 location: "[[Revolar]]"
 ---
 # Description
-A Ghostblood spy currently embedded within the [[Truthkeepers]], carefully hiding his true noble lineage and high-ranking status.
-
-# Appearance
-Light blue eyes, brown hair. He carries a longsword and keeps throwing knives as secondary weapons.
-
-# Personality
-Jovial, chill, and a smirking jokester. He uses humor as a primary tool to deflect attention away from his background and noble upbringing.
+A Ghostblood spy currently embedded within the [[Truthkeepers]]. He is secretly Archisal Paladar, son of [[Highlord Paladar]].
 
 # Background
-His true identity is Archisal Paladar, the third son of Highlord Reladon Paladar. He is a 4th Dahn lighteyes posing as a 7th Dahn to maintain his cover in the field.
+In [[023 Preparing for the Siege]], Chip was tasked with ambushing the party at the [[Gemheart Inn]]. However, [[N'tal]] convinced him to stand down and share information. He confirmed the [[Ghostbloods]] interest in sabotaging the [[Bloodmarks]] and provided intel on [[The Set]].
 
 # Goals
 - Maintain his cover within the [[Truthkeepers]].
-- Advance the interests of the [[Ghostbloods]].
-- Keep his true identity as Archisal Paladar a secret.
-
-# Hooks
-- **The Lost Book:** A childhood book of high sentimental value was nearly lost during the fire at his family's estate in [[The Cinder Evacuation]].
+- Sabotage [[The Set]] for the [[Ghostbloods]].
 
 # Connections
-- [[Karani]]: Does the writing and poison-making for the Ghostbloods.
-- [[Truthkeepers]]: Organization he is currently infiltrating.
-- [[Highlord Paladar]]: His father.
-- [[The Cinder Evacuation]]: His family's urban manor was the target of the arson.
+- [[Karani]]: His reporting partner.
+- [[N'tal]]: An ally who convinced him to prioritize the fight against [[The Set]].

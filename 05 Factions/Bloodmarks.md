@@ -6,15 +6,15 @@ tags:
   - "#criminal_organization"
   - "#worldhopping"
   - "#piracy"
-last_updated: 2024-06-25T14:00:00
+last_updated: 2024-07-01T12:00:00
 ---
 # Description
-A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper branch, primarily composed of Scadrian exiles, operates a pirate fleet in the bead-seas of [[Shadesmar]]. The Bloodmarks seek to protect Scadrial by destroying and taking resources from other worlds, often finding themselves "discordant" with the [[Ghostbloods]]. The Bloodmarks are the Rosharan branch of the Set, and work for Trell (Autonomy).
+A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper branch, primarily composed of Scadrian exiles, operates a pirate fleet in the bead-seas of [[Shadesmar]]. The Bloodmarks are the Rosharan branch of **[[The Set]]**, and work for Trell (Autonomy).
 
 # Structure
-- **Grand Justicars:** Big important leaders like [[Grand Justicar Malice]] who manage interplanetary logistics. The Set equivalent is a "Sequence" or "Suit". Malice is the Sequence on Roshar. The other Grand Justicars are Suits.
-- **Corsairs:** Pirate captains who often utilize [[Scadrian Mechanics|Metallic Arts]] to enforce the syndicate's will in the Cognitive Realm. The Set equivalent is an "Array".
-- **Arbiters**: Lieutenants commanding other Bloodmark units on Roshar. The Set equivalent is an "Array".
+- **The Set:** The parent interplanetary organization.
+- **Sequence:** High-ranking leaders like [[Grand Justicar Malice]] who manage interplanetary logistics. Equivalent to a "Suit".
+- **Array:** Lieutenants and specialists like [[Arbiter Rissa Vale]]. Equivalent to a "Corsair".
 - **Hand**: Sergeants.
 - **Lashes**: Foot soldiers.
 
