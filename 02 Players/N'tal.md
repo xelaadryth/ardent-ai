@@ -25,7 +25,7 @@ Dark hazel eyes and short dark brown hair. At 4'10", he is remarkably short for 
 Distrustful and cautious, valuing patience and self-control to keep [[Pyre]] in check. Following his first oath, he is beginning to prioritize the protection of life over personal vengeance.
 
 # Background
-N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. He recently learned from the [[Undertaker]] that [[Fina]] signed the [[Aelwood Contract]] that authorized the syndicate's takeover. In [[021 The Traitor's Mark]], he inspected the gems on the [[Deepen Light]] and proposed a direct trade route to [[Varo Three-Knives]].
+N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. He recently learned from the [[Undertaker]] that [[Fina]] signed the [[Aelwood Contract]] that authorized the syndicate's takeover. In [[022 Back to Base]], he inspected the gems on the [[Deepen Light]] and proposed a direct trade route to [[Varo Three-Knives]].
 
 # Goals
 - Hunt down [[Arbiter Jalis]].

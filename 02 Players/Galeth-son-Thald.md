@@ -22,7 +22,7 @@ Traditional Shin in appearance. His clothing is often rugged and reinforced by h
 A grim fatalist who has finally found a cause worth speaking the Words for. While still soft-spoken, his commitment to protecting the weak has superseded his desire for self-punishment.
 
 # Background
-In session [[020 Warehouse Rescue]], while defending [[Jory Spadis]] from [[Adjudicator Peton]], Galeth spoke the First Ideal of the [[Orders of the Knights Radiant|Stonewards]]. In [[021 The Traitor's Mark]], he realized that [[Tash The Hound]]'s tracking devices were still present on the party via a disc found by [[Jory Spadis]].
+In session [[020 Warehouse Rescue]], while defending [[Jory Spadis]] from [[Adjudicator Peton]], Galeth spoke the First Ideal of the [[Orders of the Knights Radiant|Stonewards]]. In [[022 Back to Base]], he realized that [[Tash The Hound]]'s tracking devices were still present on the party via a disc found by [[Jory Spadis]].
 
 # First Ideal
 > Life before death. I won't let my life be defined by the child who died under my watch. I will define myself by the lives I continue to help saving. Spoken during the rescue of [[Jory Spadis]].

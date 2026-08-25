@@ -31,9 +31,9 @@ The ship maintains a veneer of civilian normalcy. The deck is often cluttered wi
 - [[Miri]]: Lookout.
 
 # Secrets
-- **[[Nurian Gems]]**: The secret hold currently contains six small, lead-lined crates filled with unstable gems destined for [[Grand Justicar Malice]] in [[Bodenar]]. In [[021 The Traitor's Mark]], [[N'tal]] inspected this bulkhead and confirmed the legitimacy of the gemstones.
+- **[[Nurian Gems]]**: The secret hold currently contains six small, lead-lined crates filled with unstable gems destined for [[Grand Justicar Malice]] in [[Bodenar]]. In [[022 Back to Base]], [[N'tal]] inspected this bulkhead and confirmed the legitimacy of the gemstones.
 
 # Connections
 - [[Varo Three-Knives]]: Master and Commander.
 - [[019 The Slipmarket Stakeout]]: The ship was identified here.
-- [[021 The Traitor's Mark]]: The party infiltrated the vessel and proposed a trade deal.
+- [[022 Back to Base]]: The party infiltrated the vessel and proposed a trade deal.

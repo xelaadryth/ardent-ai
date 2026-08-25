@@ -8,7 +8,7 @@
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
 	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
-	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help[]()
+	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help[]
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 	- *The Children of Honor cannot silence the song. The everlasting storm cannot be stopped. The end is coming.*
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
@@ -23,7 +23,10 @@
 - 
 # Upcoming
 
-- [[Dillind]] message through [[House Sathir]]
+- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
+	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
+	- Lightship Expo
+	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
 - [[The Darkstone Siege]] - Battle Prep starts at a +0 bonus
 	- Supplies - logistics talent, Lore/Deduction/Leadership
 	- Training Militia - military talent, Weaponry/Leadership
@@ -100,6 +103,7 @@
 
 <!-- SerializedQuery END -->
 
+
 # Hooks
 
 <!-- QueryToSerialize: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
@@ -111,3 +115,5 @@
 
 
 <!-- SerializedQuery END -->
+<!-- SerializedQuery: TABLE summary as "Summary", priority as "Priority", leads AS "Leads" FROM "07 Hooks" WHERE status = "active" SORT priority DESC -->
+
