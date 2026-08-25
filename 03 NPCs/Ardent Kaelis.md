@@ -20,6 +20,8 @@ Kaelis has little patience for social posturing but becomes intensely engaged wh
 # Background
 Located in [[Revolar]], Kaelis has encountered [[Iiko]]. Recognizing their unique discipline and chaotic potential, he is attempting to guide them toward a formal devotary to ground their research. He recently discussed the missing "Words of Radiance" book with [[Iiko]], unaware that his close friend [[Ardent Vedelis]]—who possessed a copy—is dead.
 
+Recently traveled on an expedition to Rathalas with Ardent Talumus and other ardents and guards to explore the ruins, but turned back due to the remaining dangers.
+
 # Goals
 - **Mentor Iiko:** Prompt [[Iiko]] to join a devotary and follow the path of a scholar.
 - **Reconstruct Lost History:** Map buried settlements hidden by crem buildup.
