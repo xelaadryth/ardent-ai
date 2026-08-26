@@ -19,7 +19,7 @@ The squad returns to the [[Darkstone Forest]] and prepares for the inevitable as
 - **The Silent Oath Unmasked:** [[Iiko]] disguised themselves as [[Istrum]] to infiltrate the [[Vamah Archivum]]. They encountered [[High Enforcer Aylen]] and confirmed that he and the real [[Istrum]] comprise the **[[Silent Oath]]**. The organization is currently seeking witnesses to Radiant powers to establish legal grounds for a full-scale purge.
 - **Transformation and Siege:** [[Kuma]] spoke his next set of Words, unlocking mastery over the surge of Transformation. He utilized excavated stone from [[Mallow]]'s tunnel construction to Soulcast massive quantities of meat and supplies. He also constructed two ballistae and a catapult, which were hidden on the roof of the [[Darkstone Forest]] base.
 - **Defensive Line:** [[Fina]] set up the surrounding woods with pit traps, briar thickets, and rigged trees. She successfully cultivated a large supply of [[Cremwidow Poison]] and blackbane without speaking new Words, though the strain on her bond with [[Verdae]] was palpable.
-- **The Deadline:** Scouting reports by [[N'tal]] indicate that the [[Truthkeepers]] and Vamah forces are gathering and will be prepared for a full assault on **1172.02.43** (1172.2.7.1).
+- **The Deadline:** Scouting reports by [[N'tal]] indicate that the [[Truthkeepers]] and Vamah forces are gathering and will be prepared for a full assault on **1172.02.7.1**.
 
 # Outcomes
 - [[Kuma]] gained full control over Transformation and crafted a new Tier 2 Unique Fabrial.

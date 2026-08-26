@@ -1,1 +1,0 @@
-Session 23 notes have been integrated. Key updates include the discovery of the 'Set' hierarchy (Grand Justicar Malice as Sequence, Rissa Vale as Array), Kuma's mastery of Transformation, and Iiko's discovery of the Silent Oath's membership (Aylen and Istrum). The Darkstone Forest base is now fully prepared for the siege on 1172.02.43.
