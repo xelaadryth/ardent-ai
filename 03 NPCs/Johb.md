@@ -13,10 +13,10 @@ location: "[[Shadesmar]]"
 ---
 
 # Description
-A Malwish Iron Misting (Lurcher) and Lieutenant within the [[Bloodmarks]] who views the democratization of Investiture through artifabrial technology as a philosophical necessity. He fights with the calculated unpredictability of a rogue, often throwing his rapier or dagger to distract opponents before pulling them back through his enemies with Allomancy.
+A Malwish Iron Misting (Lurcher) and Corsair (Suit) within the [[Bloodmarks]] who views the democratization of Investiture through artifabrial technology as a philosophical necessity. He fights with the calculated unpredictability of a rogue, often throwing his rapier or dagger to distract opponents before pulling them back through his enemies with Allomancy.
 
 # Appearance
-Johb is slight and unassuming despite his 6 foot height, looking more like a common laborer than a Lieutenant. His Malwish mask is a utilitarian piece of dark iron with simple horizontal slits for eyes. He wears a simple leather tactical vest with numerous knives within. He wears light, Scadrian-style boots with thin soles.
+Johb is slight and unassuming despite his 6 foot height, looking more like a common laborer than a Lieutenant. His Malwish mask is a utilitarian piece of dark iron covering his whole face, with simple horizontal slits eyes, nose, and mouth. He wears a dark leather tactical vest with numerous knives within. He wears light, Scadrian-style boots with thin soles.
 
 # Personality
 Johb possesses a joking and taunting demeanor, yet he is a philosopher at heart. Quick to smile, quick to frown. He is driven by the belief that Stormlight and fabrials should be accessible to all, not just the Rosharan elite. He is particularly focused on acquiring [[Kuma]]'s Prized Fabrial, convinced he can unlock its true potential.
