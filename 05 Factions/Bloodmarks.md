@@ -11,12 +11,23 @@ last_updated: 2024-07-01T12:00:00
 # Description
 A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper branch, primarily composed of Scadrian exiles, operates a pirate fleet in the bead-seas of [[Shadesmar]]. The Bloodmarks are the Rosharan branch of **[[The Set]]**, and work for Trell (Autonomy).
 
-# Structure
-- **The Set:** The parent interplanetary organization.
-- **Sequence:** High-ranking leaders like [[Grand Justicar Malice]] who manage interplanetary logistics. Equivalent to a "Suit".
-- **Array:** Lieutenants and specialists like [[Arbiter Rissa Vale]]. Equivalent to a "Corsair".
-- **Hand**: Sergeants.
+# Structure (Bloodmarks)
+
+- **Grand Justicar:** 3 Leaders of the Bloodmarks, Sequence, Suit
+- **Corsair**: Bloodmark captain (interplanetary) - Suit
+- **Arbiter:** Bloodmark lieutenants - Array
+- **Hand**: Sergeants - Tash, Varo
 - **Lashes**: Foot soldiers.
+# Structure (Set)
+The parent interplanetary organization of the Bloodmarks.
+
+- **The Key**: Leader of The Set
+- **Series:** Report directly to The Key.
+- **Sequence:** High-ranking leaders like [[Grand Justicar Malice]] who manage interplanetary logistics.
+- **Suit:** Another high rank, like [[Marcus]], [[Johb]], [[Kaizen]]. Equivalent to a Corsair.
+- **Array:** Lieutenants and specialists like [[Arbiter Rissa Vale]].
+- **Cycle:** Lowest formal rank. [[Tash The Hound]], [[Varo Three-Knives]]
+
 
 # Goals
 - **Interplanetary Smuggling:** Exploiting perpendicularities to trade [[Nurian Gems]] and specialized Rosharan spren-fabrials.
