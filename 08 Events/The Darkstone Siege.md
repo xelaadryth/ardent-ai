@@ -15,9 +15,10 @@ fc-date: 1172-02-32
 The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The Vamah Guard and [[Truthkeepers]] assault the insurgency's base.
 
 - Party can prepare outside battlefield and caves
-- Weak and drafted darkeyes kept in check with blackmail and kidnapped family members lead the charge as cannon fodder, activating traps but are welcomed into the civilian ranks
-- Bloodmarks mercenaries harrass and bother
-- The Truthkeepers lead the initial assault as mercenaries used by the Vamah princedom
+- Weak and drafted darkeyed prisoners lead the charge as cannon fodder, activating traps but are welcomed into the civilian ranks
+- Bloodmarks mercenaries harrass and bother, but also don't want to commit, scouting missed them
+- Vamah Guard march slowly, small cavalry force wait for an opportunity
+- The Truthkeepers are a specialized strike force, use Shardblade to carve holes in the wall for Vamah guards to enter
 - Interactives
 	- Protect [[General Spade]] from archers, nets, heal him
 	- [[Khria]] comes in with illusions to scare off enemies, duplicates of Spade

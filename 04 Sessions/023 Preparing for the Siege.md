@@ -15,10 +15,10 @@ The squad returns to the [[Darkstone Forest]] and prepares for the inevitable as
 # Events
 - **Munitions Raid:** [[Galeth-son-Thald]] conducted a successful raid on a [[Vamah Princedom]] warehouse to secure necessities and munitions. To misdirect investigation, [[Mallow]] utilized her surges to leave behind "Shardblade" marks and evidence framing the [[Truthkeepers]] for the theft. 
 - **The Ghostblood Discord:** [[N'tal]] met with [[Sweeper]] and eventually [[Chip]] at the [[Gemheart Inn]]. [[Chip]] revealed he had been ordered to ambush the party, but [[N'tal]] convinced him to share intelligence regarding the [[Bloodmarks]] instead. The [[Ghostbloods]] seek the party's help in disrupting the [[Bloodmarks]] and their parent organization, [[The Set]].
-- **Hierarchy of the Set:** Intelligence confirms that [[Grand Justicar Malice]] is a **Sequence** within the Set, while [[Arbiter Rissa Vale]] holds the rank of **Array** (equivalent to a Corsair).
+- **Hierarchy of the Set:** Intelligence confirms that [[Grand Justicar Malice]] is a **Sequence** within the Set, while [[Arbiter Rissa Vale]] holds the rank of **Array**.
 - **The Silent Oath Unmasked:** [[Iiko]] disguised themselves as [[Istrum]] to infiltrate the [[Vamah Archivum]]. They encountered [[High Enforcer Aylen]] and confirmed that he and the real [[Istrum]] comprise the **[[Silent Oath]]**. The organization is currently seeking witnesses to Radiant powers to establish legal grounds for a full-scale purge.
 - **Transformation and Siege:** [[Kuma]] spoke his next set of Words, unlocking mastery over the surge of Transformation. He utilized excavated stone from [[Mallow]]'s tunnel construction to Soulcast massive quantities of meat and supplies. He also constructed two ballistae and a catapult, which were hidden on the roof of the [[Darkstone Forest]] base.
-- **Defensive Line:** [[Fina]] set up the surrounding woods with pit traps, briar thickets, and rigged trees. She successfully cultivated a large supply of [[Cremwidow Poison]] and blackbane without speaking new Words, though the strain on her bond with [[Verdae]] was palpable.
+- **Defensive Line:** [[Fina]] set up the surrounding woods with pit traps, briar thickets, and rigged trees. She successfully cultivated a large supply blackbane without speaking the Words.
 - **The Deadline:** Scouting reports by [[N'tal]] indicate that the [[Truthkeepers]] and Vamah forces are gathering and will be prepared for a full assault on **1172.02.7.1**.
 
 # Outcomes
