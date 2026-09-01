@@ -19,13 +19,14 @@
 - Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
 - Talking with Varo Three-Knives
 - John Bloodmark
+- Killing off the Truthkeeper Shardbearer, were you caught in the throes of The Thrill?
 # Notes
 - Galeth: Militia Training Expertise
 - N'tal: Scouting Expertise
-- Iiko: Myths Expertise
+- Mallow: Tunneling Expertise
 - Fina: High grade Poison Expertise, as much poison as you want to carry on you
 - Kuma: Siege Weaponry Crafting Expertise
-- Mallow: Tunneling Expertise
+- Iiko: Myths Expertise
 # Upcoming
 
 - [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
