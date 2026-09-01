@@ -29,10 +29,7 @@
 - Iiko: Myths Expertise
 # Upcoming
 
-- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
-	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
-	- Lightship Expo
-	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
+- 
 - [[The Darkstone Siege]] - Battle Prep starts at a +0 bonus
 	- Supplies - logistics talent, Lore/Deduction/Leadership
 	- Training Militia - military talent, Weaponry/Leadership
@@ -50,6 +47,10 @@
 		- Traps for Shardbearers; cutting hole in the gate since cave walls are too thick
 	- Plans for the Silent Oath
 		- Escape route
+- - [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
+	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
+	- Lightship Expo
+	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
 - City Missions
 	- Make money
 		- Selling darkstone, labor intensive to fell the trees to harvest the darkwood trees inside through merchant contact Breelie
