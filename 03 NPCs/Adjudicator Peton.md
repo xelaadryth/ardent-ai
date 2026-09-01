@@ -1,6 +1,6 @@
 ---
 type: npc
-status: dead
+status: completed
 tags:
   - "#npc"
   - "#lighteyed"

@@ -1,5 +1,5 @@
 - Current Arc: [[02 Knights of Dusk Arc]]
-- Last Session: [[023 Preparing for the Siege]]
+- Last Session: [[024 To Kill a Shardbearer]]
 # Reminders
 - "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
 - [Emotionspren, naturespren, cousinspren](https://coppermind.net/wiki/Spren)
@@ -25,22 +25,20 @@
 - N'tal: Scouting Expertise
 - Mallow: Tunneling Expertise
 - Fina: High grade Poison Expertise, as much poison as you want to carry on you
-- Kuma: Siege Weaponry Crafting Expertise
-- Iiko: Myths Expertise
+- **Kuma: Siege Weaponry Crafting Expertise**
+- **Iiko: Myths Expertise**
 # Upcoming
 
-- 
-- [[The Darkstone Siege]] - Battle Prep starts at a +0 bonus
-	- Supplies - logistics talent, Lore/Deduction/Leadership
-	- Training Militia - military talent, Weaponry/Leadership
-	- Recruitment - Able-bodied men that hate the [[Bloodmarks]] in [[Revolar]] and corruption in [[Vamah Princedom]] and want to support [[General Spade]] who was beloved by the people
-	- Refugees - People that believe in the cause but can't help fight, women and children
-	- Evacuation - destination for the refugees, need boats or at least supplies and a route
+- - [[The Darkstone Siege]] 
+	- Bloodmarks were hidden among the refugees, they barricaded themselves in the guard rooms and even opened the gate. Many of the more experienced soldiers leading the militia were lost as [[General Spade]] and [[Khria]] fought their way through.
+		- They've started using nets and other distractions to slow down [[General Spade]], the Bloodmarks using harrying tactics and archers and trying to avoid fights.
+		- Seems like they were waiting for reinforcements but they ran off
+		- Many Bloodmarks escaped with the stockpiles of spheres. Stormlight-infused spheres
 	- Plans for General Odrin Lesh
 		- Counter cavalry charges by felling darkstone trees, setting up trenches, bramble, shaping the ground
 		- Set up crem bogs and rainwater areas
 	- Plans for Bloodmarks
-		- Go after the civilians to take them as slaves, cause havoc and split defenses, not in regular military areas, harrying harassment/ambush/archers
+		- Go after the civilians, cause havoc and split defenses, not in regular military areas, harrying harassment/ambush/archers
 		- [[Deepen Light]] (hidden as River Rider) smugglers returns with Varo and flanks with hidden ballistae
 	- Plans for Truthkeepers
 		- They still think it's fabrials, starting to doubt, [[High Enforcer Aylen]] isn't suspicious but [[Istrum]] is interested and will protect [[Ojog]] due to Fortune
