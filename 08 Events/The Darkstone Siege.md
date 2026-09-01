@@ -14,8 +14,12 @@ fc-date: 1172-02-32
 # Description
 The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The Vamah Guard and [[Truthkeepers]] assault the insurgency's base.
 
+Beric returns to base, wounded and haggard. "It's as we thought. They're coming. And they know we know they're coming. I couldn't get their numbers; they somehow already knew about me. Hats off to their Spymaster." ... Some drafted darkeyes help him to the surgeon's station deeper in the hideout.
+
 - Party can prepare outside battlefield and caves
 - Weak and drafted darkeyed prisoners lead the charge as cannon fodder, activating traps but are welcomed into the civilian ranks
+	- A rumbling comes from the distance. As it comes closer, General Spade says "the archers aren't firing..." As if on cue, a runner comes up through the pricklebushes, heedless of the scratches. "They're herding darkeyed in front of their forces. The archers don't want to shoot our own!"
+	- But screams pierce the Darkstone Forest anyway.
 - Bloodmarks mercenaries harrass and bother, but also don't want to commit, scouting missed them
 - Vamah Guard march slowly, small cavalry force wait for an opportunity
 - The Truthkeepers are a specialized strike force, use Shardblade to carve holes in the wall for Vamah guards to enter

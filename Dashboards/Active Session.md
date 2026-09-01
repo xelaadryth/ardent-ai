@@ -8,7 +8,7 @@
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
 	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
-	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help[]
+	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 	- *The Children of Honor cannot silence the song. The everlasting storm cannot be stopped. The end is coming.*
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
