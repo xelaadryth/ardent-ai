@@ -7,15 +7,22 @@ tags:
   - "#truthkeeper"
   - "#enforcer"
   - "#assassin"
-last_updated: 2024-06-28T12:00:00
+  - "#shardbearer"
+  - "#radiant"
+last_updated: 2024-07-02T12:00:00
 faction: "[[Truthkeepers]]"
 location: "[[Revolar]]"
 ---
 # Description
-A towering Truthkeeper Enforcer whose hatred for the party has reached a fever pitch following their public defection.
+A towering [[Truthkeepers]] Enforcer and newly ascended Shardbearer who has spoken the First Ideal of the Radiants while serving the Silent Oath.
 
 # History
-In [[020 Warehouse Rescue]], Ojog arrived with [[Truthkeepers]] reinforcements at the abandoned warehouse. He directly witnessed the party's betrayal of [[Adjudicator Peton]], accusing them of abandoning their oaths and their homeland of [[Nuria]]. He led the secondary assault that forced the party into a desperate retreat.
+In [[024 To Kill a Shardbearer]], Ojog witnessed the execution of [[Adjudicator Peton]]. Driven by grief and a commitment to his version of the law, he spoke the First Ideal ("Life before death...") and claimed Peton's Shardblade, using it to down [[Galeth-son-Thald]].
+
+# Actions
+- name: "Strike: Shardblade"
+  desc: "Attack +8, reach 5 ft., one target. Graze: 9 (2d8) spirit damage. Hit: 2d8+8 spirit damage. Injury table 16+ temporary injury until end of day, 1-15 permanent injury, 0 death."
 
 # Connections
-- [[Fina]]: Accused him of betraying his heritage during the warehouse confrontation.
+- [[Adjudicator Peton]]: His fallen mentor whose blade he now carries.
+- [[Galeth-son-Thald]]: His primary rival whom he defeated during the siege.

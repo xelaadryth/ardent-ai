@@ -1,22 +1,23 @@
 ---
 type: npc
-status: active
+status: dead
 tags:
   - "#npc"
   - "#lighteyed"
   - "#alethi"
   - "#adjudicator"
   - "#traditionalist"
-last_updated: 2024-06-28T12:00:00
+  - "#dead"
+last_updated: 2024-07-02T12:00:00
 faction: "[[Truthkeepers]]"
 location: "[[Revolar]]"
 ---
 # Description
-A high-ranking Truthkeeper official who was severely wounded during the rescue of [[Jory Spadis]].
+A high-ranking [[Truthkeepers]] official who was executed by the party during the siege of the [[Darkstone Forest]].
 
 # Background
-In [[020 Warehouse Rescue]], Peton attempted to execute the "Possessed" Jory Spadis to force information from the insurgency. He was engaged in combat by [[Galeth-son-Thald]] and wounded by a poisoned arrow from [[Fina]]. The betrayal of his unit has hardened his resolve to eliminate the party.
+In [[020 Warehouse Rescue]], Peton attempted to execute [[Jory Spadis]]. He was eventually killed in [[024 To Kill a Shardbearer]] while leading the assault on the [[Knights of Dusk]] headquarters. His Shardblade was claimed by [[Ojog]] following his death.
 
 # Connections
-- [[Ojog]]: His loyal enforcer who rescued him from the warehouse.
-- [[Galeth-son-Thald]]: The man who held him at bay during the raid.
+- [[Ojog]]: His loyal enforcer who eventually claimed his Shardblade.
+- [[Galeth-son-Thald]]: The man who held him at bay during the raid and participated in his execution.

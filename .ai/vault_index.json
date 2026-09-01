@@ -165,14 +165,17 @@
         "[[017 The Final Enforcement]]",
         "[[018 Finding the Traitor]]",
         "[[019 The Slipmarket Stakeout]]",
-        "[[020 Warehouse Rescue]]"
+        "[[020 Warehouse Rescue]]",
+        "[[021 Stowaways]]",
+        "[[022 Back to Base]]",
+        "[[023 Preparing for the Siege]]"
       ],
       "tags": [
         "#arc",
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2024-06-28T12:00:00"
+      "last_updated": "2024-07-01T12:00:00"
     },
     "03 Shadesmar Arc": {
       "type": "arc",
@@ -310,11 +313,12 @@
       "status": "active",
       "links": [
         "[[Dreamwaker]]",
-        "[[Revolar]]",
-        "[[Ardent Kaelis]]",
-        "[[017 The Final Enforcement]]",
-        "[[018 Finding the Traitor]]",
-        "[[Renna Palir]]"
+        "[[023 Preparing for the Siege]]",
+        "[[Istrum]]",
+        "[[Vamah Archivum]]",
+        "[[High Enforcer Aylen]]",
+        "[[Silent Oath]]",
+        "[[Knights of Dusk]]"
       ],
       "tags": [
         "#player",
@@ -322,17 +326,16 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2026-06-16T15:00:00"
+      "last_updated": "2024-07-01T12:00:00"
     },
     "Kuma": {
       "type": "player",
       "status": "active",
       "links": [
         "[[Viscose]]",
+        "[[023 Preparing for the Siege]]",
+        "[[Knights of Dusk]]",
         "[[Higuma]]",
-        "[[Tomat]]",
-        "[[Nurian Gems]]",
-        "[[Bodenar]]",
         "[[Vorn]]"
       ],
       "tags": [
@@ -341,7 +344,7 @@
         "#nurian",
         "#maker"
       ],
-      "last_updated": "2026-06-16T15:00:00"
+      "last_updated": "2024-07-01T12:00:00"
     },
     "Mallow": {
       "type": "player",
@@ -367,18 +370,14 @@
       "status": "active",
       "links": [
         "[[Pyre]]",
-        "[[The Shining Quill]]",
-        "[[Sun's Zenith]]",
-        "[[Slipmarket]]",
         "[[Bloodmarks]]",
-        "[[Undertaker]]",
-        "[[Fina]]",
-        "[[Aelwood Contract]]",
-        "[[022 Back to Base]]",
-        "[[Deepen Light]]",
-        "[[Varo Three-Knives]]",
+        "[[023 Preparing for the Siege]]",
+        "[[Chip]]",
+        "[[The Set]]",
+        "[[Ghostbloods]]",
         "[[Arbiter Jalis]]",
-        "[[Zabriel]]"
+        "[[Grand Justicar Malice]]",
+        "[[Fina]]"
       ],
       "tags": [
         "#player",
@@ -386,7 +385,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2024-06-30T12:00:00"
+      "last_updated": "2024-07-01T12:00:00"
     },
     "Adjudicator Peton": {
       "type": "npc",
@@ -616,9 +615,13 @@
         "[[Ghostbloods]]",
         "[[Revolar]]",
         "[[Truthkeepers]]",
-        "[[The Cinder Evacuation]]",
-        "[[Karani]]",
-        "[[Highlord Paladar]]"
+        "[[Highlord Paladar]]",
+        "[[023 Preparing for the Siege]]",
+        "[[Gemheart Inn]]",
+        "[[N'tal]]",
+        "[[Bloodmarks]]",
+        "[[The Set]]",
+        "[[Karani]]"
       ],
       "tags": [
         "#npc",
@@ -628,7 +631,7 @@
         "#spy",
         "#noble"
       ],
-      "last_updated": "2026-05-18T12:00:00"
+      "last_updated": "2024-07-01T12:00:00"
     },
     "Citylord Nilar Yenev": {
       "type": "npc",
@@ -2398,22 +2401,59 @@
       ],
       "last_updated": "2024-06-30T12:00:00"
     },
+    "023 Preparing for the Siege": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Darkstone Forest]]",
+        "[[Truthkeepers]]",
+        "[[Galeth-son-Thald]]",
+        "[[Vamah Princedom]]",
+        "[[Mallow]]",
+        "[[N'tal]]",
+        "[[Sweeper]]",
+        "[[Chip]]",
+        "[[Gemheart Inn]]",
+        "[[Bloodmarks]]",
+        "[[Ghostbloods]]",
+        "[[The Set]]",
+        "[[Grand Justicar Malice]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[Iiko]]",
+        "[[Istrum]]",
+        "[[Vamah Archivum]]",
+        "[[High Enforcer Aylen]]",
+        "[[Silent Oath]]",
+        "[[Kuma]]",
+        "[[Fina]]",
+        "[[Knights of Dusk]]"
+      ],
+      "tags": [
+        "#session",
+        "#investigation",
+        "#combat",
+        "#preparation"
+      ],
+      "last_updated": "2024-07-01T12:00:00"
+    },
     "Bloodmarks": {
       "type": "faction",
       "status": "active",
       "links": [
         "[[Shadesmar]]",
-        "[[Ghostbloods]]",
+        "[[The Set]]",
         "[[Grand Justicar Malice]]",
-        "[[Scadrian Mechanics|Metallic Arts]]",
-        "[[Nurian Gems]]",
-        "[[Arbiter Jalis]]",
-        "[[Arbiter Rissa Vale]]",
-        "[[Varo Three-Knives]]",
+        "[[Marcus]]",
         "[[Johb]]",
         "[[Kaizen]]",
-        "[[Meki-son-Vara]]",
-        "[[Tash The Hound]]"
+        "[[Arbiter Rissa Vale]]",
+        "[[Tash The Hound]]",
+        "[[Varo Three-Knives]]",
+        "[[Nurian Gems]]",
+        "[[Ghostbloods]]",
+        "[[Arbiter Jalis]]",
+        "[[Meki-son-Vara]]"
       ],
       "tags": [
         "#faction",
@@ -2421,7 +2461,7 @@
         "#worldhopping",
         "#piracy"
       ],
-      "last_updated": "2024-06-25T14:00:00"
+      "last_updated": "2024-07-01T12:00:00"
     },
     "Envisagers": {
       "type": "faction",
@@ -2515,15 +2555,15 @@
       "status": "active",
       "links": [
         "[[Truthkeepers]]",
-        "[[High Enforcer Aylen]]",
         "[[Knights of Dusk]]",
+        "[[High Enforcer Aylen]]",
         "[[Istrum]]",
         "[[Helaran]]"
       ],
       "tags": [
         "#faction"
       ],
-      "last_updated": "2024-06-05T09:00:00"
+      "last_updated": "2024-07-01T12:00:00"
     },
     "Sons of Honor": {
       "type": "faction",
@@ -2666,13 +2706,17 @@
       "status": "active",
       "links": [
         "[[Revolar]]",
-        "[[Knights of Dusk]]"
+        "[[Knights of Dusk]]",
+        "[[023 Preparing for the Siege]]",
+        "[[Mallow]]",
+        "[[Kuma]]",
+        "[[Truthkeepers]]"
       ],
       "tags": [
         "#location",
         "#revolar"
       ],
-      "last_updated": "2026-05-15T12:00:00"
+      "last_updated": "2024-07-01T12:00:00"
     },
     "Deepen Light": {
       "type": "location",
