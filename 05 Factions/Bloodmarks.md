@@ -14,18 +14,18 @@ A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper 
 # Structure (Bloodmarks)
 
 - **Grand Justicar:** 3 Leaders of the Bloodmarks, Sequence
-- **Corsair**: Bloodmark captain/general - Suit
-- **Arbiter:** Bloodmark lieutenants - Array
-- **Hand**: Sergeants - Tash, Varo - Cycle
+- **Corsair**: Bloodmark captain/general - Array-ish
+- **Arbiter:** Bloodmark lieutenants - Cycle-ish
+- **Hand**: Sergeants - Tash, Varo
 - **Lashes**: Foot soldiers.
 # Structure (Set)
 The parent interplanetary organization of the Bloodmarks.
 
 - **The Key**: Leader of The Set
 - **Series:** Report directly to The Key.
-- **Sequence:** High-ranking leaders like [[Grand Justicar Malice]] who manage interplanetary logistics.
+- **Sequence:** High-ranking leaders like [[Grand Justicar Malice]] but don't report directly to the Key.
 - **Suit:** Another high rank, like [[Marcus]], [[Johb]], [[Kaizen]]. Equivalent to a Corsair.
-- **Array:** Lieutenants and specialists like [[Arbiter Rissa Vale]].
+- **Array:** Lieutenants and specialists like [[Arbiter Rissa Vale]], outside the chain of command.
 - **Cycle:** Lowest formal rank. [[Tash The Hound]], [[Varo Three-Knives]]
 
 
