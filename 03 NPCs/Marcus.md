@@ -11,6 +11,8 @@ location: "[[Revolar]]"
 ---
 
 # Description
+Often called simply "Mr. Suit" referring to his manner of dress.
+
 A semi-retired worldhopping bounty hunter from Vedenar who is always well-dressed in a suit and tie, seemingly without a speck of dust, and has an air of smiling professionalism.
 
 He was promoted to be a Suit of the Set due to his skill with a Shardblade.
