@@ -10,7 +10,8 @@
 	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
 	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
-	- *The Children of Honor cannot silence the song. The everlasting storm cannot be stopped. The end is coming.*
+	- They named it the ~~Final~~ Last Desolation, but they lied. Our gods lied. Oh, how they lied. The ~~Everstorm~~ false storm comes. I hear its whispers, see its stormwall, know its heart.
+	- *The Orders' final march brought them to Feverstone Keep, and we were thus silently betrayed. Hundreds of Shardblades surrendered... and so much death in the ensuing confusion. But even worse, 9 of the 10 left, never to return.*
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
 - Shame that Senny, Neval, Cazo, and Hine were captured, no?
@@ -21,15 +22,11 @@
 - John Bloodmark
 - Killing off the Truthkeeper Shardbearer, were you caught in the throes of The Thrill?
 # Notes
-- Galeth: Militia Training Expertise
-- N'tal: Scouting Expertise
-- Mallow: Tunneling Expertise
-- Fina: High grade Poison Expertise, as much poison as you want to carry on you
 - **Kuma: Siege Weaponry Crafting Expertise**
 - **Iiko: Myths Expertise**
 # Upcoming
 
-- - [[The Darkstone Siege]] 
+- [[The Darkstone Siege]] 
 	- Bloodmarks were hidden among the refugees, they barricaded themselves in the guard rooms and even opened the gate. Many of the more experienced soldiers leading the militia were lost as [[General Spade]] and [[Khria]] fought their way through.
 		- They've started using nets and other distractions to slow down [[General Spade]], the Bloodmarks using harrying tactics and archers and trying to avoid fights.
 		- Seems like they were waiting for reinforcements but they ran off

@@ -19,8 +19,8 @@ Italics are custom, strike-through is simplified:
 - The death is my life, the strength becomes my weakness, the journey has ended.
 - The burdens of nine become mine. Why must I carry the madness of them all? Oh, Almighty, release me.
 - ~~Three of sixteen ruled, but now the Broken One reigns. _Odium reigns._~~
-- _He says I must unite them, unite them. Build of my people a fortress of strength and peace, but what must I do?_
-- *The Children of Honor cannot silence the song. The storm will come. Odium returns.*
+- _He says I must unite them, unite them. Build a fortress of strength and peace, but how?
+-  ~~*The Children of Honor cannot silence the song. The everlasting storm cannot be stopped. The end is coming.*~~
 - The love of men is a frigid thing, a mountain stream only three steps from the ice. We are his. Oh Stormfather... we are his~~. It is but a thousand days~~, and the Everstorm comes.
 - Above the final void I hang, friends behind, friends before. The feast I must drink clings to their faces, and the words I must speak spark in my mind. The old oaths will be spoken anew.
 - I have seen the end, and have heard it named. The Night of Sorrows, the True Desolation. The Everstorm.

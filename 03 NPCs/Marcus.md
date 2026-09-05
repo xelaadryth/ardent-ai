@@ -11,10 +11,14 @@ location: "[[Revolar]]"
 ---
 
 # Description
-A semi-retired worldhopping bounty hunter who is always well-dressed in a suit and tie, seemingly without a speck of dust, and has an air of smiling professionalism.
+A semi-retired worldhopping bounty hunter from Vedenar who is always well-dressed in a suit and tie, seemingly without a speck of dust, and has an air of smiling professionalism.
+
+He was promoted to be a Suit of the Set due to his skill with a Shardblade.
 
 # Appearance
-Marcus has heterochromia, one deep blue eye, one deep red eye. He is cleanshaven, and wears his short white hair slicked back. A jagged scar rips from the corner of his left eye down to his jawline, marring his otherwise smooth face. He carries a small Shard-resistant buckler (aluminum) in his suit, and scarred from a dozen near-fatal encounters.
+Marcus has heterochromia, one deep blue eye, one deep red eye. He is cleanshaven, and wears his short white hair slicked back. A jagged scar rips from the corner of his left eye down to his jawline, marring his otherwise smooth face. He carries a small Shard-resistant buckler (aluminum) in his suit, and is scarred from a dozen near-fatal encounters.
+
+Has a slight Veden accent.
 
 # Personality
 Deeply pessimistic and nihilistic. Marcus has given up on his own values and views the world with a bleak fatalism. He tells himself that by killing his targets, he is saving them from the harshness of a lonely life like his own. He considers death by a Shardblade to be a clean and merciful end. But he doesn't let that come across in his facial expressions, always trying to maintain a professional service attitude.

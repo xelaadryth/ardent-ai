@@ -41,5 +41,6 @@ The parent interplanetary organization of the Bloodmarks.
 - [[Varo Three-Knives]]
 - [[Johb]]
 - [[Kaizen]]
+- [[Marcus]]
 - [[Meki-son-Vara]]
 - [[Tash The Hound]]
