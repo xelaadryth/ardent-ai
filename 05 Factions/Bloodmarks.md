@@ -19,7 +19,7 @@ A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper 
 - **Hand**: Sergeants - Tash, Varo
 - **Lashes**: Foot soldiers.
 # Structure (Set)
-The parent interplanetary organization of the Bloodmarks.
+The parent interplanetary organization of the Bloodmarks, and an interplanetary division of the Set parallel to the one in Elendel basin. Are charged with delivering the "men of gold and red", the "bearers of the final metal." Golden skin, glowing red eyes, living statues bearing firearms.
 
 - **The Key**: Leader of The Set
 - **Series:** Report directly to The Key.
