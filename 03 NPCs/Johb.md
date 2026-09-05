@@ -15,7 +15,7 @@ location: "[[Shadesmar]]"
 # Description
 A Malwish Iron Misting (Lurcher) and Corsair (Suit) within the [[Bloodmarks]] who views the democratization of Investiture through Nahel bonds and artifabrial technology as a philosophical necessity. He fights with the calculated unpredictability of a rogue, often throwing his knives to distract opponents before pulling them back through his enemies with Allomancy.
 
-He worked his way up to becoming a Suit of the Set due to hard work.
+He worked his way up to becoming a Suit of the Set due to hard work, but is kept from rising higher because of his morals. He is smart and crafty, but can be turned to the side of good. Corrupted by his spike and hears the voice of Trell.
 
 # Appearance
 Johb appears slight and unassuming despite his 6 foot height and toned muscle, looking more like a common laborer than a Lieutenant. His Malwish mask is a utilitarian piece of dark iron covering his whole face, with simple horizontal slits eyes, nose, and mouth. A short length of chain can be seen around his neck. He wears a dark leather tactical vest with numerous knives within, bearing many perforations. He wears light, Scadrian-style boots with thin soles.
