@@ -42,6 +42,8 @@
 		- Traps for Shardbearers; cutting hole in the gate since cave walls are too thick
 	- Plans for the Silent Oath
 		- Escape route
+- Nalan send us aid
+	- Silent Oath arrives, 20 Shardblades
 - - [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
 	- Lightship Expo

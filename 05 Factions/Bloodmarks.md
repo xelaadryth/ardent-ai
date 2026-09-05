@@ -13,10 +13,10 @@ A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper 
 
 # Structure (Bloodmarks)
 
-- **Grand Justicar:** 3 Leaders of the Bloodmarks, Sequence, Suit
-- **Corsair**: Bloodmark captain (interplanetary) - Suit
+- **Grand Justicar:** 3 Leaders of the Bloodmarks, Sequence
+- **Corsair**: Bloodmark captain/general - Suit
 - **Arbiter:** Bloodmark lieutenants - Array
-- **Hand**: Sergeants - Tash, Varo
+- **Hand**: Sergeants - Tash, Varo - Cycle
 - **Lashes**: Foot soldiers.
 # Structure (Set)
 The parent interplanetary organization of the Bloodmarks.
