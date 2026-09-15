@@ -23,6 +23,8 @@
 - Killing off the Truthkeeper Shardbearer, were you caught in the throes of The Thrill?
 # Notes
 - **Kuma: Siege Weaponry Crafting Expertise**
+	- Bag of unknown metal disks if you want it
+	- Tash the Hound's spikes
 - **Iiko: Myths Expertise**
 # Upcoming
 
