@@ -35,17 +35,22 @@
 - [[Hoid]] on the ship
 	- [[The Mink and the Axehounds]]
 - [[Varo Three-Knives]] on the [[Deepen Light]] (disguised as the River Rider)
+	- [[Gath]]
+	- [[Teks]]
+	- [[Miri]]
 - [[Arbiter Rissa Vale]] boarded the ship and turned it around from Kholinar to salvage the situation.
 - Also on the ship:
 	- [[Vorn]] (artificer)
 	- [[03 NPCs/Dahmian|Dahmian]]
 	- [[Beric Quinn]] (injured)
 	- [[Nathaniel]] who jumps ship when he realizes the danger, gonna go defend [[Jory Spadis]] with [[Kaz]]
-- [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
-	- [[Varo Three-Knives]]
-		- [[Gath]]
-		- [[Teks]]
-		- [[Miri]]
+- Shadesmar spren
+	- Painspren (grinders)
+		- Usually harmless in the Physical Realm
+		- Dangerous, aggressive, screech violently (beast trumping like breaking glass) when drawn to strong physical or emotional distress, can swarm and attack travelers
+		- Non-canon, look like little humanoid gingerbread men with huge hands
+	- Angerspren
+		- Loud screeching noises, saliva pooling and drooling in the physical realm
 ## Other
 - [[03 Shadesmar Arc]] - Bloodmark Corsairs
 	- [[Arbiter Rissa Vale]] (Array of the Set)

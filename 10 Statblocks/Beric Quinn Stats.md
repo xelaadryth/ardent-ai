@@ -55,5 +55,6 @@ npc: "[[Beric Quinn]]"
 
 ```statblock
 layout: Cosmere
-monster: Beric Quinn
+monster: Bloodmark Corsair
 ```
+
