@@ -132,8 +132,8 @@
         "[[Dillind]]",
         "[[Morrow]]",
         "[[Morrow's Execution]]",
-        "[[The Shellmite Attack]]",
         "[[Nurian Arrival]]",
+        "[[The Shellmite Attack]]",
         "[[000 Arrival]]",
         "[[001 First Blood]]",
         "[[002 Whitespine]]",
@@ -154,7 +154,7 @@
     },
     "02 Knights of Dusk Arc": {
       "type": "arc",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Revolar]]",
         "[[012 Following Chip]]",
@@ -169,18 +169,19 @@
         "[[021 Stowaways]]",
         "[[022 Back to Base]]",
         "[[023 Preparing for the Siege]]",
-        "[[024 To Kill a Shardbearer]]"
+        "[[024 To Kill a Shardbearer]]",
+        "[[025 The Fall of the Darkstone Forest]]"
       ],
       "tags": [
         "#arc",
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2024-07-02T12:00:00"
+      "last_updated": "2026-07-02T12:00:00"
     },
     "03 Shadesmar Arc": {
       "type": "arc",
-      "status": "planned",
+      "status": "active",
       "links": [
         "[[Silent Oath]]",
         "[[The Darkstone Siege]]",
@@ -206,23 +207,6 @@
       ],
       "last_updated": "2026-06-16T12:00:00"
     },
-    "03 Stormblessed Arc": {
-      "type": "arc",
-      "status": "inactive",
-      "links": [
-        "[[03 Shadesmar Arc]]",
-        "[[Tien]]",
-        "[[Kaladin]]",
-        "[[The Darkstone Siege]]",
-        "[[Tomat]]"
-      ],
-      "tags": [
-        "#arc",
-        "#stormblessed",
-        "#superseded"
-      ],
-      "last_updated": "2026-06-15T10:00:00"
-    },
     "04 Nurian Gems Arc": {
       "type": "arc",
       "status": "planned",
@@ -243,6 +227,23 @@
         "#nurian_gems"
       ],
       "last_updated": "2024-05-30T12:00:00"
+    },
+    "04 Stormblessed Arc": {
+      "type": "arc",
+      "status": "inactive",
+      "links": [
+        "[[03 Shadesmar Arc]]",
+        "[[Tien]]",
+        "[[Kaladin]]",
+        "[[The Darkstone Siege]]",
+        "[[Tomat]]"
+      ],
+      "tags": [
+        "#arc",
+        "#stormblessed",
+        "#superseded"
+      ],
+      "last_updated": "2026-06-15T10:00:00"
     },
     "05 Kharbranth Infiltration Arc": {
       "type": "arc",
@@ -832,11 +833,14 @@
         "[[Revolar]]",
         "[[Possessed]]",
         "[[Knights of Dusk]]",
+        "[[Darkstone Forest]]",
         "[[General Spade]]",
         "[[Khria]]",
         "[[High Witness Yeshan]]",
         "[[Istrum]]",
-        "[[Morrow]]"
+        "[[Morrow]]",
+        "[[Ojog]]",
+        "[[Silent Oath]]"
       ],
       "tags": [
         "#npc",
@@ -845,7 +849,7 @@
         "#herald",
         "#high_enforcer"
       ],
-      "last_updated": "2024-05-19T12:00:00"
+      "last_updated": "2026-07-02T12:00:00"
     },
     "High Witness Yeshan": {
       "type": "npc",
@@ -2474,6 +2478,39 @@
         "#shardbearer"
       ],
       "last_updated": "2024-07-02T12:00:00"
+    },
+    "025 The Fall of the Darkstone Forest": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Truthkeepers]]",
+        "[[Vamah Princedom]]",
+        "[[Bloodmarks]]",
+        "[[Darkstone Forest]]",
+        "[[General Spade]]",
+        "[[Iiko]]",
+        "[[Tash The Hound]]",
+        "[[General Odrin Lesh]]",
+        "[[Brightlord Juran]]",
+        "[[Adjudicator Milara]]",
+        "[[Ojog]]",
+        "[[Mallow]]",
+        "[[Galeth-son-Thald]]",
+        "[[Silent Oath]]",
+        "[[Nathaniel]]",
+        "[[Istrum]]",
+        "[[High Enforcer Aylen]]",
+        "[[Varo Three-Knives]]",
+        "[[Deepen Light]]"
+      ],
+      "tags": [
+        "#session",
+        "#combat",
+        "#siege",
+        "#rebellion"
+      ],
+      "last_updated": "2026-07-02T12:00:00"
     },
     "Bloodmarks": {
       "type": "faction",

@@ -7,7 +7,7 @@ tags:
   - "#alethi"
   - "#noble"
   - "#lighteyed"
-last_updated: 2026-06-03T10:00:00
+last_updated: 2024-07-03T10:00:00
 player: Shirley
 spren: "[[Verdae]]"
 ---
@@ -48,3 +48,4 @@ Your intentions and choices are what define you. Everyone dies in the end, both 
 - [[Renna Palir]]: Kindred spirit protected from a forced marriage.
 - [[Dahmian]]: A mercenary who traveled in her recruitment wagon.
 - [[Karani]]: An informant who traveled in her recruitment wagon.
+- [[Gorlo]]: A former Bloodmark who has become devoted to her after she remembered his name.
