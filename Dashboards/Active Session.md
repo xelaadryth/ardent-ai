@@ -28,84 +28,30 @@
 - **Iiko: Myths Expertise**
 # Upcoming
 
-- [[The Darkstone Siege]]
-- Returning to the Darkstone Caves
-	- The prisoners you saved surrendered themselves at the gates, thank you as you return, but eyes still full of fear
-	- Bloodmarks were hidden among the refugees, they barricaded themselves in the guard rooms and even opened the gate. Many of the more experienced soldiers leading the militia were lost as [[General Spade]] and [[Khria]] fought their way through.
-		- They've started using nets and other distractions to slow down [[General Spade]], the Bloodmarks using harrying tactics and archers and trying to avoid fights.
-		- Seems like they were waiting for reinforcements but they ran off
-		- Many Bloodmarks escaped with the stockpiles stormlight-infused spheres; you only have what remains on you (two full "inhales" left, minus what was already breathed)
-		- Supposed to strike an hour after first light, attack was delayed, got antsy and greedy for the gems
-- Upcoming Battle
-	- Time for PCs to take actions
-		- Short rest
-			- Another Bloodmark metal disc
-		- Check on:
-			- Civilians
-			- Escape tunnel
-			- Supplies (more stormlight)
-			- Surgeon station - [[Beric Quinn]] missing
-			- Prisoners - Escaped [[Neval]], [[Hine]], [[Cazo]]
-			- [[Valerius Atol]] and [[Senny]] romantic reconnection
-			- [[Khria]] at [[General Spade]]'s side
-		- Scout
-			- Find out no Truthkeepers, Ojog went to look for [[Istrum]], claimed to see the Possessed and not just fabrials
-			- Rest of the Truthkeepers retreated with Adjudicator Milara, [[General Odrin Lesh]] is furious and will stop funding them
-			- Find cavalry ready to charge
-		- Maintain weapons/siege equipment
-			- Advantage when battle begins
-	- Plans for General Odrin Lesh
-		- Counter cavalry charges by felling darkstone trees, setting up trenches, bramble, shaping the ground
-		- Set up crem bogs and rainwater areas
-	- Plans for Bloodmarks
-		- Go after the civilians, cause havoc and split defenses, not in regular military areas, harrying harassment/ambush/archers
-		- [[Deepen Light]] (hidden as River Rider) smugglers returns with Varo and flanks with hidden ballistae
-	- Plans for Truthkeepers
-		- They still think it's fabrials, starting to doubt, [[High Enforcer Aylen]] isn't suspicious but [[Istrum]] is interested and will protect [[Ojog]] due to Fortune
-		- [[Adjudicator Peton]] and the other militant Adjudicators are dead, and the [[Truthkeepers]] have crumbled without their leadership; Silent Oath will come late
-		- Traps for Shardbearers; cutting hole in the gate since cave walls are too thick
-	- Plans for the Silent Oath
-		- Escape route
 - [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
 	- Lightship Expo
 	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
-- [[Hoid]] in the base
+- [[Hoid]] on the ship
 	- [[The Mink and the Axehounds]]
-- Nalan send us aid
-	- Silent Oath arrives, 20 Shardblades
-	- [[Ojog]] injured in the fighting, drops the Shardblade
-	- [[High Enforcer Aylen]] demands surrender of [[General Spade]] and [[Khria]], they ask the party to take care of the refugees. "We only want to eliminate the Possessed threat, the spat with the Vamah Princedom concerns us not."
-- [[Vorn]] and [[Varo Three-Knives]] on the Deepen Light, turned back early with the assault. [[Varo Three-Knives]] received orders from [[Arbiter Rissa Vale]] via spanreed. [[Gath]] can read basic glyphs.
+- [[Varo Three-Knives]] on the [[Deepen Light]] (disguised as the River Rider)
+- [[Arbiter Rissa Vale]] boarded the ship and turned it around from Kholinar to salvage the situation.
+- Also on the ship:
+	- [[Vorn]] (artificer)
+	- [[03 NPCs/Dahmian|Dahmian]]
+	- [[Beric Quinn]] (injured)
+	- [[Nathaniel]] who jumps ship when he realizes the danger, gonna go defend [[Jory Spadis]] with [[Kaz]]
 - [[Arbiter Rissa Vale]] commands the [[Bloodmarks]] in the area
 	- [[Varo Three-Knives]]
 		- [[Gath]]
 		- [[Teks]]
 		- [[Miri]]
-	- [[Tash The Hound]]
-- Allies
-	- [[Nathaniel]]
-	- [[Beric Quinn]]
-	- [[Kaz]]
-	- [[Khria]]
-	- [[Jory Spadis]]
 ## Other
-- Vamah Archivum - hall of betrayal has carvings of the 10 heralds, Shalash's carving has been destroyed
-	- [[Senny]] mentions offhand that the red armband Vamah guards work for [[Highlord Paladar]] directly, and they act as the middlemen between the Truthkeepers and the Bloodmarks.
-- [[Sun's Zenith]]
-	- The party hears news of bribes brought from the Sun's Zenith to The Bastion: [[The Highlord's Greed]]
-- Knights of Dusk HQ - Big Plans
-	- Continued actions
-		- Attack supply lines, make it unprofitable to pay the military to sew dissent
-		- Spread food, supplies, and propaganda among the darkeyes to get them on their side (done!)
-	- SMEAR CAMPAIGN - Get the lighteyes on their side - what dirt do we have on Paladar? What reputable allies do we have?
-		- Bloodmark scandal - red armband Vamah guards talking to Bloodmarks (learned from Bellus in [[The Traitor Investigation]])
-		- Get proof from House Sathir that Paladar is making risky plays on Sadeas territory, and that Highlord Amaram is a dangerous enemy
-		- Raise public opinion of Paladar's son (Archisal)
 - [[03 Shadesmar Arc]] - Bloodmark Corsairs
+	- [[Arbiter Rissa Vale]] (Array of the Set)
+	- [[Marcus]]
 	- [[Johb]]
 	- [[Kaizen]] - final boss
-	- [[Arbiter Rissa Vale]]
 - [[04 Nurian Gems Arc]]
 	- [[Tash The Hound]] - if he survives
 	- [[Marcus]]

@@ -1,6 +1,6 @@
 ---
 type: event
-status: active
+status: completed
 tags:
   - "#event"
   - "#revolar"

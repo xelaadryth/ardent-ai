@@ -1,6 +1,6 @@
 ---
 type: npc
-status: active
+status: completed
 tags:
   - "#npc"
   - "#bloodmarks"
@@ -10,12 +10,19 @@ faction: "[[Bloodmarks]]"
 location: "[[Revolar]]"
 ---
 # Description
-A pursuit specialist within the [[Bloodmarks]] who has taken a personal interest in [[Galeth-son-Thald]]. 
+A lean, scar-covered specialist within the [[Bloodmarks]] who views tracking as a sacred art. Unlike his peers, Tash has no interest in politics, money, or the [[Truthkeepers]]; he is driven solely by the thrill of the chase.
+# Appearance
+Tash is dangerously lean, with a frame built for endurance rather than brute force. His skin is a map of old scars, and he is never seen without his signature long hunting spear. He wears standard worn and roughly used leather armor, some of the fur not completely scraped off, with a single leather shoulderpad over his right shoulder hiding a large iron spike into a Hemalurgic bindpoint through his trapezius muscles, giving him inhuman strength.
 
-Tracks people with small feruchemical duralumin metalmind trackers.
+# Personality
+Quiet and relentlessly professional. He speaks rarely, preferring to let the hunt do the talking. He treats his targets as prey to be studied and savored, viewing a difficult catch as the ultimate reward.
 
-# History
-During [[020 Warehouse Rescue]], Tash engaged the party's Stoneward. He successfully tore a piece of Galeth's tension-infused clothing as a trophy, which they thought he was using to track the party through the streets of [[Revolar]]. Really though he planted a specialized duralumin tracker on Galeth. The party doesn't know he also placed one on Jory.
+# Statblock
+```statblock
+layout: Cosmere
+monster: Tash The Hound
+```
 
-# Connections
-- [[Galeth-son-Thald]]: His current obsession and primary quarry.
+# Goals
+- Pursue and capture targets for the [[Bloodmarks]].
+- Hone his craft as a hunter and tracker.
