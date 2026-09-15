@@ -16,3 +16,5 @@ A "storm-blessed" soldier named [[Tien]] is making a name for himself in the bru
 
 # Reasoning for Inactivity
 The party's trajectory shifted during [[The Darkstone Siege]], bypassing the border skirmishes of [[Tomat]] in favor of a trans-dimensional escape into the Cognitive Realm.
+
+May be combined into the Nurian gems arc.

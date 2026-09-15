@@ -7,7 +7,7 @@ tags:
 last_updated: 2026-08-22T10:00:00
 ---
 # Description
-- There once was a tasty rabbi- uh a mink named Munchy who lived in a briar patch.
+- There once was a tasty rabbit... hmm, a mink named "Munchy" who lived in a briar patch.
 - Life was good and there were plenty of veggies to hunt, but every week, a hungry axehound named Snarls would come and take one of the minks away, as he was the only axehound who knew how to find the minks.
 - Now most minks would try to hide, but if they were caught they would freeze in place, let themselves be carried off, and resign themselves to Snarls's cooking pot.
 - But one day when Snarls trotted by to choose his dinner, Munchy saw that it was her friend that was lifted by the scruff of her neck.

@@ -1,6 +1,6 @@
 ---
 type: arc
-status: inactive
+status: completed
 tags:
   - "#arc"
   - "#revolar"

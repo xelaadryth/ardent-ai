@@ -1,1 +1,0 @@
-I have created the session document for session 25, concluded the Knights of Dusk arc, and updated High Enforcer Aylen to reflect the revelation of his identity.

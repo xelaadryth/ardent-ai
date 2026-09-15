@@ -24,18 +24,10 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 	- [[Morrow]]
 
 # Events
-<!-- QueryToSerialize: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
-<!-- SerializedQuery: LIST FROM "08 Events" WHERE link(session).arc = this.file.link SORT file.name ASC -->
 - [[Morrow's Execution]]
-- [[The Shellmite Attack]]
 - [[Nurian Arrival]]
-
-
-<!-- SerializedQuery END -->
-
+- [[The Shellmite Attack]]
 # Sessions
-<!-- QueryToSerialize: LIST FROM "04 Sessions" WHERE arc = this.file.link SORT file.name ASC -->
-<!-- SerializedQuery: LIST FROM "04 Sessions" WHERE arc = this.file.link SORT file.name ASC -->
 - [[000 Arrival]]
 - [[001 First Blood]]
 - [[002 Whitespine]]
@@ -49,5 +41,3 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 - [[010 Soulcaster and Shared Employers]]
 - [[011 Promotions and Revolar]]
 
-
-<!-- SerializedQuery END -->
