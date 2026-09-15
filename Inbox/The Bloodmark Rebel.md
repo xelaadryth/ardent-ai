@@ -1,1 +1,0 @@
-I have created the NPC page for Gorlo, detailing his Thaylen origin, his dark past as a pirate, and his current attachment to Fina. I also updated Fina's page and the Bloodmarks faction page to reflect his defection and new allegiance.
