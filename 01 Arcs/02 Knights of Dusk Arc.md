@@ -1,13 +1,14 @@
 ---
 type: arc
-status: active
+status: inactive
 tags:
   - "#arc"
   - "#revolar"
   - "#rebellion"
-last_updated: 2024-07-02T12:00:00
+last_updated: 2026-07-02T12:00:00
 number: 2
 ---
+
 # Description
 The squad's transition from state-sanctioned Enforcers to rebel insurgents in the city of [[Revolar]].
 
@@ -25,3 +26,4 @@ The squad's transition from state-sanctioned Enforcers to rebel insurgents in th
 - [[022 Back to Base]]
 - [[023 Preparing for the Siege]]
 - [[024 To Kill a Shardbearer]]
+- [[025 The Fall of the Darkstone Forest]]

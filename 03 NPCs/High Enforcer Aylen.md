@@ -7,12 +7,12 @@ tags:
   - "#makabaki"
   - "#herald"
   - "#high_enforcer"
-last_updated: 2024-05-19T12:00:00
+last_updated: 2026-07-02T12:00:00
 faction: "[[Truthkeepers]]"
 location: "[[Revolar]]"
 ---
 # Description
-The High Enforcer of the Silent Oath and the ultimate authority on eliminating the threat of the [[Possessed]]. In reality, he is the Herald Nale (Nalan), the Patron Herald of the Skybreakers, a figure of fractured sanity driven by an absolute, inflexible adherence to the law to prevent another Desolation.
+The High Enforcer of the Silent Oath and the ultimate authority on eliminating the threat of the [[Possessed]]. In reality, he is the Herald Nale (Nalan), the Patron Herald of the Skybreakers, a figure of fractured sanity driven by an absolute, inflexible adherence to the law to prevent another Desolation. He destroyed the [[Knights of Dusk]] base in [[Darkstone Forest]] and is currently pursuing the party.
 
 # Appearance
 A man of intense, terrifying stillness with dark skin and a face that seems carved from obsidian, marked by a precise, crescent moon scar on his cheek. When he summons his shardblade, his eyes flash a brilliant, piercing gold.
@@ -21,7 +21,7 @@ A man of intense, terrifying stillness with dark skin and a face that seems carv
 The embodiment of cold, inflexible law. He views the world through the lens of legal precedents and believes absolute order is the only way to save Roshar.
 
 # Background
-He oversees the most lethal aspects of the [[Truthkeepers]] mission. He is waiting in the wings to execute judgment on the Radiants leading the [[Knights of Dusk]] insurgency.
+He oversees the most lethal aspects of the [[Truthkeepers]] mission. He recently executed judgment upon the [[Knights of Dusk]] base in [[Darkstone Forest]] by reducing it to ash.
 
 # Goals
 - **Pass Judgment:** Execute [[General Spade]] and [[Khria]] for the crime of being "Possessed."
@@ -31,3 +31,4 @@ He oversees the most lethal aspects of the [[Truthkeepers]] mission. He is waiti
 - [[High Witness Yeshan]]: The only person he truly answers to, still believing in his wisdom.
 - [[Istrum]]: His subordinate and Skybreaker pupil.
 - [[Morrow]]: Executed him for possession during a demonstration of Truthkeeper duty.
+- [[Ojog]]: A recent recruit into the [[Silent Oath]].

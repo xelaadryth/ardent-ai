@@ -168,14 +168,15 @@
         "[[020 Warehouse Rescue]]",
         "[[021 Stowaways]]",
         "[[022 Back to Base]]",
-        "[[023 Preparing for the Siege]]"
+        "[[023 Preparing for the Siege]]",
+        "[[024 To Kill a Shardbearer]]"
       ],
       "tags": [
         "#arc",
         "#revolar",
         "#rebellion"
       ],
-      "last_updated": "2024-07-01T12:00:00"
+      "last_updated": "2024-07-02T12:00:00"
     },
     "03 Shadesmar Arc": {
       "type": "arc",
@@ -389,24 +390,27 @@
     },
     "Adjudicator Peton": {
       "type": "npc",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Truthkeepers]]",
         "[[Revolar]]",
-        "[[Jory Spadis]]",
+        "[[Darkstone Forest]]",
         "[[020 Warehouse Rescue]]",
-        "[[Galeth-son-Thald]]",
-        "[[Fina]]",
-        "[[Ojog]]"
+        "[[Jory Spadis]]",
+        "[[024 To Kill a Shardbearer]]",
+        "[[Knights of Dusk]]",
+        "[[Ojog]]",
+        "[[Galeth-son-Thald]]"
       ],
       "tags": [
         "#npc",
         "#lighteyed",
         "#alethi",
         "#adjudicator",
-        "#traditionalist"
+        "#traditionalist",
+        "#dead"
       ],
-      "last_updated": "2024-06-28T12:00:00"
+      "last_updated": "2024-07-02T12:00:00"
     },
     "Advisor Ridius": {
       "type": "npc",
@@ -572,6 +576,7 @@
         "[[Knights of Dusk]]",
         "[[Revolar]]",
         "[[Truthkeepers|Truthkeeper]]",
+        "[[Truthkeepers]]",
         "[[Dahmian]]",
         "[[Ojog]]",
         "[[General Spade]]"
@@ -1372,10 +1377,13 @@
       "links": [
         "[[Truthkeepers]]",
         "[[Revolar]]",
-        "[[020 Warehouse Rescue]]",
         "[[Adjudicator Peton]]",
-        "[[Nuria]]",
-        "[[Fina]]"
+        "[[Allegiance at the Abandoned Docks]]",
+        "[[The Darkstone Siege]]",
+        "[[Knights of Dusk]]",
+        "[[Istrum]]",
+        "[[N'tal]]",
+        "[[Kuma]]"
       ],
       "tags": [
         "#npc",
@@ -1384,7 +1392,7 @@
         "#enforcer",
         "#assassin"
       ],
-      "last_updated": "2024-06-28T12:00:00"
+      "last_updated": "2024-05-29T11:00:00"
     },
     "Renna Palir": {
       "type": "npc",
@@ -1532,12 +1540,11 @@
     },
     "Tash The Hound": {
       "type": "npc",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Bloodmarks]]",
         "[[Revolar]]",
-        "[[Galeth-son-Thald]]",
-        "[[020 Warehouse Rescue]]"
+        "[[Truthkeepers]]"
       ],
       "tags": [
         "#npc",
@@ -1918,6 +1925,7 @@
         "[[Chip]]",
         "[[Morrow]]",
         "[[Dillind]]",
+        "[[Knights of Dusk]]",
         "[[Lod]]",
         "[[Lavrik]]",
         "[[General Spade]]",
@@ -2436,6 +2444,36 @@
         "#preparation"
       ],
       "last_updated": "2024-07-01T12:00:00"
+    },
+    "024 To Kill a Shardbearer": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[02 Knights of Dusk Arc]]",
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[Darkstone Forest]]",
+        "[[Adjudicator Peton]]",
+        "[[Beric Quinn]]",
+        "[[General Spade]]",
+        "[[Vamah Princedom]]",
+        "[[N'tal]]",
+        "[[Ojog]]",
+        "[[Brightlord Juran]]",
+        "[[Galeth-son-Thald]]",
+        "[[Tash The Hound]]",
+        "[[Bloodmarks]]",
+        "[[Gorlo]]",
+        "[[Piggy]]",
+        "[[Fang]]"
+      ],
+      "tags": [
+        "#session",
+        "#combat",
+        "#siege",
+        "#shardbearer"
+      ],
+      "last_updated": "2024-07-02T12:00:00"
     },
     "Bloodmarks": {
       "type": "faction",
@@ -3439,7 +3477,7 @@
     },
     "The Darkstone Siege": {
       "type": "event",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[02 Knights of Dusk Arc]]",
         "[[Truthkeepers]]",
