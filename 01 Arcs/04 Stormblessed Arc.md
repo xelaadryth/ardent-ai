@@ -14,6 +14,8 @@ number: 3
 
 A "storm-blessed" soldier named [[Tien]] is making a name for himself in the brutal border skirmishes of Alethkar and Jah Keved. In this timeline, he was saved by [[Kaladin]] during a sacrifice that passed on the destiny of the Stormblessed.
 
+Join [[Tien]] in protecting Amaram, [[Advisor Ridius]] is the bad guy if Amaram dies.
+
 # Reasoning for Inactivity
 The party's trajectory shifted during [[The Darkstone Siege]], bypassing the border skirmishes of [[Tomat]] in favor of a trans-dimensional escape into the Cognitive Realm.
 

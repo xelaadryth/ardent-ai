@@ -17,13 +17,16 @@ A lighteyed intelligence operative within the [[Bloodmarks]] who acts as the pri
 
 She's a twinborn copper ferring (storing memories in copper metalminds), and tin allomancer (letting her hear and see everything).
 
-She wields a revolver (1d6 keen pierce loaded 6) and a snub-nosed pistol (1d4 keen pierce discreet offhand loaded 6), 20/80 (20/60) range.
-
 # Appearance
 Rissa Vale is typically seen wearing a dark, high-collared coat of curious tailoring, cut for practicality rather than fashion. Several slender copper rings adorn her fingers, accompanied by a pair of polished flat copper cuff bangles. Around her neck you can see a length of delicate silvery chain, a necklace perhaps.
 
 # Personality
 Observant, patient, and dangerously well-informed. Rissa possesses an unsettling knack for remembering the tiniest details which seem almost impossible to have noticed. She treats conversation as a tactical exercise, using keen observations to undermine the confidence of her targets.
+
+# Inventory
+- Revolver (1d6 keen pierce loaded 6, 20/80 range)
+- Snub-nosed pistol  (1d4 keen pierce discreet offhand loaded 6, 20/60 range)
+- Tracking Compass - Bronze needle on a duralumin spindle connected to an unsealed nicrosilmind in a simple steel/glass housing, points to nearest disk
 
 # Background
 Rissa is the commander of both [[Tash The Hound]] and [[Varo Three-Knives]], coordinating their retrieval and logistics operations in the [[Scarstone Quarter]]. According to [[Varo Three-Knives]], she is in charge of the syndicate's current tactical maneuvers in [[Revolar]].

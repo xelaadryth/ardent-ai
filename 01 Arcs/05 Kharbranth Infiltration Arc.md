@@ -12,6 +12,8 @@ number: 5
 # Description
 The party is ordered by the [[Ghostbloods]] to infiltrate the city of [[Kharbranth]] to investigate [[Jasnah Kholin]], whom they believe poses a threat to their organization and is widely known as a heretic.
 
+Escort [[Shallan Davar]] to [[Kharbranth]].
+
 # Key Players
 - [[Ghostbloods]]
 	- [[Kabsal]]: A Ghostblood agent posing as an Ardent, secretly planning to betray his organization to protect his target.

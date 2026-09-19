@@ -22,10 +22,10 @@
 - John Bloodmark
 - Killing off the Truthkeeper Shardbearer, were you caught in the throes of The Thrill?
 # Notes
-- **Kuma: Siege Weaponry Crafting Expertise**
-	- Bag of unknown metal disks if you want it
-	- Tash the Hound's spikes
-- **Iiko: Myths Expertise**
+- **Kuma**:
+	- Siege Weaponry Crafting Expertise
+	- Aluminum-lined pouch of unknown metal disks (duralumin, very light)
+	- Tash the Hound's spike (iron)
 # Upcoming
 
 - [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
@@ -34,6 +34,10 @@
 	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
 - [[Hoid]] on the ship
 	- [[The Mink and the Axehounds]]
+- When he overhears who [[High Enforcer Aylen]] is, the party hears a splash, [[Nathaniel]] jumped overboard and swam to other shore
+- Elara budding radiant and [[Beric Quinn]]
+	- Crime of aiding and abetting rebels, dealing in stolen goods, attacks on the Guard
+	- Will let the Vamah princedom handle the rest; more dangerous to higher purpose
 - [[Varo Three-Knives]] on the [[Deepen Light]] (disguised as the River Rider)
 	- [[Gath]]
 	- [[Teks]]
