@@ -15,6 +15,20 @@
 
 <!-- SerializedQuery END -->
 
+<!-- SerializedQuery: TABLE player AS "Player", link(spren) AS "Spren", link(spren).order AS "Order", status AS "Status" FROM "02 Players" SORT file.name ASC -->
+
+| File                                                 | Player  | Spren                                  | Order        | Status |
+| ---------------------------------------------------- | ------- | -------------------------------------- | ------------ | ------ |
+| [[Fina]]                         | Shirley | [[Verdae]]         | Edgedancer   | active |
+| [[Galeth-son-Thald]] | Corin   | [[Kun'ahu]]       | Stoneward    | active |
+| [[Iiko]]                         | Truong  | [[Dreamwaker]] | Truthwatcher | active |
+| [[Kuma]]                         | Dan     | [[Viscose]]       | Elsecaller   | active |
+| [[Mallow]]                     | Audrey  | [[Cadence]]       | Willshaper   | active |
+| [[N'tal]]                       | Ryan    | [[Pyre]]             | Dustbringer  | active |
+
+
+<!-- SerializedQuery END -->
+
 # Arcs
 <!-- QueryToSerialize: TABLE status AS "Status" FROM "01 Arcs" SORT file.name ASC -->
 <!-- SerializedQuery: TABLE status AS "Status" FROM "01 Arcs" SORT file.name ASC -->
@@ -31,8 +45,56 @@
 
 <!-- SerializedQuery END -->
 
+<!-- SerializedQuery: TABLE status AS "Status" FROM "01 Arcs" SORT file.name ASC -->
+
+| File                                                                          | Status    |
+| ----------------------------------------------------------------------------- | --------- |
+| [[01 Truthkeepers Arc]]                       | completed |
+| [[02 Knights of Dusk Arc]]                 | completed |
+| [[03 Shadesmar Arc]]                             | active    |
+| [[04 Nurian Gems Arc]]                         | planned   |
+| [[04 Stormblessed Arc]]                       | inactive  |
+| [[05 Kharbranth Infiltration Arc]] | planned   |
+
+
+<!-- SerializedQuery END -->
+
 # Sessions
 <!-- QueryToSerialize: TABLE link(arc) AS "Arc", status AS "Status" FROM "04 Sessions" SORT file.name DESC -->
+<!-- SerializedQuery: TABLE link(arc) AS "Arc", status AS "Status" FROM "04 Sessions" SORT file.name DESC -->
+
+| File                                                                                          | Arc                                                           | Status    |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------- |
+| [[025 The Fall of the Darkstone Forest]] | [[02 Knights of Dusk Arc]] | completed |
+| [[024 To Kill a Shardbearer]]                       | [[02 Knights of Dusk Arc]] | completed |
+| [[023 Preparing for the Siege]]                   | [[02 Knights of Dusk Arc]] | completed |
+| [[022 Back to Base]]                                         | [[02 Knights of Dusk Arc]] | completed |
+| [[021 Stowaways]]                                               | [[02 Knights of Dusk Arc]] | completed |
+| [[020 Warehouse Rescue]]                                 | [[02 Knights of Dusk Arc]] | completed |
+| [[019 The Slipmarket Stakeout]]                   | [[02 Knights of Dusk Arc]] | completed |
+| [[018 Finding the Traitor]]                           | [[02 Knights of Dusk Arc]] | completed |
+| [[017 The Final Enforcement]]                       | [[02 Knights of Dusk Arc]] | completed |
+| [[016 Surgebinding Pursuit]]                         | [[02 Knights of Dusk Arc]] | completed |
+| [[015 Distractions and Flames]]                   | [[02 Knights of Dusk Arc]] | completed |
+| [[014 Nothing but the Truth]]                       | [[02 Knights of Dusk Arc]] | completed |
+| [[013 Tilting Loyalties]]                               | [[02 Knights of Dusk Arc]] | completed |
+| [[012 Following Chip]]                                     | [[02 Knights of Dusk Arc]] | completed |
+| [[011 Promotions and Revolar]]                     | [[01 Truthkeepers Arc]]       | completed |
+| [[010 Soulcaster and Shared Employers]]   | [[01 Truthkeepers Arc]]       | completed |
+| [[009 Slavers]]                                                   | [[01 Truthkeepers Arc]]       | completed |
+| [[008 The Envisagers of Talinan]]               | [[01 Truthkeepers Arc]]       | completed |
+| [[007 Lavrik and the Soulcaster]]               | [[01 Truthkeepers Arc]]       | completed |
+| [[006 Dillind and the Temple]]                     | [[01 Truthkeepers Arc]]       | completed |
+| [[005 Hearthstone]]                                           | [[01 Truthkeepers Arc]]       | completed |
+| [[004 The Sathir Estate]]                               | [[01 Truthkeepers Arc]]       | completed |
+| [[003 Yenev and the Axe]]                               | [[01 Truthkeepers Arc]]       | completed |
+| [[002 Whitespine]]                                             | [[01 Truthkeepers Arc]]       | completed |
+| [[001 First Blood]]                                           | [[01 Truthkeepers Arc]]       | completed |
+| [[000 Arrival]]                                                   | [[01 Truthkeepers Arc]]       | completed |
+
+
+<!-- SerializedQuery END -->
+
 <!-- SerializedQuery: TABLE link(arc) AS "Arc", status AS "Status" FROM "04 Sessions" SORT file.name DESC -->
 
 | File                                                                                          | Arc                                                           | Status    |
