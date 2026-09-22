@@ -18,7 +18,7 @@ A rare Malwish Mistborn who defected from the [[Ghostbloods]] to join the [[Bloo
 He was promoted to a Suit of the Set due to his Mistborn potential, despite the rest of his shortcomings.
 
 # Appearance
-Kaizen is a tall, slender Malwish man who carries himself with an insufferable regal air. He wears a traditional Malwish mask made of polished brass, crafted in the shape of a stylized, sharp-beaked kestrel over his eyes alone, like you'd see at a masquerade. He wears iron bracers on his forearms even though he can't use them. His attire is a blend of Scadrian and Malwish fashion: a high-collared, multi-buttoned coat of dark silk, over which he drapes a vibrant red-and-gold serape. He expresses constant confusion and disdain for the "primitives" of Roshar who do not follow the custom of wearing masks. A length of silvery necklace can be seen leading under his robes.
+Kaizen is a tall, slender Malwish man who carries himself with an insufferable regal air. He wears a traditional Malwish mask made of polished brass, crafted in the shape of a stylized, sharp-beaked kestrel over his eyes alone, like you'd see at a masquerade. He wears iron bracers on his forearms even though he can't use them, and a black glove on his left hand. His attire is a blend of Scadrian and Malwish fashion: a high-collared, multi-buttoned coat of dark silk, over which he drapes a vibrant red-and-gold serape. He expresses constant confusion and disdain for the "primitives" of Roshar who do not follow the custom of wearing masks. A length of silvery necklace can be seen leading under his robes.
 
 # Personality
 Spoiled, rebellious, and intensely selfish. Because he was raised as a "child of prophecy" by well-meaning associates of his father, he never learned the value of hard work or the weight of morality. He avoids practice, trusting that his powers will awaken fully when his "destiny" demands it.
@@ -29,10 +29,18 @@ He speaks with a melodramatic, self-important cadence, often pausing for dramati
 # Background
 Kaizen's father died saving [[Thaidakar]] and the [[Ghostbloods]] from destruction. In gratitude, the organization rewarded the young Kaizen with Lerasium. However, in an act of teenage rebellion, Kaizen fled his caretakers to seek glory with the [[Bloodmarks]]. He has traveled to Roshar under the belief that a true hero must possess a Shardblade.
 
+# Combat
+- Rioting and Soothing (Zinc/brass) - players make an Insight roll, even if they roll high it's actually an opposed roll
+	- Fear draws fearspren
+- Steel/iron push/pull
+- Pewter/Tin
+- Copper/Bronze (smoke/seek)
+- Fighting over the atium bead
+
 # Prophecy
-- "He shall defend their ways, yet shall violate them."
-- "A man who was not a man."
-- "He will carry the future of the world on his arms."
+- "He shall defend their ways, yet shall violate them." - go to Roshar and learn their customs
+- "A man who was not a man." - still a child
+- "He will carry the future of the world on his arms." - lots of arm coverings from different places
 
 # Goals
 - Acquire a Shardblade to complete his "heroic" image.
@@ -41,3 +49,4 @@ Kaizen's father died saving [[Thaidakar]] and the [[Ghostbloods]] from destructi
 # Connections
 - [[Ghostbloods]]: The organization he abandoned.
 - [[Bloodmarks]]: The faction that feeds his ego for its own ends.
+- Despite being higher rank, serves [[Arbiter Rissa Vale]] as he is easily tricked

@@ -39,3 +39,4 @@ Rissa is the commander of both [[Tash The Hound]] and [[Varo Three-Knives]], coo
 
 # Connections
 - [[Varo Three-Knives]]: Her direct subordinate.
+- Defended by [[Kaizen]] who is higher ranking but manipulated by her into serving her

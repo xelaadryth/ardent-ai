@@ -46,7 +46,7 @@
 	- [[Teks]]
 	- [[Miri]]
 - [[Arbiter Rissa Vale]] boarded the ship and turned it around from Kholinar to salvage the situation
-	- With [[Johb]] who protects her; she is a noncombatant that senses dangers and warns him. Poison and crossbow
+	- With [[Kaizen]] who protects her; she uses a crossbow with barbed aluminum bolts
 - Also on the ship:
 	- [[Vorn]] (artificer)
 	- [[03 NPCs/Dahmian|Dahmian]]
