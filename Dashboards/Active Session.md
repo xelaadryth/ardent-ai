@@ -23,14 +23,12 @@
 - Killing off the Truthkeeper Shardbearer, were you caught in the throes of The Thrill?
 - I wonder how much a Nurian princess is worth
 # Notes
-- **Kuma**:
-	- Siege Weaponry Crafting Expertise
-	- Aluminum-lined pouch of unknown metal disks (duralumin, very light)
-	- Tash the Hound's spike (iron)
 - Level Up (7):
 	- 4 HP, +2 skill ranks (max 3), +1 talent
 # Upcoming
 
+- Varo smuggler, what do the bloodmarks want? hire the party? revenge? self-defense from the ghostbloods? but they would sell the party instantly. Charge them for passage, like a toll
+	- Odrin Lesh was the one paying us, our current deal is done, knights of dusk are gone
 - [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
 	- Lightship Expo
@@ -54,6 +52,8 @@
 	- [[03 NPCs/Dahmian|Dahmian]]
 	- [[Beric Quinn]] (injured)
 	- [[Nathaniel]] who jumps ship when he realizes the danger, gonna go defend [[Jory Spadis]] with [[Kaz]]
+- Shardblade (cryptic, she/her)
+	- 
 - Shadesmar spren
 	- Painspren (grinders)
 		- Usually harmless in the Physical Realm
