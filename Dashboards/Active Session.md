@@ -27,6 +27,8 @@
 	- Siege Weaponry Crafting Expertise
 	- Aluminum-lined pouch of unknown metal disks (duralumin, very light)
 	- Tash the Hound's spike (iron)
+- Level Up (7):
+	- 4 HP, +2 skill ranks (max 3), +1 talent
 # Upcoming
 
 - [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
