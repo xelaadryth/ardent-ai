@@ -24,8 +24,9 @@ Rissa Vale is typically seen wearing a dark, high-collared coat of curious tailo
 Observant, patient, and dangerously well-informed. Rissa possesses an unsettling knack for remembering the tiniest details which seem almost impossible to have noticed. She treats conversation as a tactical exercise, using keen observations to undermine the confidence of her targets.
 
 # Inventory
-- Revolver (1d6 keen pierce loaded 6, 20/80 range)
-- Snub-nosed pistol  (1d4 keen pierce discreet offhand loaded 6, 20/60 range)
+- Hand Crossbow (1d6+6 keen loaded 1, 50/200 range)
+- Barbed aluminum bolts x8 (damage can't be healed via investiture, lowers max HP), pulling it out does another 1d6 damage and takes an action
+- Glass Dagger (1d4+5 keen, offhand)
 - Tracking Compass - Bronze needle on a duralumin spindle connected to an unsealed nicrosilmind in a simple steel/glass housing, points to nearest disk
 
 # Background

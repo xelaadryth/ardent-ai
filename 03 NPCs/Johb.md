@@ -23,6 +23,8 @@ Johb appears slight and unassuming despite his 6 foot height and toned muscle, l
 # Personality
 Johb possesses a joking and taunting demeanor, yet he is a philosopher at heart. Quick to smile, quick to frown. He is driven by the belief that Stormlight and fabrials should be accessible to all, not just the Rosharan elite. He is particularly focused on acquiring [[Kuma]]'s Prized Fabrial, convinced he can unlock its true potential.
 
+If the Set establishes a foothold on Roshar, they won't need to go to Scadrial.
+
 # Manners of Speech
 Fast-talking and irreverent, Johb uses a significant amount of Scadrian slang, frequently exclaiming "Rusts!" or "Rust and Ruin". He enjoys taunting his enemies during combat, often mocking the "slow and heavy" nature of Rosharan plate and spears.
 

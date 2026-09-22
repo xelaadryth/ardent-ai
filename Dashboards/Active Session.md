@@ -21,6 +21,7 @@
 - Talking with Varo Three-Knives
 - John Bloodmark
 - Killing off the Truthkeeper Shardbearer, were you caught in the throes of The Thrill?
+- I wonder how much a Nurian princess is worth
 # Notes
 - **Kuma**:
 	- Siege Weaponry Crafting Expertise
@@ -34,6 +35,8 @@
 	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
 - [[Hoid]] on the ship
 	- [[The Mink and the Axehounds]]
+	- Encourages [[Fina]] to handle the gems and synchronize with them. She feels something changing, flickering, but depending on her roll doesn't quite get it right (Better roll, some gemstones survive the jump. Bad roll, all gemstones fail and crack)
+	- Allows them to jump via Connection; the players, anyone they know well, as well as the ship and its crew. It drains all of the Nurian gems and cracks them
 - When he overhears who [[High Enforcer Aylen]] is, the party hears a splash, [[Nathaniel]] jumped overboard and swam to other shore
 - Elara budding radiant and [[Beric Quinn]]
 	- Crime of aiding and abetting rebels, dealing in stolen goods, attacks on the Guard
@@ -42,7 +45,8 @@
 	- [[Gath]]
 	- [[Teks]]
 	- [[Miri]]
-- [[Arbiter Rissa Vale]] boarded the ship and turned it around from Kholinar to salvage the situation.
+- [[Arbiter Rissa Vale]] boarded the ship and turned it around from Kholinar to salvage the situation
+	- With [[Johb]] who protects her; she is a noncombatant that senses dangers and warns him. Poison and crossbow
 - Also on the ship:
 	- [[Vorn]] (artificer)
 	- [[03 NPCs/Dahmian|Dahmian]]
