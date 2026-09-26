@@ -1,9 +1,11 @@
 - Current Arc: [[02 Knights of Dusk Arc]]
 - Last Session: [[024 To Kill a Shardbearer]]
 # Reminders
-- "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
+- Curses and swears
+	- "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
+	- Rust and Ruin, rustin', by Harmony above, by the Thousand Eyes
 - [Emotionspren, naturespren, cousinspren](https://coppermind.net/wiki/Spren)
-	- Flamespren (N'tal), Lifespren (Fina), Concentrationspren (Iiko thinking hard), Logicspren (Kuma making sense), Joyspren (Mallow), Bindspren (Galeth not budging)
+	- Flamespren (N'tal), Lifespren (Fina), Concentrationspren (Iiko thinking hard), Joyspren (Mallow), Bindspren (Galeth not budging)
 - Parshmen in the streets
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
@@ -27,27 +29,22 @@
 	- 4 HP, +2 skill ranks (max 3), +1 talent
 # Upcoming
 
-- Varo smuggler, what do the bloodmarks want? hire the party? revenge? self-defense from the ghostbloods? but they would sell the party instantly. Charge them for passage, like a toll
-	- Odrin Lesh was the one paying us, our current deal is done, knights of dusk are gone
-- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
+- Set ship rowed by peakspren called The Wandering Eye
+	- Peakspren from [[Haka'alaku]]
+- Tomat hooks
+	- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
 	- Lightship Expo
 	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
 - [[Hoid]] on the ship
 	- [[The Mink and the Axehounds]]
-	- Encourages [[Fina]] to handle the gems and synchronize with them. She feels something changing, flickering, but depending on her roll doesn't quite get it right (Better roll, some gemstones survive the jump. Bad roll, all gemstones fail and crack)
-	- Allows them to jump via Connection; the players, anyone they know well, as well as the ship and its crew. It drains all of the Nurian gems and cracks them
-- When he overhears who [[High Enforcer Aylen]] is, the party hears a splash, [[Nathaniel]] jumped overboard and swam to other shore
-- Elara budding radiant and [[Beric Quinn]]
-	- Crime of aiding and abetting rebels, dealing in stolen goods, attacks on the Guard
-	- Will let the Vamah princedom handle the rest; more dangerous to higher purpose
 - [[Varo Three-Knives]] on the [[Deepen Light]] (disguised as the River Rider)
 	- [[Gath]]
 	- [[Teks]]
 	- [[Miri]]
 - [[Arbiter Rissa Vale]] boarded the ship and turned it around from Kholinar to salvage the situation
 	- With [[Kaizen]] who protects her; she uses a crossbow with barbed aluminum bolts
-- Also on the ship:
+- Was on the ship:
 	- [[Vorn]] (artificer)
 	- [[03 NPCs/Dahmian|Dahmian]]
 	- [[Beric Quinn]] (injured)
@@ -58,7 +55,7 @@
 	- Painspren (grinders)
 		- Usually harmless in the Physical Realm
 		- Dangerous, aggressive, screech violently (beast trumping like breaking glass) when drawn to strong physical or emotional distress, can swarm and attack travelers
-		- Non-canon, look like little humanoid gingerbread men with huge hands
+		- Non-canon, look like little orange humanoid gingerbread men with huge hands
 	- Angerspren
 		- Loud screeching noises, saliva pooling and drooling in the physical realm
 ## Other

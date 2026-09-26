@@ -1,0 +1,5 @@
+Generation a location page for Haka'alaku, a city in Shadesmar located where Cultivation's Perpendicularity leads. It is a city build on 7 islands connected by wooden platforms, few long-term structures mostly tents and shanties. In the past it was ruled by peakspren and welcoming to outsiders, anyone who lives in the city long enough can gain citizenship and city's senate had a few humans. But The Set has taken over and enslaves the peakspren, using them as rowing slaves on their oared ships. Many of the reachers have fled to other cities nearby, like Rekton.
+
+Also generate a location page for Rekton, which is a small trade town half a day's travel to the east of Haka'alaku, consisting mostly of reachers and peakspren who fled Haka'alaku. The Set take tolls freely there but don't officially control it yet.
+
+You can make up some interesting details about these Shadesmar towns, but keep in mind that they are in the Cognitive Realm. Make sure to create a few important named NPCs in both locations, especially peakspren and lightspren (reachers) who are unhappy with the Set's presence blocking the perpendicularity.
