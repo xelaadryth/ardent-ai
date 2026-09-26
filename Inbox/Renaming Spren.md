@@ -1,0 +1,1 @@
+I have successfully renamed the spren and updated the leadership in Haka'alaku as requested. Steadfast is now Uum'atu, Rusted Iron is now Vun'akal, and Sunlight has been renamed Tessitura. Additionally, Johb has taken over as Overseer of Haka'alaku, with Arbiter Jalis assisting him, replacing Overseer Vane.

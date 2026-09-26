@@ -6,36 +6,34 @@ tags:
   - "#criminal_organization"
   - "#worldhopping"
   - "#piracy"
-last_updated: 2026-07-04T12:00:00
+last_updated: 2024-07-04T12:00:00
 ---
 # Description
-A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper branch, primarily composed of Scadrian exiles, operates a pirate fleet in the bead-seas of [[Shadesmar]]. The Bloodmarks are the Rosharan branch of **[[The Set]]**, and work for Trell (Autonomy).
+A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper branch operates a pirate fleet in the bead-seas of [[Shadesmar]].
 
 # Structure (Bloodmarks)
 
-- **Grand Justicar:** 3 Leaders of the Bloodmarks, Series or Sequence
-- **Corsair**: Bloodmark captain/general - Array-ish
-- **Arbiter:** Bloodmark lieutenants - Cycle-ish
-- **Hand**: Sergeants - Tash, Varo
+- **Grand Justicar:** 3 Leaders, Series or Sequence. [[Grand Justicar Malice]]
+- **Corsair**: Bloodmark captain/general. [[Johb]] (Suit), [[Kaizen]] (Suit), [[Marcus]] (Suit).
+- **Arbiter:** Lieutenants. [[Arbiter Jalis]], [[Arbiter Rissa Vale]].
+- **Hand**: Sergeants. [[Varo Three-Knives]].
 - **Lashes**: Foot soldiers.
 
 # Controlled Territories
-- **[[Haka'alaku]]:** Since the recent coup, the syndicate has turned this historic spren city into a forced-labor logistical hub and a fortified blockade of the Horneater Perpendicularity.
+- **[[Haka'alaku]]:** Occupation and blockade managed by Overseer [[Johb]].
 
 # Goals
-- **Interplanetary Smuggling:** Exploiting perpendicularities to trade [[Nurian Gems]] and specialized Rosharan spren-fabrials.
-- **Piracy:** Interdicting [[Ghostbloods]] trade routes in [[Shadesmar]].
-- **Enslavement:** Utilizing [[Peakspren]] as physical labor to power their Cognitive fleet.
+- **Interplanetary Smuggling:** Trading [[Nurian Gems]].
+- **Piracy:** Interdicting [[Ghostbloods]] routes.
+- **Enslavement:** Utilizing [[Peakspren]] like [[Vun'akal]] for labor.
 
 # Members
 - [[Grand Justicar Malice]]
 - [[Arbiter Jalis]]
 - [[Arbiter Rissa Vale]]
-- [[Overseer Vane]]
-- [[Varo Three-Knives]]
 - [[Johb]]
+- [[Varo Three-Knives]]
 - [[Kaizen]]
 - [[Marcus]]
 - [[Meki-son-Vara]]
 - [[Tash The Hound]]
-- [[Gorlo]] (Former)

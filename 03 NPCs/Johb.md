@@ -7,35 +7,36 @@ tags:
   - "#scadrian"
   - "#bloodmarks"
   - "#hemalurgy"
-last_updated: 2024-06-26T10:00:00
+  - "#overseer"
+last_updated: 2024-07-04T12:00:00
 faction: "[[Bloodmarks]]"
-location: "[[Shadesmar]]"
+location: "[[Haka'alaku]]"
 ---
 
 # Description
-A Malwish Iron Misting (Lurcher) and Corsair (Suit) within the [[Bloodmarks]] who views the democratization of Investiture through Nahel bonds and artifabrial technology as a philosophical necessity. He fights with the calculated unpredictability of a rogue, often throwing his knives to distract opponents before pulling them back through his enemies with Allomancy.
+A Malwish Iron Misting (Lurcher) and Suit of the Set serving as the primary taskmaster and Overseer in [[Haka'alaku]]. He views the democratization of Investiture through Nahel bonds and artifabrial technology as a philosophical necessity. He fights with the calculated unpredictability of a rogue, often throwing his knives to distract opponents before pulling them back through his enemies with Allomancy.
 
 He worked his way up to becoming a Suit of the Set due to hard work, but is kept from rising higher because of his morals. He is smart and crafty, but can be turned to the side of good. Corrupted by his spike and hears the voice of Trell.
 
 # Appearance
-Johb appears slight and unassuming despite his 6 foot height and toned muscle, looking more like a common laborer than a Lieutenant. His Malwish mask is a utilitarian piece of dark iron covering his whole face, with simple horizontal slits eyes, nose, and mouth. A short length of chain can be seen around his neck. He wears a dark leather tactical vest with numerous knives within, bearing many perforations. He wears light, Scadrian-style boots with thin soles.
+Johb appears slight and unassuming despite his 6 foot height and toned muscle. His Malwish mask is a utilitarian piece of dark iron. He wears a dark leather tactical vest with numerous knives. A short length of chain can be seen around his neck.
 
 # Personality
-Johb possesses a joking and taunting demeanor, yet he is a philosopher at heart. Quick to smile, quick to frown. He is driven by the belief that Stormlight and fabrials should be accessible to all, not just the Rosharan elite. He is particularly focused on acquiring [[Kuma]]'s Prized Fabrial, convinced he can unlock its true potential.
-
-If the Set establishes a foothold on Roshar, they won't need to go to Scadrial.
+Johb possesses a joking and taunting demeanor, yet he is a philosopher at heart. He is driven by the belief that Stormlight and fabrials should be accessible to all. He manages the labor of the enslaved [[Peakspren]] with absolute efficiency, though he uses Rioting to keep the slave gangs in a state of perpetual, directed anger.
 
 # Manners of Speech
-Fast-talking and irreverent, Johb uses a significant amount of Scadrian slang, frequently exclaiming "Rusts!" or "Rust and Ruin". He enjoys taunting his enemies during combat, often mocking the "slow and heavy" nature of Rosharan plate and spears.
+Fast-talking and irreverent, Johb uses a significant amount of Scadrian slang, frequently exclaiming "Rusts!" or "Rust and Ruin".
 
 # Background
-Johb's powers are the result of a horrific [[Ghostbloods]] experiment. As a teenager, his mother facilitated a deal where he was spiked with a steel needle—charged with the power of a murdered Misting. The unfortunate donor was stabbed through the eye into his brain with the needle on the end of a knife, and the bloody steel needle was lodged between his shoulder blades. Upon discovering the cost of his power, he severed ties with his family and the Ghostbloods, and joined the [[Bloodmarks]]. Over time, the Hemalurgic spike has begun to corrupt him with a subtle intent of Ruin, making him more and more ruthless with his idealism and unknowingly falling in the footsteps of his parents. "I'm doing it for the good of everyone; my parents used horrific methods for their own benefit."
+Johb's powers are the result of a horrific [[Ghostbloods]] experiment. Upon discovering the cost of his power, he joined the [[Bloodmarks]]. He personally oversaw the dismantling of the Haka'alaku Senate and now governs the occupation, assisted by [[Arbiter Jalis]].
 
 # Goals
 - Secure funding and a strategic foothold for the [[Bloodmarks]] on Roshar.
 - Acquire and master [[Kuma]]'s specialized fabrials.
+- Ensure the quota of [[Nurian Gems]] reaches the fleet on time.
 
 # Connections
+- [[Arbiter Jalis]]: His primary assistant in overseeing the city.
+- [[Vun'akal]]: His most "difficult" slave.
 - [[Kuma]]: Target of his technical interest.
-- [[Ghostbloods]]: His former masters and creators.
-- [[Bloodmarks]]: His current faction.
+- [[Grand Justicar Malice]]: His ultimate superior.

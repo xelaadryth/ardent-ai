@@ -6,25 +6,26 @@ tags:
   - "#shadesmar"
   - "#combat"
   - "#survival"
-last_updated: 2026-06-16T10:00:00
+last_updated: 2024-07-04T12:00:00
 fc-category: Party
 fc-date: 1172-02-33
 ---
 
 # Description
-A harrowing survival encounter in the bead-sea of [[Shadesmar]] following the party's arrival. A chaotic swarm of minor spren—manifesting as seething pools of anger and skittering violet fear—surround and assault the party's vessel, drawn by the residual investiture of the [[Nurian Gems]] used during the shift.
+A harrowing survival encounter in the bead-sea of [[Shadesmar]] following the party's arrival. A chaotic swarm of minor spren surround and assault the party's vessel, drawn by the residual investiture of the [[Nurian Gems]] used during the shift.
 
 # Details
-- **The Buoyancy Crisis:** The party's physical boat is not inherently buoyant on the shifting glass beads of the Cognitive Realm. They must coordinate to prevent the hull from being swamped while the swarm circles and clings to the hull.
-- **The Swarm:** A coordinated assault by multiple Angerspren (Tier 2 Rival) and Painspren (Tier 1 Minion). They strike with sharp claws and spines, attracted by emotions, attempting to burrow their way through the ship and into the party.
-- **The Stormlight Gamble:** [[Zabriel]] is forced to distribute his remaining stash of [[Nurian Gems]] to the party. The players must decide whether to use the light for immediate defense or conserve it for the long trek to a spren city.
+- **The Buoyancy Crisis:** The party's physical boat is not inherently buoyant. They must coordinate to prevent the hull from being swamped.
+- **The Swarm:** A coordinated assault by multiple Angerspren and Painspren.
+- **The Stormlight Gamble:** [[Zabriel]] is forced to distribute his remaining stash of [[Nurian Gems]].
 
 # Participants
-- [[Kuma]]: Responsible for reinforcing the ship's structure using the surge of Transformation.
-- [[Mallow]]: Utilizing her Willshaper resonance to navigate the ship through the bead-drifts.
+- [[Kuma]]: Responsible for reinforcing the ship's structure using Transformation.
+- [[Mallow]]: Utilizing her Willshaper resonance to navigate the ship.
 - [[Zabriel]]: Providing the power source and acting as a lookout.
-- [[N'tal]]: Leading the martial defense against the swarm's breaches.
+- [[N'tal]]: Leading the martial defense.
+- [[Tessitura]]: Spotted circling the perimeter during the skirmish.
 
 # Outcomes
-- **Resource Depletion:** A successful defense will likely drain several high-capacity [[Nurian Gems]], increasing the party's vulnerability.
-- **Cognitive Scars:** The vessel may sustain permanent damage that requires specialized spren-crafting to repair once they reach safety.
+- **Resource Depletion:** A successful defense will likely drain high-capacity [[Nurian Gems]].
+- **Cognitive Scars:** The vessel may sustain permanent damage.
