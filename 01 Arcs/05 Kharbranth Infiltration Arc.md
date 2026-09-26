@@ -12,7 +12,15 @@ number: 5
 # Description
 The party is ordered by the [[Ghostbloods]] to infiltrate the city of [[Kharbranth]] to investigate [[Jasnah Kholin]], whom they believe poses a threat to their organization and is widely known as a heretic.
 
-Escort [[Shallan Davar]] to [[Kharbranth]].
+Escort [[Kabsal]] (going by Lasbak) to the [[Palaneum]].
+
+[[Dillind]] wants to study to be a surgeon in [[Kharbranth]].
+
+Escort [[Shallan Davar]] to [[Kharbranth]], wants to be [[Jasnah Kholin]]'s ward. Secretly a member of the [[Ghostbloods]].
+
+[[Jasnah Kholin]] doing research to save the world.
+
+[[Higuma]] is being held by the [[Bloodmarks]] in Kharbranth.
 
 # Key Players
 - [[Ghostbloods]]

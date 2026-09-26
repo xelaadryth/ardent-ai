@@ -30,11 +30,18 @@
 # Upcoming
 
 - Set ship rowed by peakspren called The Wandering Eye
-	- Peakspren from [[Haka'alaku]]
+	- Peakspren from [[Haka'alaku]] row as slaves, don't need as much sustenance as humans
+	- Ship collecting tribute from Rekton for their "freedom", bringing it back to Haka'alaku
+	- Ship was a bit farther south than expected, almost in view of Rekton (Rissa Vale could see it, didn't tell the party)
+- [[Viscose]] is carrying Kuma's greatest fabrial, still has Stormlight in it (and Fina's Nurian gems) when everyone else's runs out.
+- Fearspren towards the north/northeast (Tomat, battlefield)
+- Rekton is the town at the southern tip of the peninsula on the way to the horneater peaks. Mainly reachers, some refugee peakspren, other visitors but few right now, most fled farther or left Rosharan subastral entirely to the Expanse of the Vapors on the way to Scadrial
+	- Maybe meet [[Koloko]]?
 - Tomat hooks
 	- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
-	- Lightship Expo
+	- Lightship Expo - Higuma ([[Viscose]] recognizes as [[Kuma]]'s mother's name) leading the exhibition
+		- Not actually her, she should appear Alethi but this one is Thaylen.
 	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
 - [[Hoid]] on the ship
 	- [[The Mink and the Axehounds]]
