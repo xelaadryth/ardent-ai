@@ -18,14 +18,23 @@ A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper 
 - **Arbiter:** Bloodmark lieutenants - Cycle-ish
 - **Hand**: Sergeants - Tash, Varo
 - **Lashes**: Foot soldiers.
+# Structure (Set)
+The parent interplanetary organization of the Bloodmarks, and an interplanetary division of the Set parallel to the one in Elendel basin. Are charged with delivering the "men of gold and red", the "bearers of the final metal." Golden skin, glowing red eyes, living statues bearing firearms.
 
-# Controlled Territories
-- **[[Haka'alaku]]:** Since the recent coup, the syndicate has turned this historic spren city into a forced-labor logistical hub and a fortified blockade of the Horneater Perpendicularity.
+- **The Key**: Leader of The Set
+- **Series:** Report directly to The Key. [[Grand Justicar Malice]]
+- **Sequence:** High-ranking leaders the other Grand Justicars, but don't report directly to the Key.
+- **Suit:** Another high rank, like [[Marcus]], [[Johb]], [[Kaizen]]. Equivalent to a Corsair.
+- **Array:** Lieutenants and specialists like [[Arbiter Rissa Vale]], outside the chain of command. [[Overseer Vane]]
+- **Cycle:** Lowest formal rank. [[Tash The Hound]], [[Varo Three-Knives]]
+
+# Occupations
+- [[Haka'alaku]]
 
 # Goals
 - **Interplanetary Smuggling:** Exploiting perpendicularities to trade [[Nurian Gems]] and specialized Rosharan spren-fabrials.
 - **Piracy:** Interdicting [[Ghostbloods]] trade routes in [[Shadesmar]].
-- **Enslavement:** Utilizing [[Peakspren]] as physical labor to power their Cognitive fleet.
+- **Monopoly:** Controlling the flow of Scadrian technology into the Rosharan system.
 
 # Members
 - [[Grand Justicar Malice]]

@@ -235,6 +235,7 @@
         "[[03 Shadesmar Arc]]",
         "[[Tien]]",
         "[[Kaladin]]",
+        "[[Advisor Ridius]]",
         "[[The Darkstone Siege]]",
         "[[Tomat]]"
       ],
@@ -252,8 +253,8 @@
         "[[Ghostbloods]]",
         "[[Kharbranth]]",
         "[[Jasnah Kholin]]",
-        "[[Kabsal]]",
-        "[[Shallan Davar]]"
+        "[[Shallan Davar]]",
+        "[[Kabsal]]"
       ],
       "tags": [
         "#arc",
@@ -276,7 +277,8 @@
         "[[N'tal]]",
         "[[Aelwood Contract]]",
         "[[Undertaker]]",
-        "[[Renna Palir]]"
+        "[[Renna Palir]]",
+        "[[Gorlo]]"
       ],
       "tags": [
         "#player",
@@ -285,7 +287,7 @@
         "#noble",
         "#lighteyed"
       ],
-      "last_updated": "2026-06-03T10:00:00"
+      "last_updated": "2024-07-03T10:00:00"
     },
     "Galeth-son-Thald": {
       "type": "player",
@@ -476,7 +478,8 @@
         "[[Tash The Hound]]",
         "[[Varo Three-Knives]]",
         "[[Scarstone Quarter]]",
-        "[[Knights of Dusk]]"
+        "[[Knights of Dusk]]",
+        "[[Kaizen]]"
       ],
       "tags": [
         "#npc",
@@ -768,6 +771,27 @@
         "#rebel_leader"
       ],
       "last_updated": "2026-06-05T12:00:00"
+    },
+    "Gorlo": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Deepen Light]]",
+        "[[Bloodmarks]]",
+        "[[The Darkstone Siege]]",
+        "[[Fina]]",
+        "[[Tash The Hound]]",
+        "[[Marcus]]",
+        "[[Varo Three-Knives]]"
+      ],
+      "tags": [
+        "#npc",
+        "#thaylen",
+        "#pirate",
+        "#bloodmarks",
+        "#defector"
+      ],
+      "last_updated": "2024-07-03T10:00:00"
     },
     "Grand Justicar Malice": {
       "type": "npc",
@@ -1071,7 +1095,8 @@
         "[[Shadesmar]]",
         "[[Ghostbloods]]",
         "[[Hero of Ages]]",
-        "[[Thaidakar]]"
+        "[[Thaidakar]]",
+        "[[Arbiter Rissa Vale]]"
       ],
       "tags": [
         "#npc",
@@ -2528,7 +2553,8 @@
         "[[Nurian Gems]]",
         "[[Ghostbloods]]",
         "[[Arbiter Jalis]]",
-        "[[Meki-son-Vara]]"
+        "[[Meki-son-Vara]]",
+        "[[Gorlo]]"
       ],
       "tags": [
         "#faction",
@@ -2536,7 +2562,7 @@
         "#worldhopping",
         "#piracy"
       ],
-      "last_updated": "2024-07-01T12:00:00"
+      "last_updated": "2024-07-03T10:00:00"
     },
     "Envisagers": {
       "type": "faction",
@@ -3769,6 +3795,13 @@
       ],
       "last_updated": "2026-05-17T00:00:00"
     },
+    "Angerspren Stats": {
+      "type": "statblock",
+      "status": "",
+      "links": [],
+      "tags": [],
+      "last_updated": ""
+    },
     "Beric Quinn Stats": {
       "type": "statblock",
       "status": "",
@@ -3791,6 +3824,13 @@
       "links": [
         "[[Dahmian]]"
       ],
+      "tags": [],
+      "last_updated": ""
+    },
+    "Fearspren Stats": {
+      "type": "statblock",
+      "status": "",
+      "links": [],
       "tags": [],
       "last_updated": ""
     },
