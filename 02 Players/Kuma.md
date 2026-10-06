@@ -1,21 +1,22 @@
 ---
 type: player
-status: active
+status: inactive
 tags:
   - "#player"
   - "#elsecaller"
   - "#nurian"
   - "#maker"
-last_updated: 2024-07-01T12:00:00
+  - "#missing"
+last_updated: 2024-07-10T00:00:00
 player: Dan
 spren: "[[Viscose]]"
 ---
 
 # Description
-Nurian Elsecaller and obsessive maker determined to repair anything he can and uncover the truth behind his parents' disappearance.
+Nurian Elsecaller and obsessive maker. Currently missing after a catastrophic transition into [[Shadesmar]].
 
 # Background
-In [[023 Preparing for the Siege]], Kuma spoke his next set of Words, granting him full mastery over Transformation. He provided the [[Knights of Dusk]] with Soulcast supplies and constructed a roof-mounted catapult and two ballistae for the defense of the base. He also began work on a Tier 2 Unique Fabrial.
+In [[026 The Bead Sea]], Kuma acted as the primary anchor for the transition into the Cognitive Realm. During the shift, the [[Nurian Gems]] drained his lifeforce. Upon arrival in [[Shadesmar]], he had vanished. [[Viscose]] states only that he is "gone."
 
 # Goals
 - Discover the fate of his parents, specifically finding [[Higuma]].

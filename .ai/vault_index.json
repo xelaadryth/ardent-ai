@@ -184,20 +184,21 @@
       "status": "active",
       "links": [
         "[[Silent Oath]]",
-        "[[The Darkstone Siege]]",
         "[[Bloodmarks]]",
         "[[Horneater Peaks]]",
-        "[[Galeth-son-Thald]]",
         "[[Kuma]]",
         "[[Shadesmar]]",
-        "[[Mallow]]",
+        "[[Tessitura]]",
+        "[[Rekton]]",
         "[[Zabriel]]",
         "[[Nurian Gems]]",
+        "[[Johb]]",
+        "[[Haka'alaku]]",
         "[[Grand Justicar Malice]]",
-        "[[Ghostbloods]]",
         "[[The Bead-Sea Ambush]]",
-        "[[The Honorspren's Reluctance]]",
-        "[[Scadrian Mechanics]]"
+        "[[Uum'atu]]",
+        "[[Scadrian Mechanics]]",
+        "[[The Honorspren's Reluctance]]"
       ],
       "tags": [
         "#arc",
@@ -205,7 +206,7 @@
         "#worldhopping",
         "#bloodmarks"
       ],
-      "last_updated": "2026-06-16T12:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "04 Nurian Gems Arc": {
       "type": "arc",
@@ -461,9 +462,11 @@
       "status": "active",
       "links": [
         "[[Bloodmarks]]",
+        "[[Haka'alaku]]",
+        "[[Johb]]",
+        "[[N'tal]]",
         "[[Revolar]]",
-        "[[Grand Justicar Malice]]",
-        "[[N'tal]]"
+        "[[Grand Justicar Malice]]"
       ],
       "tags": [
         "#npc",
@@ -471,7 +474,7 @@
         "#veden",
         "#antagonist"
       ],
-      "last_updated": "2024-05-18T00:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Arbiter Rissa Vale": {
       "type": "npc",
@@ -1037,18 +1040,24 @@
       "status": "active",
       "links": [
         "[[Bloodmarks]]",
-        "[[Shadesmar]]",
+        "[[Haka'alaku]]",
+        "[[Peakspren]]",
+        "[[Ghostbloods]]",
+        "[[Arbiter Jalis]]",
         "[[Kuma]]",
-        "[[Ghostbloods]]"
+        "[[Nurian Gems]]",
+        "[[Vun'akal]]",
+        "[[Grand Justicar Malice]]"
       ],
       "tags": [
         "#npc",
         "#malwish",
         "#scadrian",
         "#bloodmarks",
-        "#hemalurgy"
+        "#hemalurgy",
+        "#overseer"
       ],
-      "last_updated": "2024-06-26T10:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Jory Spadis": {
       "type": "npc",
@@ -1426,27 +1435,6 @@
         "#assassin"
       ],
       "last_updated": "2024-05-29T11:00:00"
-    },
-    "Overseer Vane": {
-      "type": "npc",
-      "status": "active",
-      "links": [
-        "[[Bloodmarks]]",
-        "[[Haka'alaku]]",
-        "[[Peakspren]]",
-        "[[Nurian Gems]]",
-        "[[Rekton]]",
-        "[[Grand Justicar Malice]]",
-        "[[Rusted Iron]]"
-      ],
-      "tags": [
-        "#npc",
-        "#shadesmar",
-        "#bloodmarks",
-        "#the_set",
-        "#antagonist"
-      ],
-      "last_updated": "2026-07-04T12:00:00"
     },
     "Renna Palir": {
       "type": "npc",
@@ -2567,22 +2555,20 @@
       "status": "active",
       "links": [
         "[[Shadesmar]]",
-        "[[The Set]]",
+        "[[Grand Justicar Malice]]",
+        "[[Johb]]",
+        "[[Kaizen]]",
+        "[[Marcus]]",
+        "[[Arbiter Jalis]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[Varo Three-Knives]]",
         "[[Haka'alaku]]",
         "[[Nurian Gems]]",
         "[[Ghostbloods]]",
         "[[Peakspren]]",
-        "[[Grand Justicar Malice]]",
-        "[[Arbiter Jalis]]",
-        "[[Arbiter Rissa Vale]]",
-        "[[Overseer Vane]]",
-        "[[Varo Three-Knives]]",
-        "[[Johb]]",
-        "[[Kaizen]]",
-        "[[Marcus]]",
+        "[[Vun'akal]]",
         "[[Meki-son-Vara]]",
-        "[[Tash The Hound]]",
-        "[[Gorlo]]"
+        "[[Tash The Hound]]"
       ],
       "tags": [
         "#faction",
@@ -2590,7 +2576,7 @@
         "#worldhopping",
         "#piracy"
       ],
-      "last_updated": "2026-07-04T12:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Envisagers": {
       "type": "faction",
@@ -2712,22 +2698,16 @@
       "type": "faction",
       "status": "active",
       "links": [
-        "[[Shadesmar]]",
-        "[[The Set]]",
         "[[Grand Justicar Malice]]",
-        "[[Marcus]]",
         "[[Johb]]",
+        "[[Marcus]]",
         "[[Kaizen]]",
         "[[Arbiter Rissa Vale]]",
-        "[[Overseer Vane]]",
-        "[[Tash The Hound]]",
-        "[[Varo Three-Knives]]",
-        "[[Haka'alaku]]",
-        "[[Nurian Gems]]",
-        "[[Ghostbloods]]",
         "[[Arbiter Jalis]]",
-        "[[Meki-son-Vara]]",
-        "[[Gorlo]]"
+        "[[Varo Three-Knives]]",
+        "[[Tash The Hound]]",
+        "[[Haka'alaku]]",
+        "[[Meki-son-Vara]]"
       ],
       "tags": [
         "#faction",
@@ -2735,7 +2715,7 @@
         "#worldhopping",
         "#piracy"
       ],
-      "last_updated": "2026-07-04T12:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Truthkeepers": {
       "type": "faction",
@@ -2907,12 +2887,12 @@
       "links": [
         "[[Shadesmar]]",
         "[[Cultivation's Perpendicularity]]",
-        "[[Peakspren]]",
-        "[[Lightspren]]",
         "[[Bloodmarks]]",
         "[[The Set]]",
-        "[[Overseer Vane]]",
-        "[[Rusted Iron]]",
+        "[[Peakspren]]",
+        "[[Johb]]",
+        "[[Arbiter Jalis]]",
+        "[[Vun'akal]]",
         "[[Rekton]]"
       ],
       "tags": [
@@ -2922,7 +2902,7 @@
         "#the_set",
         "#bloodmarks"
       ],
-      "last_updated": "2026-07-04T12:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Hearthstone": {
       "type": "location",
@@ -2988,8 +2968,8 @@
         "[[Lightspren]]",
         "[[Peakspren]]",
         "[[The Set]]",
-        "[[Sunlight]]",
-        "[[Steadfast]]",
+        "[[Tessitura]]",
+        "[[Uum'atu]]",
         "[[Bloodmarks]]"
       ],
       "tags": [
@@ -2998,7 +2978,7 @@
         "#rekton",
         "#refugees"
       ],
-      "last_updated": "2026-07-04T12:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Revolar": {
       "type": "location",
@@ -3083,7 +3063,9 @@
       "links": [
         "[[Haka'alaku]]",
         "[[The Set]]",
+        "[[Johb]]",
         "[[Rekton]]",
+        "[[Uum'atu]]",
         "[[Bloodmarks]]",
         "[[Grand Justicar Malice]]",
         "[[Ghostbloods]]"
@@ -3093,7 +3075,7 @@
         "#cognitive_realm",
         "#shadesmar"
       ],
-      "last_updated": "2026-07-04T12:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Stackhouses": {
       "type": "location",
@@ -3594,7 +3576,8 @@
         "[[Zabriel]]",
         "[[Kuma]]",
         "[[Mallow]]",
-        "[[N'tal]]"
+        "[[N'tal]]",
+        "[[Tessitura]]"
       ],
       "tags": [
         "#event",
@@ -3602,7 +3585,7 @@
         "#combat",
         "#survival"
       ],
-      "last_updated": "2026-06-16T10:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "The Boutique Confrontation": {
       "type": "event",
@@ -4335,44 +4318,7 @@
       ],
       "last_updated": "2026-05-13T23:29:00"
     },
-    "Rusted Iron": {
-      "type": "spren",
-      "status": "active",
-      "links": [
-        "[[Haka'alaku]]",
-        "[[Peakspren]]",
-        "[[Overseer Vane]]",
-        "[[Steadfast]]"
-      ],
-      "tags": [
-        "#spren",
-        "#peakspren",
-        "#shadesmar",
-        "#haka_alaku"
-      ],
-      "last_updated": "2026-07-04T12:00:00"
-    },
-    "Steadfast": {
-      "type": "spren",
-      "status": "active",
-      "links": [
-        "[[Rekton]]",
-        "[[Peakspren]]",
-        "[[Haka'alaku]]",
-        "[[Cultivation's Perpendicularity]]",
-        "[[The Set]]",
-        "[[Sunlight]]",
-        "[[Rusted Iron]]"
-      ],
-      "tags": [
-        "#spren",
-        "#peakspren",
-        "#shadesmar",
-        "#rekton"
-      ],
-      "last_updated": "2026-07-04T12:00:00"
-    },
-    "Sunlight": {
+    "Tessitura": {
       "type": "spren",
       "status": "active",
       "links": [
@@ -4381,7 +4327,7 @@
         "[[Bloodmarks]]",
         "[[Haka'alaku]]",
         "[[The Set]]",
-        "[[Steadfast]]",
+        "[[Uum'atu]]",
         "[[Cadence]]"
       ],
       "tags": [
@@ -4391,7 +4337,7 @@
         "#shadesmar",
         "#rekton"
       ],
-      "last_updated": "2026-07-04T12:00:00"
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Timbre": {
       "type": "spren",
@@ -4404,6 +4350,26 @@
         "#regrowth_spren"
       ],
       "last_updated": "2026-06-25T14:00:00"
+    },
+    "Uum'atu": {
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Rekton]]",
+        "[[Peakspren]]",
+        "[[Haka'alaku]]",
+        "[[Cultivation's Perpendicularity]]",
+        "[[The Set]]",
+        "[[Tessitura]]",
+        "[[Vun'akal]]"
+      ],
+      "tags": [
+        "#spren",
+        "#peakspren",
+        "#shadesmar",
+        "#rekton"
+      ],
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Verdae": {
       "type": "spren",
@@ -4430,6 +4396,23 @@
         "#logical"
       ],
       "last_updated": "2026-05-13T23:29:00"
+    },
+    "Vun'akal": {
+      "type": "spren",
+      "status": "active",
+      "links": [
+        "[[Haka'alaku]]",
+        "[[Peakspren]]",
+        "[[Johb]]",
+        "[[Uum'atu]]"
+      ],
+      "tags": [
+        "#spren",
+        "#peakspren",
+        "#shadesmar",
+        "#haka_alaku"
+      ],
+      "last_updated": "2024-07-04T12:00:00"
     },
     "Aharietiam": {
       "type": "event",
