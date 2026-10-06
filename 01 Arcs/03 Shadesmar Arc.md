@@ -15,7 +15,7 @@ Following a desperate escape from the [[Silent Oath]], the party is thrust into 
 
 # Key Players
 - [[Kuma]]: The catalyst for the party's entry into [[Shadesmar]], currently missing after the transition.
-- [[Tessitura]]: A lightspren navigator assisting the resistance in [[Rekton]].
+- [[Tessitura]]: A lightspren navigator assisting the resistance in [[Rekka]].
 - [[Zabriel]]: The provider of high-output [[Nurian Gems]].
 - [[Johb]]: The Overseer of the occupation at [[Haka'alaku]] and an Iron Puller.
 - [[Grand Justicar Malice]]: The leader of the [[Bloodmarks]] pirate fleet.
@@ -23,7 +23,7 @@ Following a desperate escape from the [[Silent Oath]], the party is thrust into 
 
 # Progression
 - **Act 1: The Glass Sea:** Awakening in [[Shadesmar]] and surviving [[The Bead-Sea Ambush]].
-- **Act 2: The Spren City:** Seeking asylum in [[Rekton]] and making contact with [[Uum'atu]].
+- **Act 2: The Spren City:** Seeking asylum in [[Rekka]] and making contact with [[Uum'atu]].
 - **Act 3: The Pirate Pursuit:** A high-stakes chase against [[Scadrian Mechanics]] corsairs.
 - **Act 4: The Peaks Breach:** A final confrontation at [[Haka'alaku]] to reclaim the perpendicularity.
 

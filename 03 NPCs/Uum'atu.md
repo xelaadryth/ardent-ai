@@ -4,14 +4,13 @@ status: active
 tags:
   - "#npc"
   - "#peakspren"
-  - "#rekton"
 last_updated: 2026-07-10T15:00:00
 faction: "[[Peakspren]]"
-location: "[[Rekton]]"
+location: "[[Rekka]]"
 ---
 
 # Description
-A stony and resilient Peakspren who once served on the [[Haka_alaku]] Senate. He now leads the refugee community in [[Rekton]].
+A stony and resilient Peakspren who once served on the [[Haka_alaku]] Senate. He now leads the refugee community in [[Rekka]].
 
 # Personality
 True to his name, Uum'atu is a pillar of calm in the chaotic refugee camp. He is patient, methodical, and possesses a memory for every family that was separated during the coup. He is deeply unhappy with the blockade of [[Mother's Gate]].

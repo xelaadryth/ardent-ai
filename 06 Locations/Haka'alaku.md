@@ -28,10 +28,10 @@ Historically, Haka'alaku was a bastion of inclusivity and democracy, ruled by a 
 - [[Vun'akal]]: A legendary peakspren architect turned rowing slave.
 
 # Secrets
-The old Senate chambers beneath the central island still contain a working spanreed connected to [[Rekton]], used by the resistance to coordinate escape attempts.
+The old Senate chambers beneath the central island still contain a working spanreed connected to [[Rekka]], used by the resistance to coordinate escape attempts.
 
 # Connections
 - [[Shadesmar]]: The realm where the city exists.
 - [[Cultivation's Perpendicularity]]: The source of the city's strategic importance.
 - [[The Set]]: The occupying force.
-- [[Rekton]]: The nearby refugee settlement.
+- [[Rekka]]: The nearby refugee settlement.

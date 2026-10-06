@@ -6,7 +6,7 @@
 	- Rust and Ruin, rustin', by Harmony above, by the Thousand Eyes
 - [Emotionspren, naturespren, cousinspren](https://coppermind.net/wiki/Spren)
 	- Flamespren (N'tal), Lifespren (Fina), Concentrationspren (Iiko thinking hard), Joyspren (Mallow), Bindspren (Galeth not budging)
-- Parshmen in the streets
+- Parshmen
 - Party in trouble
 	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
 	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
@@ -14,48 +14,36 @@
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 	- They named it the ~~Final~~ Last Desolation, but they lied. Our gods lied. Oh, how they lied. The ~~Everstorm~~ false storm comes. I hear its whispers, see its stormwall, know its heart.
 	- *The final march at Feverstone Keep, the silent betrayal. Hundreds of Shardblades... and so much death. But even worse, 9 of the 10 Orders are gone, never to return.*
-# [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
-- Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
-- Shame that Senny, Neval, Cazo, and Hine were captured, no?
-- Would be awful to find a hole in your ship, wouldn't you say?
-- Fake Jory is a good plan
-- Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
-- Talking with Varo Three-Knives
-- John Bloodmark
-- Killing off the Truthkeeper Shardbearer, were you caught in the throes of The Thrill?
-- I wonder how much a Nurian princess is worth
-# Notes
-- Level Up (7):
-	- 4 HP, +2 skill ranks (max 3), +1 talent
 # Upcoming
 
-- Set ship rowed by peakspren called The Wandering Eye
-	- Peakspren from [[Haka'alaku]] row as slaves, don't need as much sustenance as humans
-	- Ship collecting tribute from Rekka for their "freedom", bringing it back to Haka'alaku
-	- Ship was a bit farther south than expected, almost in view of Rekton (Rissa Vale could see it, didn't tell the party)
-	- Led by [[Arbiter Jalis]]
-	- [[Vun'akal]] peakspren - finds out about the bond
-		- They broke our people's trust in the past. Hundreds of deadeyes. Why do you help Oathbreakers? Is it penance for a sin committed?
-		- [[Kun'ahu]] - We cannot stay stagnant as stone, someone has to be the first to trust the other.
-- [[Viscose]] is carrying Kuma's greatest fabrial, still has Stormlight in it (and Fina's Nurian gems) when everyone else's runs out.
-- Mainly reachers, some refugee peakspren, other visitors but few right now, most fled farther or left Rosharan subastral entirely to the Expanse of the Vapors on the way to Scadrial
-	- Maybe meet [[Koloko]]?
-	- [[Uum'atu]] - his tent, leader of Rekka, fine obsidian crafts coaxed into shape, temporary furniture, grateful saved Vun'akal
-	- [[Tessitura]] (restless and reckless) - why do you seek to help these slavers? These chains were thrust upon us, why do you bear them yourself? They can tos you away whenever they want, they have power over you.
+- Allies in the assault on [[Haka'alaku]]:
+	- [[Rekka]]
+		- [[Uum'atu]] - peakspren leader, former Senator
+		- [[Tessitura]] - aka Tess, contact for rebel reachers
+			- ~40 rebels with ~10 small madras boats, 3 larger ships
+			- Why do you seek to help these slavers? These chains were thrust upon us, why do you bear them yourself? They can toss you away whenever they want, they have power over you.
 		- With our help they can free the others, this is the time to explore and try something new, the unknown future where we can make a difference instead of being tied down by the past. not all humans perpetuate slavery
-- 
+		- [[Vun'akal]] - peakspren of the enslaved oarsmen
+		- [[Koloko]]
+	- [[Wandering Eye]] - cannons
+		- [[Vun'akal]] and 11 other armed peakspren
+		- [[Varo Three-Knives]]
+		- [[Arbiter Rissa Vale]]
+	- Knights VALORANT
+		- [[Renna Palir]]
+		- [[Gorlo]]
+		- [[Viscose]] - [[03 NPCs/Kuma|Kuma]]'s spren
+		- [[Hysteresis]] - deadeye Cryptic
+
+- Returning through [[Mother's Gate]]:
+	- Hear [[Kuma]]'s voice, gives [[Viscose]] Kuma's greatest fabrial, and [[Tash The Hound]]'s iron hemalurgic spike which grants +1 strength
+	- A short picture book called [[The Mink and the Axehounds]] from [[Hoid]]
 - Tomat hooks
 	- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
 	- Lightship Expo - Higuma ([[Viscose]] recognizes as [[Kuma]]'s mother's name) leading the exhibition
 		- Not actually her, she should appear Alethi but this one is Thaylen.
 	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
-- [[Hoid]] on the ship
-	- [[The Mink and the Axehounds]]
-- [[Varo Three-Knives]] on the [[Deepen Light]] (disguised as the River Rider)
-	- [[Gath]]
-	- [[Teks]]
-	- [[Miri]]
 - [[Arbiter Rissa Vale]] boarded the ship and turned it around from Kholinar to salvage the situation
 	- With [[Kaizen]] who protects her; she uses a crossbow with barbed aluminum bolts
 - Was on the ship:
