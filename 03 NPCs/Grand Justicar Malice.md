@@ -12,7 +12,7 @@ faction: "[[Bloodmarks]]"
 location: "[[Shadesmar]]"
 ---
 # Description
-Temeret Malice is a high-ranking Scadrian worldhopper and the primary commander of the [[Bloodmarks]] worldhopper fleet. He is a formidable Twinborn who utilizes the Metallic Arts to dominate the trade routes of [[Shadesmar]].
+Temeret Malice is a high-ranking Scadrian worldhopper and the primary commander of the [[Bloodmarks]] worldhopper fleet. She is a formidable Twinborn who utilizes the Metallic Arts to dominate the trade routes of [[Shadesmar]].
 
 # Appearance
 Possesses Scadrian features (resembling Northern Rosharans) with red hair and cold, grey eyes. He wears high-collared, multi-pocketed Scadrian robes designed for carrying various metal vials and feruchemical bracers.

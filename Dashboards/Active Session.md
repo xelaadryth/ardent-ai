@@ -13,7 +13,7 @@
 	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 	- They named it the ~~Final~~ Last Desolation, but they lied. Our gods lied. Oh, how they lied. The ~~Everstorm~~ false storm comes. I hear its whispers, see its stormwall, know its heart.
-	- *The Orders' final march brought them to Feverstone Keep, and we were thus silently betrayed. Hundreds of Shardblades surrendered... and so much death in the ensuing confusion. But even worse, 9 of the 10 left, never to return.*
+	- *The final march at Feverstone Keep, the silent betrayal. Hundreds of Shardblades... and so much death. But even worse, 9 of the 10 Orders are gone, never to return.*
 # [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
 - Shame that Senny, Neval, Cazo, and Hine were captured, no?
@@ -31,7 +31,7 @@
 
 - Set ship rowed by peakspren called The Wandering Eye
 	- Peakspren from [[Haka'alaku]] row as slaves, don't need as much sustenance as humans
-	- Ship collecting tribute from Rekton for their "freedom", bringing it back to Haka'alaku
+	- Ship collecting tribute from Rekka for their "freedom", bringing it back to Haka'alaku
 	- Ship was a bit farther south than expected, almost in view of Rekton (Rissa Vale could see it, didn't tell the party)
 	- Led by [[Arbiter Jalis]]
 	- [[Vun'akal]] peakspren - finds out about the bond
@@ -41,9 +41,10 @@
 - Fearspren towards the north/northeast (Tomat, battlefield)
 - Rekton is the town at the southern tip of the peninsula on the way to the horneater peaks. Mainly reachers, some refugee peakspren, other visitors but few right now, most fled farther or left Rosharan subastral entirely to the Expanse of the Vapors on the way to Scadrial
 	- Maybe meet [[Koloko]]?
-	- [[Uum'atu]] - his tent, leader of Rekton, fine obsidian crafts coaxed into shape, temporary furniture, grateful saved Vun'akal
-	- [[Tessitura]] (restless and reckless) - why doyou seek to help these slavers? These chains were thrust upon us, why do you bear them yourself? They can tos you away whenever they want, they have power over you.
+	- [[Uum'atu]] - his tent, leader of Rekka, fine obsidian crafts coaxed into shape, temporary furniture, grateful saved Vun'akal
+	- [[Tessitura]] (restless and reckless) - why do you seek to help these slavers? These chains were thrust upon us, why do you bear them yourself? They can tos you away whenever they want, they have power over you.
 		- With our help they can free the others, this is the time to explore and try something new, the unknown future where we can make a difference instead of being tied down by the past. not all humans perpetuate slavery
+- 
 - Tomat hooks
 	- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
