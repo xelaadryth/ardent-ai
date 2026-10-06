@@ -38,4 +38,4 @@ Following a desperate escape from the [[Silent Oath]], the party is thrust into 
 # Sessions
 - [[026 The Bead Sea]]
 - [[027 Battle of Ships and Spren]]
-- [[028 Freedom and Shadows]]
+- [[028 Rebels in Rekka]]

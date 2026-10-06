@@ -1,5 +1,5 @@
 - Current Arc: [[02 Knights of Dusk Arc]]
-- Last Session: [[024 To Kill a Shardbearer]]
+- Last Session: [[028 Rebels in Rekka]]
 # Reminders
 - Curses and swears
 	- "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"

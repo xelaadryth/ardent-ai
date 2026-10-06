@@ -1,1 +1,0 @@
-Recaps for sessions 26, 27, and 28 have been created, along with necessary updates to characters and locations reflecting the shift to Shadesmar. Notable changes include Kuma's 'missing' status, the capture of the *Wandering Eye*, and the introduction of the local name 'Rekka' for Rekton. The rank of Arbiter Rissa Vale was normalized to 'Cycle' per the session 26 notes.
