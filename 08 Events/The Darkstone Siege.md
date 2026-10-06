@@ -9,7 +9,7 @@ tags:
   - "#inciting_incident"
 last_updated: 2026-06-15T10:00:00
 fc-category: Party
-fc-date: 1172-02-32
+fc-date: 1172-02-31
 ---
 # Description
 The climactic final confrontation of the [[02 Knights of Dusk Arc]]. The Vamah Guard and [[Truthkeepers]] assault the insurgency's base.

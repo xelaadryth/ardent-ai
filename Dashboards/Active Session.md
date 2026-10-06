@@ -33,10 +33,17 @@
 	- Peakspren from [[Haka'alaku]] row as slaves, don't need as much sustenance as humans
 	- Ship collecting tribute from Rekton for their "freedom", bringing it back to Haka'alaku
 	- Ship was a bit farther south than expected, almost in view of Rekton (Rissa Vale could see it, didn't tell the party)
+	- Led by [[Arbiter Jalis]]
+	- [[Vun'akal]] peakspren - finds out about the bond
+		- They broke our people's trust in the past. Hundreds of deadeyes. Why do you help Oathbreakers? Is it penance for a sin committed?
+		- [[Kun'ahu]] - We cannot stay stagnant as stone, someone has to be the first to trust the other.
 - [[Viscose]] is carrying Kuma's greatest fabrial, still has Stormlight in it (and Fina's Nurian gems) when everyone else's runs out.
 - Fearspren towards the north/northeast (Tomat, battlefield)
 - Rekton is the town at the southern tip of the peninsula on the way to the horneater peaks. Mainly reachers, some refugee peakspren, other visitors but few right now, most fled farther or left Rosharan subastral entirely to the Expanse of the Vapors on the way to Scadrial
 	- Maybe meet [[Koloko]]?
+	- [[Uum'atu]] - his tent, leader of Rekton, fine obsidian crafts coaxed into shape, temporary furniture, grateful saved Vun'akal
+	- [[Tessitura]] (restless and reckless) - why doyou seek to help these slavers? These chains were thrust upon us, why do you bear them yourself? They can tos you away whenever they want, they have power over you.
+		- With our help they can free the others, this is the time to explore and try something new, the unknown future where we can make a difference instead of being tied down by the past. not all humans perpetuate slavery
 - Tomat hooks
 	- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
@@ -56,13 +63,11 @@
 	- [[03 NPCs/Dahmian|Dahmian]]
 	- [[Beric Quinn]] (injured)
 	- [[Nathaniel]] who jumps ship when he realizes the danger, gonna go defend [[Jory Spadis]] with [[Kaz]]
-- Shardblade (cryptic, she/her)
-	- 
-- Shadesmar spren
+- Shardblade deadeyes (cryptic, she/her)
+- Shadesmar spren (world guide adversaries)
 	- Painspren (grinders)
 		- Usually harmless in the Physical Realm
 		- Dangerous, aggressive, screech violently (beast trumping like breaking glass) when drawn to strong physical or emotional distress, can swarm and attack travelers
-		- Non-canon, look like little orange humanoid gingerbread men with huge hands
 	- Angerspren
 		- Loud screeching noises, saliva pooling and drooling in the physical realm
 ## Other
