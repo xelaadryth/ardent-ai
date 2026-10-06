@@ -195,10 +195,16 @@
         "[[Johb]]",
         "[[Haka'alaku]]",
         "[[Grand Justicar Malice]]",
+        "[[Kaizen]]",
+        "[[The Set]]",
         "[[The Bead-Sea Ambush]]",
         "[[Uum'atu]]",
         "[[Scadrian Mechanics]]",
-        "[[The Honorspren's Reluctance]]"
+        "[[Peakspren]]",
+        "[[The Honorspren's Reluctance]]",
+        "[[026 The Bead Sea]]",
+        "[[027 Battle of Ships and Spren]]",
+        "[[028 Rebels in Rekka]]"
       ],
       "tags": [
         "#arc",
@@ -206,7 +212,7 @@
         "#worldhopping",
         "#bloodmarks"
       ],
-      "last_updated": "2024-07-04T12:00:00"
+      "last_updated": "2024-07-10T00:00:00"
     },
     "04 Nurian Gems Arc": {
       "type": "arc",
@@ -339,11 +345,12 @@
     },
     "Kuma": {
       "type": "player",
-      "status": "active",
+      "status": "inactive",
       "links": [
         "[[Viscose]]",
-        "[[023 Preparing for the Siege]]",
-        "[[Knights of Dusk]]",
+        "[[Shadesmar]]",
+        "[[026 The Bead Sea]]",
+        "[[Nurian Gems]]",
         "[[Higuma]]",
         "[[Vorn]]"
       ],
@@ -351,9 +358,10 @@
         "#player",
         "#elsecaller",
         "#nurian",
-        "#maker"
+        "#maker",
+        "#missing"
       ],
-      "last_updated": "2024-07-01T12:00:00"
+      "last_updated": "2024-07-10T00:00:00"
     },
     "Mallow": {
       "type": "player",
@@ -459,34 +467,38 @@
     },
     "Arbiter Jalis": {
       "type": "npc",
-      "status": "active",
+      "status": "completed",
       "links": [
         "[[Bloodmarks]]",
-        "[[Haka'alaku]]",
-        "[[Johb]]",
+        "[[Shadesmar]]",
         "[[N'tal]]",
-        "[[Revolar]]",
-        "[[Grand Justicar Malice]]"
+        "[[027 Battle of Ships and Spren]]",
+        "[[Johb]]"
       ],
       "tags": [
         "#npc",
         "#bloodmarks",
         "#veden",
-        "#antagonist"
+        "#antagonist",
+        "#dead"
       ],
-      "last_updated": "2024-07-04T12:00:00"
+      "last_updated": "2024-07-10T00:00:00"
     },
     "Arbiter Rissa Vale": {
       "type": "npc",
       "status": "active",
       "links": [
         "[[Bloodmarks]]",
-        "[[Revolar]]",
-        "[[Tash The Hound]]",
+        "[[Wandering Eye]]",
+        "[[The Set]]",
+        "[[Shadesmar]]",
+        "[[026 The Bead Sea]]",
+        "[[027 Battle of Ships and Spren]]",
+        "[[Mallow]]",
+        "[[Johb]]",
         "[[Varo Three-Knives]]",
-        "[[Scarstone Quarter]]",
-        "[[Knights of Dusk]]",
-        "[[Kaizen]]"
+        "[[Kaizen]]",
+        "[[Mother's Gate]]"
       ],
       "tags": [
         "#npc",
@@ -495,7 +507,7 @@
         "#bloodmarks",
         "#intelligence"
       ],
-      "last_updated": "2024-06-18T10:00:00"
+      "last_updated": "2024-07-10T00:00:00"
     },
     "Ardent Kaelis": {
       "type": "npc",
@@ -1039,25 +1051,21 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Bloodmarks]]",
+        "[[The Set]]",
         "[[Haka'alaku]]",
-        "[[Peakspren]]",
-        "[[Ghostbloods]]",
-        "[[Arbiter Jalis]]",
-        "[[Kuma]]",
+        "[[Mother's Gate]]",
         "[[Nurian Gems]]",
-        "[[Vun'akal]]",
-        "[[Grand Justicar Malice]]"
+        "[[Arbiter Rissa Vale]]"
       ],
       "tags": [
         "#npc",
         "#malwish",
         "#scadrian",
-        "#bloodmarks",
+        "#set",
         "#hemalurgy",
         "#overseer"
       ],
-      "last_updated": "2024-07-04T12:00:00"
+      "last_updated": "2024-07-10T00:00:00"
     },
     "Jory Spadis": {
       "type": "npc",
@@ -1104,21 +1112,25 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Bloodmarks]]",
+        "[[The Set]]",
+        "[[Wandering Eye]]",
         "[[Shadesmar]]",
         "[[Ghostbloods]]",
+        "[[Iiko]]",
+        "[[Deepen Light]]",
+        "[[Arbiter Rissa Vale]]",
         "[[Hero of Ages]]",
-        "[[Thaidakar]]",
-        "[[Arbiter Rissa Vale]]"
+        "[[Johb]]"
       ],
       "tags": [
         "#npc",
         "#malwish",
         "#scadrian",
         "#mistborn",
-        "#bloodmarks"
+        "#bloodmarks",
+        "#set"
       ],
-      "last_updated": "2024-06-26T10:00:00"
+      "last_updated": "2024-07-10T00:00:00"
     },
     "Karani": {
       "type": "npc",
@@ -2550,6 +2562,87 @@
       ],
       "last_updated": "2026-07-02T12:00:00"
     },
+    "026 The Bead Sea": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[03 Shadesmar Arc]]",
+        "[[Silent Oath]]",
+        "[[Shadesmar]]",
+        "[[High Enforcer Aylen]]",
+        "[[Deepen Light]]",
+        "[[Varo Three-Knives]]",
+        "[[Hoid]]",
+        "[[Nurian Gems]]",
+        "[[Kuma]]",
+        "[[Mallow]]",
+        "[[Renna Palir]]",
+        "[[Gorlo]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[Viscose]]",
+        "[[Kaizen]]",
+        "[[The Set]]",
+        "[[Iiko]]",
+        "[[N'tal]]"
+      ],
+      "tags": [
+        "#session",
+        "#shadesmar",
+        "#transition"
+      ],
+      "last_updated": "2024-07-10T00:00:00"
+    },
+    "027 Battle of Ships and Spren": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[03 Shadesmar Arc]]",
+        "[[Bloodmarks]]",
+        "[[Arbiter Jalis]]",
+        "[[Kaizen]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[Mallow]]",
+        "[[N'tal]]",
+        "[[Iiko]]",
+        "[[Varo Three-Knives]]",
+        "[[Peakspren]]"
+      ],
+      "tags": [
+        "#session",
+        "#shadesmar",
+        "#combat"
+      ],
+      "last_updated": "2024-07-10T00:00:00"
+    },
+    "028 Rebels in Rekka": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[03 Shadesmar Arc]]",
+        "[[The Set]]",
+        "[[Galeth-son-Thald]]",
+        "[[Peakspren]]",
+        "[[Vun'akal]]",
+        "[[Kun'ahu]]",
+        "[[Haka'alaku]]",
+        "[[Mother's Gate]]",
+        "[[Rekton]]",
+        "[[N'tal]]",
+        "[[Uum'atu]]",
+        "[[Tessitura]]",
+        "[[Cadence]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[Kaizen]]",
+        "[[Johb]]",
+        "[[Cultivation's Perpendicularity]]"
+      ],
+      "tags": [
+        "#session",
+        "#shadesmar",
+        "#rp"
+      ],
+      "last_updated": "2024-07-10T00:00:00"
+    },
     "Bloodmarks": {
       "type": "faction",
       "status": "active",
@@ -2860,18 +2953,12 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[Slipmarket]]",
-        "[[Revolar]]",
-        "[[Bodenar]]",
+        "[[Shadesmar]]",
         "[[Varo Three-Knives]]",
-        "[[Gath]]",
-        "[[Teks]]",
-        "[[Miri]]",
-        "[[Nurian Gems]]",
-        "[[Grand Justicar Malice]]",
-        "[[022 Back to Base]]",
-        "[[N'tal]]",
-        "[[019 The Slipmarket Stakeout]]"
+        "[[Revolar]]",
+        "[[026 The Bead Sea]]",
+        "[[High Enforcer Aylen]]",
+        "[[028 Rebels in Rekka]]"
       ],
       "tags": [
         "#location",
@@ -2879,7 +2966,7 @@
         "#smuggler",
         "#bloodmarks"
       ],
-      "last_updated": "2024-06-30T12:00:00"
+      "last_updated": "2024-07-10T00:00:00"
     },
     "Haka'alaku": {
       "type": "location",
@@ -2965,12 +3052,9 @@
       "links": [
         "[[Shadesmar]]",
         "[[Haka'alaku]]",
-        "[[Lightspren]]",
         "[[Peakspren]]",
-        "[[The Set]]",
         "[[Tessitura]]",
-        "[[Uum'atu]]",
-        "[[Bloodmarks]]"
+        "[[Uum'atu]]"
       ],
       "tags": [
         "#location",
@@ -2978,7 +3062,7 @@
         "#rekton",
         "#refugees"
       ],
-      "last_updated": "2024-07-04T12:00:00"
+      "last_updated": "2024-07-10T00:00:00"
     },
     "Revolar": {
       "type": "location",
@@ -3228,6 +3312,25 @@
         "#revolar"
       ],
       "last_updated": "2026-06-02T10:00:00"
+    },
+    "Wandering Eye": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Shadesmar]]",
+        "[[Bloodmarks]]",
+        "[[Peakspren]]",
+        "[[Vun'akal]]",
+        "[[Varo Three-Knives]]",
+        "[[Arbiter Rissa Vale]]"
+      ],
+      "tags": [
+        "#location",
+        "#ship",
+        "#bloodmarks",
+        "#shadesmar"
+      ],
+      "last_updated": "2024-07-10T00:00:00"
     },
     "Whitespine's Fang": {
       "type": "location",
@@ -4070,6 +4173,24 @@
         "#reference"
       ],
       "last_updated": "2024-06-29T10:00:00"
+    },
+    "Mother's Gate": {
+      "type": "lore",
+      "status": "active",
+      "links": [
+        "[[Haka'alaku]]",
+        "[[Shadesmar]]",
+        "[[Cultivation's Perpendicularity]]",
+        "[[The Set]]",
+        "[[Johb]]",
+        "[[Nurian Gems]]"
+      ],
+      "tags": [
+        "#lore",
+        "#shadesmar",
+        "#haka_alaku"
+      ],
+      "last_updated": "2024-07-10T00:00:00"
     },
     "NPC Name Repository": {
       "type": "lore",
