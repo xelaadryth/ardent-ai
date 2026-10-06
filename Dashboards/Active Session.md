@@ -38,8 +38,7 @@
 		- They broke our people's trust in the past. Hundreds of deadeyes. Why do you help Oathbreakers? Is it penance for a sin committed?
 		- [[Kun'ahu]] - We cannot stay stagnant as stone, someone has to be the first to trust the other.
 - [[Viscose]] is carrying Kuma's greatest fabrial, still has Stormlight in it (and Fina's Nurian gems) when everyone else's runs out.
-- Fearspren towards the north/northeast (Tomat, battlefield)
-- Rekton is the town at the southern tip of the peninsula on the way to the horneater peaks. Mainly reachers, some refugee peakspren, other visitors but few right now, most fled farther or left Rosharan subastral entirely to the Expanse of the Vapors on the way to Scadrial
+- Mainly reachers, some refugee peakspren, other visitors but few right now, most fled farther or left Rosharan subastral entirely to the Expanse of the Vapors on the way to Scadrial
 	- Maybe meet [[Koloko]]?
 	- [[Uum'atu]] - his tent, leader of Rekka, fine obsidian crafts coaxed into shape, temporary furniture, grateful saved Vun'akal
 	- [[Tessitura]] (restless and reckless) - why do you seek to help these slavers? These chains were thrust upon us, why do you bear them yourself? They can tos you away whenever they want, they have power over you.
