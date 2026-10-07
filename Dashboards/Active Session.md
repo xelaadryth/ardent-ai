@@ -12,6 +12,7 @@
 	- *The final march at Feverstone Keep, the silent betrayal. Hundreds of Shardblades... and so much death. But even worse, 9 of the 10 Orders are gone, never to return.*
 # Upcoming
 
+- [[The Rekka Ship Hijack]]
 - Allies in the assault on [[Haka'alaku]]:
 	- [[Rekka]]
 		- [[Uum'atu]] - peakspren leader, former Senator
@@ -40,7 +41,7 @@
 		- Heal the deadeye [[Hysteresis]]
 		- Train a spren animal companion
 
-- Returning through [[Mother's Gate]]:
+- [[Assault on Mother's Gate]] through [[Mother's Gate]]:
 	- Hear [[Kuma]]'s voice, gives [[Viscose]] Kuma's greatest fabrial, and [[Tash The Hound]]'s iron hemalurgic spike which grants +1 strength
 	- A short picture book called [[The Mink and the Axehounds]] from [[Hoid]]
 - Tomat hooks

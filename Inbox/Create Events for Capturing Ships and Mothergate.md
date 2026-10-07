@@ -1,1 +1,0 @@
-Created event files for the Rekka ship hijack and the Mother's Gate assault, ensuring they are integrated into the 03 Shadesmar Arc.
