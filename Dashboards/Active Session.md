@@ -7,10 +7,6 @@
 - [Emotionspren, naturespren, cousinspren](https://coppermind.net/wiki/Spren)
 	- Flamespren (N'tal), Lifespren (Fina), Concentrationspren (Iiko thinking hard), Joyspren (Mallow), Bindspren (Galeth not budging)
 - Parshmen
-- Party in trouble
-	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
-	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
-	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 	- They named it the ~~Final~~ Last Desolation, but they lied. Our gods lied. Oh, how they lied. The ~~Everstorm~~ false storm comes. I hear its whispers, see its stormwall, know its heart.
 	- *The final march at Feverstone Keep, the silent betrayal. Hundreds of Shardblades... and so much death. But even worse, 9 of the 10 Orders are gone, never to return.*
@@ -34,6 +30,15 @@
 		- [[Gorlo]]
 		- [[Viscose]] - [[03 NPCs/Kuma|Kuma]]'s spren
 		- [[Hysteresis]] - deadeye Cryptic
+- Second Ideal
+	- [[N'tal]] - controlling power (Jalis +1)
+	- [[Fina]] - first ideal, remembering and representing the forgotten
+	- [[Galeth-son-Thald]] - Reliable and steadfast
+	- [[Mallow]] - Liberating the enslaved peakspren +1
+	- [[Iiko]] - Eventual third ideal - correct the falsehoods of the past
+		- Find the spiritual realm
+		- Heal the deadeye [[Hysteresis]]
+		- Train a spren animal companion
 
 - Returning through [[Mother's Gate]]:
 	- Hear [[Kuma]]'s voice, gives [[Viscose]] Kuma's greatest fabrial, and [[Tash The Hound]]'s iron hemalurgic spike which grants +1 strength
@@ -51,13 +56,10 @@
 	- [[03 NPCs/Dahmian|Dahmian]]
 	- [[Beric Quinn]] (injured)
 	- [[Nathaniel]] who jumps ship when he realizes the danger, gonna go defend [[Jory Spadis]] with [[Kaz]]
-- Shardblade deadeyes (cryptic, she/her)
-- Shadesmar spren (world guide adversaries)
-	- Painspren (grinders)
-		- Usually harmless in the Physical Realm
-		- Dangerous, aggressive, screech violently (beast trumping like breaking glass) when drawn to strong physical or emotional distress, can swarm and attack travelers
-	- Angerspren
-		- Loud screeching noises, saliva pooling and drooling in the physical realm
+- Past Allies
+	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
+	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
+	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
 ## Other
 - [[03 Shadesmar Arc]] - Bloodmark Corsairs
 	- [[Arbiter Rissa Vale]] (Array of the Set)
