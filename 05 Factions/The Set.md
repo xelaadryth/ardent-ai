@@ -23,9 +23,13 @@ Interplanetary division of the Set parallel to the one in Elendel basin. They ar
 - [[Haka'alaku]]: Governed by Overseer [[Johb]].
 
 # Goals
-- **Interplanetary Smuggling.**
-- **Piracy.**
-- **Monopoly.**
+- Monopolize travel to and from Roshar
+	- Cultivation's Perpendicularity
+	- Find out how to reactivate or destroy the other gates by the statue pairs (gatespren)
+	- Find Honor/Odium's Perpendicularities
+- Research Nurian gems and sell them to fund their conquering ambitions
+- Beat the Ghostbloods
+- Piracy (when they can get away with it)
 
 # Members
 - [[Grand Justicar Malice]]
