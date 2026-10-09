@@ -19,6 +19,7 @@ unit: miles
 ```
 
 # Shadesmar
+[[Shadesmar]]
 ```leaflet
 id: map-shadesmar
 image: [[Map of Shadesmar.png]]

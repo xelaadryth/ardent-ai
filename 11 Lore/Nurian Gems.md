@@ -9,12 +9,13 @@ last_updated: 2026-05-17T12:00:00
 ---
 
 # Description
-Unstable and highly reactive gemstones originating from the world of Mythos. These gems possess a unique vibrational frequency that allows for significantly higher power output in fabrials compared to standard Rosharan gems, but they are prone to structural failure if not properly stabilized. They're unusually attuned to Roshar given their origin, suggesting the transfer of entire landmasses between worlds from before the Silver Kingdoms era.
+Unstable and highly reactive gemstones originating from the world of Mythos. These gems possess a unique vibrational frequency that allows for significantly higher power output in fabrials compared to standard Rosharan gems, but they are prone to structural failure if not properly stabilized. They're unusually attuned to Roshar given their origin, suggesting the transfer of entire landmasses between worlds from before the Silver Kingdoms era when the [[Night]] left Roshar for Mythos.
 
 # Properties
 - **Batteries**: Hold stormlight twice as long as regular gemstones.
 - **High Output:** Nurian gems can power complex mechanisms like the [[The Experimental Lightship]] more efficiently.
 - **Instability:** They are sensitive to Rosharan "atmospheric" investiture, often humming or cracking when highstorms approach.
+- **Nurian Royals**: When attuned by a Nurian royal, a true descendant of Night, the sealed power of the gem is unlocked, allowing for full consumption (but cracking) of the gem.
 
 # Artifabrial Physics
 - Vriztl Method - Thaylen tuning forks vibrate a gem at (Honor's) frequency, Stormlight flows into a larger/more highly infused gem

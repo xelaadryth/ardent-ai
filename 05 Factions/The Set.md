@@ -14,8 +14,8 @@ Interplanetary division of the Set parallel to the one in Elendel basin. They ar
 # Structure (Set)
 - **The Key**: Leader of The Set
 - **Series:** [[Grand Justicar Malice]]
-- **Sequence:** High-ranking leaders.
-- **Suit:** [[Johb]], [[Marcus]], [[Kaizen]].
+- **Sequence:** High-ranking leaders. [[Johb]]
+- **Suit:** [[Marcus]], [[Kaizen]].
 - **Array:** Specialists. [[Arbiter Rissa Vale]].
 - **Cycle:** Lowest formal rank. [[Arbiter Jalis]], [[Varo Three-Knives]], [[Tash The Hound]].
 

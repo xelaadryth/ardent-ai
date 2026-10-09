@@ -24,6 +24,7 @@ Thalor held the real administrative power behind the throne, handling all paperw
 - Maintain the dominance of the high noble houses.
 - Enrich himself through brokered deals and land seizures.
 - Prevent the royal family from conducting independent oversight.
+- Matchmake princess [[Fina]] with a member of [[The Set]].
 
 # Connections
 - [[Fina]]: He served as the handler for her administrative duties, ensuring her signatures advanced noble agendas.

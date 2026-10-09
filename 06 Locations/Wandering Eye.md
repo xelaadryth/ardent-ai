@@ -15,7 +15,8 @@ A large, oar-powered [[Bloodmarks]] galley captured by the party in [[Shadesmar]
 
 # Notable Features
 - **The Oar Deck:** A cramped lower deck where slaves were formerly chained. Now serves as a barracks for the free [[Peakspren]].
-- **The Obsidian Armory:** Contains crates of weapons fashioned from the dense glass of the Cognitive Realm.
+- **The Obsidian Armory:** Contains crates of weapons fashioned from the dense obsidian glass of the Cognitive Realm as well as iron wepaons.
+- **The Cannons**: Has powder and heavy iron cannonballs 
 
 # Inhabitants
 - [[Vun'akal]]: Leader of the crew.

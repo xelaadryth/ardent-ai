@@ -22,11 +22,11 @@ Light brown eyes and light brown hair. Stands 5'7" with the poise of an Alethi n
 A complex mix of grace and pragmatic ruthlessness. Cold and efficient when protecting her interests, yet driven by the Edgedancer oath to remember the forgotten. Always something a little alien, too logical, about her.
 
 # Background
-Born into a noble family, Fina rejected a marriage alliance with a "nature cult" and fled through the Cognitive Realm. She arrived at the [[Truthkeeper Camp]] in a wagon alongside the Nurians [[Dahmian]] and [[Karani]]. Her historical negligence in signing administrative documents without reading them—facilitated by [[High Advisor Thalor]]—enabled the [[Bloodmarks]] to seize [[N'tal]]'s family assets (the [[Aelwood Contract]]), a fact recently revealed by the [[Undertaker]].
+Born into a noble family, Fina rejected a marriage alliance with some foreign duke, and fled through the Cognitive Realm. She arrived at the [[Truthkeeper Camp]] in a wagon alongside the Nurians [[Dahmian]] and [[Karani]]. Her historical negligence in signing administrative documents without reading them—facilitated by [[High Advisor Thalor]]—enabled the [[Bloodmarks]] to seize [[N'tal]]'s family assets (the [[Aelwood Contract]]), a fact recently revealed by the [[Undertaker]].
 
-Unbeknownst to her, some unique members of the Nurian royal line has the capacity to stabilize Nurian gems (only those that don't want power). [[High Advisor Thalor]] was informed of this by the [[Bloodmarks]] and was trying to trap her in a marriage contract, but no one knows where she went.
+Unbeknownst to her, some unique members of the Nurian royal line has the capacity to stabilize Nurian gems (only those that don't want power). [[High Advisor Thalor]] was informed of this by the [[Bloodmarks]] and was trying to trap her in a marriage contract with a member of [[The Set]], but no one knows where she went.
 
-When the ancient spren of Night (alongside Stone and Wind) fled Roshar, she settled on Mythos, and eventually fell in love and sired the Nurian noble line. The Night left changes on Mythos, which focused on the gemstones for which she was so fond. The noble line has the power to align Nurian gems, which have far greater storage and output than other gems, but it takes practice to do so.
+When the ancient spren of Night (alongside Stone and Wind) fled Roshar, she settled on Mythos, and eventually fell in love and sired the Nurian noble line. The Night left changes on Mythos, which focused on the gemstones for which she was so fond. The noble line has the power to align (and unlock the usual limiters for) Nurian gems, which have far greater storage and output than other gems, but it takes practice to do so.
 
 # First Ideal
 
@@ -46,7 +46,7 @@ It's harder to be strong and do the right thing, easier to kill and save yoursel
 
 Your intentions and choices are what define you. Everyone dies in the end, both you and the people you have slain. What matters is how their and your journeys cultivate one another. Remember and grow from them.
 
-Cultivating yourself is important; no one starts out perfect, and everyone fades into Night eventually, but the marks you leave with how you live your life will have infinite lasting echoes on the world. Remember the forgotten.
+Cultivating yourself is important; no one starts out perfect, and everyone fades into Night eventually, but the marks you leave with how you live your life will have infinite lasting echoes on the world. Remember that the Night is not the end, it is just another trial to overcome in a series of trials, and how you face that trial defines who you are.
 # Goals
 - Catalog every species of flora and fauna on Roshar.
 - Uncover the deepest secrets of the Cosmere.

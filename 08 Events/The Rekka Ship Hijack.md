@@ -8,14 +8,13 @@ tags:
   - "#rekka"
 last_updated: 2026-07-10T12:00:00
 fc-category: Party
-fc-date: 1172-02-38
+fc-date: 1172-02-36
 ---
 # Description
-The party spends four days in [[Rekka]], waiting for a suitable Set vessel to transit the local sea-lanes. The objective is to seize a ship without direct combat, utilizing guile, sabotage, or misdirection.
+The party spends four days in [[Rekka]], waiting for a suitable Set vessel to transit the local sea-lanes. On the second day, a patrol of 3 ships is investigating Rekka for the missing [[Arbiter Jalis]]. The objective is to seize a ship without direct combat, utilizing guile, sabotage, or misdirection.
 
 # Interesting Ship Elements
-- **The Ghost-Lanterns**: The target ship uses bioluminescent spren-lanterns for signaling. If sabotaged, the ship becomes invisible to standard detection but difficult to navigate.
-- **The Cargo Net**: The ship transports enslaved spren who are unhappy with their current handlers; if freed, they may assist the party in disrupting ship operations.
+- **The Deadeye Nets**: Nets that can be dragged along the sea floor to catch deadeyes. While it doesn't affect the Physical Realm, their location can be reported via spanreed to [[Haka'alaku]], who can send a messenger through [[Mother's Gate]]
 - **The Speaking Tube**: A brass speaking tube that connects the bridge to the engine room—can be used for fake commands or eavesdropping.
 
 # Decision Points

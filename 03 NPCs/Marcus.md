@@ -15,7 +15,7 @@ Often called simply "Mr. Suit" referring to his manner of dress.
 
 A semi-retired worldhopping bounty hunter from Vedenar who is always well-dressed in a suit and tie, seemingly without a speck of dust, and has an air of smiling professionalism.
 
-He was promoted to be a Suit of the Set due to his skill with a Shardblade.
+He was promoted to be a Suit of the Set due to his skill with a Shardblade. He might secretly be a [[Ghostbloods]] spy.
 
 # Appearance
 Marcus has heterochromia, one deep blue eye, one deep red eye. He is cleanshaven, and wears his short white hair slicked back. A jagged scar rips from the corner of his left eye down to his jawline, marring his otherwise smooth face. He carries a small Shard-resistant buckler (aluminum) in his suit, and is scarred from a dozen near-fatal encounters.

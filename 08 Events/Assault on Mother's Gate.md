@@ -8,18 +8,29 @@ tags:
   - "#haka_alaku"
 last_updated: 2026-07-10T12:00:00
 fc-category: Party
-fc-date: 1172-02-40
+fc-date: 1172-02-38
 ---
 # Description
-The party launches a coordinated assault on [[Haka_alaku]] to reclaim [[Mother's Gate]]. Rebels led by [[Tessitura]] and [[Uum'atu]] provide a naval distraction, while the party infiltrates the facility to confront [[Johb]].
+The party launches a coordinated assault on [[Haka'alaku]] to reclaim [[Mother's Gate]]. Rebels led by [[Tessitura]] and [[Uum'atu]] provide a naval distraction, while the party infiltrates the facility to confront [[Johb]].
 
 # The Assault Plan
 - **The Distraction**: 8 small rebel boats draw the attention of the Set's perimeter ships, while larger vessels carrying melee-focused [[Peakspren]] crash the line.
 - **The Infiltration**: The party must breach the inner sanctum where the gate is located.
 
-# Gameplay Decision Points
-- **Combat Terrain**: The sanctum is a custom-built fortress filled with hidden iron and steel plating, allowing [[Johb]] to maneuver on walls and ceilings.
+# Combat Phases
+- **The Iron Forest**: The leaves on the trees are all delicately attached and razor-sharp. He throws knives with wooden handles and pulls them to his shield. As the party uses stormlight, the sand around them starts to turn white.
+	- Throwing knives (1d4 light weaponry)
+	- Kite shield (1d4 heavy weaponry Defensive), pulls himself into players and shield bashes
+	- Ironpulls or hitting a tree can cause a shower of iron razor leaves in an area
+- **Fabrials**: Tries to conserve stormlight
+	- Iron Soulcaster to turn the party's equipment (or his own shield) to iron
+	- Painrial (amplifying) - punching dagger
+	- Painrial (numbing) - suppresses pain
+	- Drainer - sucks stormlight from players
+- **Blacksand**: As the party and [[Johb]] uses Allomancy, the sand charges, and [[Johb]] reveals his Taldain sand mastery powers; sand to block attacks, as well as bludgeon/whipped. AoE sweeping wave/ribbon of sand. Liquefy or shift sand beneath enemy feet.
 
-# Combat: Johb (Two-Phase Fight)
-- **Phase 1**: [[Johb]] uses his environment, pulling himself around the room and using the metal walls as anchors to reposition.
-- **Phase 2**: As he sustains damage, the room's hidden traps activate. [[Johb]] tears metal panels from the architecture to use as flying projectiles or kinetic barriers.
+# Additionals
+- Bloodmark reinforcements; crossbowmen with backup knives
+- One of the party's spren is getting stabbed repeatedly and in pain (maybe [[Viscose]])
+- A child wanders into a section of the arena falling, [[Johb]] might save them
+- [[Gorlo]] gets hurt and needs to be stabilized, sacrificing himself to protect Fina from an ambush

@@ -42,7 +42,7 @@ This document serves as a repository for unused NPC names. Once a name from this
 - Recruit Tork
 
 # Officers
-- Captain Vane
+- Captain Veen
 - Lieutenant Strent
 - Commander Lodas
 
@@ -50,3 +50,7 @@ This document serves as a repository for unused NPC names. Once a name from this
 - Tane
 - Mara
 - Ishkil
+- Attica
+- Puris
+- Strativan
+- Arla

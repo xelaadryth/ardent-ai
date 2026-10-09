@@ -13,7 +13,7 @@
 # Upcoming
 
 - [[The Rekka Ship Hijack]]
-- Allies in the assault on [[Haka'alaku]]:
+- Allies for [[Haka'alaku]] ([[Assault on Mother's Gate]])
 	- [[Rekka]]
 		- [[Uum'atu]] - peakspren leader, former Senator
 		- [[Tessitura]] - aka Tess, contact for rebel reachers
@@ -21,7 +21,9 @@
 			- Why do you seek to help these slavers? These chains were thrust upon us, why do you bear them yourself? They can toss you away whenever they want, they have power over you.
 		- With our help they can free the others, this is the time to explore and try something new, the unknown future where we can make a difference instead of being tied down by the past. not all humans perpetuate slavery
 		- [[Vun'akal]] - peakspren of the enslaved oarsmen
-		- [[Koloko]]
+		- [[Koloko]] - Bonded to cryptic Chirality, current keeper of the lighthouse, got stuck with the job to earn enough food when the gate closed, has contacts with [[Ghostbloods]] allies who just want to reopen the gates, has spies in the [[Bloodmarks]] who could smuggle the players through.
+			- Can ask if every Nurian was scouted for a bond with a different Order; list every known Nurian in [[Orders of the Knights Radiant]]
+			- Knows how [[Nurian Gems]] work with [[Fina]], learned from overhearing [[The Set]]
 	- [[Wandering Eye]] - cannons
 		- [[Vun'akal]] and 11 other armed peakspren
 		- [[Varo Three-Knives]]
