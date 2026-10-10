@@ -22,7 +22,6 @@ Rissa Vale is typically seen wearing a dark, high-collared coat of curious tailo
 Observant, patient, and dangerously well-informed. Rissa possesses an unsettling knack for remembering the tiniest details which seem almost impossible to have noticed. She treats conversation as a tactical exercise, using keen observations to undermine the confidence of her targets.
 
 # Inventory
-- Hand Crossbow (1d6+6 keen loaded 1, 50/200 range)
 - Barbed aluminum bolts x8 (damage can't be healed via investiture, lowers max HP), pulling it out does another 1d6 damage and takes an action
 - Glass Dagger (1d4+5 keen, offhand)
 - Tracking Compass - Bronze needle on a duralumin spindle connected to an unsealed nicrosilmind in a simple steel/glass housing, points to nearest disk
@@ -31,6 +30,17 @@ Observant, patient, and dangerously well-informed. Rissa possesses an unsettling
 Rissa is the commander of both [[Tash The Hound]] and [[Varo Three-Knives]], coordinating their retrieval and logistics operations in the [[Scarstone Quarter]]. According to [[Varo Three-Knives]], she was in charge of the syndicate's current tactical maneuvers in [[Revolar]].
 
 During [[026 The Bead Sea]], she was pulled into [[Shadesmar]] while attempting to seize the party's vessel. In [[027 Battle of Ships and Spren]], she was stabbed by [[Mallow]] and subsequently fell unconscious. She currently serves as the party's primary source of intelligence on [[Johb]] and Allomancy.
+
+Copper Ferring, Tin Allomancer
+- Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
+- Shame that Senny, Neval, Cazo, and Hine were captured, no?
+- Would be awful to find a hole in your ship, wouldn't you say?
+- Fake Jory is a good plan
+- Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
+- Talking with Varo Three-Knives
+- John Bloodmark
+- Killing off the Truthkeeper Shardbearer, were you caught in the throes of The Thrill?
+- I wonder how much a Nurian princess is worth
 
 # Goals
 - Manage Bloodmarks intelligence and logistics.
