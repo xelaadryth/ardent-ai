@@ -22,9 +22,13 @@ Short and wiry with an intense, darting gaze. Koloko has nimble, calloused finge
 Deeply ambitious and deceptively polite. Koloko views every interaction as a chess match and values leverage above all else. While he maintains a "learned" and scholarly facade to mask his intentions, he is cold and efficient when performing the wetwork required to climb the syndicate ranks.
 
 # Background
-Koloko was a career criminal in the Nurian underworld before arriving on Roshar with the other refugees. He initially hired [[Doug (Guddy)]] as his muscle for the crossing, unaware of the man's secret history as a double agent. 
+Koloko was a career criminal in the Nurian underworld before arriving on Roshar with the other refugees. He initially hired [[Doug (Guddy)]] as his muscle for the crossing, unaware of the man's secret history as a double agent.
 
-Upon arriving at the [[Truthkeeper Camp]], Koloko was eventually pulled aside and interrogated by the [[Ghostbloods]], who initially suspected him of being a [[Bloodmarks]] infiltrator. Recognizing their power, Koloko eagerly pledged his loyalty, proving his worth by feeding the syndicate intelligence on [[Truthkeepers]] troop movements and performing a series of sanctioned assassinations. He has since transitioned to [[Tomat]], where he has established [[The Prismatic Palette]]. He is also a budding Lightweaver.
+Used to have dealings with [[High Advisor Thalor]] but "accidentally" offended him by being accused of stealing his supplies, decided to flee [[Nuria]] since Thalor was high up position, didn't know that [[Doug (Guddy)]] was seeking to deliver him to the [[Bloodmarks]] as a gift after turning traitor from the [[Ghostbloods]]. When he found out, became good friends with [[Sila]].
+
+Upon arriving at the [[Truthkeeper Camp]], Koloko was eventually pulled aside and interrogated by the [[Ghostbloods]], who initially suspected him of being a [[Bloodmarks]] infiltrator. Recognizing their power, Koloko eagerly pledged his loyalty, proving his worth by feeding the syndicate intelligence on [[Truthkeepers]] troop movements and performing a series of sanctioned assassinations. He has since transitioned to [[Tomat]], where he has established [[The Prismatic Palette]]. Currently on a mission in [[Rekka]], and plans to rise high enough in the ranks of the [[Ghostbloods]] to open a branch back in [[Nuria]].
+
+He is a lightweaver with a spren bond to the Cryptic [[Chirality]].
 
 # Goals
 - Establish a high-end front business in the [[Stoneweave]] district to facilitate [[Ghostbloods]] logistics (Completed).
@@ -36,6 +40,7 @@ Upon arriving at the [[Truthkeeper Camp]], Koloko was eventually pulled aside an
 - **The Poisoner's Request:** He is looking for a rare specimen of a plant mentioned in the [[Flora and Fauna]] records to create a new paralytic.
 
 # Connections
+- [[Chirality]]: His spren bond (Cryptic)
 - [[Undertaker]]: His direct superior within the Ghostbloods whom he seeks to impress.
 - [[Sila]]: His hand-picked second-in-command. Koloko values Sila's hidden cunning over his raw strength.
 - [[Doug (Guddy)]]: His former hired muscle.

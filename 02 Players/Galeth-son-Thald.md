@@ -24,6 +24,10 @@ A grim fatalist who has finally found a cause worth speaking the Words for. Whil
 # Background
 In session [[020 Warehouse Rescue]], while defending [[Jory Spadis]] from [[Adjudicator Peton]], Galeth spoke the First Ideal of the [[Orders of the Knights Radiant|Stonewards]]. In [[022 Back to Base]], he realized that [[Tash The Hound]]'s tracking devices were still present on the party via a disc found by [[Jory Spadis]].
 
+As part of the Shin military, defending borders from Azish raiders. Under command of superior, they went deeper into Azish territory to attack supply lines, and got food and other basic supplies. One day they attacked a family there. Was commanded to kill them to silence them from reporting back, another soldier did it in his place.
+
+Years ago, his unit was actually hired by a Bloodmark trying to cause breakdown in trade in the area so people would become more desperate and willing to break traditional Shin trading values. Poisoned crops and take out opposition providing food. When Galeth hesitated, [[Szeth-son-son-Vallano]] (under oathstone) was told to kill the family instead.
+
 # First Ideal
 > Life before death. I won't let my life be defined by the child who died under my watch. I will define myself by the lives I continue to help saving. Spoken during the rescue of [[Jory Spadis]].
 

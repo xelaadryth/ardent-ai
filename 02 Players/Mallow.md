@@ -23,6 +23,8 @@ Mallow is deeply protective and possesses a sense of wonder about the wider worl
 # Background
 Mallow joined the [[Truthkeepers]] as an Enforcer to track down her sister, [[Khria]], after reporting her to the authorities in a moment of panic. While in [[Revolar]], her distinctive gait was recognized at [[The Shining Quill]], leading to a breakthrough in her search.
 
+A few years ago she saw a pair of Shin passing through the Purelake (one an off-world [[Bloodmarks]], another [[Szeth-son-son-Vallano]]).
+
 # First Ideal
 
 > Life before death.

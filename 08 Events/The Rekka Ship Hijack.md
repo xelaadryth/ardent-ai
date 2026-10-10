@@ -11,17 +11,19 @@ fc-category: Party
 fc-date: 1172-02-36
 ---
 # Description
-The party spends four days in [[Rekka]], waiting for a suitable Set vessel to transit the local sea-lanes. On the second day, a patrol of 3 ships is investigating Rekka for the missing [[Arbiter Jalis]]. The objective is to seize a ship without direct combat, utilizing guile, sabotage, or misdirection.
+The party spends four days in [[Rekka]], waiting for a suitable Set vessel to transit the local sea-lanes. On the second day, a patrol of 3 ships is investigating Rekka for the missing [[Arbiter Jalis]]. He was supposed to report in to [[Johb]] about investigating rumors of rebel forces nearby, refused to bring other ships.
+
+Skill challenge, party handles it without combat or just high-level skill checks. If missing, large force goes to Rekka or they stop going.
 
 # Interesting Ship Elements
-- **The Deadeye Nets**: Nets that can be dragged along the sea floor to catch deadeyes. While it doesn't affect the Physical Realm, their location can be reported via spanreed to [[Haka'alaku]], who can send a messenger through [[Mother's Gate]]
-- **The Speaking Tube**: A brass speaking tube that connects the bridge to the engine room—can be used for fake commands or eavesdropping.
+- **The Deadeye Nets**: Nets that can be dragged along the sea floor to catch deadeyes. While it doesn't affect the Physical Realm, their location can be reported via spanreed to [[Haka'alaku]], who can send a messenger through [[Mother's Gate]]. Can be dropped on folks on the deck. 
+- **Cargo**: Only a small amount of supplies for a few days.
+- **Spanreeds**: Have some stormlight to communicate back to [[Johb]], needs to use a code (Greeting vs Reporting)
 
 # Decision Points
-- **Clever Hijack Options**:
-  - **The Trojan Cargo**: Hide inside an empty container in the cargo hold and strike from within.
-  - **The False Distress**: Use [[Tessitura]]'s fleet to stage a fake emergency, prompting the Set ship to heave to.
-  - **The Spren Mutiny**: Quietly release the enslaved spren before boarding to sow chaos.
+- Freeing the rowers
+- Some of the ships try to escape
+- Drop the nets
 
 # Luck Factors
 - **Good Luck**: The ship's navigator is a sympathizer or someone disgruntled with [[The Set]].

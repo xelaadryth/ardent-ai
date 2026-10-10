@@ -33,4 +33,5 @@ The party launches a coordinated assault on [[Haka'alaku]] to reclaim [[Mother's
 - Bloodmark reinforcements; crossbowmen with backup knives
 - One of the party's spren is getting stabbed repeatedly and in pain (maybe [[Viscose]])
 - A child wanders into a section of the arena falling, [[Johb]] might save them
-- [[Gorlo]] gets hurt and needs to be stabilized, sacrificing himself to protect Fina from an ambush
+- [[Gorlo]] gets hurt and needs to be stabilized after helping Fina, sacrificing himself to protect Fina from an ambush
+- [[Tessitura]] finds out the party is radiant mid-fight and they are momentarily stunned/shaken
