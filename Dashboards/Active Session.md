@@ -10,6 +10,19 @@
 - [[Death Rattles]], [[Minor NPCs]], [[NPCs]]
 	- They named it the ~~Final~~ Last Desolation, but they lied. Our gods lied. Oh, how they lied. The ~~Everstorm~~ false storm comes. I hear its whispers, see its stormwall, know its heart.
 	- *The final march at Feverstone Keep, the silent betrayal. Hundreds of Shardblades... and so much death. But even worse, 9 of the 10 Orders are gone, never to return.*
+
+# [[Arbiter Rissa Vale]] (Copper Ferring, Tin Allomancer)
+- Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
+- Shame that Senny, Neval, Cazo, and Hine were captured, no?
+- Would be awful to find a hole in your ship, wouldn't you say?
+- Fake Jory is a good plan
+- Interesting trick with that alley, how'd you do it? Yolish Lightweaving?
+- Talking with Varo Three-Knives
+- John Bloodmark
+- Killing off the Truthkeeper Shardbearer, were you caught in the throes of The Thrill?
+- I wonder how much a Nurian princess is worth
+# Notes
+- 
 # Upcoming
 
 - [[The Rekka Ship Hijack]]
