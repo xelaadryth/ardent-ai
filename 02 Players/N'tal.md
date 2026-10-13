@@ -6,7 +6,7 @@ tags:
   - "#dustbringer"
   - "#nurian"
   - "#merchant"
-last_updated: 2024-07-01T12:00:00
+last_updated: 2024-07-11T10:00:00
 player: Ryan
 spren: "[[Pyre]]"
 ---
@@ -20,6 +20,8 @@ Distrustful and cautious, valuing patience and self-control to keep [[Pyre]] in 
 # Background
 N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. In [[023 Preparing for the Siege]], he convinced [[Chip]] to defect/divulge info on [[The Set]], learning that the [[Ghostbloods]] want the party's help to dismantle their rivals.
 
+During [[029 Preparing for the Ambush]], he encountered [[Koloko]] in the markets of [[Rekka]]. This interaction provided him with crucial intelligence regarding [[High Advisor Thalor]] and the Ghostbloods' ambitions. N'tal currently suspects Koloko of hiding Radiant abilities.
+
 # Goals
 - Hunt down [[Arbiter Jalis]].
 - Dismantle the operations of [[The Set]] and [[Grand Justicar Malice]].
@@ -30,3 +32,4 @@ N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. In [[023 Pre
 - [[Arbiter Jalis]] — His personal enemy who escaped him at the foundry.
 - [[Fina]] — The noble whose past negligence destroyed his family's legacy.
 - [[Chip]] — A double-agent ally within the [[Ghostbloods]].
+- [[Koloko]]: Met in [[Rekka]]; suspects him of being a Radiant.

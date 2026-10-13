@@ -6,7 +6,7 @@ tags:
   - "#shadesmar"
   - "#worldhopping"
   - "#bloodmarks"
-last_updated: 2024-07-10T00:00:00
+last_updated: 2024-07-11T10:00:00
 number: 3
 ---
 
@@ -20,6 +20,7 @@ Following a desperate escape from the [[Silent Oath]], the party is thrust into 
 - [[Johb]]: The Overseer of the occupation at [[Haka'alaku]] and an Iron Puller.
 - [[Grand Justicar Malice]]: The leader of the [[Bloodmarks]] pirate fleet.
 - [[Kaizen]]: A self-proclaimed Hero of Ages and Suit of [[The Set]].
+- [[Koloko]]: A Ghostblood operative seeking to seize the Nurian trade corridor.
 
 # Progression
 - **Act 1: The Glass Sea:** Awakening in [[Shadesmar]] and surviving [[The Bead-Sea Ambush]].
@@ -39,3 +40,4 @@ Following a desperate escape from the [[Silent Oath]], the party is thrust into 
 - [[026 The Bead Sea]]
 - [[027 Battle of Ships and Spren]]
 - [[028 Rebels in Rekka]]
+- [[029 Preparing for the Ambush]]

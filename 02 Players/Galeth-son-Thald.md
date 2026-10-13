@@ -8,7 +8,7 @@ tags:
   - "#exiled"
   - "#stoneward"
   - "#darkeyed"
-last_updated: 2024-06-30T12:00:00
+last_updated: 2024-07-11T10:00:00
 player: Corin
 spren: "[[Kun'ahu]]"
 ---
@@ -24,9 +24,7 @@ A grim fatalist who has finally found a cause worth speaking the Words for. Whil
 # Background
 In session [[020 Warehouse Rescue]], while defending [[Jory Spadis]] from [[Adjudicator Peton]], Galeth spoke the First Ideal of the [[Orders of the Knights Radiant|Stonewards]]. In [[022 Back to Base]], he realized that [[Tash The Hound]]'s tracking devices were still present on the party via a disc found by [[Jory Spadis]].
 
-As part of the Shin military, defending borders from Azish raiders. Under command of superior, they went deeper into Azish territory to attack supply lines, and got food and other basic supplies. One day they attacked a family there. Was commanded to kill them to silence them from reporting back, another soldier did it in his place.
-
-Years ago, his unit was actually hired by a Bloodmark trying to cause breakdown in trade in the area so people would become more desperate and willing to break traditional Shin trading values. Poisoned crops and take out opposition providing food. When Galeth hesitated, [[Szeth-son-son-Vallano]] (under oathstone) was told to kill the family instead.
+In [[029 Preparing for the Ambush]], Galeth took charge of training the liberated [[Peakspren]] cannoneers aboard the *Wandering Eye*, instilling military discipline and refining their heavy artillery skills for the assault on [[Haka'alaku]].
 
 # First Ideal
 > Life before death. I won't let my life be defined by the child who died under my watch. I will define myself by the lives I continue to help saving. Spoken during the rescue of [[Jory Spadis]].
@@ -38,8 +36,10 @@ Years ago, his unit was actually hired by a Bloodmark trying to cause breakdown 
 # Goals
 - Atone for his failures through the path of the Stoneward.
 - Protect the party from the pursuit of [[Tash The Hound]].
+- Train the resistance forces to be an effective fighting unit.
 
 # Connections
 - [[Kun'ahu]] — His Peakspren.
 - [[Tash The Hound]] — A persistent hunter now obsessed with him.
 - [[Adjudicator Peton]] — A former commander he stood against in single combat.
+- [[Vun'akal]]: Trained him and his crew in naval gunnery.

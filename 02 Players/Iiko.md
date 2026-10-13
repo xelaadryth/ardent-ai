@@ -6,7 +6,7 @@ tags:
   - "#truthwatcher"
   - "#nurian"
   - "#envoy"
-last_updated: 2024-07-01T12:00:00
+last_updated: 2024-07-11T10:00:00
 player: Truong
 spren: "[[Dreamwaker]]"
 ---
@@ -15,6 +15,8 @@ Manic Nurian Truthwatcher and Envoy seeking fundamental truths and a place withi
 
 # Background
 In [[023 Preparing for the Siege]], Iiko disguised themselves as [[Istrum]] to infiltrate the [[Vamah Archivum]]. They met [[High Enforcer Aylen]] and learned that the [[Silent Oath]] is gathering legal evidence against the Radiants. They successfully recovered and studied several confiscated books intended for burning.
+
+In [[029 Preparing for the Ambush]], Iiko spent time building a social bridge with [[Kaizen]], using their shared curiosity to learn the mechanics and history of Allomancy from the Scadrian youth.
 
 # Oaths
 > Life before death. By the Almighty's tenth name, have a little bit of self-preservation instinct.
@@ -29,3 +31,7 @@ In [[023 Preparing for the Siege]], Iiko disguised themselves as [[Istrum]] to i
 # Goals
 - Join the Devotary of Sincerity.
 - Protect the [[Knights of Dusk]] by exposing the [[Silent Oath]].
+- Master the cross-cultural knowledge of Allomancy.
+
+# Connections
+- [[Kaizen]]: Built rapport and studied Allomantic theory under him in [[Rekka]].

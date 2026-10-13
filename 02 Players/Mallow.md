@@ -6,7 +6,7 @@ tags:
   - "#willshaper"
   - "#purelaker"
   - "#enforcer"
-last_updated: 2024-05-25T11:00:00
+last_updated: 2024-07-11T10:00:00
 player: Audrey
 spren: "[[Cadence]]"
 ---
@@ -23,11 +23,11 @@ Mallow is deeply protective and possesses a sense of wonder about the wider worl
 # Background
 Mallow joined the [[Truthkeepers]] as an Enforcer to track down her sister, [[Khria]], after reporting her to the authorities in a moment of panic. While in [[Revolar]], her distinctive gait was recognized at [[The Shining Quill]], leading to a breakthrough in her search.
 
-A few years ago she saw a pair of Shin passing through the Purelake (one an off-world [[Bloodmarks]], another [[Szeth-son-son-Vallano]]).
+In [[029 Preparing for the Ambush]], Mallow used her experience in tracking and movement to train the Reacher archers in [[Rekka]], teaching them to utilize the unique terrain of [[Shadesmar]] for aerial ambushes.
 
 # First Ideal
 
-> Life before death.
+> Life before death. 
 
 Life is freedom, the absence of choices is when you're truly dead.
 
@@ -40,9 +40,11 @@ Strength is having choices, the ability to affect the world around you. Weakness
 Freedom is not a destination, it is a never ending path that will be constantly oppressed, but also can constantly be enjoyed. Regardless of your final destination, people should always have the freedom to choose their journey.
 # Goals
 - Protect the forgotten and the oppressed.
+- Train the Reacher resistance to defend their home.
 
 # Connections
 - [[Khria]] — Her sister.
 - [[Cadence]] — Her Lightspren partner.
 - [[Lady Piri Hadlis]] — An acquaintance in [[Revolar]] who provided a lead on [[Khria]].
 - Pom — Her loyal mink companion.
+- [[Tessitura]]: Collaborated with her to train the Reacher skirmishers.
