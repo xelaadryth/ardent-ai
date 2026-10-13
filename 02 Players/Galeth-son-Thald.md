@@ -27,7 +27,7 @@ In session [[020 Warehouse Rescue]], while defending [[Jory Spadis]] from [[Adju
 In [[029 Preparing for the Ambush]], Galeth took charge of training the liberated [[Peakspren]] cannoneers aboard the *Wandering Eye*, instilling military discipline and refining their heavy artillery skills for the assault on [[Haka'alaku]].
 
 # First Ideal
-> Life before death. I won't let my life be defined by the child who died under my watch. I will define myself by the lives I continue to help saving. Spoken during the rescue of [[Jory Spadis]].
+> Life before death. I won't let my life be defined by the child who died under my watch. I will define myself by the lives I continue to help saving.
 
 > Strength before weakness. Your party believes in your strength, your reliability. Only you are trying to believe in your weakness. Giving up is the easy way out for the weak; the truly strong go on living no matter how hard it gets.
 
