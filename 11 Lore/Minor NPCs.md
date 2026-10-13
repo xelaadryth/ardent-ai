@@ -7,7 +7,7 @@ tags:
   - "#reference"
 last_updated: 2024-06-29T10:00:00
 ---
-
+[[NPC Name Repository]]
 # Overview
 This document should be updated constantly as the central reference for minor non-player characters encountered throughout the campaign who do not currently possess individual documents, ordered by their First Appearance with "planned" NPCs last.
 

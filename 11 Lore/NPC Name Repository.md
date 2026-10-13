@@ -13,7 +13,6 @@ This document serves as a repository for unused NPC names. Once a name from this
 
 # Alethi Darkeyes
 - Ralin
-- Harl
 - Joven
 - Maran
 - Lekka
@@ -42,7 +41,6 @@ This document serves as a repository for unused NPC names. Once a name from this
 - Recruit Tork
 
 # Officers
-- Captain Veen
 - Lieutenant Strent
 - Commander Lodas
 

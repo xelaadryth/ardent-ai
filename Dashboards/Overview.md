@@ -8,7 +8,6 @@
 | [[Fina]]                         | Shirley | [[Verdae]]         | Edgedancer   | active |
 | [[Galeth-son-Thald]] | Corin   | [[Kun'ahu]]       | Stoneward    | active |
 | [[Iiko]]                         | Truong  | [[Dreamwaker]] | Truthwatcher | active |
-| [[Kuma]]                         | Dan     | [[Viscose]]       | Elsecaller   | active |
 | [[Mallow]]                     | Audrey  | [[Cadence]]       | Willshaper   | active |
 | [[N'tal]]                       | Ryan    | [[Pyre]]             | Dustbringer  | active |
 
@@ -65,6 +64,9 @@
 
 | File                                                                                          | Arc                                                           | Status    |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------- |
+| [[028 Rebels in Rekka]]                                   | [[03 Shadesmar Arc]]             | completed |
+| [[027 Battle of Ships and Spren]]               | [[03 Shadesmar Arc]]             | completed |
+| [[026 The Bead Sea]]                                         | [[03 Shadesmar Arc]]             | completed |
 | [[025 The Fall of the Darkstone Forest]] | [[02 Knights of Dusk Arc]] | completed |
 | [[024 To Kill a Shardbearer]]                       | [[02 Knights of Dusk Arc]] | completed |
 | [[023 Preparing for the Siege]]                   | [[02 Knights of Dusk Arc]] | completed |
