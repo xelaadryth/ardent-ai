@@ -8,7 +8,7 @@ tags:
   - "#rekka"
 last_updated: 2026-07-10T12:00:00
 fc-category: Party
-fc-date: 1172-02-36
+fc-date: 1172-02-38
 ---
 # Description
 The party spends four days in [[Rekka]], waiting for a suitable Set vessel to transit the local sea-lanes. On the second day, a patrol of 3 ships is investigating Rekka for the missing [[Arbiter Jalis]]. He was supposed to report in to [[Johb]] about investigating rumors of rebel forces nearby, refused to bring other ships.

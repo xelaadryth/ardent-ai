@@ -8,7 +8,7 @@ tags:
   - "#haka_alaku"
 last_updated: 2026-07-10T12:00:00
 fc-category: Party
-fc-date: 1172-02-38
+fc-date: 1172-02-39
 ---
 # Description
 The party launches a coordinated assault on [[Haka'alaku]] to reclaim [[Mother's Gate]]. Rebels led by [[Tessitura]] and [[Uum'atu]] provide a naval distraction, while the party infiltrates the facility to confront [[Johb]].
