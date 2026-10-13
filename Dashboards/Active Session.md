@@ -13,6 +13,7 @@
 
 # Notes
 - Harl tries stop Iiko get on ship, Captain Veen
+- Iiko says "I'm John, sent by Johb"
 # Upcoming
 
 - [[The Rekka Ship Hijack]]
