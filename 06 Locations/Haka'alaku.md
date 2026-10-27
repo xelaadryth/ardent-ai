@@ -19,13 +19,13 @@ Historically, Haka'alaku was a bastion of inclusivity and democracy, ruled by a 
 
 # Notable Features
 - **The Seven Isles:** Clusters of glass land surrounded by bead seas.
-	- Food Isle - A bunch of food supplies/meals taken there
-	- Warehouse Isle - Weapons and other similar military supplies
-	- Garrison Isle - Barracks
+	- Food Isle - A bunch of food supplies/meals taken there and basic necessities
+	- Garrison Isle - Barracks and weapons/warehouses, military
 	- Nexus (Docks) Isle - Entrypoint for all ships, bridges to the rest. Many piers and real-wood shipbuilding with obsidian-lined hulls.
-	- Prison Isle - All of the captives that [[Johb]] keeps
+	- Crafts slaves and Shipbuilding Isle - awef
 	- Isle of a Thousand Eyes - Factional dealings, quiet worship, business and strategy meetings, creation of propaganda for [[The Set]] and the [[Bloodmarks]].
 	- Mother's Isle - [[Mother's Gate]] and [[Johb]]'s domain
+	- ??? - Empty
 - **The Gilded Platforms:** A network of expensive, soulcast glasswood walkways used by the occupation forces.
 - **The Slave Docks:** The deepest part of the harbor where [[Peakspren]] are chained to the oars of Scadrian-style galleys.
 - **The Iron Forest**: The island with [[Mother's Gate]] has a forest of decorative iron trees, leaning in criss-cross like a jungle gym. See [[Assault on Mother's Gate]] for details.

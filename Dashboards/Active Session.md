@@ -16,7 +16,33 @@
 - Iiko says "I'm John, sent by Johb"
 # Upcoming
 
-- [[The Rekka Ship Hijack]]
+- [[The Rekka Ship Hijack]] - type up the notes
+- Opportunities
+	- Cadence: Holding them wasn't right
+	- Rissa note don't chase us, if you want to work together, you need to treat us as equals, leave a tracker on neutral ground and we can parley. Perhaps there's potential to work together
+	- Fina good news and bad news; Rissa and Kaizen escaped, but we found some Stormlight. Met an interesting guy, called himself Atlas in town, willing to trade them orbs of fresh Stormlight, unusually generous. Said he had a "vested interest in your success". Darkeyed, low birth, one eye seemed red. Military, big hammer, maybe late 20s.
+	- Interrogating prisoners:
+		- Some kind of disturbance happened at Mother's Gate, security is tightened
+		- Big shipment coming from the southeast (Mythos between Scadrial and Roshar)
+	- Viscose: Spike of +1 strength, lockdown fabrial that Johb is interested in. Tom's character is familiar with hemalurgy
+	- Johb Options
+		- Infiltrate with Rissa - info that Johb wasn't born with power, thinks everyone should have access to power instead of born with it. Wasn't always like this, rumors of a spike. Johb has a strange metal plate on his back
+		- Sail straight in with army
+	- Options
+		- Parley and deal
+		- Sneak through leave situation as is
+		- Fight to the death
+		- Convince truespren are people and treat as lower class instead of slaves
+		- Remove spike and trell corruption
+- Who is going
+	- Rissa
+	- Kaizen
+	- Renna
+	- Viscose
+	- Gorlo
+	- Hysteresis
+	- Varo
+	- Koloko
 - Allies for [[Haka'alaku]] ([[Assault on Mother's Gate]])
 	- [[Rekka]]
 		- [[Uum'atu]] - peakspren leader, former Senator
