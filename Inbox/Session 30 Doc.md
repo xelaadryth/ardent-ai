@@ -1,1 +1,0 @@
-Created session 30, added Nolnin as a new NPC, and updated Galeth-son-Thald to reflect his Hemallurgic enhancement.
