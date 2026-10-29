@@ -197,6 +197,7 @@
         "[[Grand Justicar Malice]]",
         "[[Kaizen]]",
         "[[The Set]]",
+        "[[Koloko]]",
         "[[The Bead-Sea Ambush]]",
         "[[Uum'atu]]",
         "[[Scadrian Mechanics]]",
@@ -204,7 +205,8 @@
         "[[The Honorspren's Reluctance]]",
         "[[026 The Bead Sea]]",
         "[[027 Battle of Ships and Spren]]",
-        "[[028 Rebels in Rekka]]"
+        "[[028 Rebels in Rekka]]",
+        "[[029 Three Ship Ambush]]"
       ],
       "tags": [
         "#arc",
@@ -212,7 +214,7 @@
         "#worldhopping",
         "#bloodmarks"
       ],
-      "last_updated": "2024-07-10T00:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "04 Nurian Gems Arc": {
       "type": "arc",
@@ -313,7 +315,10 @@
         "[[Adjudicator Peton]]",
         "[[Orders of the Knights Radiant|Stonewards]]",
         "[[022 Back to Base]]",
-        "[[Szeth-son-son-Vallano]]"
+        "[[029 Three Ship Ambush]]",
+        "[[Peakspren]]",
+        "[[Haka'alaku]]",
+        "[[Vun'akal]]"
       ],
       "tags": [
         "#player",
@@ -323,7 +328,7 @@
         "#stoneward",
         "#darkeyed"
       ],
-      "last_updated": "2024-06-30T12:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "Iiko": {
       "type": "player",
@@ -335,7 +340,10 @@
         "[[Vamah Archivum]]",
         "[[High Enforcer Aylen]]",
         "[[Silent Oath]]",
-        "[[Knights of Dusk]]"
+        "[[029 Three Ship Ambush]]",
+        "[[Kaizen]]",
+        "[[Knights of Dusk]]",
+        "[[Rekka]]"
       ],
       "tags": [
         "#player",
@@ -343,7 +351,7 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2024-07-01T12:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "Mallow": {
       "type": "player",
@@ -354,9 +362,11 @@
         "[[Khria]]",
         "[[Revolar]]",
         "[[The Shining Quill]]",
-        "[[Bloodmarks]]",
-        "[[Szeth-son-son-Vallano]]",
-        "[[Lady Piri Hadlis]]"
+        "[[029 Three Ship Ambush]]",
+        "[[Rekka]]",
+        "[[Shadesmar]]",
+        "[[Lady Piri Hadlis]]",
+        "[[Tessitura]]"
       ],
       "tags": [
         "#player",
@@ -364,7 +374,7 @@
         "#purelaker",
         "#enforcer"
       ],
-      "last_updated": "2024-05-25T11:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "N'tal": {
       "type": "player",
@@ -376,6 +386,10 @@
         "[[Chip]]",
         "[[The Set]]",
         "[[Ghostbloods]]",
+        "[[029 Three Ship Ambush]]",
+        "[[Koloko]]",
+        "[[Rekka]]",
+        "[[High Advisor Thalor]]",
         "[[Arbiter Jalis]]",
         "[[Grand Justicar Malice]]",
         "[[Fina]]"
@@ -386,7 +400,7 @@
         "#nurian",
         "#merchant"
       ],
-      "last_updated": "2024-07-01T12:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "Adjudicator Peton": {
       "type": "npc",
@@ -849,11 +863,13 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Nurian Royalty]]",
+        "[[The Set]]",
         "[[Nuria]]",
+        "[[Bloodmarks]]",
         "[[Aelwood Contract]]",
         "[[Fina]]",
-        "[[The Set]]",
+        "[[029 Three Ship Ambush]]",
+        "[[Koloko]]",
         "[[N'tal]]",
         "[[Beric Quinn]]"
       ],
@@ -861,9 +877,10 @@
         "#npc",
         "#lighteyed",
         "#alethi",
-        "#antagonist"
+        "#antagonist",
+        "#bloodmarks"
       ],
-      "last_updated": "2026-06-03T10:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "High Enforcer Aylen": {
       "type": "npc",
@@ -1123,10 +1140,10 @@
         "[[Hero of Ages]]",
         "[[Iiko]]",
         "[[Thaidakar]]",
-        "[[Deepen Light]]",
-        "[[Shadesmar]]",
+        "[[029 Three Ship Ambush]]",
         "[[Arbiter Rissa Vale]]",
-        "[[Johb]]"
+        "[[Johb]]",
+        "[[Rekka]]"
       ],
       "tags": [
         "#npc",
@@ -1136,7 +1153,7 @@
         "#bloodmarks",
         "#set"
       ],
-      "last_updated": "2024-07-10T00:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "Karani": {
       "type": "npc",
@@ -1220,6 +1237,7 @@
       "links": [
         "[[Ghostbloods]]",
         "[[The Prismatic Palette]]",
+        "[[Chirality]]",
         "[[Doug (Guddy)]]",
         "[[High Advisor Thalor]]",
         "[[Nuria]]",
@@ -1228,8 +1246,8 @@
         "[[Truthkeeper Camp]]",
         "[[Truthkeepers]]",
         "[[Tomat]]",
+        "[[029 Three Ship Ambush]]",
         "[[Rekka]]",
-        "[[Chirality]]",
         "[[Stoneweave]]",
         "[[Cremwidow Poison]]",
         "[[Flora and Fauna]]",
@@ -1244,7 +1262,7 @@
         "#criminal_mastermind",
         "#poisoner"
       ],
-      "last_updated": "2024-05-28T10:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "Kuma": {
       "type": "npc",
@@ -1664,8 +1682,10 @@
         "[[Rebels]]",
         "[[Rekka]]",
         "[[Bloodmarks]]",
-        "[[Haka_alaku]]",
+        "[[Haka'alaku]]",
         "[[The Set]]",
+        "[[029 Three Ship Ambush]]",
+        "[[Mallow]]",
         "[[Uum'atu]]",
         "[[Cadence]]"
       ],
@@ -1674,7 +1694,7 @@
         "#lightspren",
         "#reacher"
       ],
-      "last_updated": "2026-07-10T15:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "Tezsh-son-Rillan": {
       "type": "npc",
@@ -1862,8 +1882,11 @@
       "status": "active",
       "links": [
         "[[Peakspren]]",
-        "[[Haka_alaku]]",
+        "[[Wandering Eye]]",
         "[[Johb]]",
+        "[[Galeth-son-Thald]]",
+        "[[029 Three Ship Ambush]]",
+        "[[Haka'alaku]]",
         "[[Uum'atu]]"
       ],
       "tags": [
@@ -1872,7 +1895,7 @@
         "#haka_alaku",
         "#slave"
       ],
-      "last_updated": "2026-07-10T15:00:00"
+      "last_updated": "2024-07-11T10:00:00"
     },
     "Zabriel": {
       "type": "npc",
@@ -2729,6 +2752,37 @@
       ],
       "last_updated": "2024-07-10T00:00:00"
     },
+    "029 Three Ship Ambush": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[03 Shadesmar Arc]]",
+        "[[Rekka]]",
+        "[[Haka'alaku]]",
+        "[[Nuria]]",
+        "[[Galeth-son-Thald]]",
+        "[[Peakspren]]",
+        "[[Vun'akal]]",
+        "[[Mallow]]",
+        "[[Tessitura]]",
+        "[[Shadesmar]]",
+        "[[Iiko]]",
+        "[[Kaizen]]",
+        "[[N'tal]]",
+        "[[Koloko]]",
+        "[[Ghostbloods]]",
+        "[[Bloodmarks]]",
+        "[[High Advisor Thalor]]",
+        "[[The Set]]"
+      ],
+      "tags": [
+        "#session",
+        "#shadesmar",
+        "#preparation",
+        "#combat_training"
+      ],
+      "last_updated": "2024-07-11T10:00:00"
+    },
     "Bloodmarks": {
       "type": "faction",
       "status": "active",
@@ -3070,8 +3124,8 @@
         "[[Cultivation's Perpendicularity]]",
         "[[Bloodmarks]]",
         "[[The Set]]",
-        "[[Johb]]",
         "[[Mother's Gate]]",
+        "[[Johb]]",
         "[[Peakspren]]",
         "[[Assault on Mother's Gate]]",
         "[[Arbiter Jalis]]",
@@ -4002,7 +4056,7 @@
     },
     "The Rekka Ship Hijack": {
       "type": "event",
-      "status": "planned",
+      "status": "completed",
       "links": [
         "[[Rekka]]",
         "[[Arbiter Jalis]]",

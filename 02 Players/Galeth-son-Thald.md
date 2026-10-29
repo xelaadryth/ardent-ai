@@ -8,7 +8,7 @@ tags:
   - "#exiled"
   - "#stoneward"
   - "#darkeyed"
-last_updated: 2024-07-11T10:00:00
+last_updated: 2026-07-15T12:00:00
 player: Corin
 spren: "[[Kun'ahu]]"
 ---
@@ -16,7 +16,7 @@ spren: "[[Kun'ahu]]"
 Exiled Shin warrior living in penance among the Alethi, now a fledgling Stoneward.
 
 # Appearance
-Traditional Shin in appearance. His clothing is often rugged and reinforced by his surges. During [[Saving Jory]], [[Tash The Hound]] tore a significant chunk from his tunic as a trophy.
+Traditional Shin in appearance. His clothing is often rugged and reinforced by his surges. During [[Saving Jory]], [[Tash The Hound]] tore a significant chunk from his tunic as a trophy. He now bears an iron Hemallurgic spike implanted in his body to grant enhanced strength, assisted by [[Nolnin]].
 
 # Personality
 A grim fatalist who has finally found a cause worth speaking the Words for. While still soft-spoken, his commitment to protecting the weak has superseded his desire for self-punishment.
@@ -24,7 +24,7 @@ A grim fatalist who has finally found a cause worth speaking the Words for. Whil
 # Background
 In session [[020 Warehouse Rescue]], while defending [[Jory Spadis]] from [[Adjudicator Peton]], Galeth spoke the First Ideal of the [[Orders of the Knights Radiant|Stonewards]]. In [[022 Back to Base]], he realized that [[Tash The Hound]]'s tracking devices were still present on the party via a disc found by [[Jory Spadis]].
 
-In [[029 Three Ship Ambush]], Galeth took charge of training the liberated [[Peakspren]] cannoneers aboard the *Wandering Eye*, instilling military discipline and refining their heavy artillery skills for the assault on [[Haka'alaku]].
+In [[029 Three Ship Ambush]], Galeth took charge of training the liberated [[Peakspren]] cannoneers aboard the *Wandering Eye*, instilling military discipline and refining their heavy artillery skills for the assault on [[Haka'alaku]]. In [[030 Assault on Mother's Gate]], his physical capabilities were augmented by an iron Hemallurgic spike.
 
 # First Ideal
 > Life before death. I won't let my life be defined by the child who died under my watch. I will define myself by the lives I continue to help saving.
@@ -43,3 +43,4 @@ In [[029 Three Ship Ambush]], Galeth took charge of training the liberated [[Pea
 - [[Tash The Hound]] — A persistent hunter now obsessed with him.
 - [[Adjudicator Peton]] — A former commander he stood against in single combat.
 - [[Vun'akal]]: Trained him and his crew in naval gunnery.
+- [[Nolnin]]: Assisted in his enhancement.
