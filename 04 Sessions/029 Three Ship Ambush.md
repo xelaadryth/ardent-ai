@@ -20,6 +20,10 @@ The squad and their spren allies in [[Rekka]] focus on military preparation and 
 - **The Nurian Corridor:** [[Koloko]] reveals his true motivation as a member of the [[Ghostbloods]]: he intends to dismantle the [[Bloodmarks]] monopoly on the trade corridor to [[Nuria]] and establish a [[Ghostbloods]]-controlled route in its place. 
 - **The Advisor's Betrayal:** The party learns that [[High Advisor Thalor]] is actively working for the [[Bloodmarks]] and [[The Set]], serving as their primary political leverage within the Nurian court.
 - **Radiant Suspicions:** [[N'tal]] observes [[Koloko]] closely during their interaction and develops a strong suspicion that the merchant is a hidden Radiant.
+- After a few days, 3 human ships arrived with a few dozen people
+- Iiko and N'tal got onto the ships and tried to convince Captain Harl that they were members of the Set
+- When they said they were sent by Commander Johb, the captain of the ship called for an attack, but one of the men accidentally killed the captain with a musket
+- Second ship surrendered, but third ship escaped with Rissa and Kaizen onboard
 
 # Outcomes
 - The [[Peakspren]] cannoneers are now trained for naval combat.

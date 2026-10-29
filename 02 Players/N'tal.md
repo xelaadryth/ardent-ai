@@ -20,7 +20,7 @@ Distrustful and cautious, valuing patience and self-control to keep [[Pyre]] in 
 # Background
 N'tal survived the [[Bloodmarks]] raid on his family mine in Nuria. In [[023 Preparing for the Siege]], he convinced [[Chip]] to defect/divulge info on [[The Set]], learning that the [[Ghostbloods]] want the party's help to dismantle their rivals.
 
-During [[029 Preparing for the Ambush]], he encountered [[Koloko]] in the markets of [[Rekka]]. This interaction provided him with crucial intelligence regarding [[High Advisor Thalor]] and the Ghostbloods' ambitions. N'tal currently suspects Koloko of hiding Radiant abilities.
+During [[029 Three Ship Ambush]], he encountered [[Koloko]] in the markets of [[Rekka]]. This interaction provided him with crucial intelligence regarding [[High Advisor Thalor]] and the Ghostbloods' ambitions. N'tal currently suspects Koloko of hiding Radiant abilities.
 
 # Goals
 - Hunt down [[Arbiter Jalis]].

@@ -25,7 +25,7 @@ Spoiled, rebellious, and intensely selfish. He avoids practice, trusting that hi
 # Background
 Kaizen's father died saving [[Thaidakar]] and the [[Ghostbloods]] from destruction. In gratitude, the organization rewarded the young Kaizen with Lerasium. However, in an act of teenage rebellion, Kaizen fled his caretakers to seek glory with the [[Bloodmarks]]. 
 
-In [[029 Preparing for the Ambush]], Kaizen built a surprising rapport with [[Iiko]], acting as a mentor in Allomantic theory while the party prepared for the siege. He seems to enjoy the attention and the chance to "lecture" a Radiant on superior Scadrian arts.
+In [[029 Three Ship Ambush]], Kaizen built a surprising rapport with [[Iiko]], acting as a mentor in Allomantic theory while the party prepared for the siege. He seems to enjoy the attention and the chance to "lecture" a Radiant on superior Scadrian arts.
 
 # Prophecy
 - "He shall defend their ways, yet shall violate them."

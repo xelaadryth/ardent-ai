@@ -1,6 +1,6 @@
 ---
 type: event
-status: planned
+status: completed
 tags:
   - "#event"
   - "#shadesmar"

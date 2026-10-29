@@ -20,7 +20,7 @@ Once a respected architect, his spirit is bruised but not broken. He is stoic an
 # Background
 He refused to cooperate with [[Johb]]'s demands for new fortifications, leading to his reassignment to the oars. He was liberated by [[Galeth-son-Thald]] during the seizure of the *Wandering Eye*.
 
-In [[029 Preparing for the Ambush]], Vun'akal led his crew through rigorous training under [[Galeth-son-Thald]], learning to operate the ship's cannons for the upcoming assault on [[Haka'alaku]].
+In [[029 Three Ship Ambush]], Vun'akal led his crew through rigorous training under [[Galeth-son-Thald]], learning to operate the ship's cannons for the upcoming assault on [[Haka'alaku]].
 
 # Goals
 - Keep the other slaves from losing hope.

@@ -24,7 +24,7 @@ Calculated, obstructive, and manipulative. Thalor excelled at managing the King'
 # Background
 Thalor held the real administrative power behind the throne, handling all paperwork that the King found too tedious to manage. He was instrumental in blocking inquiries into suspicious land dealings and gem mine seizures, including the [[Aelwood Contract]]. He ensured that documents signed by members of the royal family, such as [[Fina]], were pushed through without scrutiny, and he would have actively suppressed any attempts to investigate or delay these deals.
 
-As revealed in [[029 Preparing for the Ambush]], Thalor is directly on the payroll of the [[Bloodmarks]], helping them maintain their monopoly on Nurian trade routes. This corruption forced [[Koloko]] into exile and contributed to the ruin of [[N'tal]]'s family.
+As revealed in [[029 Three Ship Ambush]], Thalor is directly on the payroll of the [[Bloodmarks]], helping them maintain their monopoly on Nurian trade routes. This corruption forced [[Koloko]] into exile and contributed to the ruin of [[N'tal]]'s family.
 
 # Goals
 - Maintain the dominance of the high noble houses.

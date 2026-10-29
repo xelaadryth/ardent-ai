@@ -10,13 +10,8 @@
 - [[Death Rattles]], [[Minor NPCs]], [[NPC Name Repository]]
 	- They named it the ~~Final~~ Last Desolation, but they lied. Our gods lied. Oh, how they lied. The ~~Everstorm~~ false storm comes. I hear its whispers, see its stormwall, know its heart.
 	- *The final march at Feverstone Keep, the silent betrayal. Hundreds of Shardblades... and so much death. But even worse, 9 of the 10 Orders are gone, never to return.*
-
-# Notes
-- Harl tries stop Iiko get on ship, Captain Veen
-- Iiko says "I'm John, sent by Johb"
 # Upcoming
 
-- [[The Rekka Ship Hijack]] - type up the notes
 - Opportunities
 	- Cadence: Holding them wasn't right
 	- Rissa note don't chase us, if you want to work together, you need to treat us as equals, leave a tracker on neutral ground and we can parley. Perhaps there's potential to work together

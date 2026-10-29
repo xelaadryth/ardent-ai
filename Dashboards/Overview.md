@@ -64,7 +64,7 @@
 
 | File                                                                                          | Arc                                                           | Status    |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------- |
-| [[029 Preparing for the Ambush]]                 | [[03 Shadesmar Arc]]             | completed |
+| [[029 Three Ship Ambush]]                               | [[03 Shadesmar Arc]]             | completed |
 | [[028 Rebels in Rekka]]                                   | [[03 Shadesmar Arc]]             | completed |
 | [[027 Battle of Ships and Spren]]               | [[03 Shadesmar Arc]]             | completed |
 | [[026 The Bead Sea]]                                         | [[03 Shadesmar Arc]]             | completed |

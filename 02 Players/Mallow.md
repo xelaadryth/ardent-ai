@@ -23,7 +23,7 @@ Mallow is deeply protective and possesses a sense of wonder about the wider worl
 # Background
 Mallow joined the [[Truthkeepers]] as an Enforcer to track down her sister, [[Khria]], after reporting her to the authorities in a moment of panic. While in [[Revolar]], her distinctive gait was recognized at [[The Shining Quill]], leading to a breakthrough in her search.
 
-In [[029 Preparing for the Ambush]], Mallow used her experience in tracking and movement to train the Reacher archers in [[Rekka]], teaching them to utilize the unique terrain of [[Shadesmar]] for aerial ambushes.
+In [[029 Three Ship Ambush]], Mallow used her experience in tracking and movement to train the Reacher archers in [[Rekka]], teaching them to utilize the unique terrain of [[Shadesmar]] for aerial ambushes.
 
 # First Ideal
 

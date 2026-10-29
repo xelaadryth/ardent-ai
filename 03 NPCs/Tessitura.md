@@ -19,7 +19,7 @@ Tessitura is a spark of defiance. She is restless and finds the stagnant life in
 # Background
 Before the occupation, she was a renowned pilot for merchant vessels. She lost her ship, the *Glinting Wave*, during the coup and now operates a small skiff out of [[Rekka]], ferrying messages to the insurgency.
 
-In [[029 Preparing for the Ambush]], she coordinated the Reacher resistance for archer training under [[Mallow]], refining the aerial tactics of her scouts for the assault.
+In [[029 Three Ship Ambush]], she coordinated the Reacher resistance for archer training under [[Mallow]], refining the aerial tactics of her scouts for the assault.
 
 # Goals
 - Sabotage the [[Bloodmarks]] fleet.

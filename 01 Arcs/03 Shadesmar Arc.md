@@ -40,4 +40,4 @@ Following a desperate escape from the [[Silent Oath]], the party is thrust into 
 - [[026 The Bead Sea]]
 - [[027 Battle of Ships and Spren]]
 - [[028 Rebels in Rekka]]
-- [[029 Preparing for the Ambush]]
+- [[029 Three Ship Ambush]]
