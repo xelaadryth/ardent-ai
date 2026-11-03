@@ -53,8 +53,7 @@
 
 
 - [[Assault on Mother's Gate]] through [[Mother's Gate]]:
-	- Hear [[Kuma]]'s voice, gives [[Viscose]] Kuma's greatest fabrial, and [[Tash The Hound]]'s iron hemalurgic spike which grants +1 strength
-	- A short picture book called [[The Mink and the Axehounds]] from [[Hoid]]
+- A short picture book called [[The Mink and the Axehounds]] from [[Hoid]]
 - Later, [[Galeth-son-Thald]] sometimes hears another voice that helps them (and the Set)
 - Tomat hooks
 	- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
