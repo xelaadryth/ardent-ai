@@ -6,7 +6,7 @@ tags:
   - "#makabaki"
   - "#skybreaker"
   - "#truthkeeper"
-last_updated: 2024-05-29T11:00:00
+last_updated: 2024-07-27T10:00:00
 faction: "[[Silent Oath]]"
 location: "[[Revolar]]"
 ---
@@ -30,3 +30,4 @@ Assigned to monitor the squad and the insurgency in [[Revolar]]. During [[The Da
 # Connections
 - [[High Enforcer Aylen]]: Her mentor and commander.
 - [[Ojog]]: A Truthkeeper Enforcer she is recruiting into the [[Silent Oath]].
+- [[Atlas]]: Her squire, whom she sent to observe the party.

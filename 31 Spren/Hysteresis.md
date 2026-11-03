@@ -5,15 +5,17 @@ tags:
   - "#spren"
   - "#cryptic"
   - "#deadeye"
-last_updated: 2026-07-10T15:00:00
+last_updated: 2024-07-27T10:00:00
 order: Lightweaver
 ---
-
 # Description
 Hysteresis is an archaic, deadeye Cryptic who follows [[Iiko]] in the Cognitive Realm. Her form consists of a shifting, broken spiral face that periodically ticks like a broken clock.
 
+# Appearance
+In her deadeye state, her form was utilized by [[Iiko]] via Illumination to impersonate [[Posha]], a crew member of [[Captain Harl]]'s ship, during the infiltration of [[Haka'alaku]].
+
 # Personality
-In her deadeye state, she is largely insensate, though she occasionally emits mournful, randomized screams. She follows [[Iiko]] with mechanical obedience when led by the hand. 
+In her deadeye state, she is largely insensate, though she occasionally emits mournful, randomized screams. She follows [[Iiko]] with mechanical obedience when led by the hand.
 
 # Background
 Before her renunciation, Hysteresis was bonded to a Radiant who believed that sacrificing their bond would prevent the destruction of Roshar. This "greater good" renunciation broke her mind, leaving her in her current hollowed state. Recently, she has shown faint flickers of recognition, particularly when the party speaks of upholding their new oaths, suggesting her core may still be reachable.
@@ -23,3 +25,5 @@ Before her renunciation, Hysteresis was bonded to a Radiant who believed that sa
 
 # Connections
 - [[Iiko]]: Her current guide.
+- [[Posha]]: The Unkalaki crew member whose form she mimicked.
+- [[Wandering Eye]]: Her current location with the party.

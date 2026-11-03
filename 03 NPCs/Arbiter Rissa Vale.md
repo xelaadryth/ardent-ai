@@ -7,11 +7,10 @@ tags:
   - "#scadrian"
   - "#bloodmarks"
   - "#intelligence"
-last_updated: 2024-07-10T00:00:00
+last_updated: 2024-07-27T10:00:00
 faction: "[[Bloodmarks]]"
 location: "[[Wandering Eye]]"
 ---
-
 # Description
 A lighteyed intelligence operative within the [[Bloodmarks]] and a Cycle of [[The Set]]. She is a Twinborn Copper Ferring and Tin Allomancer currently held captive by the party in [[Shadesmar]]. She is a worldhopper from Scadrial who operates with chilling efficiency and an unnerving ability to read those around her.
 
@@ -29,7 +28,7 @@ Observant, patient, and dangerously well-informed. Rissa possesses an unsettling
 # Background
 Rissa is the commander of both [[Tash The Hound]] and [[Varo Three-Knives]], coordinating their retrieval and logistics operations in the [[Scarstone Quarter]]. According to [[Varo Three-Knives]], she was in charge of the syndicate's current tactical maneuvers in [[Revolar]].
 
-During [[026 The Bead Sea]], she was pulled into [[Shadesmar]] while attempting to seize the party's vessel. In [[027 Battle of Ships and Spren]], she was stabbed by [[Mallow]] and subsequently fell unconscious. She currently serves as the party's primary source of intelligence on [[Johb]] and Allomancy.
+During [[026 The Bead Sea]], she was pulled into [[Shadesmar]] while attempting to seize the party's vessel. In [[027 Battle of Ships and Spren]], she was stabbed by [[Mallow]] and subsequently fell unconscious. She currently serves as the party's primary source of intelligence on [[Johb]] and Allomancy. In [[030 Infiltration Preparations]], she negotiated a conditional alliance with the party and remains aboard the [[Wandering Eye]].
 
 Copper Ferring, Tin Allomancer
 - Knows the names of all the party's spren: [[Dreamwaker]], [[Pyre]], [[Kun'ahu]], [[Viscose]], [[Verdae]], [[Cadence]]
@@ -45,8 +44,10 @@ Copper Ferring, Tin Allomancer
 # Goals
 - Manage Bloodmarks intelligence and logistics.
 - Study the party and learn the extent of their knowledge.
+- Aid the party in liberating [[Haka'alaku]] and reaching [[Bodenar]] to confront [[Grand Justicar Malice]].
 
 # Connections
 - [[Varo Three-Knives]]: Her subordinate.
 - [[Kaizen]]: A higher-ranking Suit who is often manipulated by her due to his youth and naivete.
 - [[Johb]]: Her superior and commander of [[Mother's Gate]].
+- [[Wandering Eye]]: Current location with the party.

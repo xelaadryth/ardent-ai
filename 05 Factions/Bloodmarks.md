@@ -6,7 +6,7 @@ tags:
   - "#criminal_organization"
   - "#worldhopping"
   - "#piracy"
-last_updated: 2024-07-04T12:00:00
+last_updated: 2024-07-27T10:00:00
 ---
 # Description
 A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper branch operates a pirate fleet in the bead-seas of [[Shadesmar]].
@@ -37,3 +37,6 @@ A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper 
 - [[Marcus]]
 - [[Meki-son-Vara]]
 - [[Tash The Hound]]
+- [[Warden]]
+- [[Yellow]]
+- [[Innik]]

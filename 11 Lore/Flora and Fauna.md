@@ -3,7 +3,7 @@ type: lore
 status: active
 tags:
   - "#location"
-last_updated: 2026-05-16T22:25:46
+last_updated: 2024-07-27T10:00:00
 ---
 # Description
 Roshar's ecosystem is uniquely adapted to survive the relentless highstorms and the stone-dominated landscape. Most flora can retract into the ground or stone, and most fauna is protected by chitinous shells or specialized carapaces.
@@ -25,7 +25,7 @@ The staple diet of Roshar relies on hardy, stone-grown crops:
 ## Trees and Plants
 - **Forest Trees**: Vivim trees, Markel trees, and the heavy Stumpweight trees.
 - **Lumber**: **Cobwood** is standard for furniture, while **Darkwood** is prized for high-end, luxury pieces.
-- **Shrubs & Ground Cover**:
+- **Shrubs & Ground Cover**: 
     - **Snarlbrush**: Forms dense, protective thickets.
     - **Scragglebark**: A rough-textured shrub.
     - **Frillbloom**: A fern with two distinctive orange fronds and spiked tips.
@@ -33,6 +33,7 @@ The staple diet of Roshar relies on hardy, stone-grown crops:
     - **Duskwillow**: A specialized "alerting tree."
     - **Rocklily**: Hardy leaves that grow directly from stone.
     - **Shalebark**: Primarily ornamental; its oil is used to inhibit chull pupation, and its stiff leaves are often used for arrow fletching.
+- **Branzah:** A flowering plant with claw-like branches, native to the Shattered Plains, usually found living in cracks in the rock.
 ## "Bugs" (Invertebrates)
 
 - **Standard Cremlings**: Haspers, Lanka, and Skrip are found throughout the world.

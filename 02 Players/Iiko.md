@@ -6,7 +6,7 @@ tags:
   - "#truthwatcher"
   - "#nurian"
   - "#envoy"
-last_updated: 2024-07-11T10:00:00
+last_updated: 2024-07-27T10:00:00
 player: Truong
 spren: "[[Dreamwaker]]"
 ---
@@ -18,12 +18,14 @@ In [[023 Preparing for the Siege]], Iiko disguised themselves as [[Istrum]] to i
 
 In [[029 Three Ship Ambush]], Iiko spent time building a social bridge with [[Kaizen]], using their shared curiosity to learn the mechanics and history of Allomancy from the Scadrian youth.
 
+In [[031 Into the Physical Realm]], [[Iiko]] used Illumination and [[Hysteresis]] to impersonate [[Captain Harl]] and his crew, bluffing their way into [[Haka'alaku]]. They also acquired personal effects from Captain Harl's room on Garrison Island.
+
 # Oaths
 > Life before death. By the Almighty's tenth name, have a little bit of self-preservation instinct.
 
 > Strength before weakness. To know strength, you must know truth. The truth of the past reshapes who is strong and weak. Sharing that truth and knowledge is strength, whereas keeping it away from everyone is weakness.
 
-> Journey before destination. Learning is a never-ending journey, there's always another secret. 
+> Journey before destination. Learning is a never-ending journey, there's always another secret.
 
 **Second Ideal**
 > I will bring truth to those who have been deceived.
@@ -35,3 +37,7 @@ In [[029 Three Ship Ambush]], Iiko spent time building a social bridge with [[Ka
 
 # Connections
 - [[Kaizen]]: Built rapport and studied Allomantic theory under him in [[Rekka]].
+- [[Hysteresis]]: Utilized for impersonation and illusions.
+- [[Captain Harl]]: Impersonated by Iiko during the infiltration.
+- [[Atlas]]: A new ally who joined the party in [[Shadesmar]].
+- [[Wandering Eye]]: Current location with the party.

@@ -8,11 +8,10 @@ tags:
   - "#mistborn"
   - "#bloodmarks"
   - "#set"
-last_updated: 2024-07-11T10:00:00
+last_updated: 2024-07-27T10:00:00
 faction: "[[The Set]]"
 location: "[[Wandering Eye]]"
 ---
-
 # Description
 A rare Malwish Mistborn who defected from the [[Ghostbloods]] to join the [[Bloodmarks]]. He is convinced he is the chosen one, often likening himself to the legendary [[Hero of Ages]].
 
@@ -20,12 +19,12 @@ A rare Malwish Mistborn who defected from the [[Ghostbloods]] to join the [[Bloo
 Kaizen is a tall, slender Malwish boy (maybe 16) who carries himself with an insufferable regal air. Lightish blue eyes. He wears a traditional Malwish mask made of polished brass, crafted in the shape of a stylized, sharp-beaked kestrel over his eyes alone. He wears iron bracers on his forearms and a black glove on his left hand. His attire is a blend of Scadrian and Malwish fashion: a high-collared, multi-buttoned coat of dark silk, over which he drapes a vibrant red-and-gold serape.
 
 # Personality
-Spoiled, rebellious, and intensely selfish. He avoids practice, trusting that his powers will awaken fully when his "destiny" demands it. He frequently chitchats with [[Iiko]] and displays his Allomancy to impress them. 
+Spoiled, rebellious, and intensely selfish. He avoids practice, trusting that his powers will awaken fully when his "destiny" demands it. He frequently chitchats with [[Iiko]] and displays his Allomancy to impress them.
 
 # Background
-Kaizen's father died saving [[Thaidakar]] and the [[Ghostbloods]] from destruction. In gratitude, the organization rewarded the young Kaizen with Lerasium. However, in an act of teenage rebellion, Kaizen fled his caretakers to seek glory with the [[Bloodmarks]]. 
+Kaizen's father died saving [[Thaidakar]] and the [[Ghostbloods]] from destruction. In gratitude, the organization rewarded the young Kaizen with Lerasium. However, in an act of teenage rebellion, Kaizen fled his caretakers to seek glory with the [[Bloodmarks]].
 
-In [[029 Three Ship Ambush]], Kaizen built a surprising rapport with [[Iiko]], acting as a mentor in Allomantic theory while the party prepared for the siege. He seems to enjoy the attention and the chance to "lecture" a Radiant on superior Scadrian arts.
+In [[029 Three Ship Ambush]], Kaizen built a surprising rapport with [[Iiko]], acting as a mentor in Allomantic theory while the party prepared for the siege. He seems to enjoy the attention and the chance to "lecture" a Radiant on superior Scadrian arts. In [[030 Infiltration Preparations]], he joined the party as a combatant under a conditional alliance with [[Arbiter Rissa Vale]].
 
 # Prophecy
 - "He shall defend their ways, yet shall violate them."
@@ -41,3 +40,4 @@ In [[029 Three Ship Ambush]], Kaizen built a surprising rapport with [[Iiko]], a
 - [[Arbiter Rissa Vale]]: His subordinate.
 - [[Johb]]: A fellow Suit within the organization.
 - [[Iiko]]: Built rapport in [[Rekka]]; views [[Iiko]] as an interested student of his Allomancy.
+- [[Wandering Eye]]: Current location with the party.

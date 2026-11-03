@@ -310,6 +310,7 @@
         "[[Kun'ahu]]",
         "[[Saving Jory]]",
         "[[Tash The Hound]]",
+        "[[Nolnin]]",
         "[[020 Warehouse Rescue]]",
         "[[Jory Spadis]]",
         "[[Adjudicator Peton]]",
@@ -318,6 +319,7 @@
         "[[029 Three Ship Ambush]]",
         "[[Peakspren]]",
         "[[Haka'alaku]]",
+        "[[030 Infiltration Preparations]]",
         "[[Vun'akal]]"
       ],
       "tags": [
@@ -328,7 +330,7 @@
         "#stoneward",
         "#darkeyed"
       ],
-      "last_updated": "2024-07-11T10:00:00"
+      "last_updated": "2026-07-15T12:00:00"
     },
     "Iiko": {
       "type": "player",
@@ -1474,6 +1476,27 @@
         "#witness"
       ],
       "last_updated": "2024-06-16T12:00:00"
+    },
+    "Nolnin": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Ghostbloods]]",
+        "[[Rekka]]",
+        "[[Koloko]]",
+        "[[Peakspren]]",
+        "[[Viscose]]",
+        "[[Galeth-son-Thald]]",
+        "[[Haka'alaku]]",
+        "[[The Set]]"
+      ],
+      "tags": [
+        "#npc",
+        "#scadrian",
+        "#ghostbloods",
+        "#twinborn"
+      ],
+      "last_updated": "2026-07-15T12:00:00"
     },
     "Ojog": {
       "type": "npc",
@@ -2783,6 +2806,38 @@
       ],
       "last_updated": "2024-07-11T10:00:00"
     },
+    "030 Infiltration Preparations": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[03 Shadesmar Arc]]",
+        "[[Haka'alaku]]",
+        "[[Mother's Gate]]",
+        "[[Nolnin]]",
+        "[[Viscose]]",
+        "[[Galeth-son-Thald]]",
+        "[[Kuma]]",
+        "[[Cadence]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[Kaizen]]",
+        "[[Rissa]]",
+        "[[Bodenar]]",
+        "[[Grand Justicar Malice]]",
+        "[[Gorlo]]",
+        "[[Johb]]",
+        "[[Renna Palir]]",
+        "[[Hysteresis]]",
+        "[[Varo Three-Knives]]",
+        "[[Koloko]]"
+      ],
+      "tags": [
+        "#session",
+        "#shadesmar",
+        "#combat",
+        "#rebellion"
+      ],
+      "last_updated": "2026-07-15T12:00:00"
+    },
     "Bloodmarks": {
       "type": "faction",
       "status": "active",
@@ -3724,6 +3779,22 @@
         "#truthkeepers"
       ],
       "last_updated": "2026-06-16T15:00:00"
+    },
+    "Haka'alaku Infiltration": {
+      "type": "event",
+      "status": "active",
+      "links": [
+        "[[Assault on Mother's Gate]]",
+        "[[Johb]]",
+        "[[Grand Justicar Malice]]",
+        "[[Bloodmarks]]",
+        "[[Ghostbloods]]",
+        "[[The Set]]"
+      ],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-10-31T11:35:54"
     },
     "Meeting at the Whitespine": {
       "type": "event",

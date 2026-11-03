@@ -6,7 +6,7 @@ tags:
   - "#criminal_organization"
   - "#worldhopping"
   - "#piracy"
-last_updated: 2024-07-04T12:00:00
+last_updated: 2024-07-27T10:00:00
 ---
 # Description
 Interplanetary division of the Set parallel to the one in Elendel basin. They are charged with delivering the "men of gold and red".
@@ -41,3 +41,6 @@ Interplanetary division of the Set parallel to the one in Elendel basin. They ar
 - [[Marcus]]
 - [[Meki-son-Vara]]
 - [[Tash The Hound]]
+- [[Warden]]
+- [[Yellow]]
+- [[Innik]]

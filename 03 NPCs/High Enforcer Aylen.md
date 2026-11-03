@@ -7,7 +7,7 @@ tags:
   - "#makabaki"
   - "#herald"
   - "#high_enforcer"
-last_updated: 2026-07-02T12:00:00
+last_updated: 2024-07-27T10:00:00
 faction: "[[Truthkeepers]]"
 location: "[[Revolar]]"
 ---
@@ -32,3 +32,4 @@ He oversees the most lethal aspects of the [[Truthkeepers]] mission. He recently
 - [[Istrum]]: His subordinate and Skybreaker pupil.
 - [[Morrow]]: Executed him for possession during a demonstration of Truthkeeper duty.
 - [[Ojog]]: A recent recruit into the [[Silent Oath]].
+- [[Atlas]]: A squire in the Silent Oath, sent by Istrum to observe the party.

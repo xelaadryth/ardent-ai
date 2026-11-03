@@ -6,7 +6,7 @@ tags:
   - "#shadesmar"
   - "#worldhopping"
   - "#bloodmarks"
-last_updated: 2024-07-11T10:00:00
+last_updated: 2024-07-27T10:00:00
 number: 3
 ---
 
@@ -21,6 +21,7 @@ Following a desperate escape from the [[Silent Oath]], the party is thrust into 
 - [[Grand Justicar Malice]]: The leader of the [[Bloodmarks]] pirate fleet.
 - [[Kaizen]]: A self-proclaimed Hero of Ages and Suit of [[The Set]].
 - [[Koloko]]: A Ghostblood operative seeking to seize the Nurian trade corridor.
+- [[Atlas]]: A Skybreaker squire who joined the party to bring justice to the Bloodmarks.
 
 # Progression
 - **Act 1: The Glass Sea:** Awakening in [[Shadesmar]] and surviving [[The Bead-Sea Ambush]].
@@ -41,3 +42,5 @@ Following a desperate escape from the [[Silent Oath]], the party is thrust into 
 - [[027 Battle of Ships and Spren]]
 - [[028 Rebels in Rekka]]
 - [[029 Three Ship Ambush]]
+- [[030 Infiltration Preparations]]
+- [[031 Into the Physical Realm]]

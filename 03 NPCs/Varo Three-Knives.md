@@ -6,11 +6,10 @@ tags:
   - "#bloodmarks"
   - "#smuggler"
   - "#pirate"
-last_updated: 2024-06-20T10:00:00
+last_updated: 2024-07-27T10:00:00
 faction: "[[Bloodmarks]]"
-location: "[[Deepen Light]]"
+location: "[[Wandering Eye]]"
 ---
-
 # Description
 A jovial and surprisingly friendly Bloodmark lieutenant who operates as a smuggler and pirate. He approaches violence as a strictly professional business transaction and famously refuses to engage in a fair fight.
 
@@ -23,7 +22,7 @@ Varo is unnervingly friendly; he remembers everyone's name, offers drinks even b
 # Background
 A high-ranking operator within the [[Bloodmarks]] syndicate who manages illicit trade routes through the [[Slipmarket]] and [[Shadesmar]]. He prides himself on his professionalism and his ability to remain impartial in the conflicts between the [[Truthkeepers]] and the [[Knights of Dusk]], provided he is paid to do so. He is known to maintain a mutual respect with [[Arbiter Rissa Vale]], though he is kept in the dark regarding the most sensitive syndicate secrets due to his lack of fanatical dedication.
 
-In [[019 The Slipmarket Stakeout]], the party found him in a quaint tavern where he cordially discussed the impending interrogation of his prisoner.
+In [[019 The Slipmarket Stakeout]], the party found him in a quaint tavern where he cordially discussed the impending interrogation of his prisoner. In [[030 Infiltration Preparations]], he was part of the growing party of allies aboard the [[Wandering Eye]].
 
 # Goals
 - Secure safe transport for [[Bloodmarks]] contraband.
@@ -39,3 +38,4 @@ In [[019 The Slipmarket Stakeout]], the party found him in a quaint tavern where
 - [[Tash The Hound]]: His primary "pursuit specialist."
 - [[Arbiter Jalis]]: A frequent contact and associate within the [[Bloodmarks]].
 - [[Grand Justicar Malice]]: His ultimate superior in the syndicate hierarchy.
+- [[Wandering Eye]]: Current location with the party.
