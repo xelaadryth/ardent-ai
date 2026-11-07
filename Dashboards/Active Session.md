@@ -1,5 +1,5 @@
-- Current Arc: [[02 Knights of Dusk Arc]]
-- Last Session: [[028 Rebels in Rekka]]
+- Current Arc: [[04 Nurian Gems Arc]]
+- Last Session: [[031 Into the Physical Realm]]
 # Reminders
 - Curses and swears
 	- "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
