@@ -21,14 +21,16 @@
 		- Train a spren animal companion
 # Upcoming
 
-- Through the portal, greeted by Unkalaki (Darren, took an outsider-sounding name, 5th son, original name was Fifth Finger Completes the Hand, Akihilu'aiana'lukihu'lamik)
+- Through the portal, greeted by Unkalaki (Darren, took an outsider-sounding name, 5th son, original name was Fifth Finger Completes the Hand, Akihilu'aiana'lukihu'lamikar)
 	- Spren are back in spren form, Iiko holding a Shardblade
 	- Kestrel mask recognizable on Kaizen
 - Unkalaki dragging trees, looks like a logging camp
 	- See someone using a Soulcaster to turn wood into metal
 	- Guardhouse
-- Going through guardhouse, Soulcaster walks in and say "hey you don't look familiar, who are ya?"
-	- Recognizes Kaizen
+- Going through guardhouse, Soulcaster walks in and say "hey you don't look familiar, who are ya?" [[Johb]] wants:
+	- [[Iiko]]'s shardblade [[Hysteresis]]
+	- [[Kaizen]] for researching lerasium and see if it's extractable (recognizes his kestrel mask), not that many Malwish
+	- The party's radiant powers if he observes them
 - [[Johb]] and [[Johb Stats]] - Wants to bring the wonders of Allomancy and Feruchemy to everyone. Soulcasters are amazing, research fabrials to bring fabrials back
 	- Hazekiller honor guard insists on following him (Annik)
 - If kill Johb - [[Koloko]] can handle the other side, maybe with [[Atlas]]
