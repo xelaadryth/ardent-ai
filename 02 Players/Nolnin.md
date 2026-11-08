@@ -1,14 +1,14 @@
 ---
-type: npc
+type: player
 status: active
 tags:
-  - "#npc"
   - "#scadrian"
   - "#ghostbloods"
   - "#twinborn"
+  - player
 last_updated: 2024-07-27T10:00:00
-faction: "[[Ghostbloods]]"
-location: "[[Wandering Eye]]"
+player: Tom
+spren:
 ---
 # Description
 A Scadrian Ghostblood agent who appears Shin in stature, possessing dark eyes. He is a Twinborn (Rioter and Pewter Feruchemist) who has been organizing resistance efforts.

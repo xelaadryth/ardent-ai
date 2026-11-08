@@ -31,6 +31,7 @@
 	- Recognizes Kaizen
 - [[Johb]] and [[Johb Stats]] - Wants to bring the wonders of Allomancy and Feruchemy to everyone. Soulcasters are amazing, research fabrials to bring fabrials back
 	- Hazekiller honor guard insists on following him (Annik)
+- If kill Johb - [[Koloko]] can handle the other side, maybe with [[Atlas]]
 
 - Allies for [[Haka'alaku]] [[Mother's Gate]] ([[Assault on Mother's Gate]])
 	- [[Rekka]]
