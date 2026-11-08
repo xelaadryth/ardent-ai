@@ -198,6 +198,7 @@
         "[[Kaizen]]",
         "[[The Set]]",
         "[[Koloko]]",
+        "[[Atlas]]",
         "[[The Bead-Sea Ambush]]",
         "[[Uum'atu]]",
         "[[Scadrian Mechanics]]",
@@ -206,7 +207,9 @@
         "[[026 The Bead Sea]]",
         "[[027 Battle of Ships and Spren]]",
         "[[028 Rebels in Rekka]]",
-        "[[029 Three Ship Ambush]]"
+        "[[029 Three Ship Ambush]]",
+        "[[030 Infiltration Preparations]]",
+        "[[031 Into the Physical Realm]]"
       ],
       "tags": [
         "#arc",
@@ -214,7 +217,7 @@
         "#worldhopping",
         "#bloodmarks"
       ],
-      "last_updated": "2024-07-11T10:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "04 Nurian Gems Arc": {
       "type": "arc",
@@ -344,8 +347,16 @@
         "[[Silent Oath]]",
         "[[029 Three Ship Ambush]]",
         "[[Kaizen]]",
+        "[[031 Into the Physical Realm]]",
+        "[[Iiko]]",
+        "[[Hysteresis]]",
+        "[[Captain Harl]]",
+        "[[Haka'alaku]]",
         "[[Knights of Dusk]]",
-        "[[Rekka]]"
+        "[[Rekka]]",
+        "[[Atlas]]",
+        "[[Shadesmar]]",
+        "[[Wandering Eye]]"
       ],
       "tags": [
         "#player",
@@ -353,7 +364,7 @@
         "#nurian",
         "#envoy"
       ],
-      "last_updated": "2024-07-11T10:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Mallow": {
       "type": "player",
@@ -503,12 +514,16 @@
         "[[027 Battle of Ships and Spren]]",
         "[[Mallow]]",
         "[[Johb]]",
+        "[[030 Infiltration Preparations]]",
         "[[Dreamwaker]]",
         "[[Pyre]]",
         "[[Kun'ahu]]",
         "[[Viscose]]",
         "[[Verdae]]",
         "[[Cadence]]",
+        "[[Haka'alaku]]",
+        "[[Bodenar]]",
+        "[[Grand Justicar Malice]]",
         "[[Kaizen]]",
         "[[Mother's Gate]]"
       ],
@@ -519,7 +534,7 @@
         "#bloodmarks",
         "#intelligence"
       ],
-      "last_updated": "2024-07-10T00:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Ardent Kaelis": {
       "type": "npc",
@@ -604,6 +619,31 @@
       ],
       "last_updated": "2026-05-15T12:00:00"
     },
+    "Atlas": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Truthkeepers]]",
+        "[[Wandering Eye]]",
+        "[[Istrum]]",
+        "[[Bloodmarks]]",
+        "[[Uum'atu]]",
+        "[[Rekka]]",
+        "[[Atlas]]",
+        "[[Haka'alaku]]",
+        "[[High Enforcer Aylen]]"
+      ],
+      "tags": [
+        "#npc",
+        "#skybreaker",
+        "#radiant",
+        "#squire",
+        "#skybreaker_order",
+        "#truthkeepers",
+        "#player_character"
+      ],
+      "last_updated": "2024-07-27T10:00:00"
+    },
     "Beric Quinn": {
       "type": "npc",
       "status": "active",
@@ -647,6 +687,24 @@
         "#antagonist"
       ],
       "last_updated": "2026-05-18T00:00:00"
+    },
+    "Captain Harl": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[The Set]]",
+        "[[Haka'alaku]]",
+        "[[Iiko]]",
+        "[[029 Three Ship Ambush]]",
+        "[[Posha]]"
+      ],
+      "tags": [
+        "#npc",
+        "#shadesmar",
+        "#captain",
+        "#set"
+      ],
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Chip": {
       "type": "npc",
@@ -807,11 +865,12 @@
       "type": "npc",
       "status": "active",
       "links": [
-        "[[Deepen Light]]",
+        "[[Wandering Eye]]",
         "[[Bloodmarks]]",
         "[[The Darkstone Siege]]",
         "[[Fina]]",
         "[[Tash The Hound]]",
+        "[[030 Infiltration Preparations]]",
         "[[Marcus]]",
         "[[Varo Three-Knives]]"
       ],
@@ -822,7 +881,7 @@
         "#bloodmarks",
         "#defector"
       ],
-      "last_updated": "2024-07-03T10:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Grand Justicar Malice": {
       "type": "npc",
@@ -899,7 +958,8 @@
         "[[Istrum]]",
         "[[Morrow]]",
         "[[Ojog]]",
-        "[[Silent Oath]]"
+        "[[Silent Oath]]",
+        "[[Atlas]]"
       ],
       "tags": [
         "#npc",
@@ -908,7 +968,7 @@
         "#herald",
         "#high_enforcer"
       ],
-      "last_updated": "2026-07-02T12:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "High Witness Yeshan": {
       "type": "npc",
@@ -1025,6 +1085,25 @@
       ],
       "last_updated": "2024-05-30T12:00:00"
     },
+    "Innik": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[The Set]]",
+        "[[Haka'alaku]]",
+        "[[Nurian Gems]]",
+        "[[Yellow]]",
+        "[[Bodenar]]"
+      ],
+      "tags": [
+        "#npc",
+        "#malwish",
+        "#set",
+        "#bloodmarks",
+        "#administrator"
+      ],
+      "last_updated": "2024-07-27T10:00:00"
+    },
     "Istrum": {
       "type": "npc",
       "status": "active",
@@ -1034,7 +1113,8 @@
         "[[High Enforcer Aylen]]",
         "[[The Darkstone Siege]]",
         "[[Knights of Dusk]]",
-        "[[Ojog]]"
+        "[[Ojog]]",
+        "[[Atlas]]"
       ],
       "tags": [
         "#npc",
@@ -1042,7 +1122,7 @@
         "#skybreaker",
         "#truthkeeper"
       ],
-      "last_updated": "2024-05-29T11:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Jasnah Kholin": {
       "type": "npc",
@@ -1143,6 +1223,7 @@
         "[[Iiko]]",
         "[[Thaidakar]]",
         "[[029 Three Ship Ambush]]",
+        "[[030 Infiltration Preparations]]",
         "[[Arbiter Rissa Vale]]",
         "[[Johb]]",
         "[[Rekka]]"
@@ -1155,7 +1236,7 @@
         "#bloodmarks",
         "#set"
       ],
-      "last_updated": "2024-07-11T10:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Karani": {
       "type": "npc",
@@ -1238,7 +1319,7 @@
       "status": "active",
       "links": [
         "[[Ghostbloods]]",
-        "[[The Prismatic Palette]]",
+        "[[Wandering Eye]]",
         "[[Chirality]]",
         "[[Doug (Guddy)]]",
         "[[High Advisor Thalor]]",
@@ -1248,8 +1329,10 @@
         "[[Truthkeeper Camp]]",
         "[[Truthkeepers]]",
         "[[Tomat]]",
+        "[[The Prismatic Palette]]",
         "[[029 Three Ship Ambush]]",
         "[[Rekka]]",
+        "[[030 Infiltration Preparations]]",
         "[[Stoneweave]]",
         "[[Cremwidow Poison]]",
         "[[Flora and Fauna]]",
@@ -1264,17 +1347,19 @@
         "#criminal_mastermind",
         "#poisoner"
       ],
-      "last_updated": "2024-07-11T10:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Kuma": {
       "type": "npc",
-      "status": "active",
+      "status": "missing",
       "links": [
         "[[Shadesmar]]",
+        "[[Spiritual Realm]]",
         "[[023 Preparing for the Siege]]",
         "[[Knights of Dusk]]",
         "[[026 The Bead Sea]]",
         "[[Nurian Gems]]",
+        "[[031 Into the Physical Realm]]",
         "[[Higuma]]",
         "[[Viscose]]",
         "[[Vorn]]"
@@ -1283,9 +1368,10 @@
         "#npc",
         "#nurian",
         "#elsecaller",
-        "#maker"
+        "#maker",
+        "#spiritual_realm"
       ],
-      "last_updated": "2026-07-10T15:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Lavrik": {
       "type": "npc",
@@ -1482,11 +1568,13 @@
       "status": "active",
       "links": [
         "[[Ghostbloods]]",
-        "[[Rekka]]",
+        "[[Wandering Eye]]",
         "[[Koloko]]",
         "[[Peakspren]]",
+        "[[Rekka]]",
         "[[Viscose]]",
         "[[Galeth-son-Thald]]",
+        "[[030 Infiltration Preparations]]",
         "[[Haka'alaku]]",
         "[[The Set]]"
       ],
@@ -1496,7 +1584,7 @@
         "#ghostbloods",
         "#twinborn"
       ],
-      "last_updated": "2026-07-15T12:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Ojog": {
       "type": "npc",
@@ -1521,28 +1609,49 @@
       ],
       "last_updated": "2024-05-29T11:00:00"
     },
+    "Posha": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Haka'alaku]]",
+        "[[Captain Harl]]",
+        "[[Hysteresis]]",
+        "[[Iiko]]",
+        "[[Warden]]"
+      ],
+      "tags": [
+        "#npc",
+        "#unkalaki",
+        "#crew_member"
+      ],
+      "last_updated": "2024-07-27T10:00:00"
+    },
     "Renna Palir": {
       "type": "npc",
       "status": "active",
       "links": [
         "[[Knights of Dusk]]",
-        "[[Revolar]]",
+        "[[Wandering Eye]]",
         "[[Truthkeepers]]",
         "[[House Sathir]]",
         "[[Ardent Vedelis]]",
+        "[[Revolar]]",
         "[[Brightlord Juran]]",
         "[[Jasnah Kholin]]",
+        "[[030 Infiltration Preparations]]",
         "[[The Traitor Investigation]]",
         "[[Iiko]]",
         "[[Chip]]",
-        "[[General Spade]]"
+        "[[General Spade]]",
+        "[[Atlas]]",
+        "[[Shadesmar]]"
       ],
       "tags": [
         "#npc",
         "#lighteyed",
         "#alethi"
       ],
-      "last_updated": "2026-06-16T16:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Senny": {
       "type": "npc",
@@ -1859,13 +1968,15 @@
       "status": "active",
       "links": [
         "[[Bloodmarks]]",
-        "[[Deepen Light]]",
+        "[[Wandering Eye]]",
         "[[Slipmarket]]",
         "[[Shadesmar]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
         "[[Arbiter Rissa Vale]]",
         "[[019 The Slipmarket Stakeout]]",
+        "[[030 Infiltration Preparations]]",
+        "[[Deepen Light]]",
         "[[Gath]]",
         "[[Teks]]",
         "[[Miri]]",
@@ -1879,7 +1990,7 @@
         "#smuggler",
         "#pirate"
       ],
-      "last_updated": "2024-06-20T10:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Vorn": {
       "type": "npc",
@@ -1919,6 +2030,43 @@
         "#slave"
       ],
       "last_updated": "2024-07-11T10:00:00"
+    },
+    "Warden": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[The Set]]",
+        "[[Haka'alaku]]",
+        "[[Posha]]",
+        "[[Hysteresis]]",
+        "[[Mother's Gate]]"
+      ],
+      "tags": [
+        "#npc",
+        "#unkalaki",
+        "#bloodmarks",
+        "#set",
+        "#guard"
+      ],
+      "last_updated": "2024-07-27T10:00:00"
+    },
+    "Yellow": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[The Set]]",
+        "[[Haka'alaku]]",
+        "[[Nurian Gems]]",
+        "[[Innik]]"
+      ],
+      "tags": [
+        "#npc",
+        "#unkalaki",
+        "#bloodmarks",
+        "#set",
+        "#merchant"
+      ],
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Zabriel": {
       "type": "npc",
@@ -2838,6 +2986,39 @@
       ],
       "last_updated": "2026-07-15T12:00:00"
     },
+    "031 Into the Physical Realm": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[03 Shadesmar Arc]]",
+        "[[Haka'alaku]]",
+        "[[Mother's Gate]]",
+        "[[Atlas]]",
+        "[[Istrum]]",
+        "[[Bloodmarks]]",
+        "[[Kuma]]",
+        "[[Iiko]]",
+        "[[Captain Harl]]",
+        "[[Hysteresis]]",
+        "[[Posha]]",
+        "[[Warden]]",
+        "[[Nurian Gems]]",
+        "[[Peakspren]]",
+        "[[Yellow]]",
+        "[[Innik]]",
+        "[[Bodenar]]",
+        "[[Mallow]]",
+        "[[Higuma]]"
+      ],
+      "tags": [
+        "#session",
+        "#shadesmar",
+        "#physical_realm",
+        "#infiltration",
+        "#betrayal"
+      ],
+      "last_updated": "2024-07-27T10:00:00"
+    },
     "Bloodmarks": {
       "type": "faction",
       "status": "active",
@@ -2856,7 +3037,10 @@
         "[[Peakspren]]",
         "[[Vun'akal]]",
         "[[Meki-son-Vara]]",
-        "[[Tash The Hound]]"
+        "[[Tash The Hound]]",
+        "[[Warden]]",
+        "[[Yellow]]",
+        "[[Innik]]"
       ],
       "tags": [
         "#faction",
@@ -2864,7 +3048,7 @@
         "#worldhopping",
         "#piracy"
       ],
-      "last_updated": "2024-07-04T12:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Envisagers": {
       "type": "faction",
@@ -2995,7 +3179,10 @@
         "[[Varo Three-Knives]]",
         "[[Tash The Hound]]",
         "[[Haka'alaku]]",
-        "[[Meki-son-Vara]]"
+        "[[Meki-son-Vara]]",
+        "[[Warden]]",
+        "[[Yellow]]",
+        "[[Innik]]"
       ],
       "tags": [
         "#faction",
@@ -3003,7 +3190,7 @@
         "#worldhopping",
         "#piracy"
       ],
-      "last_updated": "2024-07-04T12:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Truthkeepers": {
       "type": "faction",
@@ -3185,6 +3372,11 @@
         "[[Assault on Mother's Gate]]",
         "[[Arbiter Jalis]]",
         "[[Vun'akal]]",
+        "[[Warden]]",
+        "[[Yellow]]",
+        "[[Innik]]",
+        "[[Captain Harl]]",
+        "[[Posha]]",
         "[[Rekka]]"
       ],
       "tags": [
@@ -3194,7 +3386,7 @@
         "#the_set",
         "#bloodmarks"
       ],
-      "last_updated": "2024-07-04T12:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Hearthstone": {
       "type": "location",
@@ -3262,14 +3454,15 @@
         "[[Fina]]",
         "[[The Set]]",
         "[[Johb]]",
-        "[[Nurian Gems]]"
+        "[[Nurian Gems]]",
+        "[[Warden]]"
       ],
       "tags": [
         "#lore",
         "#shadesmar",
         "#haka_alaku"
       ],
-      "last_updated": "2024-07-10T00:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Rekka": {
       "type": "location",
@@ -3384,6 +3577,20 @@
         "#shadesmar"
       ],
       "last_updated": "2024-07-04T12:00:00"
+    },
+    "Spiritual Realm": {
+      "type": "location",
+      "status": "active",
+      "links": [
+        "[[Kuma]]",
+        "[[Shadesmar]]"
+      ],
+      "tags": [
+        "#location",
+        "#spiritual_realm",
+        "#cosmere"
+      ],
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Stackhouses": {
       "type": "location",
@@ -3545,8 +3752,22 @@
         "[[Bloodmarks]]",
         "[[Peakspren]]",
         "[[Vun'akal]]",
+        "[[Arbiter Rissa Vale]]",
         "[[Varo Three-Knives]]",
-        "[[Arbiter Rissa Vale]]"
+        "[[Galeth-son-Thald]]",
+        "[[Iiko]]",
+        "[[Mallow]]",
+        "[[N'tal]]",
+        "[[Fina]]",
+        "[[Atlas]]",
+        "[[Koloko]]",
+        "[[Kaizen]]",
+        "[[Gorlo]]",
+        "[[Renna Palir]]",
+        "[[Nolnin]]",
+        "[[Viscose]]",
+        "[[Hysteresis]]",
+        "[[Haka'alaku]]"
       ],
       "tags": [
         "#location",
@@ -3554,7 +3775,7 @@
         "#bloodmarks",
         "#shadesmar"
       ],
-      "last_updated": "2024-07-10T00:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Whitespine's Fang": {
       "type": "location",
@@ -4282,6 +4503,15 @@
       "tags": [],
       "last_updated": ""
     },
+    "Johb Stats": {
+      "type": "statblock",
+      "status": "",
+      "links": [
+        "[[Johb]]"
+      ],
+      "tags": [],
+      "last_updated": ""
+    },
     "Neval Stats": {
       "type": "statblock",
       "status": "",
@@ -4391,7 +4621,7 @@
       "tags": [
         "#location"
       ],
-      "last_updated": "2026-05-16T22:25:46"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Minor NPCs": {
       "type": "lore",
@@ -4679,14 +4909,18 @@
       "type": "spren",
       "status": "active",
       "links": [
-        "[[Iiko]]"
+        "[[Iiko]]",
+        "[[Posha]]",
+        "[[Captain Harl]]",
+        "[[Haka'alaku]]",
+        "[[Wandering Eye]]"
       ],
       "tags": [
         "#spren",
         "#cryptic",
         "#deadeye"
       ],
-      "last_updated": "2026-07-10T15:00:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Kun'ahu": {
       "type": "spren",
@@ -4744,14 +4978,16 @@
       "type": "spren",
       "status": "active",
       "links": [
-        "[[Kuma]]"
+        "[[Kuma]]",
+        "[[030 Infiltration Preparations]]",
+        "[[Wandering Eye]]"
       ],
       "tags": [
         "#spren",
         "#inkspren",
         "#logical"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2024-07-27T10:00:00"
     },
     "Aharietiam": {
       "type": "event",
