@@ -14,7 +14,7 @@ location: "[[Haka'alaku]]"
 ---
 
 # Description
-A Taldain with a hemalurgic spike turning him into an Iron Misting (Lurcher) and Suit of the Set serving as the primary taskmaster and Overseer in [[Haka'alaku]]. He views the democratization of Investiture through Nahel bonds and artifabrial technology as a philosophical necessity. He fights with the calculated unpredictability of a rogue, often throwing his knives to distract opponents before pulling them back through his enemies with Allomancy.
+A Taldain with a hemalurgic spike turning him into an Iron Misting (Lurcher) and Suit of the Set serving as the primary taskmaster and Overseer in [[Haka'alaku]]. He views the democratization of Investiture through Nahel bonds and artifabrial technology as a philosophical necessity. He fights with the calculated unpredictability of a rogue, often throwing his knives to distract opponents before pulling them back through his enemies with Allomancy. He carries a variety of different fabrials with him for combat.
 
 He worked his way up to becoming a Suit of the Set due to hard work, but is kept from rising higher because of his morals. He is smart and crafty, but can be turned to the side of good. Corrupted by his spike and hears the voice of Trell.
 

@@ -21,16 +21,20 @@
 		- Train a spren animal companion
 # Upcoming
 
-- Who is going
-	- Rissa
-	- Kaizen
-	- Renna
-	- Viscose
-	- Gorlo
-	- Hysteresis
-	- Varo
-	- Koloko
-- Allies for [[Haka'alaku]] ([[Assault on Mother's Gate]])
+- Through the portal, greeted by Unkalaki
+	- Spren are back in spren form, Iiko holding a Shardblade
+	- Kestrel mask recognizable on Kaizen
+- Unkalaki dragging trees, looks like a logging camp
+	- See someone using a Soulcaster to turn wood into metal
+	- Guardhouse
+- Going through guardhouse, Soulcaster walks in and say "hey you don't look familiar, who are ya?"
+	- Recognizes Kaizen
+- [[Johb]] - Wants to bring the wonders of Allomancy and Feruchemy to everyone. Soulcasters are amazing, research fabrials to bring fabrials back
+	- Uses a soulcaster
+	- Painrial for damage/healing
+	- 
+- Innik comes through the gate later
+- Allies for [[Haka'alaku]] [[Mother's Gate]] ([[Assault on Mother's Gate]])
 	- [[Rekka]]
 		- [[Uum'atu]] - peakspren leader, former Senator
 		- [[Tessitura]] - aka Tess, contact for rebel reachers
@@ -45,14 +49,15 @@
 		- [[Vun'akal]] and 11 other armed peakspren
 		- [[Varo Three-Knives]]
 		- [[Arbiter Rissa Vale]]
+		- [[Kaizen]]
 	- Knights VALORANT
 		- [[Renna Palir]]
 		- [[Gorlo]]
 		- [[Viscose]] - [[03 NPCs/Kuma|Kuma]]'s spren
 		- [[Hysteresis]] - deadeye Cryptic
+		- [[Koloko]]
 
 
-- [[Assault on Mother's Gate]] through [[Mother's Gate]]:
 - A short picture book called [[The Mink and the Axehounds]] from [[Hoid]]
 - Later, [[Galeth-son-Thald]] sometimes hears another voice that helps them (and the Set)
 - Tomat hooks
@@ -61,8 +66,6 @@
 	- Lightship Expo - Higuma ([[Viscose]] recognizes as [[Kuma]]'s mother's name) leading the exhibition
 		- Not actually her, she should appear Alethi but this one is Thaylen.
 	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
-- [[Arbiter Rissa Vale]] boarded the ship and turned it around from Kholinar to salvage the situation
-	- With [[Kaizen]] who protects her; she uses a crossbow with barbed aluminum bolts
 - Was on the ship:
 	- [[Vorn]] (artificer)
 	- [[03 NPCs/Dahmian|Dahmian]]
