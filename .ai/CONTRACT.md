@@ -27,6 +27,7 @@ Rules:
 - `status` must be `active`, `inactive`, or `planned`.
 - `tags` must be a YAML list of `#camel_case` tags.
 - `last_updated` is the last time you modified the file.
+- The YAML must parse as valid YAML with proper character escaping.
 
 Example:
 

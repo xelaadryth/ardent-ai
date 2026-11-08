@@ -1,1 +1,0 @@
-Generate a statblock document for Johb, that is a tier 2 boss with access to iron pulling (lurcher), throwing knives, a large wooden shield, and several combat fabrials, including some special ones that can greatly change the battlefield to make the TTRPG combat interesting.
