@@ -14,7 +14,7 @@ This document serves as a repository for unused NPC names. Once a name from this
 # Alethi Darkeyes
 - Ralin
 - Joven
-- Maran
+- Moran
 - Lekka
 - Pidden
 
@@ -36,7 +36,7 @@ This document serves as a repository for unused NPC names. Once a name from this
 
 # Soldiers
 - Sergeant Dren
-- Corporal Hemmit
+- Corporal Hemmet
 - Private Virun
 - Recruit Tork
 
@@ -47,7 +47,7 @@ This document serves as a repository for unused NPC names. Once a name from this
 # Miscellaneous
 - Tane
 - Mara
-- Ishkil
+- Ishki
 - Attica
 - Puris
 - Strativan

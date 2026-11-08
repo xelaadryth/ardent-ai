@@ -18,7 +18,7 @@ health: 99
 focus: 6
 investiture: 6
 deflect: 1
-movement: 30 ft.
+movement: 40 ft.
 languages: Alethi, Malwish, Scadrian
 p_skills: Agility +8, Light Weaponry +8
 c_skills: Discipline +5, Lore +7
@@ -37,6 +37,10 @@ actions:
     desc: "Attack +8, one target. Hit: 1d6 + 8 vital damage."
   - name: "Lightbow"
     desc: "Attack +8, offhand, Loaded[1], one target. Hit: 1d10 + 8 piercing damage."
+  - name: "Repeller Fabrial"
+    desc: "Range 50 ft. 1 action, Johb tosses a repeller fabrial at a 10x10 ft area. The targets must React to Avoid Danger or be pushed 15 feet away from the center."
+  - name: "Shrapnel Grenade"
+    desc: "Range 50 ft. 1 action, Johb tosses a grenade at a 10x10 ft area. The targets must React to Avoid Danger or take 2d6 piercing damage and be knocked prone. "
 reactions:
   - name: Magnetic Deflection
     desc: Spend 1 investiture to give a metal weapon disadvantage by drawing it towards his shield.

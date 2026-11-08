@@ -21,7 +21,7 @@
 		- Train a spren animal companion
 # Upcoming
 
-- Through the portal, greeted by Unkalaki
+- Through the portal, greeted by Unkalaki (Darren, took an outsider-sounding name, 5th son, original name was Fifth Finger Completes the Hand, Akihilu'aiana'lukihu'lamik)
 	- Spren are back in spren form, Iiko holding a Shardblade
 	- Kestrel mask recognizable on Kaizen
 - Unkalaki dragging trees, looks like a logging camp
@@ -29,11 +29,9 @@
 	- Guardhouse
 - Going through guardhouse, Soulcaster walks in and say "hey you don't look familiar, who are ya?"
 	- Recognizes Kaizen
-- [[Johb]] - Wants to bring the wonders of Allomancy and Feruchemy to everyone. Soulcasters are amazing, research fabrials to bring fabrials back
-	- Uses a soulcaster
-	- Painrial for damage/healing
-	- 
-- Innik comes through the gate later
+- [[Johb]] and [[Johb Stats]] - Wants to bring the wonders of Allomancy and Feruchemy to everyone. Soulcasters are amazing, research fabrials to bring fabrials back
+	- Hazekiller honor guard insists on following him (Annik)
+
 - Allies for [[Haka'alaku]] [[Mother's Gate]] ([[Assault on Mother's Gate]])
 	- [[Rekka]]
 		- [[Uum'atu]] - peakspren leader, former Senator
