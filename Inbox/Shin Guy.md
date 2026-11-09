@@ -1,0 +1,1 @@
+Created Tarscht-son-Naszt and updated Galeth's history to include his past in the corrupt Shin unit.
