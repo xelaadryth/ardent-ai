@@ -27,6 +27,7 @@
 - Unkalaki dragging trees, looks like a logging camp
 	- See someone using a Soulcaster to turn wood into metal
 	- Guardhouse
+- [[Galeth-son-Thald]]'s previous military unit recognizes him. [[Tarsht-son-Naszt]] was part of the same military force that abused their power, eventually for even greater crimes (pillaging an innocent town Rizall) they were condemned, many escaped to join bandits and absorbed into the [[Bloodmarks]]
 - Going through guardhouse, Soulcaster walks in and say "hey you don't look familiar, who are ya?" [[Johb]] wants:
 	- [[Iiko]]'s shardblade [[Hysteresis]]
 	- [[Kaizen]] for researching lerasium and see if it's extractable (recognizes his kestrel mask), not that many Malwish

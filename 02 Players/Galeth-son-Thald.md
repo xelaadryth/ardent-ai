@@ -22,6 +22,8 @@ Traditional Shin in appearance. His clothing is often rugged and reinforced by h
 A grim fatalist who has finally found a cause worth speaking the Words for. While still soft-spoken, his commitment to protecting the weak has superseded his desire for self-punishment.
 
 # Background
+In Shinovar, he rejected following a command to hurt an innocent child, and someone else did it instead. Disgusted with the military, he exiled himself from his homeland, realizing that he had been helping bad people all this time.
+
 In session [[020 Warehouse Rescue]], while defending [[Jory Spadis]] from [[Adjudicator Peton]], Galeth spoke the First Ideal of the [[Orders of the Knights Radiant|Stonewards]]. In [[022 Back to Base]], he realized that [[Tash The Hound]]'s tracking devices were still present on the party via a disc found by [[Jory Spadis]].
 
 In [[029 Three Ship Ambush]], Galeth took charge of training the liberated [[Peakspren]] cannoneers aboard the *Wandering Eye*, instilling military discipline and refining their heavy artillery skills for the assault on [[Haka'alaku]]. In [[030 Infiltration Preparations]], his physical capabilities were augmented by an iron Hemallurgic spike.
