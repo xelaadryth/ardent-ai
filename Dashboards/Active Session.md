@@ -21,7 +21,7 @@
 		- Train a spren animal companion
 # Upcoming
 
-- Through the portal, greeted by Unkalaki (Darren, took an outsider-sounding name, 5th son, original name was Fifth Finger Completes the Hand, Akihilu'aiana'lukihu'lamikar)
+- Through the portal, greeted by Unkalaki (Darren, took an outsider-sounding name)
 	- Spren are back in spren form, Iiko holding a Shardblade
 	- Kestrel mask recognizable on Kaizen
 - Unkalaki dragging trees, looks like a logging camp
@@ -36,16 +36,37 @@
 	- Hazekiller honor guard insists on following him (Annik)
 - If kill Johb - [[Koloko]] can handle the other side, maybe with [[Atlas]]
 
+Base
+- Make a new city, New Consortium, trade center for the area
+- Bartender (5th Son) - Fifth Finger Curls to Complete the Fist Punching You in the Face, Akihilu'aiana'lukihu'lamikar
+
+- Johb - 36 damage
+	- 
+
+News
+- 
+
+- Spanreed
+	- Devotary Ward - 
+	- Knights of Dusk - 
+	- House Sathir - 
+
 - Who is going
 	- Rissa
-	- Kaizen
+	- [[Kaizen]]
 	- Renna
 	- Viscose
 	- Hysteresis
 	- Varo
 	- Gorlo
 	- Koloko
+
+- Mallow
+	- Parents not actually dead, sister searching for them with Nightwatcher blessing, forgot about them
+	- Protecting aviar (secret holy chickens) from another world
+
 - Allies for [[Haka'alaku]] ([[Assault on Mother's Gate]])
+	- Master Plan on the Physical Realm side
 	- [[Rekka]]
 		- [[Uum'atu]] - peakspren leader, former Senator
 		- [[Tessitura]] - aka Tess, contact for rebel reachers
