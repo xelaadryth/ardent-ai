@@ -17,7 +17,7 @@ Interplanetary division of the Set parallel to the one in Elendel basin. They ar
 - **Sequence:** High-ranking leaders. [[Johb]]
 - **Suit:** [[Marcus]], [[Kaizen]].
 - **Array:** Specialists. [[Arbiter Rissa Vale]].
-- **Cycle:** Lowest formal rank. [[Arbiter Jalis]], [[Varo Three-Knives]], [[Tash The Hound]].
+- **Cycle:** Lowest formal rank. [[Arbiter Jalis]], [[Varo Four-Knives]], [[Tash The Hound]].
 
 # Occupations
 - [[Haka'alaku]]: Governed by Overseer [[Johb]].
@@ -36,7 +36,7 @@ Interplanetary division of the Set parallel to the one in Elendel basin. They ar
 - [[Johb]]
 - [[Arbiter Jalis]]
 - [[Arbiter Rissa Vale]]
-- [[Varo Three-Knives]]
+- [[Varo Four-Knives]]
 - [[Kaizen]]
 - [[Marcus]]
 - [[Meki-son-Vara]]

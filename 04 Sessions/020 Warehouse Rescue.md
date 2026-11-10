@@ -15,7 +15,7 @@ The squad's defection from the [[Truthkeepers]] becomes absolute during a high-s
 # Events
 - **The Plan:** The party coordinates a multi-level infiltration of the [[Slipmarket]]. [[Renna Palir]] requests aid from the [[Knights of Dusk]], but only the unreliable [[Nathaniel]] is available. Half the party shadows from the rooftops while the others follow on foot.
 - **Infiltration:** The squad observes [[Adjudicator Peton]] use the codephrase: *"What ruins mar the graves? Only rust in crimson shades."* They identify a second phrase: *"How many marks to pass? 16 Bloodmarks pass."*
-- **The Disguise:** [[Iiko]] uses Illumination to masquerade as [[Varo Three-Knives]]. The checkpoint guards express disdain for Varo and warn the party to stay away from [[Tash The Hound]]. [[N'tal]] secures entry by invoking the name of [[Arbiter Rissa Vale]].
+- **The Disguise:** [[Iiko]] uses Illumination to masquerade as [[Varo Four-Knives]]. The checkpoint guards express disdain for Varo and warn the party to stay away from [[Tash The Hound]]. [[N'tal]] secures entry by invoking the name of [[Arbiter Rissa Vale]].
 - **The Breach:** Inside the warehouse, the party finds [[Adjudicator Peton]], three [[Truthkeepers]], and [[Tash The Hound]] standing over a chained [[Jory Spadis]]. When Peton summons his Shardblade to maim the boy, the party strikes.
 - **The Stoneward's Vow:** Witnessing the threat to a child, [[Galeth-son-Thald]] speaks the First Ideal of the [[Orders of the Knights Radiant|Stonewards]]. His words are accepted. He holds the line against Peton and Tash.
 - **Combat Highlights:**

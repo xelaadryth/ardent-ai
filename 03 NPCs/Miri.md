@@ -28,5 +28,5 @@ Miri ran away from a restrictive apprenticeship in [[Thaylen City]] to see the w
 - Sail to every ancient city (dawncity) on Roshar.
 
 # Connections
-- [[Varo Three-Knives]]: Her mentor and Captain.
+- [[Varo Four-Knives]]: Her mentor and Captain.
 - [[Kuma]]: Intrigued by his Nurian fabrials.

@@ -13,7 +13,7 @@ arc: "[[02 Knights of Dusk Arc]]"
 The squad regrouped at the [[Knights of Dusk]] headquarters after a successful infiltration of the [[Deepen Light]], planning the next phase of the insurgency while discovering a lingering threat from [[Tash The Hound]].
 
 # Events
-- **The Smuggler's Gambit**: Onboard the [[Deepen Light]], [[N'tal]] inspected the secret compartment behind the bulkhead, confirming the shipments were indeed genuine [[Nurian Gems]]. During the meeting with [[Varo Three-Knives]], [[N'tal]] proposed a potential trade deal for gems sourced directly from [[Nuria]].
+- **The Smuggler's Gambit**: Onboard the [[Deepen Light]], [[N'tal]] inspected the secret compartment behind the bulkhead, confirming the shipments were indeed genuine [[Nurian Gems]]. During the meeting with [[Varo Four-Knives]], [[N'tal]] proposed a potential trade deal for gems sourced directly from [[Nuria]].
 - **The East Gate Jump**: The squad departed the vessel near the end of the [[Slipmarket]] by the East Gate. They regrouped with [[Mallow]] and waited for their recently acquired vellum and maps to dry before heading into the wilderness.
 - **Return to HQ**: Guided by [[Jory Spadis]], the party navigated the [[Darkstone Forest]]. Upon reaching the [[Knights of Dusk]] base, they briefly forgot the codephrase ("Aharietiam") but were admitted after their identities were confirmed by the sentries.
 - **Strategic Debrief**: The party provided [[General Spade]] and [[Khria]] with a detailed report on the [[Bloodmarks]] and [[Truthkeepers]] leadership currently operating in [[Revolar]]. 

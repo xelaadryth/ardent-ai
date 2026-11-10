@@ -19,6 +19,7 @@ A large, oar-powered [[Bloodmarks]] galley captured by the party in [[Shadesmar]
 
 # Inhabitants
 - [[Vun'akal]]: Leader of the crew.
+<<<<<<< Updated upstream
 - [[Arbiter Rissa Vale]]: Held in the brig (currently allied).
 - [[Varo Three-Knives]]: Serving under duress.
 - [[Galeth-son-Thald]]
@@ -37,3 +38,7 @@ A large, oar-powered [[Bloodmarks]] galley captured by the party in [[Shadesmar]
 
 # Connections
 - [[Haka'alaku]]: Destination of the ship.
+=======
+- [[Varo Four-Knives]]: Serving under duress.
+- [[Arbiter Rissa Vale]]: Held in the brig.
+>>>>>>> Stashed changes

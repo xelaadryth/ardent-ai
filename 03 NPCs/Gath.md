@@ -12,7 +12,7 @@ location: "[[Deepen Light]]"
 ---
 
 # Description
-The stoic and efficient First Mate of the [[Deepen Light]]. He handles the day-to-day logistics of the ship, allowing [[Varo Three-Knives]] to focus on social engineering and deal-making.
+The stoic and efficient First Mate of the [[Deepen Light]]. He handles the day-to-day logistics of the ship, allowing [[Varo Four-Knives]] to focus on social engineering and deal-making.
 
 # Appearance
 A large Veden man with a thick, square-cut beard and a perpetually furrowed brow. He has a prosthetic iron hook on his left hand, which he uses with surprising dexterity to adjust rigging.
@@ -28,5 +28,5 @@ Formerly a legitimate merchant sailor, Gath was framed for theft by a rival comp
 - Protect Varo from his own overly-friendly nature.
 
 # Connections
-- [[Varo Three-Knives]]: Captain and savior.
+- [[Varo Four-Knives]]: Captain and savior.
 - [[Deepen Light]]: His home and responsibility.

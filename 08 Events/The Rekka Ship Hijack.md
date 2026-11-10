@@ -15,6 +15,8 @@ The party spends four days in [[Rekka]], waiting for a suitable Set vessel to tr
 
 Skill challenge, party handles it without combat or just high-level skill checks. If missing, large force goes to Rekka or they stop going.
 
+Fight Captain Harl and his crew, a few armed with muskets.
+
 # Interesting Ship Elements
 - **The Deadeye Nets**: Nets that can be dragged along the sea floor to catch deadeyes. While it doesn't affect the Physical Realm, their location can be reported via spanreed to [[Haka'alaku]], who can send a messenger through [[Mother's Gate]]. Can be dropped on folks on the deck. 
 - **Cargo**: Only a small amount of supplies for a few days.

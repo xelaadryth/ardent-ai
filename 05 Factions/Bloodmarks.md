@@ -16,7 +16,7 @@ A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper 
 - **Grand Justicar:** 3 Leaders, Series (above Sequence). [[Grand Justicar Malice]]
 - **Corsair**: Bloodmark captain/general. [[Johb]] (Suit), [[Kaizen]] (Suit), [[Marcus]] (Suit).
 - **Arbiter:** Lieutenants. [[Arbiter Jalis]], [[Arbiter Rissa Vale]].
-- **Hand**: Sergeants. [[Varo Three-Knives]].
+- **Hand**: Sergeants. [[Varo Four-Knives]].
 - **Lashes**: Foot soldiers.
 
 # Controlled Territories
@@ -32,7 +32,7 @@ A dangerous criminal syndicate with reach across the Cosmere. Their worldhopper 
 - [[Arbiter Jalis]]
 - [[Arbiter Rissa Vale]]
 - [[Johb]]
-- [[Varo Three-Knives]]
+- [[Varo Four-Knives]]
 - [[Kaizen]]
 - [[Marcus]]
 - [[Meki-son-Vara]]

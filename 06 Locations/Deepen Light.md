@@ -10,7 +10,7 @@ last_updated: 2024-07-10T00:00:00
 location: "[[Shadesmar]]"
 ---
 # Overview
-A mid-sized Alethi-style merchant cog that primarily operates as a passenger and transport vessel between [[Revolar]] and [[Bodenar]]. In reality, it is the primary smuggling vessel for [[Varo Three-Knives]].
+A mid-sized Alethi-style merchant cog that primarily operates as a passenger and transport vessel between [[Revolar]] and [[Bodenar]]. In reality, it is the primary smuggling vessel for [[Varo Four-Knives]].
 
 It is currently beached and abandoned in the bead-seas of [[Shadesmar]] following the transition from [[Revolar]].
 
@@ -26,7 +26,7 @@ The ship maintains a veneer of civilian normalcy. The deck is often cluttered wi
 - **Concealed Ballistae**: Two small ballistae are hidden beneath collapsible crates on the aft deck, intended for defense against pirates or meddling guards.
 
 # History
-Originally crewed by [[Varo Three-Knives]], [[Gath]] (first mate), [[Teks]] (deckhand), and [[Miri]] (lookout), among others.
+Originally crewed by [[Varo Four-Knives]], [[Gath]] (first mate), [[Teks]] (deckhand), and [[Miri]] (lookout), among others.
 
 In [[026 The Bead Sea]], the ship was the vessel used to escape [[High Enforcer Aylen]]. It was subsequently abandoned in [[028 Rebels in Rekka]] when the party transferred to the *Wandering Eye*.
 

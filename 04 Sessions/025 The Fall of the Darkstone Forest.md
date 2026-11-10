@@ -23,10 +23,10 @@ The [[Truthkeepers]], [[Vamah Princedom]], and [[Bloodmarks]] launch a combined 
 - **The Silent Oath:** Twenty Skybreakers of the [[Silent Oath]] descended upon the base. [[General Spade]] ordered an immediate evacuation via the escape tunnel.
 - **The Escape:** The party boarded a boat provided by [[Nathaniel]] to reach safety. [[Istrum]] intercepted them, claiming she was there only to retrieve [[Ojog]] for the Skybreakers, whom she identified as the only true Knights Radiant. 
 - **Revelation:** [[High Enforcer Aylen]] arrived, revealed as the Herald Nale (Nalan). He reduced the base to ash with Division as the party watched from the fleeing boat.
-- **The Final Twist:** The party realized [[Varo Three-Knives]] was aboard their escape vessel (the Deepen Light). As they sailed away, Aylen turned his gaze upon them.
+- **The Final Twist:** The party realized [[Varo Four-Knives]] was aboard their escape vessel (the Deepen Light). As they sailed away, Aylen turned his gaze upon them.
 
 # Outcomes
 - [[02 Knights of Dusk Arc]] concluded.
 - The base at [[Darkstone Forest]] was destroyed.
 - [[Ojog]] is in the custody of [[High Enforcer Aylen]].
-- The party is currently aboard the [[Deepen Light]] with [[Varo Three-Knives]].
+- The party is currently aboard the [[Deepen Light]] with [[Varo Four-Knives]].

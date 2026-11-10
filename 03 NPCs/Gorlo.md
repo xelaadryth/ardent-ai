@@ -39,5 +39,9 @@ During his time in the syndicate, he looked after **Piggy**, a younger, frighten
 - [[Tash The Hound]]: The hunter who killed his companions.
 - **Piggy**: His fallen ward and "little brother" figure.
 - **Fang**: His fallen companion who was vicious and brutal when angry but felt contrition and regret; Gorlo had an "I can fix him" mentality with Fang.
+<<<<<<< Updated upstream
 - [[Varo Three-Knives]]: A former associate within the [[Bloodmarks]] logistics network.
 - [[Wandering Eye]]: Current location with the party.
+=======
+- [[Varo Four-Knives]]: A former associate within the [[Bloodmarks]] logistics network.
+>>>>>>> Stashed changes

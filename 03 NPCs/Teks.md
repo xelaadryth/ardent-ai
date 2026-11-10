@@ -28,4 +28,4 @@ Teks lost his previous ship to a worldhopper pirate raid (which he mistakenly bl
 - Collect enough marks to retire to a small farm far from the coast.
 
 # Connections
-- [[Varo Three-Knives]]: His employer, whom he respects but thinks is too soft on outsiders.
+- [[Varo Four-Knives]]: His employer, whom he respects but thinks is too soft on outsiders.

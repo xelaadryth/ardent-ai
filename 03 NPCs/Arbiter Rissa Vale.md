@@ -26,7 +26,7 @@ Observant, patient, and dangerously well-informed. Rissa possesses an unsettling
 - Tracking Compass - Bronze needle on a duralumin spindle connected to an unsealed nicrosilmind in a simple steel/glass housing, points to nearest disk
 
 # Background
-Rissa is the commander of both [[Tash The Hound]] and [[Varo Three-Knives]], coordinating their retrieval and logistics operations in the [[Scarstone Quarter]]. According to [[Varo Three-Knives]], she was in charge of the syndicate's current tactical maneuvers in [[Revolar]].
+Rissa is the commander of both [[Tash The Hound]] and [[Varo Four-Knives]], coordinating their retrieval and logistics operations in the [[Scarstone Quarter]]. According to [[Varo Four-Knives]], she was in charge of the syndicate's current tactical maneuvers in [[Revolar]].
 
 During [[026 The Bead Sea]], she was pulled into [[Shadesmar]] while attempting to seize the party's vessel. In [[027 Battle of Ships and Spren]], she was stabbed by [[Mallow]] and subsequently fell unconscious. She currently serves as the party's primary source of intelligence on [[Johb]] and Allomancy. In [[030 Infiltration Preparations]], she negotiated a conditional alliance with the party and remains aboard the [[Wandering Eye]].
 
@@ -47,7 +47,7 @@ Copper Ferring, Tin Allomancer
 - Aid the party in liberating [[Haka'alaku]] and reaching [[Bodenar]] to confront [[Grand Justicar Malice]].
 
 # Connections
-- [[Varo Three-Knives]]: Her subordinate.
+- [[Varo Four-Knives]]: Her subordinate.
 - [[Kaizen]]: A higher-ranking Suit who is often manipulated by her due to his youth and naivete.
 - [[Johb]]: Her superior and commander of [[Mother's Gate]].
 - [[Wandering Eye]]: Current location with the party.

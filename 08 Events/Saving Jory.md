@@ -17,7 +17,7 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 
 # Events
 
-- **The Intel:** The party learned from [[Varo Three-Knives]] that the interrogation time has been moved up to "shortly," necessitating an immediate strike without Knights of Dusk backup
+- **The Intel:** The party learned from [[Varo Four-Knives]] that the interrogation time has been moved up to "shortly," necessitating an immediate strike without Knights of Dusk backup
 - **The Passphrase**: The Bloodmarks on the scene use two different passphrases.
 	- What ruins mar the graves? Only rust in crimson shades.
 	- How many marks to pass? 16 Bloodmarks pass
@@ -79,7 +79,7 @@ The squad chooses to sever their ties with the [[Truthkeepers]] and aid the [[Kn
 
 - **The Vessel:** The *Deepen Light* was identified as the transport vessel, confirmed to be carrying [[Nurian Gems]] alongside its human cargo.
 - **The Bait:** The party learns that [[Senny]], [[Neval]], [[Cazo]], and [[Hine]] were supposed to be dispatched by [[Adjudicator Peton]] to interrogate a [[Possessed]] boy tonight.
-- **The Skirmish:** (Ongoing/Planned) The party must confront the Bloodmarks, led by [[Varo Three-Knives]] and [[Tash The Hound]].
+- **The Skirmish:** (Ongoing/Planned) The party must confront the Bloodmarks, led by [[Varo Four-Knives]] and [[Tash The Hound]].
 
 # Statblocks
 ```statblock

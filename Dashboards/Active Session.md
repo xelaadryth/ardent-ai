@@ -21,6 +21,7 @@
 		- Train a spren animal companion
 # Upcoming
 
+<<<<<<< Updated upstream
 - Through the portal, greeted by Unkalaki (Darren, took an outsider-sounding name, 5th son, original name was Fifth Finger Completes the Hand, Akihilu'aiana'lukihu'lamikar)
 	- Spren are back in spren form, Iiko holding a Shardblade
 	- Kestrel mask recognizable on Kaizen
@@ -37,6 +38,35 @@
 - If kill Johb - [[Koloko]] can handle the other side, maybe with [[Atlas]]
 
 - Allies for [[Haka'alaku]] [[Mother's Gate]] ([[Assault on Mother's Gate]])
+=======
+- Opportunities
+	- Cadence: Holding them wasn't right
+	- Rissa note don't chase us, if you want to work together, you need to treat us as equals, leave a tracker on neutral ground and we can parley. Perhaps there's potential to work together
+	- Fina good news and bad news; Rissa and Kaizen escaped, but we found some Stormlight. Met an interesting guy, called himself Atlas in town, willing to trade them orbs of fresh Stormlight, unusually generous. Said he had a "vested interest in your success". Darkeyed, low birth, one eye seemed red. Military, big hammer, maybe late 20s.
+	- Interrogating prisoners:
+		- Some kind of disturbance happened at Mother's Gate, security is tightened
+		- Big shipment coming from the southeast (Mythos between Scadrial and Roshar)
+	- Viscose: Spike of +1 strength, lockdown fabrial that Johb is interested in. Tom's character is familiar with hemalurgy
+	- Johb Options
+		- Infiltrate with Rissa - info that Johb wasn't born with power, thinks everyone should have access to power instead of born with it. Wasn't always like this, rumors of a spike. Johb has a strange metal plate on his back
+		- Sail straight in with army
+	- Options
+		- Parley and deal
+		- Sneak through leave situation as is
+		- Fight to the death
+		- Convince truespren are people and treat as lower class instead of slaves
+		- Remove spike and trell corruption
+- Who is going
+	- Rissa
+	- Kaizen
+	- Renna
+	- Viscose
+	- Hysteresis
+	- Varo
+	- Gorlo
+	- Koloko
+- Allies for [[Haka'alaku]] ([[Assault on Mother's Gate]])
+>>>>>>> Stashed changes
 	- [[Rekka]]
 		- [[Uum'atu]] - peakspren leader, former Senator
 		- [[Tessitura]] - aka Tess, contact for rebel reachers
@@ -49,7 +79,7 @@
 			- Knows how [[Nurian Gems]] work with [[Fina]], learned from overhearing [[The Set]]
 	- [[Wandering Eye]] - cannons
 		- [[Vun'akal]] and 11 other armed peakspren
-		- [[Varo Three-Knives]]
+		- [[Varo Four-Knives]]
 		- [[Arbiter Rissa Vale]]
 		- [[Kaizen]]
 	- Knights VALORANT
@@ -88,4 +118,4 @@
 	- [[Marcus]]
 	- [[Arbiter Rissa Vale]]
 - [[05 Kharbranth Infiltration Arc]]
-	- [[Varo Three-Knives]] - if he survives
+	- [[Varo Four-Knives]] - if he survives
