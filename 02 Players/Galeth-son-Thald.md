@@ -22,7 +22,7 @@ Traditional Shin in appearance. His clothing is often rugged and reinforced by h
 A grim fatalist who has finally found a cause worth speaking the Words for. While still soft-spoken, his commitment to protecting the weak has superseded his desire for self-punishment.
 
 # Background
-In Shinovar, he rejected following a command to hurt an innocent child, and someone else did it instead. Disgusted with the military, he exiled himself from his homeland, realizing that he had been helping bad people all this time. This includes his service in a corrupt unit alongside [[Tarscht-son-Naszt]] and [[Commander Vahn]], where he was ordered to kill an innocent merchant family but refused, leading to his exile and the unit's later defection to the [[Bloodmarks]].
+In Shinovar, he rejected following a command to hurt an innocent child, and someone else did it instead. Disgusted with the military, he exiled himself from his homeland, realizing that he had been helping bad people all this time. This includes his service in a corrupt unit alongside [[03 NPCs/Tarsht-son-Naszt]] and [[Commander Vahn]], where he was ordered to kill an innocent merchant family but refused, leading to his exile and the unit's later defection to the [[Bloodmarks]].
 
 In session [[020 Warehouse Rescue]], while defending [[Jory Spadis]] from [[Adjudicator Peton]], Galeth spoke the First Ideal of the [[Orders of the Knights Radiant|Stonewards]]. In [[022 Back to Base]], he realized that [[Tash The Hound]]'s tracking devices were still present on the party via a disc found by [[Jory Spadis]].
 
@@ -47,4 +47,4 @@ In [[029 Three Ship Ambush]], Galeth took charge of training the liberated [[Pea
 - [[Adjudicator Peton]] — A former commander he stood against in single combat.
 - [[Vun'akal]]: Trained him and his crew in naval gunnery.
 - [[Nolnin]]: Assisted in his enhancement.
-- [[Tarscht-son-Naszt]]: A former soldier from his corrupt unit.
+- [[03 NPCs/Tarsht-son-Naszt]]: A former soldier from his corrupt unit.
