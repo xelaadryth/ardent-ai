@@ -17,8 +17,7 @@
 	- [[Mallow]] - Liberating the enslaved peakspren +1
 	- [[Iiko]] - Eventual third ideal - correct the falsehoods of the past
 		- Find the spiritual realm
-		- Heal the deadeye [[Hysteresis]]
-		- Train a spren animal companion
+		- Speak the First Ideal
 # Upcoming
 
 - Through the portal, greeted by Unkalaki (Darren, took an outsider-sounding name)
