@@ -1,0 +1,1 @@
+Updated session 32 documentation and added the new NPC and location details based on the session notes.

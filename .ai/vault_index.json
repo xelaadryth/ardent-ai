@@ -314,6 +314,9 @@
         "[[Saving Jory]]",
         "[[Tash The Hound]]",
         "[[Nolnin]]",
+        "[[03 NPCs/Tarsht-son-Naszt]]",
+        "[[Commander Vahn]]",
+        "[[Bloodmarks]]",
         "[[020 Warehouse Rescue]]",
         "[[Jory Spadis]]",
         "[[Adjudicator Peton]]",
@@ -333,7 +336,7 @@
         "#stoneward",
         "#darkeyed"
       ],
-      "last_updated": "2026-07-15T12:00:00"
+      "last_updated": "2026-10-31T12:00:00"
     },
     "Iiko": {
       "type": "player",
@@ -530,7 +533,7 @@
         "[[The Set]]",
         "[[Shadesmar]]",
         "[[Tash The Hound]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Scarstone Quarter]]",
         "[[Revolar]]",
         "[[026 The Bead Sea]]",
@@ -829,7 +832,7 @@
       "links": [
         "[[Bloodmarks]]",
         "[[Deepen Light]]",
-        "[[Varo Three-Knives]]"
+        "[[Varo Four-Knives]]"
       ],
       "tags": [
         "#npc",
@@ -895,7 +898,8 @@
         "[[Tash The Hound]]",
         "[[030 Infiltration Preparations]]",
         "[[Marcus]]",
-        "[[Varo Three-Knives]]"
+        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]"
       ],
       "tags": [
         "#npc",
@@ -1513,7 +1517,7 @@
         "[[Truthkeepers]]",
         "[[Thaylen City]]",
         "[[Possessed]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Kuma]]"
       ],
       "tags": [
@@ -1774,6 +1778,27 @@
       ],
       "last_updated": "2026-05-13T23:35:12"
     },
+    "Tarsht-son-Naszt": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Waters of Life]]",
+        "[[Galeth-son-Thald]]",
+        "[[Commander Vahn-son-Midal]]",
+        "[[Commander Vahn]]",
+        "[[Kesh-son-Zemit]]",
+        "[[Johb]]",
+        "[[Kensht]]"
+      ],
+      "tags": [
+        "#npc",
+        "#shin",
+        "#soldier",
+        "#bloodmarks"
+      ],
+      "last_updated": "2026-10-31T12:00:00"
+    },
     "Tash The Hound": {
       "type": "npc",
       "status": "completed",
@@ -1797,7 +1822,7 @@
         "[[Deepen Light]]",
         "[[Galeth-son-Thald]]",
         "[[Truthkeepers]]",
-        "[[Varo Three-Knives]]"
+        "[[Varo Four-Knives]]"
       ],
       "tags": [
         "#npc",
@@ -1962,6 +1987,33 @@
         "#defector"
       ],
       "last_updated": "2026-06-16T16:00:00"
+    },
+    "Varo Four-Knives": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[Bloodmarks]]",
+        "[[Deepen Light]]",
+        "[[Slipmarket]]",
+        "[[Shadesmar]]",
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[Arbiter Rissa Vale]]",
+        "[[019 The Slipmarket Stakeout]]",
+        "[[Gath]]",
+        "[[Teks]]",
+        "[[Miri]]",
+        "[[Tash The Hound]]",
+        "[[Arbiter Jalis]]",
+        "[[Grand Justicar Malice]]"
+      ],
+      "tags": [
+        "#npc",
+        "#bloodmarks",
+        "#smuggler",
+        "#pirate"
+      ],
+      "last_updated": "2024-06-20T10:00:00"
     },
     "Varo Three-Knives": {
       "type": "npc",
@@ -2641,7 +2693,7 @@
         "[[Bloodmarks]]",
         "[[Mallow]]",
         "[[Renna Palir]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Possessed]]",
         "[[Arbiter Rissa Vale]]"
       ],
@@ -2668,7 +2720,7 @@
         "[[Knights of Dusk]]",
         "[[Nathaniel]]",
         "[[Iiko]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[N'tal]]",
         "[[Arbiter Rissa Vale]]",
         "[[Galeth-son-Thald]]",
@@ -2698,7 +2750,7 @@
         "[[N'tal]]",
         "[[Fina]]",
         "[[Galeth-son-Thald]]",
-        "[[Varo Three-Knives]]"
+        "[[Varo Four-Knives]]"
       ],
       "tags": [
         "#session",
@@ -2718,7 +2770,7 @@
         "[[Tash The Hound]]",
         "[[N'tal]]",
         "[[Nurian Gems]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Nuria]]",
         "[[Slipmarket]]",
         "[[Mallow]]",
@@ -2831,7 +2883,7 @@
         "[[Nathaniel]]",
         "[[Istrum]]",
         "[[High Enforcer Aylen]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Deepen Light]]"
       ],
       "tags": [
@@ -2851,7 +2903,7 @@
         "[[Shadesmar]]",
         "[[High Enforcer Aylen]]",
         "[[Deepen Light]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Hoid]]",
         "[[Nurian Gems]]",
         "[[Kuma]]",
@@ -2884,7 +2936,7 @@
         "[[Mallow]]",
         "[[N'tal]]",
         "[[Iiko]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Peakspren]]"
       ],
       "tags": [
@@ -2975,7 +3027,7 @@
         "[[Johb]]",
         "[[Renna Palir]]",
         "[[Hysteresis]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Koloko]]"
       ],
       "tags": [
@@ -3030,7 +3082,7 @@
         "[[Marcus]]",
         "[[Arbiter Jalis]]",
         "[[Arbiter Rissa Vale]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Haka'alaku]]",
         "[[Nurian Gems]]",
         "[[Ghostbloods]]",
@@ -3172,13 +3224,13 @@
       "links": [
         "[[Grand Justicar Malice]]",
         "[[Johb]]",
-        "[[Marcus]]",
         "[[Kaizen]]",
         "[[Arbiter Rissa Vale]]",
         "[[Arbiter Jalis]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Tash The Hound]]",
         "[[Haka'alaku]]",
+        "[[Marcus]]",
         "[[Meki-son-Vara]]",
         "[[Warden]]",
         "[[Yellow]]",
@@ -3338,7 +3390,7 @@
         "[[Shadesmar]]",
         "[[Revolar]]",
         "[[Bodenar]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Gath]]",
         "[[Teks]]",
         "[[Miri]]",
@@ -3767,7 +3819,8 @@
         "[[Nolnin]]",
         "[[Viscose]]",
         "[[Hysteresis]]",
-        "[[Haka'alaku]]"
+        "[[Haka'alaku]]",
+        "[[Varo Four-Knives]]"
       ],
       "tags": [
         "#location",
@@ -4100,7 +4153,7 @@
         "[[020 Warehouse Rescue]]",
         "[[Truthkeepers]]",
         "[[Knights of Dusk]]",
-        "[[Varo Three-Knives]]",
+        "[[Varo Four-Knives]]",
         "[[Nathaniel]]",
         "[[Khria]]",
         "[[Possessed]]",
