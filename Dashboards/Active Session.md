@@ -41,7 +41,7 @@ Base
 - Bartender (5th Son) - Fifth Finger Curls to Complete the Fist Punching You in the Face, Akihilu'aiana'lukihu'lamikar
 
 - Johb - 36 damage
-	- 
+- 16 Phys Def, 13 Cog Def, 12 Spiritual, 1d8+6, 2 deflect
 
 News
 - 
