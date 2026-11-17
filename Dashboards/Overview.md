@@ -119,6 +119,8 @@
 
 | File                                                                                          | Arc                                                           | Status    |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------- |
+| [[031 Into the Physical Realm]]                   | [[03 Shadesmar Arc]]             | completed |
+| [[030 Infiltration Preparations]]               | [[03 Shadesmar Arc]]             | completed |
 | [[029 Three Ship Ambush]]                               | [[03 Shadesmar Arc]]             | completed |
 | [[028 Rebels in Rekka]]                                   | [[03 Shadesmar Arc]]             | completed |
 | [[027 Battle of Ships and Spren]]               | [[03 Shadesmar Arc]]             | completed |
