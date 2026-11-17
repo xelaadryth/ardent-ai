@@ -1,13 +1,13 @@
---- 
-type: npc 
-status: active 
-tags: 
-  - "#npc" 
-  - "#unkalaki" 
-  - "#laborer" 
-last_updated: 2026-07-28T10:00:00 
-faction: "[[The Set]]" 
-location: "[[Haka'alaku]]" 
+---
+type: npc
+status: active
+tags:
+  - "#npc"
+  - "#unkalaki"
+  - "#laborer"
+last_updated: 2026-07-28T10:00:00
+faction: "[[The Set]]"
+location: "[[Haka'alaku]]"
 ---
 
 # Description
