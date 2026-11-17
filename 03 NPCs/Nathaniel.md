@@ -16,7 +16,7 @@ A skilled Alethi fighter who wields a halberd. While often viewed as a coward, h
 Nathaniel remains insecure and prone to hyperbole, but his actions in [[020 Warehouse Rescue]]—where he held the entrance against reinforcements—suggest a burgeoning, if terrified, bravery.
 
 # History
-During [[Saving Jory]], he was the only rebel available to assist the squad. He successfully fought off door guards and pursued a survivor, allowing the party to focus on the primary confrontation inside.
+During [[1172-02-22 Saving Jory]], he was the only rebel available to assist the squad. He successfully fought off door guards and pursued a survivor, allowing the party to focus on the primary confrontation inside.
 
 # Connections
 - [[Galeth-son-Thald]]: Current wielder of "The Axe," whom Nathaniel assisted during the warehouse raid.

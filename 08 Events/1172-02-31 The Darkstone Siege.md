@@ -38,7 +38,7 @@ Beric returns to base, wounded and haggard. "It's as we thought. They're coming.
 - [[Highlord Paladar]], [[General Odrin Lesh]], [[Brightlord Juran]], Vamah soldiers (red armband)
 ## Defenders
 - [[General Spade]], [[Khria]], [[Kaz]]
-- Kael and Hiller (guards from [[The Missing Supplies]])
+- Kael and Hiller (guards from [[1172-02-18 The Missing Supplies]])
 - [[Lila]], Elara (medic), Otsun, Bellus
 - [[Dahmian]]
 - Falen (father of family saved in the [[Stackhouses]])

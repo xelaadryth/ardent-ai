@@ -31,7 +31,7 @@ He arrived at the [[Truthkeeper Camp]] in a wagon alongside [[Karani]] and [[Fin
 - [[Iiko]] saw him delivering supplies to their temple.
 - [[Galeth-son-Thald]] suspects him of orchestrating the assassination of [[Doug (Guddy)]] at the camp.
 
-He was promoted to Enforcer following [[Dahmian's Promotion Trial]] in [[Revolar]], an event overseen (and faked) by the party.
+He was promoted to Enforcer following [[1172-02-20 Dahmian's Promotion Trial]] in [[Revolar]], an event overseen (and faked) by the party.
 
 # Goals
 - Taste all varieties of food and wine across Roshar during his travels.
@@ -39,7 +39,7 @@ He was promoted to Enforcer following [[Dahmian's Promotion Trial]] in [[Revolar
 - Maintain his cover within the [[Truthkeepers]] while securing an exit strategy via the rebellion.
 
 # Hooks
-- **Restless Ally:** During high-stakes events like [[The Darkstone Siege]], Dahmian may be the first to abandon the [[Knights of Dusk]] if he perceives the situation as a cage with no escape.
+- **Restless Ally:** During high-stakes events like [[1172-02-31 The Darkstone Siege]], Dahmian may be the first to abandon the [[Knights of Dusk]] if he perceives the situation as a cage with no escape.
 
 # Connections
 - [[Karani]]: A fellow Nurian who arrived at the camp in the same wagon.

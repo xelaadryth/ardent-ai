@@ -12,7 +12,7 @@ fc-date: 1172-02-18
 session: "[[014 Nothing but the Truth]]"
 ---
 # Description
-The party is in a high-end boutique in the Skyglass District getting fitted for noble attire to blend in for an upcoming mission [[The Cinder Evacuation]]. Renna is nervously checking the windows, trying to stay out of sight, when the bell above the door rings.
+The party is in a high-end boutique in the Skyglass District getting fitted for noble attire to blend in for an upcoming mission [[1172-02-19 The Cinder Evacuation]]. Renna is nervously checking the windows, trying to stay out of sight, when the bell above the door rings.
 In walks [[Brightlord Juran]]. He’s impeccably dressed, arrogant, and flanked by two armored House guards. He's here on his own business, but as his eyes scan the shop, they lock directly onto Renna.
 ### Phase 1: The Confrontation
 Juran Minarim stops, a cruel, satisfied smile spreading across his face.

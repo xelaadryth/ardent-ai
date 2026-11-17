@@ -30,7 +30,7 @@ After the [[Stackhouses]] and [[Fieldwards]] locations were compromised, [[Valer
 - [[Renna Palir]]: Suspect (Had physical notes on locations).
 
 # The Setup
-Upon arriving at the [[Stackhouses]], [[Valerius Atol]] redirected the party to his private hideout, with a serving parshmen. He revealed that because the [[Truthkeepers]] have raided the cell in [[The Fieldwards Purge]], a leak is certain. Notably, only the party, Valerius, [[Beric Quinn]], and the [[Fieldwards]] cell members ([[Otson]], [[Bellus]], Elara, [[Ardent Surusa]]) were privy to the specific coordinates of the recent hideouts.
+Upon arriving at the [[Stackhouses]], [[Valerius Atol]] redirected the party to his private hideout, with a serving parshmen. He revealed that because the [[Truthkeepers]] have raided the cell in [[1172-02-20 The Fieldwards Purge]], a leak is certain. Notably, only the party, Valerius, [[Beric Quinn]], and the [[Fieldwards]] cell members ([[Otson]], [[Bellus]], Elara, [[Ardent Surusa]]) were privy to the specific coordinates of the recent hideouts.
 # Investigation Leads
 - **Knowledge Distribution:** High-ranking members at HQ know the locations, but a compromise at that level would likely result in catastrophic failure.
 - **Communication Methods:** How is the spy contacting the [[Truthkeepers]]? Evidence of spanreed use or physical drops must be sought.

@@ -1,1 +1,1 @@
-Can you create an event for [[Meeting at the Whitespine]]? It will probably happen the night of 1172-02-17. Both Chip and Sweeper want N'tal to meet the Undertaker. Include some very specific atmospheric details, and add a surprise event that I can drop in.
+Can you create an event for [[1172-02-17 Meeting at the Whitespine]]? It will probably happen the night of 1172-02-17. Both Chip and Sweeper want N'tal to meet the Undertaker. Include some very specific atmospheric details, and add a surprise event that I can drop in.

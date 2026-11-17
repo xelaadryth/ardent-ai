@@ -24,5 +24,5 @@ The squad navigates a series of emotional and physical trials in [[Revolar]], le
     - [[Kuma]] attempted Transformation (Soulcasting) to bypass a wagon.
     - [[Fina]] used Progression to weaponize a cabbage.
     - [[N'tal]] used Abrasion to navigate slippery crem-sludge.
-- **[[The Foundry Chase]] Climax:** At an abandoned foundry, [[Arbiter Jalis]] attempts to drown the prisoner in a crem-vat. [[N'tal]] speaks the First Ideal, choosing to save the prisoner over taking revenge on Jalis. His words are accepted. He utilizes Division and Abrasion to rescue the captive, who is revealed to be [[Zabriel]], not Jory.
+- **[[1172-02-19 The Foundry Chase]] Climax:** At an abandoned foundry, [[Arbiter Jalis]] attempts to drown the prisoner in a crem-vat. [[N'tal]] speaks the First Ideal, choosing to save the prisoner over taking revenge on Jalis. His words are accepted. He utilizes Division and Abrasion to rescue the captive, who is revealed to be [[Zabriel]], not Jory.
 - **Resolution:** [[Arbiter Jalis]] escapes into a highstorm. [[Zabriel]] promises to repay the party, citing his legendary luck as his only remaining asset.

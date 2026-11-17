@@ -7,12 +7,12 @@ tags:
   - "#fabrial"
 last_updated: 2024-06-01T09:00:00
 fc-category: Party
-fc-date: 1172-03-42
+fc-date: 1172-03-01
 session:
 ---
 
 # Description
-A high-intensity demonstration in the harbor of [[Tomat]] featuring a Thaylen-designed vessel powered by a [[Nurian Gems]] core. The squad provides security against [[Bloodmarks]] sabotage before embarking on the vessel's maiden voyage to [[Bodenar]].
+A high-intensity demonstration in docks of [[Bodenar]] featuring a Thaylen-designed vessel powered by a [[Nurian Gems]] core. The squad investigates it as they hear that [[Higuma]] is a lead artifabrian on the project.
 
 # Rumors and Intrigue
 Local gossip and technical circles report that the project is led by a brilliant Alethi-appearing woman named [[Higuma]]. However, the figure appearing at the harbor to direct the final tests is a Thaylen artifabrian (an impostor sent by the [[Bloodmarks]]), a discrepancy that has raised suspicion among those who knew the original project leads.

@@ -21,7 +21,7 @@ Cynical, haunted, but deeply principled. He balances his disillusionment with th
 # Background
 Valerius was a Witness of the [[Truthkeepers]] who witnessed the razing of Talinar. He chose to help evacuate surviving families before defecting to the [[Knights of Dusk]]. 
 
-He is the primary architect of [[The Traitor Investigation]], having moved the squad to a temporary safehouse to root out a mole following the compromise of the [[Fieldwards]] cell.
+He is the primary architect of [[1172-02-20 The Traitor Investigation]], having moved the squad to a temporary safehouse to root out a mole following the compromise of the [[Fieldwards]] cell.
 
 # Goals
 - Protect the surviving families of Talinar.
@@ -32,4 +32,4 @@ He is the primary architect of [[The Traitor Investigation]], having moved the s
 - [[Senny]]: His close friend from his time in the Truthkeepers.
 - [[Dillind]]: One of the children he helped evacuate.
 - [[General Spade]]: His commanding officer.
-- [[The Traitor Investigation]]: Lead Investigator.
+- [[1172-02-20 The Traitor Investigation]]: Lead Investigator.

@@ -26,7 +26,7 @@ Ousted commander of Revolar's military. In [[016 Surgebinding Pursuit]], he met 
 - **Find Jory:** Recover his missing son.
 
 # Events
-- [[The Missing Supplies]]: Utilized Division to breach Warehouse 14.
+- [[1172-02-18 The Missing Supplies]]: Utilized Division to breach Warehouse 14.
 - [[016 Surgebinding Pursuit]]: Granted audience to the party; authorized the mission to stake out [[Sun's Zenith]].
 
 # Connections

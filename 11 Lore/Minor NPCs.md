@@ -42,16 +42,16 @@ This document should be updated constantly as the central reference for minor no
 | **Tusa**                    | Nervous Herdazian who flicks sparks. Pafo's cousin.                                           | [[009 Slavers]]                 | [[Hearthstone]]                |
 | **Falen**                   | Resident of the Stackhouses; father of the family rescued from slavers.                       | [[012 Following Chip]]          | [[Stackhouses]]                |
 | **Lady Piri Hadlis**        | Elegant mapmaker and owner of [[The Shining Quill]]. Noticed the gait of Purelakers.          | [[013 Tilting Loyalties]]       | [[Revolar]]                    |
-| **Kael**                    | Guard noticed missing, suspected Knights of Dusk sympathizer.                                 | [[The Missing Supplies]]        | [[Revolar]]                    |
-| **Lirsi**                   | Senior Alethi scribe; finds the theft of daily goods insulting.                               | [[The Missing Supplies]]        | [[Revolar]]                    |
-| **Merat**                   | Veteran guard who claimed to see a highlord at the heist.                                     | [[The Missing Supplies]]        | [[Revolar]]                    |
-| **Tessa**                   | Junior scribe with meticulous records of mundane theft.                                       | [[The Missing Supplies]]        | [[Revolar]]                    |
+| **Kael**                    | Guard noticed missing, suspected Knights of Dusk sympathizer.                                 | [[1172-02-18 The Missing Supplies]]        | [[Revolar]]                    |
+| **Lirsi**                   | Senior Alethi scribe; finds the theft of daily goods insulting.                               | [[1172-02-18 The Missing Supplies]]        | [[Revolar]]                    |
+| **Merat**                   | Veteran guard who claimed to see a highlord at the heist.                                     | [[1172-02-18 The Missing Supplies]]        | [[Revolar]]                    |
+| **Tessa**                   | Junior scribe with meticulous records of mundane theft.                                       | [[1172-02-18 The Missing Supplies]]        | [[Revolar]]                    |
 | **Erna**                    | Head Ardent of the Devotary of Sincerity in Revolar. Protective of books.                     | [[016 Surgebinding Pursuit]]    | [[Revolar]]                    |
 | **Gorlo**                   | [[Bloodmarks]] survivor. The only survivor escaping Tash the Hound.                           | [[017 The Final Enforcement]]   | Party                          |
 | **Piggy**                   | [[Bloodmarks]] survivor. Died valiantly grabbing onto Tash the Hound.                         | [[017 The Final Enforcement]]   | **Dead** (Grabbed Tash)        |
 | **Fang**                    | [[Bloodmarks]] survivor. Died running from Tash the Hound.                                    | [[017 The Final Enforcement]]   | **Dead** (Impaled by Tash)     |
-| **Otson**                   | Rebel suspect in [[The Traitor Investigation]]. Found with un-coded city maps.                | [[017 The Final Enforcement]]   | [[Knights of Dusk]]            |
-| **Bellus**                  | Rebel suspect in [[The Traitor Investigation]]. Observed talking to red armband Vamah guards. | [[017 The Final Enforcement]]   | [[Knights of Dusk]]            |
+| **Otson**                   | Rebel suspect in [[1172-02-20 The Traitor Investigation]]. Found with un-coded city maps.                | [[017 The Final Enforcement]]   | [[Knights of Dusk]]            |
+| **Bellus**                  | Rebel suspect in [[1172-02-20 The Traitor Investigation]]. Observed talking to red armband Vamah guards. | [[017 The Final Enforcement]]   | [[Knights of Dusk]]            |
 | **Elara**                   | [[Knights of Dusk]] cell member warned by the party in the Slipmarket.                        | [[017 The Final Enforcement]]   | [[Knights of Dusk]]            |
 | **Ves**                     | Harbormaster of the western Slipmarket docks. Protective of his logs.                         | [[019 The Slipmarket Stakeout]] | [[Revolar]]                    |
 | **Litsen**                  | Homeless child in the docks; hired as a scout for the party.                                  | [[019 The Slipmarket Stakeout]] | [[Slipmarket]]                 |

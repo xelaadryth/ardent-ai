@@ -30,7 +30,7 @@ Separated from the main squad early in their service, Ojog became a favorite of 
 
 # Events
 - [[Allegiance at the Abandoned Docks]]: Confronted the party during their defection; ordered their execution.
-- [[The Darkstone Siege]]: Led the breach of the [[Knights of Dusk]] base.
+- [[1172-02-31 The Darkstone Siege]]: Led the breach of the [[Knights of Dusk]] base.
 
 # Connections
 - [[Istrum]] — His mentor and fellow Makabaki Skybreaker.

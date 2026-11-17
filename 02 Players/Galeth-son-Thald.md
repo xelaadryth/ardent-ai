@@ -16,7 +16,7 @@ spren: "[[Kun'ahu]]"
 Exiled Shin warrior living in penance among the Alethi, now a fledgling Stoneward.
 
 # Appearance
-Traditional Shin in appearance. His clothing is often rugged and reinforced by his surges. During [[Saving Jory]], [[Tash The Hound]] tore a significant chunk from his tunic as a trophy. He now bears an iron Hemallurgic spike implanted in his body to grant enhanced strength, assisted by [[Nolnin]].
+Traditional Shin in appearance. His clothing is often rugged and reinforced by his surges. During [[1172-02-22 Saving Jory]], [[Tash The Hound]] tore a significant chunk from his tunic as a trophy. He now bears an iron Hemallurgic spike implanted in his body to grant enhanced strength, assisted by [[Nolnin]].
 
 # Personality
 A grim fatalist who has finally found a cause worth speaking the Words for. While still soft-spoken, his commitment to protecting the weak has superseded his desire for self-punishment.

@@ -29,8 +29,8 @@ Khria was captured by [[Truthkeepers]] after [[Mallow]] inadvertently exposed he
 - **Reconciliation:** Process the complex relationship with her sister, [[Mallow]].
 
 # Events
-- [[The Missing Supplies]]: Infiltrated Warehouse 14.
-- [[Sister Reunion]]: Reunited with [[Mallow]] in [[Revolar]].
+- [[1172-02-18 The Missing Supplies]]: Infiltrated Warehouse 14.
+- [[1172-02-19 Sister Reunion]]: Reunited with [[Mallow]] in [[Revolar]].
 
 # Connections
 - [[General Spade]]: Her commander.

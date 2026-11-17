@@ -13,7 +13,7 @@ A clandestine rebel organization based in the urban shadows of [[Revolar]], led 
 - **Leadership Transition:** Successfully install General Spade as the new authority.
 - **Refound the Knights Radiant:** Establish a modern foundation for the ancient order.
 - **Infrastructure Seizure:** Execute a major offensive to take control of key city assets.
-- **Economic Sabotage:** Target corrupt nobles' estates, such as seen in [[The Cinder Evacuation]], and mundane supply hubs like [[The Missing Supplies]], to drain resources and damage their public image.
+- **Economic Sabotage:** Target corrupt nobles' estates, such as seen in [[1172-02-19 The Cinder Evacuation]], and mundane supply hubs like [[1172-02-18 The Missing Supplies]], to drain resources and damage their public image.
 
 # Structure
 
@@ -27,13 +27,17 @@ The Knights of Dusk operate through military-inspired cells designed to evade de
 # Members
 <!-- QueryToSerialize: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
 <!-- SerializedQuery: LIST FROM "03 NPCs" WHERE faction = this.file.link SORT file.name ASC -->
+- [[Ardent Vedelis]]
 - [[Beric Quinn]]
 - [[General Spade]]
+- [[Jory Spadis]]
 - [[Kaz]]
 - [[Khria]]
 - [[Lavrik]]
 - [[Lila]]
+- [[Nathaniel]]
 - [[Renna Palir]]
+- [[Valerius Atol]]
 
 
 <!-- SerializedQuery END -->

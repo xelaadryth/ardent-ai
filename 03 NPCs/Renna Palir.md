@@ -21,7 +21,7 @@ Renna is characterized by her kindness, trusting nature, and protective instinct
 # Background
 Originally from [[Revolar]], Renna joined the [[Truthkeepers]] after fleeing a forced betrothal to [[Brightlord Juran]]. She recently discovered *Words of Radiance* and letters from [[Jasnah Kholin]] in the northern hideout of [[Ardent Vedelis]]. In [[030 Infiltration Preparations]], she joined the party's growing ranks aboard the [[Wandering Eye]].
 
-During [[The Traitor Investigation]], she fell under suspicion due to her meticulous habit of keeping written notes on safehouse locations and the recent, frequent use of her multiple spanreeds.
+During [[1172-02-20 The Traitor Investigation]], she fell under suspicion due to her meticulous habit of keeping written notes on safehouse locations and the recent, frequent use of her multiple spanreeds.
 
 # Goals
 - **Proving Worth:** To make a meaningful difference.
@@ -33,6 +33,6 @@ During [[The Traitor Investigation]], she fell under suspicion due to her meticu
 - **[[Chip]]**: A trusted ally.
 - **[[Brightlord Juran]]**: Her estranged and vindictive fiancé.
 - **[[General Spade]]**: Her commander in the rebellion.
-- **[[The Traitor Investigation]]**: A suspect due to her administrative habits.
+- **[[1172-02-20 The Traitor Investigation]]**: A suspect due to her administrative habits.
 - [[Atlas]]: A new ally who joined the party in [[Shadesmar]].
 - [[Wandering Eye]]: Current location with the party.

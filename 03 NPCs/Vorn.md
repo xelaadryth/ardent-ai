@@ -12,7 +12,7 @@ location: "[[Tomat]]"
 ---
 
 # Description
-A master Thaylen artifabrian woman and technical lead for [[The Experimental Lightship]] project.
+A master Thaylen artifabrian woman and technical lead for [[1172-03-01 The Experimental Lightship]] project.
 
 # Appearance
 Middle-aged with bushy white eyebrows, dark brown eyes, and shoulder-length white hair. She wears practical, ink-stained robes.

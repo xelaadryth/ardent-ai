@@ -24,9 +24,9 @@ The players are tasked by [[Adjudicator Peton]] of the [[Truthkeepers]] to hunt 
 	- [[Morrow]]
 
 # Events
-- [[Morrow's Execution]]
-- [[Nurian Arrival]]
-- [[The Shellmite Attack]]
+- [[1172-01-35 Morrow's Execution]]
+- [[1172-01-11 Nurian Arrival]]
+- [[1172-01-12 The Shellmite Attack]]
 # Sessions
 - [[000 Arrival]]
 - [[001 First Blood]]

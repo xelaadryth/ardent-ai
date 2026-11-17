@@ -38,4 +38,4 @@ How do you get to Mythos/Nuria - that's extremely expensive information to buy. 
 - Acquire rare and valuable objects; Shin grass is common, he's interested in a Nurian gem sample. Also interested in [[Zabriel]]'s sources ([[Bodenar]]).
 # Outcomes
 - **Fractured Trust:** The relationship between [[N'tal]] and [[Fina]] is strained by the revelation of her role in his family's tragedy.
-- **Leaving the Nest:** Some time after the party departs the hideout, they find the Bloodmark squad, leading directly to [[The Foundry Chase]].
+- **Leaving the Nest:** Some time after the party departs the hideout, they find the Bloodmark squad, leading directly to [[1172-02-19 The Foundry Chase]].
