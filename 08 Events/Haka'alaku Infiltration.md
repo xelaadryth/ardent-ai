@@ -1,11 +1,11 @@
 ---
 type: event
-status: active
+status: inactive
 tags:
   - "#event"
 last_updated: 2026-10-31T11:35:54
 fc-category: Party
-fc-date: 1172-02-38
+fc-date:
 session:
 ---
 # Description

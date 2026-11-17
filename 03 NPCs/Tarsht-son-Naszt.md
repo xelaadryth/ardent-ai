@@ -11,7 +11,7 @@ faction: "[[Bloodmarks]]"
 location: "[[Haka'alaku]]"
 ---
 # Description
-A Shin soldier and former unit-mate of [[Galeth-son-Thald]]. He currently serves as a guard for [[Johb]] in [[Haka'alaku]]. He led the defense against the party's infiltration in [[032 The New Consortium]].
+A Shin soldier and former unit-mate of [[Galeth-son-Thald]]. He currently serves as a guard for [[Johb]] in [[Haka'alaku]]. He led the defense against the party's infiltration in [[033 Battle with Johb]].
 
 # Personality
 Rigid, defensive, and deeply conditioned by the corrupt military hierarchy he served in. He views the chain of command as the ultimate authority, even when that authority is inherently corrupt.
@@ -26,6 +26,6 @@ Served in a specialized Shin military unit alongside [[Galeth-son-Thald]]. The u
 
 # Connections
 - [[Galeth-son-Thald]]: A former unit-mate he perceives as a traitor to their unit's code.
-- [[Commander Vahn]]: His commanding officer, currently an officer for [[Johb]].
-- [[Kensht]]: The soldier who carried out the executions in [[Galeth-son-Thald]]'s stead.
-- [[Johb]]: The Set overseer who coordinates operations with the units at [[Waters of Life]] and [[Haka'alaku]].
+- [[Commander Vahn-son-Midal]]: His former commanding officer.
+- [[Kesh-son-Zemit]]: The soldier who carried out the executions in [[Galeth-son-Thald]]'s stead.
+- [[Johb]]: The Set overseer who coordinates operations with the units at the [[Waters of Life]] and [[Haka'alaku]].
