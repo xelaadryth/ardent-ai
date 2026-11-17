@@ -8,7 +8,7 @@ tags:
   - "#set"
   - "#hemalurgy"
   - "#overseer"
-last_updated: 2024-07-10T00:00:00
+last_updated: 2026-07-28T10:00:00
 faction: "[[The Set]]"
 location: "[[Haka'alaku]]"
 ---
@@ -18,16 +18,16 @@ A Taldain with a hemalurgic spike turning him into an Iron Misting (Lurcher) and
 
 He worked his way up to becoming a Suit of the Set due to hard work, but is kept from rising higher because of his morals. He is smart and crafty, but can be turned to the side of good. Corrupted by his spike and hears the voice of Trell.
 
-He is the Commander overseeing [[Haka'alaku]]. He is responsible for guarding [[Mother's Gate]] and managing the flow of [[Nurian Gems]].
+He is the Commander overseeing [[Haka'alaku]]. He is responsible for guarding [[Mother's Gate]] and managing the flow of [[Nurian Gems]]. Following his defeat by the party in [[032 The New Consortium]], he surrendered and agreed to withdraw Set/Bloodmarks forces from the Physical Realm and relinquish control of [[Haka'alaku]].
 
 The translation amulet around his neck allows him to understand and speak the party's language.
 
 # Appearance
-Johb appears slight and unassuming despite his 6 foot height and toned muscle. He wears a dark leather tactical vest with a white hood, with numerous knives, and a shield of thick wood. A short length of chain can be seen around his neck.
+Johb appears slight and unassuming despite his 6 foot height and toned muscle. He wears a dark leather tactical vest with a white hood, with numerous knives, and a shield of thick wood. A short length of chain can be seen around his neck. A steel spike is visible in his spine.
 
 Constantly takes drinks of water from a flask at his hip, or vials of iron shavings on his bandoleer.
 # Personality
-Johb possesses a joking and taunting demeanor, yet he is a philosopher at heart. He is driven by the belief that Stormlight and fabrials should be accessible to all. He manages the labor of the enslaved [[Peakspren]] with absolute efficiency, though he uses Rioting to keep the slave gangs in a state of perpetual, directed anger.
+Johb possesses a joking and taunting demeanor, yet he is a philosopher at heart. He is driven by the belief that Stormlight and fabrials should be accessible to all. He manages the labor of the enslaved [[Peakspren]] with absolute efficiency, though he uses Rioting to keep the slave gangs in a state of perpetual, directed anger. Following his defeat, he expressed shock at the sentience of the Peakspren, believing them to be common nature-spren.
 
 # Manners of Speech
 Fast-talking and irreverent, Johb uses a significant amount of Scadrian slang, frequently exclaiming "Rusts!" or "Rust and Ruin".
@@ -36,12 +36,11 @@ Fast-talking and irreverent, Johb uses a significant amount of Scadrian slang, f
 Johb's powers are the result of a horrific [[Ghostbloods]] experiment at his parents' request. A steel spike was used, stabbed through someone's eye, to bestow Johb's lurcher powers into his spine. He thought he developed the powers naturally, and only found out the true price later. Upon discovering the cost of his power, he joined the [[Bloodmarks]]. He personally oversaw the dismantling of the Haka'alaku Senate and razed the city, now governing the occupation. He was assisted by [[Arbiter Jalis]], not knowing of his prior crimes in concert with [[High Advisor Thalor]].
 
 # Goals
-- Secure funding and a strategic foothold for the [[Bloodmarks]] on Roshar.
-- Acquire and master [[Kuma]]'s specialized fabrials.
-- Ensure the quota of [[Nurian Gems]] reaches the fleet on time.
+- Withdraw [[The Set]] forces from [[Haka'alaku]].
+- Avoid further conflict with the party.
 
 # Connections
-- [[Arbiter Jalis]]: His primary assistant in overseeing the city.
+- [[Arbiter Jalis]]: His primary assistant in overseeing the city (Deceased).
 - [[Vun'akal]]: His most "difficult" slave.
 - [[Kuma]]: Target of his technical interest.
 - [[Grand Justicar Malice]]: His ultimate superior.

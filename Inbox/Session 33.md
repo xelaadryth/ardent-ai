@@ -1,0 +1,1 @@
+I have created the document for Session 32 and updated the files for Johb and Tarsht-son-Naszt to include the events of the assault on Haka'alaku and Johb's surrender.

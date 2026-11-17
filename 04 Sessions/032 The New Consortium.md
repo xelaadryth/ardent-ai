@@ -8,21 +8,29 @@ tags:
 last_updated: 2026-07-28T10:00:00
 arc: "[[03 Shadesmar Arc]]"
 ---
-
 # Description
-The squad infiltrates the Set-controlled trade hub at [[Haka'alaku]]. After assuming the identities of [[Bloodmarks]] agents, they engage with the Unkalaki labour force and ultimately trigger a confrontation with the overseer, [[Johb]].
+The squad confronts [[Johb]] and his unit of elite Shin guards at [[Mother's Gate]]. Through a grueling battle and subsequent interrogation, the party forces Johb's surrender, uncovering the dark origins of his Allomantic powers and securing his withdrawal from [[Haka'alaku]].
 
 # Events
-- **Infiltration and Bluff:** The party successfully passes through [[Mother's Gate]] by posing as agents of [[The Set]]. They meet [[Darren]], an Unkalaki laborer who views the party with reverence, believing them to be high-ranking syndicate members. The squad assumes the identities of "John" and "Bethelis Bloodmark".
-- **Observations:** They note that the camp's infrastructure is built entirely of iron, constructed by fourth-son Unkalaki soldiers repurposed as labor. The food is noted to be of extremely poor quality, as these former soldiers lack agricultural skills.
-- **Tavern Intelligence:** The party converses with the bartender, [[Akihilu'aiana'lukihu'lamikar]] (or "Fifth Finger Curls to Complete the Fist Punching You in the Face"), who explains the Unkalaki societal roles and why the labor camp is struggling with logistics and food.
-- **The Overseer's Secret:** Inspecting the guardhouse, the party discovers that the hooded man using a Soulcaster to build the base is [[Johb]] himself. His "Soulcaster" is revealed to be a dormant Inkspren.
-- **The Confrontation:** [[Johb]] initially accepts the party's story regarding the recovery of the [[Nurian Gems]], but his greed drives him to demand [[Iiko]]'s Shardblade. 
-- **The Combat Begins:** [[Atlas]] initiates the assault with a warhammer strike, imbuing [[Johb]] with Gravitation and launching him into the air.
+- **The Confrontation:** Upon infiltrating [[Mother's Gate]], [[Johb]] demanded [[Iiko]]'s Shardblade. As hostilities erupted, [[Atlas]] launched [[Johb]] into the air with a Gravitation strike. [[Johb]] countered by using Lurcher powers to yank all metal objects—including [[Kuma]]'s fabrial—toward him, scattering debris.
+- **The Shin Guard:** Seven highly skilled Shin guards, wielding large swords, attacked [[Iiko]]. When [[Iiko]] conjured illusions, the guards adapted, utilizing whirlwind slashes to disperse them while crying "Honorbearer!" [[Galeth-son-Thald]] recognized [[Tarsht-son-Naszt]] among the combatants, a former soldier from his corrupt unit.
+- **Johb's Tactics:** [[Johb]] demonstrated high skill with knives and a wooden shield. He utilized a burst fabrial to knock [[Galeth-son-Thald]] prone, then drew the scattered metal items through the party from behind, forcing a desperate scramble.
+- **The Turn:** [[Johb]] was eventually subdued by a combined strike from [[Galeth-son-Thald]]'s warhammer and [[N'tal]]'s Division surge.
+- **Interrogation:** [[Johb]] revealed he was a former Ghostblood subject who had been turned into a Lurcher through hemalurgic experimentation, a process that required a death to fuel his power. Disgusted, he fled the Ghostbloods, seeking alternative power through Rosharan fabrials. He confessed his ignorance regarding the sentience of [[Peakspren]], believing them to be mindless nature-spren. He agreed to withdraw Set/Bloodmark forces from [[Haka'alaku]] and the Physical Realm.
+
+# Outcomes
+- [[Johb]] surrendered and negotiated a peaceful withdrawal from the city.
+- [[Mother's Gate]] is currently under the control of the party and resistance forces.
+- The party gained significant intelligence on [[The Set]]'s hemalurgic practices.
 
 # Participants
-- The Party
-- [[Darren]]
-- [[Akihilu'aiana'lukihu'lamikar]]
 - [[Johb]]
+- [[Tarsht-son-Naszt]]
+- [[Iiko]]
+- [[Galeth-son-Thald]]
 - [[Atlas]]
+- [[N'tal]]
+- [[Koloko]]
+- [[Rissa Vale]]
+- [[Kaizen]]
+- [[Gorlo]]

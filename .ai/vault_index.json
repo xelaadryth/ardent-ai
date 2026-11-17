@@ -219,7 +219,7 @@
       ],
       "last_updated": "2024-07-27T10:00:00"
     },
-    "04 Nurian Gems Arc": {
+    "04 Bodenar Arc": {
       "type": "arc",
       "status": "planned",
       "links": [
@@ -483,6 +483,20 @@
         "#sons_of_honor"
       ],
       "last_updated": "2024-06-05T09:00:00"
+    },
+    "Akihilu'aiana'lukihu'lamikar": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[The Set]]",
+        "[[Haka'alaku]]"
+      ],
+      "tags": [
+        "#npc",
+        "#unkalaki",
+        "#bartender"
+      ],
+      "last_updated": "2026-07-28T10:00:00"
     },
     "Amaram": {
       "type": "npc",
@@ -811,6 +825,22 @@
         "#revolar"
       ],
       "last_updated": "2024-05-19T14:00:00"
+    },
+    "Darren": {
+      "type": "npc",
+      "status": "active",
+      "links": [
+        "[[The Set]]",
+        "[[Haka'alaku]]",
+        "[[Bodenar]]",
+        "[[Johb]]"
+      ],
+      "tags": [
+        "#npc",
+        "#unkalaki",
+        "#laborer"
+      ],
+      "last_updated": "2026-07-28T10:00:00"
     },
     "Dillind": {
       "type": "npc",
@@ -3071,6 +3101,29 @@
       ],
       "last_updated": "2024-07-27T10:00:00"
     },
+    "032 The New Consortium": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[03 Shadesmar Arc]]",
+        "[[Haka'alaku]]",
+        "[[Bloodmarks]]",
+        "[[Johb]]",
+        "[[Mother's Gate]]",
+        "[[The Set]]",
+        "[[Darren]]",
+        "[[Akihilu'aiana'lukihu'lamikar]]",
+        "[[Nurian Gems]]",
+        "[[Iiko]]",
+        "[[Atlas]]"
+      ],
+      "tags": [
+        "#session",
+        "#haka_alaku",
+        "#combat"
+      ],
+      "last_updated": "2026-07-28T10:00:00"
+    },
     "Bloodmarks": {
       "type": "faction",
       "status": "active",
@@ -3428,7 +3481,8 @@
         "[[Yellow]]",
         "[[Innik]]",
         "[[Captain Harl]]",
-        "[[Posha]]",
+        "[[Darren]]",
+        "[[Akihilu'aiana'lukihu'lamikar]]",
         "[[Rekka]]"
       ],
       "tags": [
@@ -3438,7 +3492,7 @@
         "#the_set",
         "#bloodmarks"
       ],
-      "last_updated": "2024-07-27T10:00:00"
+      "last_updated": "2026-07-28T10:00:00"
     },
     "Hearthstone": {
       "type": "location",
