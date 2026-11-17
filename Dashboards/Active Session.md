@@ -43,6 +43,13 @@ Base
 - Johb - 36 damage
 - 16 Phys Def, 13 Cog Def, 12 Spiritual, 1d8+6, 2 deflect
 
+
+- Level 8
+	- +4 health, +2 skill ranks, +1 talent
+- Iiko
+	- Kuma Fabrial
+	- Iron Soulcaster
+
 News
 - 
 
