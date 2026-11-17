@@ -1208,13 +1208,14 @@
         "[[Haka'alaku]]",
         "[[Mother's Gate]]",
         "[[Nurian Gems]]",
+        "[[032 The New Consortium]]",
         "[[Peakspren]]",
         "[[Ghostbloods]]",
         "[[Bloodmarks]]",
         "[[Arbiter Jalis]]",
         "[[High Advisor Thalor]]",
-        "[[Kuma]]",
         "[[Vun'akal]]",
+        "[[Kuma]]",
         "[[Grand Justicar Malice]]"
       ],
       "tags": [
@@ -1225,7 +1226,7 @@
         "#hemalurgy",
         "#overseer"
       ],
-      "last_updated": "2024-07-10T00:00:00"
+      "last_updated": "2026-07-28T10:00:00"
     },
     "Jory Spadis": {
       "type": "npc",
@@ -1813,13 +1814,15 @@
       "status": "active",
       "links": [
         "[[Bloodmarks]]",
-        "[[Waters of Life]]",
+        "[[Haka'alaku]]",
         "[[Galeth-son-Thald]]",
+        "[[Johb]]",
+        "[[033 Battle with Johb]]",
         "[[Commander Vahn-son-Midal]]",
         "[[Commander Vahn]]",
         "[[Kesh-son-Zemit]]",
-        "[[Johb]]",
-        "[[Kensht]]"
+        "[[032 The New Consortium]]",
+        "[[Waters of Life]]"
       ],
       "tags": [
         "#npc",
@@ -1827,7 +1830,7 @@
         "#soldier",
         "#bloodmarks"
       ],
-      "last_updated": "2026-10-31T12:00:00"
+      "last_updated": "2026-07-28T10:00:00"
     },
     "Tash The Hound": {
       "type": "npc",
@@ -3119,7 +3122,33 @@
       ],
       "tags": [
         "#session",
-        "#haka_alaku",
+        "#haka_alaku"
+      ],
+      "last_updated": "2026-07-28T10:00:00"
+    },
+    "033 Battle with Johb": {
+      "type": "session",
+      "status": "completed",
+      "links": [
+        "[[03 Shadesmar Arc]]",
+        "[[Johb]]",
+        "[[Mother's Gate]]",
+        "[[Haka'alaku]]",
+        "[[Iiko]]",
+        "[[Atlas]]",
+        "[[Kuma]]",
+        "[[Galeth-son-Thald]]",
+        "[[Tarsht-son-Naszt]]",
+        "[[N'tal]]",
+        "[[Peakspren]]",
+        "[[The Set]]",
+        "[[Koloko]]",
+        "[[Rissa Vale]]",
+        "[[Kaizen]]",
+        "[[Gorlo]]"
+      ],
+      "tags": [
+        "#session",
         "#combat"
       ],
       "last_updated": "2026-07-28T10:00:00"
@@ -4070,7 +4099,7 @@
     },
     "Assault on Mother's Gate": {
       "type": "event",
-      "status": "planned",
+      "status": "inactive",
       "links": [
         "[[Haka'alaku]]",
         "[[Mother's Gate]]",
@@ -4110,7 +4139,7 @@
     },
     "Haka'alaku Infiltration": {
       "type": "event",
-      "status": "active",
+      "status": "inactive",
       "links": [
         "[[Assault on Mother's Gate]]",
         "[[Johb]]",
@@ -4258,26 +4287,6 @@
         "#event"
       ],
       "last_updated": "2026-05-20T11:01:20"
-    },
-    "The Bead-Sea Ambush": {
-      "type": "event",
-      "status": "planned",
-      "links": [
-        "[[Shadesmar]]",
-        "[[Nurian Gems]]",
-        "[[Zabriel]]",
-        "[[Kuma]]",
-        "[[Mallow]]",
-        "[[N'tal]]",
-        "[[Tessitura]]"
-      ],
-      "tags": [
-        "#event",
-        "#shadesmar",
-        "#combat",
-        "#survival"
-      ],
-      "last_updated": "2024-07-04T12:00:00"
     },
     "The Boutique Confrontation": {
       "type": "event",
