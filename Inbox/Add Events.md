@@ -1,1 +1,0 @@
-Created events for the Rekka arrival, the Mother's Gate infiltration, and the battle with Johb with the requested date prefixes and formatting.
