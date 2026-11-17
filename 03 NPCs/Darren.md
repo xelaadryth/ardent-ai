@@ -11,7 +11,7 @@ location: "[[Haka'alaku]]"
 ---
 
 # Description
-An Unkalaki laborer working at the "New Consortium" hub in [[Haka'alaku]]. He is a fourth-son, formerly a soldier, now forced into labor.
+An Unkalaki laborer working at the "New Consortium" hub in [[Haka'alaku]]. He is a fourth-son, formerly a soldier, now forced into labor. His real name is Dal'ankala'hiludina, which means "Soul Returns at Daybreak".
 
 # Personality
 Reverent, confused, and anxious for the safety of his family. He treats the party with deep respect, believing them to be elite Bloodmarks/Set agents.

@@ -64,7 +64,7 @@
 | [[01 Truthkeepers Arc]]                       | completed |
 | [[02 Knights of Dusk Arc]]                 | completed |
 | [[03 Shadesmar Arc]]                             | active    |
-| [[04 Nurian Gems Arc]]                         | planned   |
+| [[04 Bodenar Arc]]                                 | planned   |
 | [[04 Stormblessed Arc]]                       | inactive  |
 | [[05 Kharbranth Infiltration Arc]] | planned   |
 
@@ -78,7 +78,7 @@
 | [[01 Truthkeepers Arc]]                       | completed |
 | [[02 Knights of Dusk Arc]]                 | completed |
 | [[03 Shadesmar Arc]]                             | active    |
-| [[04 Nurian Gems Arc]]                         | planned   |
+| [[04 Bodenar Arc]]                         | planned   |
 | [[04 Stormblessed Arc]]                       | inactive  |
 | [[05 Kharbranth Infiltration Arc]] | planned   |
 
@@ -92,7 +92,7 @@
 | [[01 Truthkeepers Arc]]                       | completed |
 | [[02 Knights of Dusk Arc]]                 | completed |
 | [[03 Shadesmar Arc]]                             | active    |
-| [[04 Nurian Gems Arc]]                         | planned   |
+| [[04 Bodenar Arc]]                         | planned   |
 | [[04 Stormblessed Arc]]                       | inactive  |
 | [[05 Kharbranth Infiltration Arc]] | planned   |
 
@@ -106,7 +106,7 @@
 | [[01 Truthkeepers Arc]]                       | completed |
 | [[02 Knights of Dusk Arc]]                 | completed |
 | [[03 Shadesmar Arc]]                             | active    |
-| [[04 Nurian Gems Arc]]                         | planned   |
+| [[04 Bodenar Arc]]                         | planned   |
 | [[04 Stormblessed Arc]]                       | inactive  |
 | [[05 Kharbranth Infiltration Arc]] | planned   |
 
@@ -119,6 +119,7 @@
 
 | File                                                                                          | Arc                                                           | Status    |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | --------- |
+| [[032 The New Consortium]]                             | [[03 Shadesmar Arc]]             | completed |
 | [[031 Into the Physical Realm]]                   | [[03 Shadesmar Arc]]             | completed |
 | [[030 Infiltration Preparations]]               | [[03 Shadesmar Arc]]             | completed |
 | [[029 Three Ship Ambush]]                               | [[03 Shadesmar Arc]]             | completed |
