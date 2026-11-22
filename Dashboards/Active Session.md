@@ -57,7 +57,14 @@
 
 
 News
-- 
+- Highprince murdered by a short Shin man...with a Shardblade that can run on walls
+
+Fate:
+- Beric with the poor and impoverished in the town, didn't want to join the Ghostbloods (or rather they didn't trust him)
+- Nathaniel with the Ghostbloods (wants protection)
+- Khria (Aria) with the Ghostbloods (wants revenge for General Spade)
+- Dahmian in a performing troupe with Hoid acting out some kind of combat play
+- Hoid and the Sixth Word
 
 - Spanreed
 	- Devotary Ward - 
@@ -66,8 +73,8 @@ News
 
 
 - Mallow
-	- Parents not actually dead, sister searching for them with Nightwatcher blessing, forgot about them
-	- Protecting aviar (secret holy chickens) from another world
+	- Parents not actually dead, Khria infiltrating the Bloodmarks with the Ghostbloods
+	- Protecting aviar (secret holy chickens) from another world, Ghostblood with aviar
 
 - Allies for [[Haka'alaku]] ([[Assault on Mother's Gate]])
 	- Master Plan on the Physical Realm side
