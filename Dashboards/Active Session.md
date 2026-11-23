@@ -1,5 +1,5 @@
 - Current Arc: [[04 Bodenar Arc]]
-- Last Session: [[031 Into the Physical Realm]]
+- Last Session: [[033 Battle with Johb]]
 # Reminders
 - Curses and swears
 	- "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
@@ -20,20 +20,20 @@
 		- Speak the First Ideal
 # Upcoming
 
-- Through the portal, greeted by Unkalaki (Darren, took an outsider-sounding name)
-	- Spren are back in spren form, Iiko holding a Shardblade
-	- Kestrel mask recognizable on Kaizen
-- Unkalaki dragging trees, looks like a logging camp
-	- See someone using a Soulcaster to turn wood into metal
-	- Guardhouse
-- [[Galeth-son-Thald]]'s previous military unit recognizes him. [[Tarsht-son-Naszt]] was part of the same military force that abused their power, eventually for even greater crimes (pillaging an innocent town Rizall) they were condemned, many escaped to join bandits and absorbed into the [[Bloodmarks]]
-- Going through guardhouse, Soulcaster walks in and say "hey you don't look familiar, who are ya?" [[Johb]] wants:
-	- [[Iiko]]'s shardblade [[Hysteresis]]
-	- [[Kaizen]] for researching lerasium and see if it's extractable (recognizes his kestrel mask), not that many Malwish
-	- The party's radiant powers if he observes them
-- [[Johb]] and [[Johb Stats]] - Wants to bring the wonders of Allomancy and Feruchemy to everyone. Soulcasters are amazing, research fabrials to bring fabrials back
-	- Hazekiller honor guard insists on following him (Annik)
-- If kill Johb - [[Koloko]] can handle the other side, maybe with [[Atlas]]
+- Places in [[Bodenar]]
+	- [[The Prismatic Palette]]
+- Rumors
+	- No [[Bloodmarks]] activity in the area; it's home turf and they don't want to cause a ruckus, lots of spanreeds to send orders and people elsewhere up the river
+	- [[Zabriel]] has been missing a long time, quirky merchant
+	- Acting troupe is in town, with [[Hoid]] and [[Dahmian]]
+	- Highprince Jal Mala hasn't been seen lately, staying in his palace with some foreign dignitaries, but spending a lot of money
+- Quests
+	- [[Ghostbloods]] plan to infiltrate the [[1172-03-01 The Experimental Lightship]], which will go right to the Highprince's dock
+		- [[Vorn]] - sailed to [[Tomat]], took the lightship "New Dawn" to [[Bodenar]]; many refugees stayed in [[Tomat]] but some fled further into Jah Keved
+		- [[Higuma]] - the Thaylen fake is in [[Bodenar]], guest of [[Grand Justicar Malice]], real one is in Thaylenah and looks Alethi
+		- Hired some mercenaries for the job: [[Nathaniel]]
+- Jah Keved male titles:
+	- Nan, Tet, Asha, Van
 
 
 

@@ -7,11 +7,11 @@ tags:
   - "#stoneweave"
   - "#ghostbloods"
 last_updated: 2024-05-28T10:00:00
-location: "[[Tomat]]"
+location: "[[Bodenar]]"
 ---
 
 # Overview
-An upscale, unassuming studio in the artisan district of [[Tomat]] that specializes in the refinement of rare pigments, high-grade inks, and advanced fabric preservatives. It serves as the primary regional front for the [[Ghostbloods]] and the personal headquarters of [[Koloko]].
+An upscale, unassuming studio in the artisan district of [[Bodenar]] that specializes in the refinement of rare pigments, high-grade inks, and advanced fabric preservatives. It serves as the primary regional front for the [[Ghostbloods]] and the personal headquarters of [[Koloko]].
 
 # Atmosphere
 The shop is meticulously clean and smells faintly of sharp chemical solvents and cedarwood. The Palette is quiet and professional. Displays of vibrant silks and bottles of jewel-toned inks line the walls, creating a facade of legitimate, high-end commerce that blends perfectly with the surrounding master-craftsman boutiques.
@@ -24,10 +24,10 @@ The shop is meticulously clean and smells faintly of sharp chemical solvents and
 # Inhabitants
 - [[Koloko]]: The proprietor and master chemist.
 - [[Sila]]: Sometimes present as a heavy-lifter or for deliveries.
-- Yerdua: Lighteyed clerk with eyes only for Koloko.
+- Yerda: Lighteyed clerk, member of the [[Ghostbloods]].
 
 # Secrets
-- **The False Bottom Vats**: The heavy stone dye-vats in the basement are built over a drainage system that doubles as a secure drop-box for messages and a hidden exit into the [[Tomat]] sewers. It's secured with a mechanical number-lock crafted by Koloko himself.
+- **The False Bottom Vats**: The heavy stone dye-vats in the basement are built over a drainage system that doubles as a secure drop-box for messages and a hidden exit into the [[Bodenar]] sewers. It's secured with a mechanical number-lock crafted by Koloko himself.
 - **Hidden Laboratory**: Behind the racks of drying silk is a reinforced lead-lined cabinet where [[Koloko]] keeps his most volatile Nurian chemical reagents.
 
 # Connections

@@ -1,0 +1,1 @@
+Generate me a statblock doc for Grand Justicar Malice, who is a melee fighter that is a twinborn Chromium Compounder (Spinner). This means that Allomantically she can drain investiture on every attack, and Feruchemically she can manipulate Fortune. She is a boss level character for a party of level 8 Cosmere RPG characters.
