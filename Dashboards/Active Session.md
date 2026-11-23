@@ -1,13 +1,15 @@
 - Current Arc: [[04 Bodenar Arc]]
 - Last Session: [[033 Battle with Johb]]
 # Reminders
+- [[NPC Name Repository]], [[Minor NPCs]]
 - Curses and swears
 	- "By the Stormfather above", "Storm it!", "Storms take you", "By the Tranquiline Halls", "What in Damnation"
 	- Rust and Ruin, rustin', by Harmony above, by the Thousand Eyes
 - [Emotionspren, naturespren, cousinspren](https://coppermind.net/wiki/Spren)
 	- Flamespren (N'tal), Lifespren (Fina), Concentrationspren (Iiko thinking hard), Joyspren (Mallow), Bindspren (Galeth not budging)
 - Parshmen
-- [[Death Rattles]], [[Minor NPCs]], [[NPC Name Repository]]
+- Later, [[Galeth-son-Thald]] sometimes hears another voice that helps them (and the Set)
+- [[Death Rattles]]
 	- They named it the ~~Final~~ Last Desolation, but they lied. Our gods lied. Oh, how they lied. The ~~Everstorm~~ false storm comes. I hear its whispers, see its stormwall, know its heart.
 	- *The final march at Feverstone Keep, the silent betrayal. Hundreds of Shardblades... and so much death. But even worse, 9 of the 10 Orders are gone, never to return.*
 - Second Ideal
@@ -20,22 +22,43 @@
 		- Speak the First Ideal
 # Upcoming
 
-- Places in [[Bodenar]]
+- In the streets:
+	- Parshmen, slaves, colorful fabrics and dyes
+- Places in [[Bodenar]], City of Colors
+	- Waterfalls from the mountains nearby behind the palace, rainbow can often be seen over the palace, painted in multiple colors.
+	- The Quay (Key, Kay, Kway) - Public docks, with a watergate that leads to Jal's Palace
+	- The Temples - Carved into the rock, next to the Jalace; ardents directly involved in politics claiming religious backing.
 	- [[The Prismatic Palette]]
+	- The Stormsewers - Temple/Jalace area guarded when it's not Highstorming.
+	- Highprince's Palace, colloquially the Jalace (Jal's Palace)
+		- [[Khria]] looking for revenge on [[Grand Justicar Malice]], illusion as a guard or assistant on the day of the fight with [[Grand Justicar Malice]]
+		- Highprince Jal Malal fights with Malice, but gets assassinated by [[Szeth-son-son-Vallano]]
+		- Books in the palace about the historical bloodlines in [[Nuria]], history, boring stuff, [[Iiko]] remembers scribing those. Advisors became an important part of the government gradually over the course of years, like [[Grand Advisor Thalor]]
 - Rumors
-	- No [[Bloodmarks]] activity in the area; it's home turf and they don't want to cause a ruckus, lots of spanreeds to send orders and people elsewhere up the river
+	- No [[Bloodmarks]] treachery in the area; it's home turf and they don't want to cause a ruckus, lots of spanreeds to send orders and people elsewhere up the river. Commonfolk just think that travel is dangerous in general.
 	- [[Zabriel]] has been missing a long time, quirky merchant
 	- Acting troupe is in town, with [[Hoid]] and [[Dahmian]]
+		- Hoid has the Sixth Word, and is right where he needs to be
 	- Highprince Jal Mala hasn't been seen lately, staying in his palace with some foreign dignitaries, but spending a lot of money
+	- Highprince Evinor in the west was assassinated by a short Shin man glowing and wearing white robes, who can run on walls. Just like the phantom murder of Gavilar 5 years ago (1167)
+	- Slave trade in [[Bodenar]] is booming with Unkalaki, rumors say they are heathens who worship spirits and the Waters of Life instead of The Almighty.
+		- Slave ledgers have [[Mallow]] and [[Khria]]'s parents' names, never told her and said they were lost at sea traveling to the Reshi Isles to visit relatives. Sold to Thaylenah ships.
+		- Unkalaki relatives of [[Darren]]
+		- Alethi war-slaves [[Dillind]] and [[Tien]] (age 17)
+	- [[Beric Quinn]] and some other freedom fighters looking to free Unkalaki slaves and get them passage with a merchant caravan to the south, to Thaylenah. But they'd be branded. Maybe [[Beric Quinn]] mistaken for [[Szeth-son-son-Vallano]]
+	- Repaint the palace again even though they just repainted it last year, dangerous and tiring work
 - Quests
-	- [[Ghostbloods]] plan to infiltrate the [[1172-03-01 The Experimental Lightship]], which will go right to the Highprince's dock
+	- [[Ghostbloods]] plan a heist on the [[1172-03-01 The Experimental Lightship]], which will go right to the Highprince's dock
 		- [[Vorn]] - sailed to [[Tomat]], took the lightship "New Dawn" to [[Bodenar]]; many refugees stayed in [[Tomat]] but some fled further into Jah Keved
 		- [[Higuma]] - the Thaylen fake is in [[Bodenar]], guest of [[Grand Justicar Malice]], real one is in Thaylenah and looks Alethi
-		- Hired some mercenaries for the job: [[Nathaniel]]
+		- Some new blood for the job: [[Nathaniel]] who wants protection from an organization
+		- Deep cover agent named Aria ([[Khria]]) trying to sneak into the Jalace
+	- [[Beric Quinn]] trying to free Unkalaki slaves
+		- Alethi war prisoners (maybe [[Tien]] and [[Dillind]]?)
 - Jah Keved male titles:
 	- Nan, Tet, Asha, Van
-
-
+- Lore
+	- [[Nurian Gems]]
 
 - Level 8
 	- +4 health, +2 skill ranks, +1 talent
@@ -44,27 +67,16 @@
 	- Iron Soulcaster
 
 - Who is going
-	- Rissa
-	- [[Kaizen]]
-	- Renna
-	- Viscose
-	- Hysteresis
-	- Varo
-	- Gorlo
-	- Koloko
-- Back to Shadesmar
-	- Rissa, Kaizen, Koloko, Atlas
-
-
-News
-- Highprince murdered by a short Shin man...with a Shardblade that can run on walls
-
-Fate:
-- Beric with the poor and impoverished in the town, didn't want to join the Ghostbloods (or rather they didn't trust him)
-- Nathaniel with the Ghostbloods (wants protection)
-- Khria (Aria) with the Ghostbloods (wants revenge for General Spade)
-- Dahmian in a performing troupe with Hoid acting out some kind of combat play
-- Hoid and the Sixth Word
+	- [[Johb]] - Shadesmar
+	- [[Arbiter Rissa Vale]] - Shadesmar
+	- [[Kaizen]] - Shadesmar
+	- [[Koloko]] - Shadesmar
+	- [[Viscose]] - Party
+	- [[Hysteresis]] - Party (dismissable)
+	- [[Renna Palir]] - Party
+	- [[Varo Four-Knives]] - Party
+	- [[Gorlo]] - Party
+	- [[Atlas]] - Party (NEW)
 
 - Spanreed
 	- Devotary Ward - 
@@ -102,31 +114,15 @@ Fate:
 
 
 - A short picture book called [[The Mink and the Axehounds]] from [[Hoid]]
-- Later, [[Galeth-son-Thald]] sometimes hears another voice that helps them (and the Set)
 - Tomat hooks
 	- [[Dillind]] message through [[House Sathir]] (Reasons to go to Tomat/Bodenar)
 	- [[Chip]] mentions Ghostbloods set up a branch on the Alethi/Veden border, the [[Undertaker]] already left elsewhere
 	- Lightship Expo - Higuma ([[Viscose]] recognizes as [[Kuma]]'s mother's name) leading the exhibition
 		- Not actually her, she should appear Alethi but this one is Thaylen.
 	- Overhear [[Istrum]] mentioning that a leader of the [[Sons of Honor]] on the battlefields of [[Tomat]] was to be assassinated
-- Was on the ship:
-	- [[Vorn]] (artificer)
-	- [[03 NPCs/Dahmian|Dahmian]]
-	- [[Beric Quinn]] (injured)
-	- [[Nathaniel]] who jumps ship when he realizes the danger, gonna go defend [[Jory Spadis]] with [[Kaz]]
-- Past Allies
-	- [[Sila]]/[[Sweeper]]/[[Chip]]/[[Karani]] from the [[Ghostbloods]] comes in to help
-	- [[Ojog]]/[[Dahmian]]/[[Beric Quinn]]/[[Senny]]/[[Neval]]/Cazo/Hine from the [[Truthkeepers]] comes in to help
-	- [[Nathaniel]]/[[Beric Quinn]]/[[Kaz]]/[[Khria]] from the [[Knights of Dusk]] comes in to help
-## Other
-- [[03 Shadesmar Arc]] - Bloodmark Corsairs
-	- [[Arbiter Rissa Vale]] (Array of the Set)
-	- [[Marcus]]
-	- [[Johb]]
-	- [[Kaizen]] - final boss
-- [[04 Bodenar Arc]]
-	- [[Tash The Hound]] - if he survives
-	- [[Marcus]]
-	- [[Arbiter Rissa Vale]]
-- [[05 Kharbranth Infiltration Arc]]
-	- [[Varo Four-Knives]] - if he survives
+- Kharbranth/Thaylenah hooks
+	- [[Mallow]]'s parents (slaves)
+	- [[Kuma]]'s mom [[Higuma]]
+	- [[Dillind]] wants to study to be a surgeon
+	- [[Ghostbloods]] sending [[Shallan Davar]] to apprentice with [[Jasnah Kholin]] (assassin)
+	- 

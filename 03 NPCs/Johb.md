@@ -33,7 +33,7 @@ Johb possesses a joking and taunting demeanor, yet he is a philosopher at heart.
 Fast-talking and irreverent, Johb uses a significant amount of Scadrian slang, frequently exclaiming "Rusts!" or "Rust and Ruin".
 
 # Background
-Johb's powers are the result of a horrific [[Ghostbloods]] experiment at his parents' request. A steel spike was used, stabbed through someone's eye, to bestow Johb's lurcher powers into his spine. He thought he developed the powers naturally, and only found out the true price later. Upon discovering the cost of his power, he joined the [[Bloodmarks]]. He personally oversaw the dismantling of the Haka'alaku Senate and razed the city, now governing the occupation. He was assisted by [[Arbiter Jalis]], not knowing of his prior crimes in concert with [[High Advisor Thalor]].
+Johb's powers are the result of a horrific [[Ghostbloods]] experiment at his parents' request. A steel spike was used, stabbed through someone's eye, to bestow Johb's lurcher powers into his spine. He thought he developed the powers naturally, and only found out the true price later. Upon discovering the cost of his power, he joined the [[Bloodmarks]]. He personally oversaw the dismantling of the Haka'alaku Senate and razed the city, now governing the occupation. He was assisted by [[Arbiter Jalis]], not knowing of his prior crimes in concert with [[Grand Advisor Thalor]].
 
 # Goals
 - Withdraw [[The Set]] forces from [[Haka'alaku]].

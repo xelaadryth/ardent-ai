@@ -18,7 +18,7 @@ The squad and their spren allies in [[Rekka]] focus on military preparation and 
 - **The Allomantic Dialogue:** [[Iiko]] spends time with [[Kaizen]], building rapport by encouraging the boy to explain the mechanics of Allomancy. Through these conversations, [[Iiko]] gains a deeper theoretical understanding of Scadrian metal-arts and the "Hero's" specific potential.
 - **Market Encounters:** While shopping for clothing and supplies in [[Rekka]], [[N'tal]] encounters [[Koloko]], who is managing a stall selling high-quality cloaks. 
 - **The Nurian Corridor:** [[Koloko]] reveals his true motivation as a member of the [[Ghostbloods]]: he intends to dismantle the [[Bloodmarks]] monopoly on the trade corridor to [[Nuria]] and establish a [[Ghostbloods]]-controlled route in its place. 
-- **The Advisor's Betrayal:** The party learns that [[High Advisor Thalor]] is actively working for the [[Bloodmarks]] and [[The Set]], serving as their primary political leverage within the Nurian court.
+- **The Advisor's Betrayal:** The party learns that [[Grand Advisor Thalor]] is actively working for the [[Bloodmarks]] and [[The Set]], serving as their primary political leverage within the Nurian court.
 - **Radiant Suspicions:** [[N'tal]] observes [[Koloko]] closely during their interaction and develops a strong suspicion that the merchant is a hidden Radiant.
 - After a few days, 3 human ships arrived with a few dozen people
 - Iiko and N'tal got onto the ships and tried to convince Captain Harl that they were members of the Set
@@ -29,4 +29,4 @@ The squad and their spren allies in [[Rekka]] focus on military preparation and 
 - The [[Peakspren]] cannoneers are now trained for naval combat.
 - The Reacher archers are ready for hit-and-run tactics.
 - [[Iiko]] has gained valuable intel on Allomancy.
-- The party has confirmed the hostile alignment of [[High Advisor Thalor]].
+- The party has confirmed the hostile alignment of [[Grand Advisor Thalor]].

@@ -2,45 +2,45 @@
 statblock: true
 layout: Cosmere
 name: Grand Justicar Malice
-scale: Tier 4 Boss - Medium Scadrian (Bloodmarks Grand Justicar)
+scale: Tier 2 Boss - Medium Scadrian (Bloodmarks Grand Justicar)
 stats:
-  - "5"
-  - "6"
-  - "4"
+  - "1"
   - "5"
   - "4"
   - "5"
+  - "2"
+  - "4"
 defenses:
-  - "22"
-  - "20"
-  - "20"
+  - "16"
+  - "19"
+  - "16"
 health: 120
-focus: 8
-investiture: 12
-deflect: 4
+focus: 7
+investiture: 6
+deflect: 1
 movement: 40 ft.
 features:
-  - name: Chromium Compounder (Spinner)
-    desc: Malice can spend 1 Investiture to store Fortune in her metalminds as a free action. As a reaction, she can tap stored Fortune to force an attacker to reroll an attack roll or force a failed save on an ally, taking the worse result.
   - name: Investiture Drain (Chromium Allomancy)
-    desc: Whenever Malice hits a target with a melee attack, the target loses 2 focus. If the target has no focus, they lose 2 Investiture.
-  - name: Fortune's Favor
-    desc: Malice gains Advantage on all Initiative and Perception tests. Once per round, if she misses an attack, she may re-roll the test.
-  - name: Master of the Syndicate
-    desc: Allies within 30 feet gain Advantage on saves against being Frightened or Charmed.
+    desc: "Whenever Malice hits a target with a melee attack, spend 1 Investiture to force the target to lose 1d8 Investiture."
+  - name: Right Place, Right Time
+    desc: "In the first round of combat, Malice grants disadvantage on all attack rolls against her."
+  - name: Fortune's Weave
+    desc: "Once per round, re-roll a plot die involving Malice."
 actions:
-  - name: "Strike: Shard-Dagger"
-    desc: "Attack +12, reach 5 ft., one target. Hit: 1d6 + 9 keen damage. If the target is an Invested creature (Radiant or Spren-bonded), they must succeed on a DC 18 Willpower test or be Silenced until the end of their next turn."
-  - name: "Draining Lunge"
-    desc: "2 actions. Malice moves up to her movement speed and makes a melee attack. If it hits, the target loses 4 Focus instead of 2."
+  - name: "Unarmed Strike"
+    desc: "Attack +9, reach 5 ft., one target. Hit: 1d4 + 9 impact damage."
 reactions:
   - name: "Spin the Odds"
-    desc: "Trigger: Malice is hit by an attack. Effect: Tap 1 charge of Fortune to force the attacker to re-roll the attack with Disadvantage. If the attack misses, Malice may immediately make a reactive strike."
+    desc: "Trigger: Malice is hit by an attack. Effect: Tap 1 charge of Fortune to force the attacker to re-roll the attack with Disadvantage."
 plot_die:
-  - name: Opportunity
-    desc: "Malice's metalminds flare, blinding everyone within 15 feet until the end of their next turn."
-  - name: Complication
-    desc: "Malice's internal Investiture feedback causes her to lose 1d6 Investiture and she is stunned for 1 round."
+  - name: "Opportunity (2) - Khria's Betrayal"
+    desc: "Khria reveals herself and backstabs an enemy."
+  - name: "Opportunity (2) - Nathaniel's Wanderings"
+    desc: "Nathaniel fights some enemies, but escapes if he takes too much damage, if he is attacked by a boss, or with 2 Complications."
+  - name: "Complication (3) - Highprince Jal Malal's Arrival"
+    desc: "Highprince Jal Malal and his guards arrives on the scene, demanding the party's surrender. He st ays in the back."
+  - name: "Opportunity - Szeth's Assassination"
+    desc: "Szeth assassinates Highprince Jal Malal, and his guards chase him in a hurry."
 type: statblock
 npc: "[[Grand Justicar Malice]]"
 ---

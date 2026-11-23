@@ -12,7 +12,7 @@ faction: "[[Sadeas Princedom]]"
 location: "[[Tomat]]"
 ---
 # Description
-Tien is a young man with a bright, earnest face and curly hair often dusty from the front lines. He is known in the borderlands as the "Stormblessed" for his uncanny ability to survive impossible odds.
+Tien is a young man (17) with a bright, earnest face and curly hair often dusty from the front lines. He is known in the borderlands as the "Stormblessed" for his uncanny ability to survive impossible odds.
 
 # Personality
 Tien is naturally artistic and empathetic, often finding beauty in small things. While he once lacked the "killer instinct," his survival of the Jah Keved skirmishes and his brother's sacrifice have forged him into a resilient leader who collects those in need of protection.

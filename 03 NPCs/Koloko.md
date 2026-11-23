@@ -23,11 +23,11 @@ Deeply ambitious and deceptively polite. Koloko views every interaction as a che
 # Background
 Koloko was a career criminal in the Nurian underworld before arriving on Roshar with the other refugees. He initially hired [[Doug (Guddy)]] as his muscle for the crossing, unaware of the man's secret history as a double agent.
 
-Used to have dealings with [[High Advisor Thalor]] but "accidentally" offended him by being accused of stealing his supplies, decided to flee [[Nuria]] since Thalor was high up position, didn't know that [[Doug (Guddy)]] was seeking to deliver him to the [[Bloodmarks]] as a gift after turning traitor from the [[Ghostbloods]]. When he found out, became good friends with [[Sila]].
+Used to have dealings with [[Grand Advisor Thalor]] but "accidentally" offended him by being accused of stealing his supplies, decided to flee [[Nuria]] since Thalor was high up position, didn't know that [[Doug (Guddy)]] was seeking to deliver him to the [[Bloodmarks]] as a gift after turning traitor from the [[Ghostbloods]]. When he found out, became good friends with [[Sila]].
 
 Upon arriving at the [[Truthkeeper Camp]], Koloko was eventually pulled aside and interrogated by the [[Ghostbloods]], who initially suspected him of being a [[Bloodmarks]] infiltrator. Recognizing their power, Koloko eagerly pledged his loyalty, proving his worth by feeding the syndicate intelligence on [[Truthkeepers]] troop movements and performing a series of sanctioned assassinations. He has since transitioned to [[Tomat]], where he has established [[The Prismatic Palette]].
 
-In [[029 Three Ship Ambush]], he was encountered in [[Rekka]] selling cloaks. He revealed to the party that his long-term ambition is to seize control of the trade corridor to [[Nuria]], replacing the [[Bloodmarks]] and his former enemy [[High Advisor Thalor]]. In [[030 Infiltration Preparations]], he officially joined the party.
+In [[029 Three Ship Ambush]], he was encountered in [[Rekka]] selling cloaks. He revealed to the party that his long-term ambition is to seize control of the trade corridor to [[Nuria]], replacing the [[Bloodmarks]] and his former enemy [[Grand Advisor Thalor]]. In [[030 Infiltration Preparations]], he officially joined the party.
 
 # Goals
 - Establish a high-end front business in the [[Stoneweave]] district to facilitate [[Ghostbloods]] logistics (Completed).
@@ -46,5 +46,5 @@ In [[029 Three Ship Ambush]], he was encountered in [[Rekka]] selling cloaks. He
 - [[Doug (Guddy)]]: His former hired muscle.
 - [[N'tal]]: A fellow Nurian whom he observes with interest. [[N'tal]] currently suspects Koloko of being a Radiant following their meeting in [[Rekka]].
 - [[Kuma]]: Intrigued by Kuma's ability to create custom tools for his "trade."
-- [[High Advisor Thalor]]: A former associate turned bitter enemy.
+- [[Grand Advisor Thalor]]: A former associate turned bitter enemy.
 - [[Wandering Eye]]: Current location with the party.

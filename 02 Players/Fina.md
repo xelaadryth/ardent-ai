@@ -22,9 +22,9 @@ Light brown eyes and light brown hair. Stands 5'7" with the poise of an Alethi n
 A complex mix of grace and pragmatic ruthlessness. Cold and efficient when protecting her interests, yet driven by the Edgedancer oath to remember the forgotten. Always something a little alien, too logical, about her.
 
 # Background
-Born into a noble family, Fina rejected a marriage alliance with some foreign duke, and fled through the Cognitive Realm. She arrived at the [[Truthkeeper Camp]] in a wagon alongside the Nurians [[Dahmian]] and [[Karani]]. Her historical negligence in signing administrative documents without reading them—facilitated by [[High Advisor Thalor]]—enabled the [[Bloodmarks]] to seize [[N'tal]]'s family assets (the [[Aelwood Contract]]), a fact recently revealed by the [[Undertaker]].
+Born into a noble family, Fina rejected a marriage alliance with some foreign duke, and fled through the Cognitive Realm. She arrived at the [[Truthkeeper Camp]] in a wagon alongside the Nurians [[Dahmian]] and [[Karani]]. Her historical negligence in signing administrative documents without reading them—facilitated by [[Grand Advisor Thalor]]—enabled the [[Bloodmarks]] to seize [[N'tal]]'s family assets (the [[Aelwood Contract]]), a fact recently revealed by the [[Undertaker]].
 
-Unbeknownst to her, some unique members of the Nurian royal line has the capacity to stabilize Nurian gems (only those that don't want power). [[High Advisor Thalor]] was informed of this by the [[Bloodmarks]] and was trying to trap her in a marriage contract with a member of [[The Set]], but no one knows where she went.
+Unbeknownst to her, some unique members of the Nurian royal line has the capacity to stabilize Nurian gems (only those that don't want power). [[Grand Advisor Thalor]] was informed of this by the [[Bloodmarks]] and was trying to trap her in a marriage contract with a member of [[The Set]], but no one knows where she went.
 
 When the ancient spren of Night (alongside Stone and Wind) fled Roshar, she settled on Mythos, and eventually fell in love and sired the Nurian noble line. The Night left changes on Mythos, which focused on the gemstones for which she was so fond. The noble line has the power to align (and unlock the usual limiters for) Nurian gems, which have far greater storage and output than other gems, but it takes practice to do so.
 
@@ -54,7 +54,7 @@ Cultivating yourself is important; no one starts out perfect, and everyone fades
 
 # Connections
 - [[Verdae]] — Her naive and vine-like Cultivationspren.
-- [[N'tal]] — A companion whose family she accidentally ruined in Nuria due to [[High Advisor Thalor]]'s manipulation.
+- [[N'tal]] — A companion whose family she accidentally ruined in Nuria due to [[Grand Advisor Thalor]]'s manipulation.
 - [[Renna Palir]]: Kindred spirit protected from a forced marriage.
 - [[Dahmian]]: A mercenary who traveled in her recruitment wagon.
 - [[Karani]]: An informant who traveled in her recruitment wagon.
