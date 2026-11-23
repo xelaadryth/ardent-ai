@@ -59,6 +59,11 @@
 	- Nan, Tet, Asha, Van
 - Lore
 	- [[Nurian Gems]]
+- [[Bloodmarks]] plans
+	- How do we get royal Nurian blood of Night? Strengthens Nurian gems so they don't shatter and can flare without cracking.
+	- Kidnap the king of Nuria?
+	- Use the Nurian gems to rip open gates following the instructions of [[Axindweth]], a full Feruchemist and a member of the [[Bloodmarks]] that escapes with an important gemstone glowing a deep, blood-red light
+		- Weight, speed, senses, strength, mental speed, warmth, memories, wakefulness, fortune, investiture (+2 ranks)
 
 - Level 8
 	- +4 health, +2 skill ranks, +1 talent
