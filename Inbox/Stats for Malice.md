@@ -1,0 +1,1 @@
+I have created the statblock for Grand Justicar Malice. As a Chromium Compounder, she uses her Fortune manipulation to defensively disrupt enemy actions and her Allomantic Chromium to aggressively drain the party's Focus and Investiture pools. I have scaled her as a Tier 4 Boss appropriate for a high-level party.

@@ -131,9 +131,9 @@
         "[[Citylord Nilar Yenev]]",
         "[[Dillind]]",
         "[[Morrow]]",
-        "[[Morrow's Execution]]",
-        "[[Nurian Arrival]]",
-        "[[The Shellmite Attack]]",
+        "[[1172-01-35 Morrow's Execution]]",
+        "[[1172-01-11 Nurian Arrival]]",
+        "[[1172-01-12 The Shellmite Attack]]",
         "[[000 Arrival]]",
         "[[001 First Blood]]",
         "[[002 Whitespine]]",
@@ -231,7 +231,7 @@
         "[[Kuma]]",
         "[[03 NPCs/Szeth-son-son-Vallano]]",
         "[[Vorn]]",
-        "[[The Experimental Lightship]]"
+        "[[1172-03-01 The Experimental Lightship]]"
       ],
       "tags": [
         "#arc",
@@ -248,7 +248,7 @@
         "[[Tien]]",
         "[[Kaladin]]",
         "[[Advisor Ridius]]",
-        "[[The Darkstone Siege]]",
+        "[[1172-02-31 The Darkstone Siege]]",
         "[[Tomat]]"
       ],
       "tags": [
@@ -311,7 +311,7 @@
       "status": "active",
       "links": [
         "[[Kun'ahu]]",
-        "[[Saving Jory]]",
+        "[[1172-02-22 Saving Jory]]",
         "[[Tash The Hound]]",
         "[[Nolnin]]",
         "[[03 NPCs/Tarsht-son-Naszt]]",
@@ -903,7 +903,7 @@
         "[[Ardent Vedelis]]",
         "[[016 Surgebinding Pursuit]]",
         "[[Orders of the Knights Radiant]]",
-        "[[The Missing Supplies]]",
+        "[[1172-02-18 The Missing Supplies]]",
         "[[Sun's Zenith]]",
         "[[Highlord Paladar]]",
         "[[Khria]]"
@@ -923,7 +923,7 @@
       "links": [
         "[[Wandering Eye]]",
         "[[Bloodmarks]]",
-        "[[The Darkstone Siege]]",
+        "[[1172-02-31 The Darkstone Siege]]",
         "[[Fina]]",
         "[[Tash The Hound]]",
         "[[030 Infiltration Preparations]]",
@@ -1068,7 +1068,7 @@
         "[[Revolar]]",
         "[[General Spade]]",
         "[[General Odrin Lesh]]",
-        "[[The Cinder Evacuation]]",
+        "[[1172-02-19 The Cinder Evacuation]]",
         "[[Knights of Dusk]]",
         "[[Truthkeepers]]",
         "[[The Highlord's Greed]]",
@@ -1090,7 +1090,7 @@
         "[[Bodenar]]",
         "[[Kuma]]",
         "[[Nurian Gems]]",
-        "[[The Experimental Lightship]]",
+        "[[1172-03-01 The Experimental Lightship]]",
         "[[Tomat]]",
         "[[Grand Justicar Malice]]"
       ],
@@ -1168,7 +1168,7 @@
         "[[Silent Oath]]",
         "[[Revolar]]",
         "[[High Enforcer Aylen]]",
-        "[[The Darkstone Siege]]",
+        "[[1172-02-31 The Darkstone Siege]]",
         "[[Knights of Dusk]]",
         "[[Ojog]]",
         "[[Atlas]]"
@@ -1360,8 +1360,8 @@
         "[[016 Surgebinding Pursuit]]",
         "[[Ardent Vedelis]]",
         "[[Lavrik]]",
-        "[[The Missing Supplies]]",
-        "[[Sister Reunion]]"
+        "[[1172-02-18 The Missing Supplies]]",
+        "[[1172-02-19 Sister Reunion]]"
       ],
       "tags": [
         "#npc",
@@ -1494,7 +1494,7 @@
         "[[Bloodmarks]]",
         "[[Revolar]]",
         "[[Ghostbloods]]",
-        "[[Saving Jory]]",
+        "[[1172-02-22 Saving Jory]]",
         "[[Johb]]",
         "[[Jory Spadis]]"
       ],
@@ -1587,7 +1587,7 @@
         "[[Revolar]]",
         "[[Slipmarket]]",
         "[[020 Warehouse Rescue]]",
-        "[[Saving Jory]]",
+        "[[1172-02-22 Saving Jory]]",
         "[[Galeth-son-Thald]]",
         "[[Renna Palir]]"
       ],
@@ -1629,7 +1629,7 @@
         "[[Revolar]]",
         "[[Adjudicator Peton]]",
         "[[Allegiance at the Abandoned Docks]]",
-        "[[The Darkstone Siege]]",
+        "[[1172-02-31 The Darkstone Siege]]",
         "[[Knights of Dusk]]",
         "[[Istrum]]",
         "[[N'tal]]",
@@ -1674,7 +1674,7 @@
         "[[Brightlord Juran]]",
         "[[Jasnah Kholin]]",
         "[[030 Infiltration Preparations]]",
-        "[[The Traitor Investigation]]",
+        "[[1172-02-20 The Traitor Investigation]]",
         "[[Iiko]]",
         "[[Chip]]",
         "[[General Spade]]",
@@ -1970,7 +1970,7 @@
         "[[Silent Oath]]",
         "[[Chip]]",
         "[[Iyatil]]",
-        "[[Meeting with the Undertaker]]",
+        "[[1172-02-17 Meeting with the Undertaker]]",
         "[[The Prismatic Palette]]"
       ],
       "tags": [
@@ -2007,7 +2007,7 @@
         "[[Revolar]]",
         "[[Truthkeepers]]",
         "[[Senny]]",
-        "[[The Traitor Investigation]]",
+        "[[1172-02-20 The Traitor Investigation]]",
         "[[Fieldwards]]",
         "[[Dillind]]",
         "[[General Spade]]"
@@ -2083,7 +2083,7 @@
       "links": [
         "[[Thaylen Scholars]]",
         "[[Tomat]]",
-        "[[The Experimental Lightship]]",
+        "[[1172-03-01 The Experimental Lightship]]",
         "[[Bodenar]]",
         "[[Kuma]]",
         "[[Ilsh]]"
@@ -2159,14 +2159,14 @@
       "links": [
         "[[Revolar]]",
         "[[Bloodmarks]]",
-        "[[The Darkstone Siege]]",
+        "[[1172-02-31 The Darkstone Siege]]",
         "[[Nurian Gems]]",
         "[[Shadesmar]]",
         "[[Slipmarket]]",
         "[[N'tal]]",
         "[[Arbiter Jalis]]",
-        "[[The Foundry Chase]]",
-        "[[Saving Jory|Abandoned Docks]]",
+        "[[1172-02-19 The Foundry Chase]]",
+        "[[1172-02-22 Saving Jory|Abandoned Docks]]",
         "[[Darkstone Forest]]",
         "[[Knights of Dusk]]",
         "[[Kuma]]",
@@ -2455,7 +2455,7 @@
         "[[01 Truthkeepers Arc]]",
         "[[Adjudicator Peton]]",
         "[[High Enforcer Aylen]]",
-        "[[Morrow's Execution]]",
+        "[[1172-01-35 Morrow's Execution]]",
         "[[Truthkeepers]]",
         "[[Possessed]]",
         "[[Cryptics]]",
@@ -2496,7 +2496,7 @@
         "[[Knights of Dusk]]",
         "[[Doug (Guddy)]]",
         "[[Iiko]]",
-        "[[The Stackhouse Slavers]]",
+        "[[1172-02-16 The Stackhouse Slavers]]",
         "[[Bloodmarks]]",
         "[[Falen]]",
         "[[Kuma]]"
@@ -2560,7 +2560,7 @@
         "[[Bloodmarks]]",
         "[[Vamah Archivum]]",
         "[[Adjudicator Peton]]",
-        "[[The Missing Supplies]]",
+        "[[1172-02-18 The Missing Supplies]]",
         "[[Beric Quinn]]",
         "[[Test of Loyalty]]",
         "[[Stackhouses]]",
@@ -2569,7 +2569,7 @@
         "[[Skyglass District]]",
         "[[Brightlord Juran]]",
         "[[Renna Palir]]",
-        "[[The Boutique Confrontation]]",
+        "[[1172-02-18 The Boutique Confrontation]]",
         "[[Iiko]]",
         "[[Mallow]]",
         "[[Scholar's Rest]]",
@@ -2633,7 +2633,7 @@
         "[[Cremling Quarter]]",
         "[[Kuma]]",
         "[[Fina]]",
-        "[[The Foundry Chase]]",
+        "[[1172-02-19 The Foundry Chase]]",
         "[[Zabriel]]"
       ],
       "tags": [
@@ -2659,7 +2659,7 @@
         "[[Galeth-son-Thald]]",
         "[[Kuma]]",
         "[[Revolar]]",
-        "[[Dahmian's Promotion Trial]]",
+        "[[1172-02-20 Dahmian's Promotion Trial]]",
         "[[Dahmian]]",
         "[[Slipmarket]]",
         "[[Nuria]]",
@@ -2692,7 +2692,7 @@
         "[[Stackhouses]]",
         "[[Knights of Dusk]]",
         "[[Kaz]]",
-        "[[The Fieldwards Purge]]",
+        "[[1172-02-20 The Fieldwards Purge]]",
         "[[Iiko]]",
         "[[Highlord Paladar]]",
         "[[General Odrin Lesh]]",
@@ -3226,19 +3226,23 @@
       "status": "active",
       "links": [
         "[[Revolar]]",
-        "[[The Cinder Evacuation]]",
-        "[[The Missing Supplies]]",
+        "[[1172-02-19 The Cinder Evacuation]]",
+        "[[1172-02-18 The Missing Supplies]]",
         "[[Truthkeepers]]",
         "[[Darkstone Forest]]",
         "[[Vamah Princedom]]",
         "[[Bloodmarks]]",
+        "[[Ardent Vedelis]]",
         "[[Beric Quinn]]",
         "[[General Spade]]",
+        "[[Jory Spadis]]",
         "[[Kaz]]",
         "[[Khria]]",
         "[[Lavrik]]",
         "[[Lila]]",
-        "[[Renna Palir]]"
+        "[[Nathaniel]]",
+        "[[Renna Palir]]",
+        "[[Valerius Atol]]"
       ],
       "tags": [
         "#faction"
@@ -3334,11 +3338,15 @@
         "[[High Witness Yeshan]]",
         "[[Revolar]]",
         "[[Knights of Dusk]]",
-        "[[The Missing Supplies]]",
+        "[[1172-02-18 The Missing Supplies]]",
         "[[Silent Oath]]",
         "[[Vamah Princedom]]",
         "[[Adjudicator Peton]]",
+        "[[Ardent Surusa]]",
+        "[[Atlas]]",
+        "[[03 NPCs/Dahmian.md|Dahmian]]",
         "[[High Enforcer Aylen]]",
+        "[[Neval]]",
         "[[Ojog]]",
         "[[Senny]]",
         "[[Tahs]]"
@@ -3409,7 +3417,7 @@
       "status": "active",
       "links": [
         "[[Jah Keved]]",
-        "[[The Experimental Lightship]]",
+        "[[1172-03-01 The Experimental Lightship]]",
         "[[Tomat]]",
         "[[Nurian Gems]]",
         "[[Bloodmarks]]",
@@ -3662,7 +3670,7 @@
       "status": "active",
       "links": [
         "[[Revolar]]",
-        "[[The Foundry Chase]]",
+        "[[1172-02-19 The Foundry Chase]]",
         "[[Bloodmarks]]",
         "[[Possessed]]",
         "[[Stackhouses]]"
@@ -3738,7 +3746,7 @@
         "[[Lila]]",
         "[[Kaz]]",
         "[[Falen]]",
-        "[[The Stackhouse Slavers]]"
+        "[[1172-02-16 The Stackhouse Slavers]]"
       ],
       "tags": [
         "#location",
@@ -3789,7 +3797,7 @@
       "type": "location",
       "status": "active",
       "links": [
-        "[[Tomat]]",
+        "[[Bodenar]]",
         "[[Ghostbloods]]",
         "[[Koloko]]",
         "[[Cremwidow Poison]]",
@@ -3833,7 +3841,7 @@
       "links": [
         "[[Alethkar]]",
         "[[Sadeas Princedom]]",
-        "[[The Experimental Lightship]]",
+        "[[1172-03-01 The Experimental Lightship]]",
         "[[Amaram]]",
         "[[Bodenar]]",
         "[[Tien]]",
@@ -3967,7 +3975,7 @@
       "links": [
         "[[Vorn]]",
         "[[Kuma]]",
-        "[[The Experimental Lightship]]",
+        "[[1172-03-01 The Experimental Lightship]]",
         "[[Tomat]]",
         "[[Nurian Gems]]",
         "[[Higuma]]"
@@ -4006,7 +4014,7 @@
         "[[Beric Quinn]]",
         "[[Renna Palir]]",
         "[[Skyglass District]]",
-        "[[The Cinder Evacuation]]",
+        "[[1172-02-19 The Cinder Evacuation]]",
         "[[Stackhouses]]",
         "[[Kaz]]",
         "[[Jory Spadis]]"
@@ -4097,63 +4105,72 @@
       ],
       "last_updated": "2024-05-30T12:00:00"
     },
-    "Assault on Mother's Gate": {
-      "type": "event",
-      "status": "inactive",
-      "links": [
-        "[[Haka'alaku]]",
-        "[[Mother's Gate]]",
-        "[[Tessitura]]",
-        "[[Uum'atu]]",
-        "[[Johb]]",
-        "[[Peakspren]]",
-        "[[Viscose]]",
-        "[[Gorlo]]"
-      ],
-      "tags": [
-        "#event",
-        "#shadesmar",
-        "#combat",
-        "#haka_alaku"
-      ],
-      "last_updated": "2026-07-10T12:00:00"
-    },
-    "Dahmian's Promotion Trial": {
+    "1172-01-11 Nurian Arrival": {
       "type": "event",
       "status": "completed",
       "links": [
-        "[[017 The Final Enforcement]]",
-        "[[Dahmian]]",
-        "[[Slipmarket]]",
-        "[[Possessed]]",
-        "[[Knights of Dusk]]",
-        "[[Truthkeepers]]"
-      ],
-      "tags": [
-        "#event",
-        "#revolar",
-        "#possession",
-        "#truthkeepers"
-      ],
-      "last_updated": "2026-06-16T15:00:00"
-    },
-    "Haka'alaku Infiltration": {
-      "type": "event",
-      "status": "inactive",
-      "links": [
-        "[[Assault on Mother's Gate]]",
-        "[[Johb]]",
-        "[[Grand Justicar Malice]]",
-        "[[Bloodmarks]]",
-        "[[Ghostbloods]]",
-        "[[The Set]]"
+        "[[000 Arrival]]",
+        "[[Hoid]]",
+        "[[The Candle and the Mirror]]"
       ],
       "tags": [
         "#event"
       ],
-      "last_updated": "2026-10-31T11:35:54"
+      "last_updated": "2024-06-29T10:00:00"
     },
-    "Meeting at the Whitespine": {
+    "1172-01-12 The Shellmite Attack": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[001 First Blood]]",
+        "[[Hearthstone]]"
+      ],
+      "tags": [
+        "#event",
+        "#placeholder"
+      ],
+      "last_updated": "2026-05-13T23:29:00"
+    },
+    "1172-01-35 Morrow's Execution": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[011 Promotions and Revolar]]",
+        "[[High Enforcer Aylen]]",
+        "[[Morrow]]"
+      ],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-16T18:45:50"
+    },
+    "1172-02-16 The Stackhouse Slavers": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[012 Following Chip]]",
+        "[[Chip]]",
+        "[[Scarstone Quarter]]",
+        "[[Stackhouses]]",
+        "[[Bloodmarks]]",
+        "[[Kuma]]",
+        "[[Falen]]",
+        "[[Truthkeepers]]",
+        "[[Soulcaster]]",
+        "[[N'tal]]",
+        "[[Knights of Dusk]]",
+        "[[Truthkeepers|Truthkeeper]]",
+        "[[Adjudicator Peton]]"
+      ],
+      "tags": [
+        "#event",
+        "#combat",
+        "#revolar",
+        "#bloodmarks"
+      ],
+      "last_updated": "2026-05-16T12:00:00"
+    },
+    "1172-02-17 Meeting at the Whitespine": {
       "type": "event",
       "status": "completed",
       "links": [
@@ -4173,7 +4190,7 @@
       ],
       "last_updated": "2026-05-20T14:00:00"
     },
-    "Meeting with the Undertaker": {
+    "1172-02-17 Meeting with the Undertaker": {
       "type": "event",
       "status": "completed",
       "links": [
@@ -4193,7 +4210,7 @@
         "[[Ghostbloods]]",
         "[[Zabriel]]",
         "[[Bodenar]]",
-        "[[The Foundry Chase]]"
+        "[[1172-02-19 The Foundry Chase]]"
       ],
       "tags": [
         "#event",
@@ -4203,33 +4220,198 @@
       ],
       "last_updated": "2026-05-20T15:00:00"
     },
-    "Morrow's Execution": {
+    "1172-02-18 The Boutique Confrontation": {
       "type": "event",
       "status": "completed",
       "links": [
-        "[[011 Promotions and Revolar]]",
+        "[[014 Nothing but the Truth]]",
+        "[[1172-02-19 The Cinder Evacuation]]",
+        "[[Brightlord Juran]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#rp",
+        "#skyglass_district"
+      ],
+      "last_updated": "2026-05-18T00:00:00"
+    },
+    "1172-02-18 The Missing Supplies": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[013 Tilting Loyalties]]",
+        "[[Shield Ring]]",
+        "[[Vamah Princedom]]",
+        "[[Revolar]]",
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[Tessa]]",
+        "[[Lirsi]]",
+        "[[General Spade]]",
+        "[[Merat]]",
+        "[[General Odrin Lesh]]",
+        "[[Khria]]",
+        "[[Kael]]",
+        "[[Adjudicator Peton]]",
+        "[[Renna Palir]]",
+        "[[Beric Quinn]]",
+        "[[Stackhouses]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#knights_of_dusk",
+        "#investigation"
+      ],
+      "last_updated": "2024-05-29T10:00:00"
+    },
+    "1172-02-19 Sister Reunion": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[016 Surgebinding Pursuit]]",
+        "[[Khria]]",
+        "[[Mallow]]",
+        "[[Knights of Dusk]]",
+        "[[Silent Oath]]",
+        "[[General Spade]]"
+      ],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-05-20T11:01:20"
+    },
+    "1172-02-19 The Cinder Evacuation": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[015 Distractions and Flames]]",
+        "[[Skyglass District]]",
+        "[[Revolar]]",
+        "[[Highlord Paladar]]",
+        "[[Knights of Dusk]]",
+        "[[Jory Spadis]]",
+        "[[Chip]]",
+        "[[Beric Quinn]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#investigation",
+        "#combat",
+        "#fire"
+      ],
+      "last_updated": "2026-05-19T12:00:00"
+    },
+    "1172-02-19 The Foundry Chase": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[016 Surgebinding Pursuit]]",
+        "[[Scarstone Quarter]]",
+        "[[1172-02-17 Meeting with the Undertaker]]",
+        "[[Bloodmarks]]",
+        "[[Arbiter Jalis]]",
+        "[[N'tal]]",
+        "[[Jory Spadis]]",
+        "[[Zabriel]]",
+        "[[Kuma]]",
+        "[[Fina]]",
+        "[[Iiko]]",
+        "[[Mallow]]",
+        "[[Galeth-son-Thald]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#combat",
+        "#moral_trial",
+        "#chase"
+      ],
+      "last_updated": "2026-05-20T15:00:00"
+    },
+    "1172-02-20 Dahmian's Promotion Trial": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[017 The Final Enforcement]]",
+        "[[Dahmian]]",
+        "[[Slipmarket]]",
+        "[[Possessed]]",
+        "[[Knights of Dusk]]",
+        "[[Truthkeepers]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#possession",
+        "#truthkeepers"
+      ],
+      "last_updated": "2026-06-16T15:00:00"
+    },
+    "1172-02-20 The Fieldwards Purge": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[017 The Final Enforcement]]",
+        "[[Truthkeepers]]",
+        "[[Knights of Dusk]]",
+        "[[Revolar]]",
+        "[[Fieldwards]]",
+        "[[Senny]]",
+        "[[Neval]]",
+        "[[Vamah Archivum]]",
+        "[[Adjudicator Peton]]",
+        "[[Ardent Surusa]]"
+      ],
+      "tags": [
+        "#event",
+        "#revolar",
+        "#combat",
+        "#truthkeepers",
+        "#knights_of_dusk"
+      ],
+      "last_updated": "2026-06-16T15:00:00"
+    },
+    "1172-02-20 The Traitor Investigation": {
+      "type": "event",
+      "status": "completed",
+      "links": [
+        "[[Knights of Dusk]]",
+        "[[Valerius Atol]]",
+        "[[Senny]]",
+        "[[Stackhouses]]",
+        "[[Fieldwards]]",
+        "[[Beric Quinn]]",
+        "[[Kaz]]",
+        "[[Lila]]",
+        "[[Ardent Surusa]]",
+        "[[Otson]]",
+        "[[Bellus]]",
+        "[[Elara]]",
+        "[[Renna Palir]]",
+        "[[Truthkeepers]]",
+        "[[1172-02-20 The Fieldwards Purge]]",
+        "[[Dahmian]]",
+        "[[Ojog]]",
+        "[[Devotary of Insight]]",
+        "[[Ardent Kaelis]]",
+        "[[Scholar's Rest]]",
         "[[High Enforcer Aylen]]",
-        "[[Morrow]]"
+        "[[Revolar]]",
+        "[[Bloodmarks]]",
+        "[[Scarstone Quarter]]"
       ],
       "tags": [
-        "#event"
+        "#event",
+        "#investigation",
+        "#revolar",
+        "#knights_of_dusk"
       ],
-      "last_updated": "2026-05-16T18:45:50"
+      "last_updated": "2026-06-16T16:00:00"
     },
-    "Nurian Arrival": {
-      "type": "event",
-      "status": "completed",
-      "links": [
-        "[[000 Arrival]]",
-        "[[Hoid]]",
-        "[[The Candle and the Mirror]]"
-      ],
-      "tags": [
-        "#event"
-      ],
-      "last_updated": "2024-06-29T10:00:00"
-    },
-    "Saving Jory": {
+    "1172-02-22 Saving Jory": {
       "type": "event",
       "status": "completed",
       "links": [
@@ -4272,61 +4454,7 @@
       ],
       "last_updated": "2024-06-28T12:00:00"
     },
-    "Sister Reunion": {
-      "type": "event",
-      "status": "completed",
-      "links": [
-        "[[016 Surgebinding Pursuit]]",
-        "[[Khria]]",
-        "[[Mallow]]",
-        "[[Knights of Dusk]]",
-        "[[Silent Oath]]",
-        "[[General Spade]]"
-      ],
-      "tags": [
-        "#event"
-      ],
-      "last_updated": "2026-05-20T11:01:20"
-    },
-    "The Boutique Confrontation": {
-      "type": "event",
-      "status": "completed",
-      "links": [
-        "[[014 Nothing but the Truth]]",
-        "[[The Cinder Evacuation]]",
-        "[[Brightlord Juran]]"
-      ],
-      "tags": [
-        "#event",
-        "#revolar",
-        "#rp",
-        "#skyglass_district"
-      ],
-      "last_updated": "2026-05-18T00:00:00"
-    },
-    "The Cinder Evacuation": {
-      "type": "event",
-      "status": "completed",
-      "links": [
-        "[[015 Distractions and Flames]]",
-        "[[Skyglass District]]",
-        "[[Revolar]]",
-        "[[Highlord Paladar]]",
-        "[[Knights of Dusk]]",
-        "[[Jory Spadis]]",
-        "[[Chip]]",
-        "[[Beric Quinn]]"
-      ],
-      "tags": [
-        "#event",
-        "#revolar",
-        "#investigation",
-        "#combat",
-        "#fire"
-      ],
-      "last_updated": "2026-05-19T12:00:00"
-    },
-    "The Darkstone Siege": {
+    "1172-02-31 The Darkstone Siege": {
       "type": "event",
       "status": "completed",
       "links": [
@@ -4342,7 +4470,7 @@
         "[[Ojog]]",
         "[[Highlord Paladar]]",
         "[[Brightlord Juran]]",
-        "[[The Missing Supplies]]",
+        "[[1172-02-18 The Missing Supplies]]",
         "[[Lila]]",
         "[[Dahmian]]",
         "[[Stackhouses]]",
@@ -4361,108 +4489,18 @@
       ],
       "last_updated": "2026-06-15T10:00:00"
     },
-    "The Experimental Lightship": {
-      "type": "event",
-      "status": "planned",
-      "links": [
-        "[[Tomat]]",
-        "[[Nurian Gems]]",
-        "[[Bloodmarks]]",
-        "[[Bodenar]]",
-        "[[Higuma]]",
-        "[[Vorn]]",
-        "[[Ilsh]]",
-        "[[Kuma]]"
-      ],
-      "tags": [
-        "#event",
-        "#tomatt",
-        "#fabrial"
-      ],
-      "last_updated": "2024-06-01T09:00:00"
-    },
-    "The Fieldwards Purge": {
+    "1172-02-38 Arriving in Rekka": {
       "type": "event",
       "status": "completed",
-      "links": [
-        "[[017 The Final Enforcement]]",
-        "[[Truthkeepers]]",
-        "[[Knights of Dusk]]",
-        "[[Revolar]]",
-        "[[Fieldwards]]",
-        "[[Senny]]",
-        "[[Neval]]",
-        "[[Vamah Archivum]]",
-        "[[Adjudicator Peton]]",
-        "[[Ardent Surusa]]"
-      ],
+      "links": [],
       "tags": [
         "#event",
-        "#revolar",
-        "#combat",
-        "#truthkeepers",
-        "#knights_of_dusk"
+        "#shadesmar",
+        "#rekka"
       ],
-      "last_updated": "2026-06-16T15:00:00"
+      "last_updated": "2026-07-28T12:00:00"
     },
-    "The Foundry Chase": {
-      "type": "event",
-      "status": "completed",
-      "links": [
-        "[[016 Surgebinding Pursuit]]",
-        "[[Scarstone Quarter]]",
-        "[[Meeting with the Undertaker]]",
-        "[[Bloodmarks]]",
-        "[[Arbiter Jalis]]",
-        "[[N'tal]]",
-        "[[Jory Spadis]]",
-        "[[Zabriel]]",
-        "[[Kuma]]",
-        "[[Fina]]",
-        "[[Iiko]]",
-        "[[Mallow]]",
-        "[[Galeth-son-Thald]]"
-      ],
-      "tags": [
-        "#event",
-        "#revolar",
-        "#combat",
-        "#moral_trial",
-        "#chase"
-      ],
-      "last_updated": "2026-05-20T15:00:00"
-    },
-    "The Missing Supplies": {
-      "type": "event",
-      "status": "completed",
-      "links": [
-        "[[013 Tilting Loyalties]]",
-        "[[Shield Ring]]",
-        "[[Vamah Princedom]]",
-        "[[Revolar]]",
-        "[[Truthkeepers]]",
-        "[[Knights of Dusk]]",
-        "[[Tessa]]",
-        "[[Lirsi]]",
-        "[[General Spade]]",
-        "[[Merat]]",
-        "[[General Odrin Lesh]]",
-        "[[Khria]]",
-        "[[Kael]]",
-        "[[Adjudicator Peton]]",
-        "[[Renna Palir]]",
-        "[[Beric Quinn]]",
-        "[[Stackhouses]]"
-      ],
-      "tags": [
-        "#event",
-        "#revolar",
-        "#knights_of_dusk",
-        "#investigation"
-      ],
-      "last_updated": "2024-05-29T10:00:00"
-    },
-    "The Rekka Ship Hijack": {
+    "1172-02-40 The Rekka Ship Hijack": {
       "type": "event",
       "status": "completed",
       "links": [
@@ -4482,83 +4520,57 @@
       ],
       "last_updated": "2026-07-10T12:00:00"
     },
-    "The Shellmite Attack": {
+    "1172-02-41 Passing Through Mother's Gate": {
       "type": "event",
       "status": "completed",
-      "links": [
-        "[[001 First Blood]]",
-        "[[Hearthstone]]"
-      ],
+      "links": [],
       "tags": [
         "#event",
-        "#placeholder"
+        "#shadesmar",
+        "#haka_alaku"
       ],
-      "last_updated": "2026-05-13T23:29:00"
+      "last_updated": "2026-07-28T12:00:00"
     },
-    "The Stackhouse Slavers": {
+    "1172-02-45 Fighting Johb": {
       "type": "event",
       "status": "completed",
+      "links": [],
+      "tags": [
+        "#event",
+        "#haka_alaku",
+        "#combat"
+      ],
+      "last_updated": "2026-07-28T12:00:00"
+    },
+    "1172-02-50 Arrive at Bodenar": {
+      "type": "event",
+      "status": "active",
+      "links": [],
+      "tags": [
+        "#event"
+      ],
+      "last_updated": "2026-11-16T23:50:25"
+    },
+    "1172-03-01 The Experimental Lightship": {
+      "type": "event",
+      "status": "planned",
       "links": [
-        "[[012 Following Chip]]",
-        "[[Chip]]",
-        "[[Scarstone Quarter]]",
-        "[[Stackhouses]]",
+        "[[Bodenar]]",
+        "[[Nurian Gems]]",
+        "[[Higuma]]",
         "[[Bloodmarks]]",
-        "[[Kuma]]",
-        "[[Falen]]",
-        "[[Truthkeepers]]",
-        "[[Soulcaster]]",
-        "[[N'tal]]",
-        "[[Knights of Dusk]]",
-        "[[Truthkeepers|Truthkeeper]]",
-        "[[Adjudicator Peton]]"
+        "[[Vorn]]",
+        "[[Ilsh]]",
+        "[[Kuma]]"
       ],
       "tags": [
         "#event",
-        "#combat",
-        "#revolar",
-        "#bloodmarks"
+        "#tomatt",
+        "#fabrial"
       ],
-      "last_updated": "2026-05-16T12:00:00"
+      "last_updated": "2024-06-01T09:00:00"
     },
-    "The Traitor Investigation": {
-      "type": "event",
-      "status": "completed",
-      "links": [
-        "[[Knights of Dusk]]",
-        "[[Valerius Atol]]",
-        "[[Senny]]",
-        "[[Stackhouses]]",
-        "[[Fieldwards]]",
-        "[[Beric Quinn]]",
-        "[[Kaz]]",
-        "[[Lila]]",
-        "[[Ardent Surusa]]",
-        "[[Otson]]",
-        "[[Bellus]]",
-        "[[Elara]]",
-        "[[Renna Palir]]",
-        "[[Truthkeepers]]",
-        "[[The Fieldwards Purge]]",
-        "[[Dahmian]]",
-        "[[Ojog]]",
-        "[[Devotary of Insight]]",
-        "[[Ardent Kaelis]]",
-        "[[Scholar's Rest]]",
-        "[[High Enforcer Aylen]]",
-        "[[Revolar]]",
-        "[[Bloodmarks]]",
-        "[[Scarstone Quarter]]"
-      ],
-      "tags": [
-        "#event",
-        "#investigation",
-        "#revolar",
-        "#knights_of_dusk"
-      ],
-      "last_updated": "2026-06-16T16:00:00"
-    },
-    "Veden Civil War": {
+    "1173-09-04 Veden Civil War": {
       "type": "event",
       "status": "planned",
       "links": [
@@ -4763,11 +4775,11 @@
         "[[Stackhouses]]",
         "[[The Shining Quill]]",
         "[[013 Tilting Loyalties]]",
-        "[[The Missing Supplies]]",
+        "[[1172-02-18 The Missing Supplies]]",
         "[[016 Surgebinding Pursuit]]",
         "[[Bloodmarks]]",
         "[[017 The Final Enforcement]]",
-        "[[The Traitor Investigation]]",
+        "[[1172-02-20 The Traitor Investigation]]",
         "[[Knights of Dusk]]",
         "[[019 The Slipmarket Stakeout]]",
         "[[Slipmarket]]"
@@ -4806,7 +4818,7 @@
       "status": "active",
       "links": [
         "[[Night]]",
-        "[[The Experimental Lightship]]",
+        "[[1172-03-01 The Experimental Lightship]]",
         "[[Bloodmarks]]",
         "[[Grand Justicar Malice]]"
       ],
@@ -4941,7 +4953,7 @@
       "type": "lore",
       "status": "active",
       "links": [
-        "[[The Experimental Lightship]]",
+        "[[1172-03-01 The Experimental Lightship]]",
         "[[Nurian Gems]]",
         "[[Grand Justicar Malice]]",
         "[[Bloodmarks]]",
